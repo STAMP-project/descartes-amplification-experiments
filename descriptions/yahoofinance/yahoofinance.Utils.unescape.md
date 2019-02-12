@@ -1,9 +1,11 @@
 **Method:** `yahoofinance.Utils.unescape(Ljava/lang/String;)Ljava/lang/String;`
 **Transformations:** `"", "A", null`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| Y         | N           | I        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `""`            | Y         | N           | I        |
+| `"A"`           | Y         | N           | I        |
+| `null`          | Y         | N           | I        |
 
 # Environment
 

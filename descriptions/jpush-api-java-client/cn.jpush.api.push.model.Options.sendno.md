@@ -2,9 +2,9 @@
 **Method:** `cn.jpush.api.push.model.Options.sendno()Lcn/jpush/api/push/model/Options;`
 **Transformations:** `null`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| Y         | Y           | A        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `null`          | Y         | Y           | A        |
 
 # Environment
 Covered by 1 test class.

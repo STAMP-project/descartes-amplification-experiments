@@ -2,9 +2,9 @@
 **Method:** `org.eaxy.experimental.SampleXmlBuilder.pickOne([Ljava/lang/Object;)Ljava/lang/Object;`
 **Transformations:** `null`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| Y         | N           | I        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `null`          | Y         | N           | I        |
 
 # Environment
 

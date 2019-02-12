@@ -1,9 +1,9 @@
 **Method:** `joptsimple.internal.Reflection.meetsConverterRequirements(Ljava/lang/reflect/Method;Ljava/lang/Class;)Z`
 **Transformations:** `true`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| N         | N           | Y        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `true`          | N         | N           | Y        |
 
 # Environment
 

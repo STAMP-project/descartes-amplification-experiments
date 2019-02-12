@@ -1,9 +1,9 @@
 **Method:** `yahoofinance.Utils.isParseable(Ljava/lang/String;)Z`
 **Transformations:** `true`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| Y         | N           | N        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `true`          | Y         | N           | N        |
 
 # Environment
 

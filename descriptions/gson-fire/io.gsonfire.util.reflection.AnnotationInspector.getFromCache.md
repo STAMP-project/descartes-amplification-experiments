@@ -1,9 +1,9 @@
 **Method:** `io.gsonfire.util.reflection.AnnotationInspector.getFromCache(Ljava/lang/Class;Ljava/lang/Class;)Ljava/util/Collection;`
 **Transformations:** `null`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| Y         | N           | N        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `null`          | Y         | N           | N        |
 
 # Environment
 

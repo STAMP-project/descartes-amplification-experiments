@@ -2,9 +2,9 @@
 **Method:** `org.eaxy.experimental.SampleXmlBuilder.randomString(II)Ljava/lang/String;`
 **Transformations:** `"A"`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| Y         | N           | I        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `"A"`           | Y         | N           | I        |
 
 # Environment
 

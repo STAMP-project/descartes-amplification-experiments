@@ -2,9 +2,9 @@
 **Method:** `org.eaxy.XmlIterator.()I`
 **Transformations:** `1`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| Y         | Y           | A        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `1`             | Y         | Y           | A        |
 
 # Environment
 

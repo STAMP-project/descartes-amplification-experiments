@@ -2,9 +2,9 @@
 **Method:** `org.eaxy.Element.hasClass(Ljava/lang/String;)Z`
 **Transformations:** `true`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| Y         | N           | A        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `true`          | Y         | N           | A        |
 
 # Environment
 

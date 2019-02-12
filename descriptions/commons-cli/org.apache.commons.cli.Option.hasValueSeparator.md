@@ -1,9 +1,9 @@
 **Method:** `org.apache.commons.cli.Option.hasValueSeparator.()Z`
 **Transformations:** `true`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| Y         | N           | A        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `true`          | Y         | N           | A        |
 
 # Environment
 

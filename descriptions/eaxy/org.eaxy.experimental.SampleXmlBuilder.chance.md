@@ -2,9 +2,10 @@
 **Method:** `org.eaxy.experimental.SampleXmlBuilder.chance(D)Z`
 **Transformations:** `false`, `true`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| Y         | N           | Y        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `true`          | Y         | N           | Y        |
+| `false`         | Y         | N           | Y        |
 
 # Environment
 

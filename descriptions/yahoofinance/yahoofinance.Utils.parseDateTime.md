@@ -1,9 +1,9 @@
 **Method:** `yahoofinance.Utils.parseDateTime(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;`
 **Transformations:** `null`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| Y         | Y           | A        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `null`          | Y         | Y           | A        |
 
 # Environment
 

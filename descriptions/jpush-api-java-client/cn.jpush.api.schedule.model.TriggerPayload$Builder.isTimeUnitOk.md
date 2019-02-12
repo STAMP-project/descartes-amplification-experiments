@@ -1,9 +1,9 @@
 **Method:** `cn.jpush.api.schedule.model.TriggerPayload$Builder.isTimeUnitOk(Lcn/jiguang/common/TimeUnit;)Z`
 **Transformations:** `true`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| N         | N           | I        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `true`          | N         | N           | I        |
 
 # Environment
 

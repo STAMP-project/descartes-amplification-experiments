@@ -2,9 +2,12 @@
 **Methods:** `simplifyFontWeights`, `simplifyHexColours`, `simplifyParameters`, `simplifyQuotesAndCaps`
 **Transformations:** `void`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| NNNN      | NNNNN       | IIII     |
+| Method                  | Infection | Propagation | Testable |
+|-------------------------|-----------|-------------|----------|
+| `simplifyFontWeights`   | N         | N           | I        |
+| `simplifyHexColours`    | N         | N           | I        |
+| `simplifyParameters`    | N         | N           | I        |
+| `simplifyQuotesAndCaps` | N         | N           | I        |
 
 # Environment
 

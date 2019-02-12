@@ -2,9 +2,9 @@
 **Method:** `org.eaxy.ElementSet.checkMaxOneMatch()V`
 **Transformations:** `void`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| N         | N           | I        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `void`          | N         | N           | I        |
 
 # Environment
 

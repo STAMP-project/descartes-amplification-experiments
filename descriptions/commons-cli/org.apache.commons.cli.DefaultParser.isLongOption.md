@@ -1,9 +1,9 @@
 **Method:** `org.apache.commons.cli	DefaultParser.isLongOption.(Ljava/lang/String;)Z`
 **Transformations:** `false`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| Y         | N           | ?        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `false`         | Y         | N           | N        |
 
 # Environment
 

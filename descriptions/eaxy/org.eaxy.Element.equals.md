@@ -2,9 +2,9 @@
 **Method:** `org.eaxy.Element.equals(Ljava/lang/Object;)Z`
 **Transformations:** `true`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| N         | N           | I        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `true`          | N         | N           | I        |
 
 # Environment
 

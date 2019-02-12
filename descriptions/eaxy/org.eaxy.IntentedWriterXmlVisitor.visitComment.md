@@ -2,9 +2,9 @@
 **Method:** `org.eaxy.IntentedWriterXmlVisitor.visitComment(Lorg/eaxy/Xml$CommentElement;)V`
 **Transformations:** `void`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| N         | N           | I        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `void`          | N         | N           | I        |
 
 # Environment
 

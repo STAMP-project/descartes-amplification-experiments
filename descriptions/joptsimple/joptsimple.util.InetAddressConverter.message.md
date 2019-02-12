@@ -1,9 +1,11 @@
 **Method:** `joptsimple.util.InetAddressConverter.message(Ljava/lang/String;)Ljava/lang/String;`
 **Transformations:** `"", "A", null`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| YYY       | NNN         | AAA      |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `""`            | Y         | N           | A        |
+| `"A"`           | Y         | N           | A        |
+| `null`          | Y         | N           | A        |
 
 # Environment
 

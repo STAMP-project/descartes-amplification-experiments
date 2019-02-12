@@ -2,9 +2,11 @@
 **Method:** `org.eaxy.experimental.SampleSoapXmlBuilder.getFileName()Ljava/lang/String;`
 **Transformations:** `"A", "", null`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| Y         | N           | I        |
+| Transformations | Infection | Propagation | Testable |
+|-----------------|-----------|-------------|----------|
+| `"A"`           | Y         | N           | I        |
+| `""`            | Y         | N           | I        |
+| `null`          | Y         | N           | I        |
 
 # Environment
 

@@ -1,9 +1,11 @@
 **Method:** `org.apache.commons.cli.AmbiguousOptionException.createMessage.(Ljava/lang/String;Ljava/util/Collection;)Ljava/lang/String;`
 **Transformations:** `"", "A", null`
 
-| Infection | Propagation | Testable |
-|-----------|-------------|----------|
-| YYY       | YYY         | AAA      |
+| Transformation | Infection | Propagation | Testable |
+|----------------|-----------|-------------|----------|
+| `""`           | Y         | Y           | A        |
+| `"A"`          | Y         | Y           | A        |
+| `null`         | Y         | Y           | A        |
 
 # Environment
 
