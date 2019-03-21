@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "camllight.algebras.decls.GlobalAlg|declMutableLabelType|(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  }
+]

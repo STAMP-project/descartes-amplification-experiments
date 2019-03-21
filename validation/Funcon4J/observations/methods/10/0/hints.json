@@ -1,0 +1,1 @@
+{"hint-type":"execution","entry-points":[{"method":"equals","desc":"(Ljava/lang/Object;)Z","class":"funcons.values.recursion.Fwd"}]}

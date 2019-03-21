@@ -1,0 +1,1 @@
+{"hint-type":"execution","entry-points":[{"method":"isEqual","desc":"(Lio/usethesource/vallang/IValue;)Z","class":"funcons.values.Variable"}]}

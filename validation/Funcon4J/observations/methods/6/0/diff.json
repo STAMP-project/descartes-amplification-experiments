@@ -1,0 +1,152 @@
+[
+  {
+    "pointcut": "camllight.algebras.typeexprs.TypeExpAlg|varType|(Ljava/lang/String;)Ljava/lang/Object;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "camllight.algebras.typeexprs.TypeExpAlg|varType|(Ljava/lang/String;)Ljava/lang/Object;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "camllight.algebras.typeexprs.TypeExpAlg|varType|(Ljava/lang/String;)Ljava/lang/Object;|9|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "camllight.algebras.typeexprs.TypeExpAlg|varType|(Ljava/lang/String;)Ljava/lang/Object;|7|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "camllight.algebras.typeexprs.TypeExpAlg|varType|(Ljava/lang/String;)Ljava/lang/Object;|6|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "camllight.algebras.typeexprs.TypeExpAlg|varType|(Ljava/lang/String;)Ljava/lang/Object;|8|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "camllight.algebras.typeexprs.TypeExpAlg|varType|(Ljava/lang/String;)Ljava/lang/Object;|2|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "camllight.algebras.typeexprs.TypeExpAlg|varType|(Ljava/lang/String;)Ljava/lang/Object;|3|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "camllight.algebras.typeexprs.TypeExpAlg|varType|(Ljava/lang/String;)Ljava/lang/Object;|5|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "camllight.algebras.typeexprs.TypeExpAlg|varType|(Ljava/lang/String;)Ljava/lang/Object;|4|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  }
+]

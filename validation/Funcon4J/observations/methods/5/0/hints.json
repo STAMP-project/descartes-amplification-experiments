@@ -1,0 +1,1 @@
+{"hint-type":"infection","entry-points":[{"method":"tupleType","desc":"(Ljava/lang/Object;Ljava/util/List;)Ljava/lang/Object;","class":"camllight.algebras.typeexprs.TypeExpAlg"}]}

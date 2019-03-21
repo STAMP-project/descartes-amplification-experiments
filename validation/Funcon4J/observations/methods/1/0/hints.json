@@ -1,0 +1,1 @@
+{"hint-type":"infection","entry-points":[{"method":"compare","desc":"(Lfuncons/values/Variable;Lfuncons/values/Variable;)I","class":"funcons.helper.RascalValueComperator"}]}

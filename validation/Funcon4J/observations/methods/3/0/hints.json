@@ -1,0 +1,1 @@
+{"hint-type":"infection","entry-points":[{"method":"declLabelType","desc":"(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;","class":"camllight.algebras.decls.GlobalAlg"}]}

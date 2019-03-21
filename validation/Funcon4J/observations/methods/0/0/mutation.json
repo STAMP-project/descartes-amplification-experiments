@@ -1,0 +1,10 @@
+{
+  "mutator": "1",
+  "class": "RascalValueComperator",
+  "package": "funcons.helper",
+  "method": "compare",
+  "description": "(Lio/usethesource/vallang/IMap;Lio/usethesource/vallang/IMap;)I",
+  "tests": [
+    "tests.reference.exprs.BoolLogicAlgTest"
+  ]
+}

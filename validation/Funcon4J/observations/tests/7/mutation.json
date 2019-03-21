@@ -1,0 +1,11 @@
+{
+  "mutator": "null",
+  "class": "TypeExpAlg",
+  "package": "camllight.algebras.typeexprs",
+  "method": "varType",
+  "description": "(Ljava/lang/String;)Ljava/lang/Object;",
+  "tests": [
+    "tests.reference.typeexprs.TypeExpAlgTest",
+    "tests.reference.decls.GlobalAlgTest"
+  ]
+}

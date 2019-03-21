@@ -1,0 +1,11 @@
+{
+  "mutator": "null",
+  "class": "TypeExpAlg",
+  "package": "camllight.algebras.typeexprs",
+  "method": "tupleType",
+  "description": "(Ljava/lang/Object;Ljava/util/List;)Ljava/lang/Object;",
+  "tests": [
+    "tests.reference.typeexprs.TypeExpAlgTest",
+    "tests.reference.patts.PattAlgTest"
+  ]
+}

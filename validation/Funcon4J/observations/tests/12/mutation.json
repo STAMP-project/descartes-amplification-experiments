@@ -1,0 +1,11 @@
+{
+  "mutator": "true",
+  "class": "Undefined",
+  "package": "funcons.values",
+  "method": "equals",
+  "description": "(Ljava/lang/Object;)Z",
+  "tests": [
+    "tests.reference.RecursiveFactoryTest",
+    "tests.reference.NullFactoryTest"
+  ]
+}

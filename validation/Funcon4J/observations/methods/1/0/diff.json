@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "funcons.helper.RascalValueComperator|compare|(Lfuncons/values/Variable;Lfuncons/values/Variable;)I|0|#result",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  }
+]

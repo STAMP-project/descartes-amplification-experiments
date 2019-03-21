@@ -1,0 +1,10 @@
+{
+  "mutator": "1",
+  "class": "RascalValueComperator",
+  "package": "funcons.helper",
+  "method": "compare",
+  "description": "(Lfuncons/values/Variable;Lfuncons/values/Variable;)I",
+  "tests": [
+    "tests.reference.exprs.BoolLogicAlgTest"
+  ]
+}

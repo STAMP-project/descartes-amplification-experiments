@@ -1,0 +1,1 @@
+{"hint-type":"execution","entry-points":[{"method":"compare","desc":"(Lio/usethesource/vallang/IMap;Lio/usethesource/vallang/IMap;)I","class":"funcons.helper.RascalValueComperator"}]}

@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "Variable",
+  "package": "funcons.values",
+  "method": "isEqual",
+  "description": "(Lio/usethesource/vallang/IValue;)Z",
+  "tests": [
+    "tests.reference.VectorFactoryTest"
+  ]
+}
