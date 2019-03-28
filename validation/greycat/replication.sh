@@ -6,5 +6,5 @@ mvn eu.stamp-project:pitmp-maven-plugin:1.3.7-EXPERIMENTS:descartes -DoutputForm
 mvn eu.stamp-project:dissector-monitor:stack-trace -Doutput="target/stack-traces.json" -DclassificationsOfInterest="pseudo-tested,partially-tested"
 
 export MAVEN_OPTS="-Xmx10G"
-mvn -X eu.stamp-project:reneri:1.0-EXPERIMENTS:observeMethods -DtestTimes=3 -DexcludedTests="greycatTest.internal.heap.HeapSuperTimeTreeChunkTest,greycatTest.internal.heap.HeapEStructArrayTest,greycatTest.internal.heap.HeapTimeTreeChunkTest"
-mvn -X eu.stamp-project:reneri:1.0-EXPERIMENTS:observeTests -DtestTimes=3
+mvn -X eu.stamp-project:reneri:1.0-EXPERIMENTS:observeMethods -DexcludedTests="greycatTest.internal.heap.HeapSuperTimeTreeChunkTest,greycatTest.internal.heap.HeapEStructArrayTest,greycatTest.internal.heap.HeapTimeTreeChunkTest"
+mvn -X eu.stamp-project:reneri:1.0-EXPERIMENTS:observeTests
