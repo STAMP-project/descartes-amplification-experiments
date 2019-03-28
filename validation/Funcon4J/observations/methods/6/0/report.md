@@ -1,7 +1,7 @@
 
-When the body of the method `varType` with signature `(Ljava/lang/String;)Ljava/lang/Object;` declared in the class [`camllight.algebras.typeexprs.TypeExpAlg`](https://github.com/manuelleduc/Funcon4J/blob/9d2e32824daee71b895f0d9fa6091ed4de8e1513/language/src/main/java/camllight/algebras/typeexprs/TypeExpAlg.java) 
-was  replaced by  `return null;` . 
-however,  none of these tests fail:
+The body of the method [`camllight.algebras.typeexprs.TypeExpAlg.varType(java.lang.String)`](https://github.com/manuelleduc/Funcon4J/blob/9d2e32824daee71b895f0d9fa6091ed4de8e1513/language/src/main/java/camllight/algebras/typeexprs/TypeExpAlg.java#L49) 
+was  replaced by  `return null;`  
+yet,  none of the following tests failed:
 
 *  [`tests.reference.decls.GlobalAlgTest.testDeclLabelsAndVariantsWithVarTypes`](https://github.com/manuelleduc/Funcon4J/blob/9d2e32824daee71b895f0d9fa6091ed4de8e1513/language/src/test/java/tests/reference/decls/GlobalAlgTest.java)
 *  [`tests.reference.decls.GlobalAlgTest.testDeclLabelsAndVariantsMultiple`](https://github.com/manuelleduc/Funcon4J/blob/9d2e32824daee71b895f0d9fa6091ed4de8e1513/language/src/test/java/tests/reference/decls/GlobalAlgTest.java)
@@ -19,3 +19,5 @@ To solve this problem you may consider to:
 
 
 * Refactor the code that uses this method. Maybe the method is not actually needed in the context that it is being used.
+
+---

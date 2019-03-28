@@ -1,7 +1,7 @@
 
-When the body of the method `tupleType` with signature `(Ljava/lang/Object;Ljava/util/List;)Ljava/lang/Object;` declared in the class [`camllight.algebras.typeexprs.TypeExpAlg`](https://github.com/manuelleduc/Funcon4J/blob/9d2e32824daee71b895f0d9fa6091ed4de8e1513/language/src/main/java/camllight/algebras/typeexprs/TypeExpAlg.java) 
-was  replaced by  `return null;` . 
-however,  none of these tests fail:
+The body of the method [`camllight.algebras.typeexprs.TypeExpAlg.tupleType(java.lang.Object,java.util.List)`](https://github.com/manuelleduc/Funcon4J/blob/9d2e32824daee71b895f0d9fa6091ed4de8e1513/language/src/main/java/camllight/algebras/typeexprs/TypeExpAlg.java#L54) 
+was  replaced by  `return null;`  
+yet,  none of the following tests failed:
 
 *  [`tests.reference.typeexprs.TypeExpAlgTest.testTupleType`](https://github.com/manuelleduc/Funcon4J/blob/9d2e32824daee71b895f0d9fa6091ed4de8e1513/language/src/test/java/tests/reference/typeexprs/TypeExpAlgTest.java)
 *  [`tests.reference.patts.PattAlgTest.testPattConstrPatt`](https://github.com/manuelleduc/Funcon4J/blob/9d2e32824daee71b895f0d9fa6091ed4de8e1513/language/src/test/java/tests/reference/patts/PattAlgTest.java)
@@ -18,3 +18,5 @@ To solve this problem you may consider to:
 
 
 * Refactor the code that uses this method. Maybe the method is not actually needed in the context that it is being used.
+
+---
