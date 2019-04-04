@@ -3,7 +3,7 @@
 
 | Transformations | Infection | Propagation | Testable |
 |-----------------|-----------|-------------|----------|
-| `false`         | Y         | N           | N        |
+| `false`         | Y         | N           | I        |
 
 # Environment
 
@@ -81,6 +81,98 @@ public class DefaultParser implements CommandLineParser
         }
     }
 
+    private void handleShortAndLongOption(final String token) throws ParseException
+    {
+        final String t = Util.stripLeadingHyphens(token);
+
+        final int pos = t.indexOf('=');
+
+        if (t.length() == 1)
+        {
+            // -S
+            if (options.hasShortOption(t))
+            {
+                handleOption(options.getOption(t));
+            }
+            else
+            {
+                handleUnknownToken(token);
+            }
+        }
+        else if (pos == -1)
+        {
+            // no equal sign found (-xxx)
+            if (options.hasShortOption(t))
+            {
+                handleOption(options.getOption(t));
+            }
+            else if (!getMatchingLongOptions(t).isEmpty())
+            {
+                // -L or -l
+                handleLongOptionWithoutEqual(token);
+            }
+            else
+            {
+                // look for a long prefix (-Xmx512m)
+                final String opt = getLongPrefix(t);
+
+                if (opt != null && options.getOption(opt).acceptsArg())
+                {
+                    handleOption(options.getOption(opt));
+                    currentOption.addValueForProcessing(t.substring(opt.length()));
+                    currentOption = null;
+                }
+                else if (isJavaProperty(t))
+                {
+                    // -SV1 (-Dflag)
+                    handleOption(options.getOption(t.substring(0, 1)));
+                    currentOption.addValueForProcessing(t.substring(1));
+                    currentOption = null;
+                }
+                else
+                {
+                    // -S1S2S3 or -S1S2V
+                    handleConcatenatedOptions(token);
+                }
+            }
+        }
+        else
+        {
+            // equal sign found (-xxx=yyy)
+            final String opt = t.substring(0, pos);
+            final String value = t.substring(pos + 1);
+
+            if (opt.length() == 1)
+            {
+                // -S=V
+                final Option option = options.getOption(opt);
+                if (option != null && option.acceptsArg())
+                {
+                    handleOption(option);
+                    currentOption.addValueForProcessing(value);
+                    currentOption = null;
+                }
+                else
+                {
+                    handleUnknownToken(token);
+                }
+            }
+            else if (isJavaProperty(opt))
+            {
+                // -SV1=V2 (-Dkey=value)
+                handleOption(options.getOption(opt.substring(0, 1)));
+                currentOption.addValueForProcessing(opt.substring(1));
+                currentOption.addValueForProcessing(value);
+                currentOption = null;
+            }
+            else
+            {
+                // -L=V or -l=V
+                handleLongOptionWithEqual(token);
+            }
+        }
+    }
+
      public CommandLine parse(final Options options, final String[] arguments, final Properties properties, final boolean stopAtNonOption)
             throws ParseException
     {
@@ -144,10 +236,57 @@ public void testAmbiguousLongWithoutEqualSingleDash() throws Exception
 
 ## Observations
 
-The only test case that manifests an infection is the one above. Our tool detected
-that the return value should have been `true` instead of `false`. It seems that
-with a `false` result, then, the execution invokes `handleShortAndLongOption`
-and this method ends up doing just the same.
-So, is the `isLongOption` method actually needed?
-For this case we don't know for sure if there is an input that can detect the 
-transformation.
+
+The `isLongOption` method is invoked 32 times when the entire test suite is executed.
+It is expected to return `false` in 31 invocations and `true` in only one.
+
+This method only affects a condition inside the `handleToken` method.
+This condition includes an invocation to `isArgument`.
+
+`isArgument` depends on `isOption` and `isNegativeNumber`. `isOption` depends on `isLongOptions` and `isShortOption`.
+All these methods receive the same token as parameter.
+
+In the invocation where `isLongOption` is supposed to return `true`, if the result is changed by `false` then `isShortOption` is evaluated and returns `true` therefore `isArgument` has the same result at the end.
+
+The result of `isArgument` depends on the other methods as follows: 
+
+    isArgument <=> not (isLongOption or isShortOption) or isNegativeNumber
+
+The truth table is as follows:
+
+| `isLongOption` | `isShortOption` | `isNevativeNumber` | `isArgument` |
+|----------------|-----------------|--------------------|--------------|
+| True           | True            | True               | True         |
+| False          | True            | True               | True         |
+| True           | True            | False              | False        |
+| False          | True            | False              | False        |
+| True           | False           | True               | True         |
+| False          | False           | True               | True         |
+| True           | False           | False              | False        |
+| False          | False           | False              | True         |
+
+From this table it can be seen that, if we change the value of `isLongOption`, and the other remains the same, the final result remains unchanged unless all the other values are `False`.
+
+Then, to create a test case to catch the transformation, the input should make `isLongOption` return `true` and all the others must return `false`.
+
+Such an input can be created from the test case above, the only one for which `isLongOption` returns `true`.
+
+```Java
+@Test
+public void testAmbiguousLongWithoutEqualSingleDash() throws Exception
+{
+    final String[] args = new String[] { "-b", "-foobar" };
+
+    final Options options = new Options();
+    options.addOption(OptionBuilder.withLongOpt("foo").hasOptionalArg().create());
+    options.addOption(OptionBuilder.withLongOpt("bar").hasOptionalArg().create('b'));
+
+    final CommandLine cl = parser.parse(options, args);
+
+    assertTrue(cl.hasOption("b"));
+    assertTrue(cl.hasOption("foo"));
+    assertEquals("bar", cl.getOptionValue("foo"));
+}
+```
+The new test avoids the creation of a short option for the `foo` long option. The assertion then has to verify the `foo` option instead of `f`.
+For `isLongOption` to be invoked, the long option should be parse in the second place. (Otherwise `currentOption` is `null`). 
