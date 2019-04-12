@@ -64,6 +64,11 @@ public class Option {
         }
         processValue(value);
     }
+    
+    public char getValueSeparator()
+    {
+        return valuesep;
+    }
 }
 ```
 

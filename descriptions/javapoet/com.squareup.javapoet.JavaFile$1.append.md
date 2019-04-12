@@ -45,3 +45,4 @@ public final class JavaFile {
 ## Observations
 The purpose of these methods is precisely to produce no side effect.
 They are not testable but they are also not intended to be tested.
+These methods are now skipped from the analysis.
