@@ -1,0 +1,7 @@
+{
+    "from": "https://gitlab.ow2.org/",
+    "project": "sat4j/sat4j",
+    "revision": "8dadb81569350aa5771c71119eaf12833536745e",
+    "module": "org.sat4j.core",
+    "folder": "org.sat4j.core"
+}
