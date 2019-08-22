@@ -74,7 +74,7 @@ The method is covered by invoking `removeClass` but it is not covered directly.
 The immediate state is infected as the result should return false instead of 
 true in the second `div.removeClass("hidden")`. However, the result has no 
 effect, as `replaceAll` searches the required element.
-The issue could be solved by adding `assertFalse(div.hasClass("hidden")` right
+The issue could be solved by adding `assertFalse(div.hasClass("hidden"))` right
 after the assertion checking the class is only `"important"`.
 There is no observed propagation, as the change in the state is only observed
 through a getter method `className` that calls in turn another method. This 

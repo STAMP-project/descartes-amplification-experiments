@@ -3,7 +3,7 @@
 
 | Transformations | Infection | Propagation | Testable |
 |-----------------|-----------|-------------|----------|
-| `true`          | N         | N           | Y        |
+| `true`          | N         | N           | I        |
 
 # Environment
 

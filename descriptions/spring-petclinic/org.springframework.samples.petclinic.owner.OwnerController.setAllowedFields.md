@@ -4,7 +4,7 @@
 
 | Transformation | Infection | Propagation | Testable |
 |----------------|-----------|-------------|----------|
-| `void`         | Y         | N           | Y        |
+| `void`         | Y         | N           | I        |
 
 
 # Environment

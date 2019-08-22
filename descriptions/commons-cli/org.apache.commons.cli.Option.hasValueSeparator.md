@@ -85,3 +85,8 @@ is the same. This means that this call to `hasValueSeparator` is useless.
 The method can be used as an accessor to the property (as a getter).
 The transformation can be caught easily but it is probably not in the interest 
 of the developers. The code could be refactored.
+
+This is a read-only computed property. It is not being used directly in the test code.
+To catch the transformation, it is only needed to invoke this method in a test case where
+there is a separator, something like `assertTrue(obj.hasValueSeparator())`;
+

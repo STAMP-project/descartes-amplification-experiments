@@ -4,7 +4,7 @@
 
 | Transformation | Infection | Propagation | Testable |
 |----------------|-----------|-------------|----------|
-| `true`         | N         |  N          | I        |
+| `true`         | N         | N           | I        |
 
 
 # Environment
