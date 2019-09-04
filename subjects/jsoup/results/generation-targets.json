@@ -1,0 +1,362 @@
+[
+    {
+        "class": "Tokeniser",
+        "name": "error",
+        "package": "org.jsoup.parser",
+        "description": "(Lorg/jsoup/parser/TokeniserState;)V"
+    },
+    {
+        "class": "HtmlTreeBuilder",
+        "name": "inScope",
+        "package": "org.jsoup.parser",
+        "description": "([Ljava/lang/String;)Z"
+    },
+    {
+        "class": "Token$Doctype",
+        "name": "reset",
+        "package": "org.jsoup.parser",
+        "description": "()Lorg/jsoup/parser/Token;"
+    },
+    {
+        "class": "Whitelist$Protocol",
+        "name": "equals",
+        "package": "org.jsoup.safety",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "Whitelist$TagName",
+        "name": "equals",
+        "package": "org.jsoup.safety",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "Whitelist$AttributeKey",
+        "name": "equals",
+        "package": "org.jsoup.safety",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "Whitelist$AttributeValue",
+        "name": "equals",
+        "package": "org.jsoup.safety",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "Validate",
+        "name": "isFalse",
+        "package": "org.jsoup.helper",
+        "description": "(Z)V"
+    },
+    {
+        "class": "Evaluator$IsOnlyChild",
+        "name": "matches",
+        "package": "org.jsoup.select",
+        "description": "(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z"
+    },
+    {
+        "class": "Entities",
+        "name": "access$000",
+        "package": "org.jsoup.nodes",
+        "description": "(Lorg/jsoup/nodes/Entities$EscapeMode;Ljava/lang/String;I)V"
+    },
+    {
+        "class": "HtmlTreeBuilder",
+        "name": "isInActiveFormattingElements",
+        "package": "org.jsoup.parser",
+        "description": "(Lorg/jsoup/nodes/Element;)Z"
+    },
+    {
+        "class": "StructuralEvaluator$Root",
+        "name": "matches",
+        "package": "org.jsoup.select",
+        "description": "(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z"
+    },
+    {
+        "class": "Validate",
+        "name": "noNullElements",
+        "package": "org.jsoup.helper",
+        "description": "([Ljava/lang/Object;)V"
+    },
+    {
+        "class": "Tag",
+        "name": "isInline",
+        "package": "org.jsoup.parser",
+        "description": "()Z"
+    },
+    {
+        "class": "FormElement",
+        "name": "hasParent",
+        "package": "org.jsoup.nodes",
+        "description": "()Z"
+    },
+    {
+        "class": "DocumentType",
+        "name": "hasParent",
+        "package": "org.jsoup.nodes",
+        "description": "()Z"
+    },
+    {
+        "class": "TextNode",
+        "name": "hasParent",
+        "package": "org.jsoup.nodes",
+        "description": "()Z"
+    },
+    {
+        "class": "Element",
+        "name": "hasParent",
+        "package": "org.jsoup.nodes",
+        "description": "()Z"
+    },
+    {
+        "class": "DataNode",
+        "name": "hasParent",
+        "package": "org.jsoup.nodes",
+        "description": "()Z"
+    },
+    {
+        "class": "PseudoTextElement",
+        "name": "hasParent",
+        "package": "org.jsoup.nodes",
+        "description": "()Z"
+    },
+    {
+        "class": "Comment",
+        "name": "hasParent",
+        "package": "org.jsoup.nodes",
+        "description": "()Z"
+    },
+    {
+        "class": "Document",
+        "name": "hasParent",
+        "package": "org.jsoup.nodes",
+        "description": "()Z"
+    },
+    {
+        "class": "CDataNode",
+        "name": "hasParent",
+        "package": "org.jsoup.nodes",
+        "description": "()Z"
+    },
+    {
+        "class": "XmlDeclaration",
+        "name": "hasParent",
+        "package": "org.jsoup.nodes",
+        "description": "()Z"
+    },
+    {
+        "class": "HtmlTreeBuilder",
+        "name": "inSelectScope",
+        "package": "org.jsoup.parser",
+        "description": "(Ljava/lang/String;)Z"
+    },
+    {
+        "class": "Tokeniser",
+        "name": "createTempBuffer",
+        "package": "org.jsoup.parser",
+        "description": "()V"
+    },
+    {
+        "class": "Comment",
+        "name": "isXmlDeclaration",
+        "package": "org.jsoup.nodes",
+        "description": "()Z"
+    },
+    {
+        "class": "QueryParser",
+        "name": "parse",
+        "package": "org.jsoup.select",
+        "description": "(Ljava/lang/String;)Lorg/jsoup/select/Evaluator;"
+    },
+    {
+        "class": "QueryParser",
+        "name": "parse",
+        "package": "org.jsoup.select",
+        "description": "()Lorg/jsoup/select/Evaluator;"
+    },
+    {
+        "class": "Tokeniser",
+        "name": "createCommentPending",
+        "package": "org.jsoup.parser",
+        "description": "()V"
+    },
+    {
+        "class": "StructuralEvaluator$PreviousSibling",
+        "name": "matches",
+        "package": "org.jsoup.select",
+        "description": "(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z"
+    },
+    {
+        "class": "HtmlTreeBuilder",
+        "name": "insertOnStackAfter",
+        "package": "org.jsoup.parser",
+        "description": "(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)V"
+    },
+    {
+        "class": "Tokeniser",
+        "name": "createDoctypePending",
+        "package": "org.jsoup.parser",
+        "description": "()V"
+    },
+    {
+        "class": "HtmlTreeBuilder",
+        "name": "clearStackToTableRowContext",
+        "package": "org.jsoup.parser",
+        "description": "()V"
+    },
+    {
+        "class": "HtmlTreeBuilderState$20",
+        "name": "process",
+        "package": "org.jsoup.parser",
+        "description": "(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z"
+    },
+    {
+        "class": "Token$Character",
+        "name": "reset",
+        "package": "org.jsoup.parser",
+        "description": "()Lorg/jsoup/parser/Token;"
+    },
+    {
+        "class": "CharacterReader",
+        "name": "matchesDigit",
+        "package": "org.jsoup.parser",
+        "description": "()Z"
+    },
+    {
+        "class": "HtmlTreeBuilder",
+        "name": "inListItemScope",
+        "package": "org.jsoup.parser",
+        "description": "(Ljava/lang/String;)Z"
+    },
+    {
+        "class": "HtmlTreeBuilder",
+        "name": "aboveOnStack",
+        "package": "org.jsoup.parser",
+        "description": "(Lorg/jsoup/nodes/Element;)Lorg/jsoup/nodes/Element;"
+    },
+    {
+        "class": "HtmlTreeBuilderState$22",
+        "name": "process",
+        "package": "org.jsoup.parser",
+        "description": "(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z"
+    },
+    {
+        "class": "Validate",
+        "name": "noNullElements",
+        "package": "org.jsoup.helper",
+        "description": "([Ljava/lang/Object;Ljava/lang/String;)V"
+    },
+    {
+        "class": "HtmlTreeBuilderState$16",
+        "name": "process",
+        "package": "org.jsoup.parser",
+        "description": "(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z"
+    },
+    {
+        "class": "XmlDeclaration",
+        "name": "baseUri",
+        "package": "org.jsoup.nodes",
+        "description": "()Ljava/lang/String;"
+    },
+    {
+        "class": "DocumentType",
+        "name": "baseUri",
+        "package": "org.jsoup.nodes",
+        "description": "()Ljava/lang/String;"
+    },
+    {
+        "class": "Comment",
+        "name": "baseUri",
+        "package": "org.jsoup.nodes",
+        "description": "()Ljava/lang/String;"
+    },
+    {
+        "class": "DataNode",
+        "name": "baseUri",
+        "package": "org.jsoup.nodes",
+        "description": "()Ljava/lang/String;"
+    },
+    {
+        "class": "CDataNode",
+        "name": "baseUri",
+        "package": "org.jsoup.nodes",
+        "description": "()Ljava/lang/String;"
+    },
+    {
+        "class": "TextNode",
+        "name": "baseUri",
+        "package": "org.jsoup.nodes",
+        "description": "()Ljava/lang/String;"
+    },
+    {
+        "class": "CharacterReader",
+        "name": "consumeToAnySorted",
+        "package": "org.jsoup.parser",
+        "description": "([C)Ljava/lang/String;"
+    },
+    {
+        "class": "PseudoTextElement",
+        "name": "previousSibling",
+        "package": "org.jsoup.nodes",
+        "description": "()Lorg/jsoup/nodes/Node;"
+    },
+    {
+        "class": "XmlDeclaration",
+        "name": "previousSibling",
+        "package": "org.jsoup.nodes",
+        "description": "()Lorg/jsoup/nodes/Node;"
+    },
+    {
+        "class": "FormElement",
+        "name": "previousSibling",
+        "package": "org.jsoup.nodes",
+        "description": "()Lorg/jsoup/nodes/Node;"
+    },
+    {
+        "class": "TextNode",
+        "name": "previousSibling",
+        "package": "org.jsoup.nodes",
+        "description": "()Lorg/jsoup/nodes/Node;"
+    },
+    {
+        "class": "Document",
+        "name": "previousSibling",
+        "package": "org.jsoup.nodes",
+        "description": "()Lorg/jsoup/nodes/Node;"
+    },
+    {
+        "class": "DocumentType",
+        "name": "previousSibling",
+        "package": "org.jsoup.nodes",
+        "description": "()Lorg/jsoup/nodes/Node;"
+    },
+    {
+        "class": "CDataNode",
+        "name": "previousSibling",
+        "package": "org.jsoup.nodes",
+        "description": "()Lorg/jsoup/nodes/Node;"
+    },
+    {
+        "class": "Element",
+        "name": "previousSibling",
+        "package": "org.jsoup.nodes",
+        "description": "()Lorg/jsoup/nodes/Node;"
+    },
+    {
+        "class": "DataNode",
+        "name": "previousSibling",
+        "package": "org.jsoup.nodes",
+        "description": "()Lorg/jsoup/nodes/Node;"
+    },
+    {
+        "class": "Comment",
+        "name": "previousSibling",
+        "package": "org.jsoup.nodes",
+        "description": "()Lorg/jsoup/nodes/Node;"
+    },
+    {
+        "class": "HttpConnection$Request",
+        "name": "addHeader",
+        "package": "org.jsoup.helper",
+        "description": "(Ljava/lang/String;Ljava/lang/String;)Lorg/jsoup/helper/HttpConnection$Request;"
+    }
+]

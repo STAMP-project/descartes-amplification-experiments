@@ -1,0 +1,1 @@
+./com/helger/jcodemodel/JEnumConstant_ESTest_scaffolding.java ./com/helger/jcodemodel/JEnumConstant_ESTest.java

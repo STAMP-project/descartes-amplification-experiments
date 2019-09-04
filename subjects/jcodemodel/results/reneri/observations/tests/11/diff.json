@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JDirectClassTest|testBasic()|49",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JConditional"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JConditional"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.supplementary.issues.Issue30FuncTest|test()|45",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JConditional"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JConditional"
+      }
+    ]
+  }
+]

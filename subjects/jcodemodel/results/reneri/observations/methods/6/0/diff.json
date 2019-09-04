@@ -1,0 +1,2162 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|31|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|117|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|81|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|111|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|87|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|59|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|114|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|142|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|84|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|5|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|139|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|53|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|15|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|65|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|28|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|34|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|108|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|123|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|40|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|90|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|120|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|78|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|133|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|75|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|8|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|62|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|56|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|24|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|136|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|18|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|37|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|97|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|43|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|101|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|66|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|19|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|27|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|132|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|138|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|124|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|60|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|35|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|140|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|82|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|115|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|10|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|83|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|52|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|116|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|88|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|110|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|22|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|58|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|57|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|141|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|36|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|14|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|102|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|96|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|129|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|91|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|44|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|107|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|61|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|74|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|7|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|49|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|137|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|2|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|79|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|100|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|48|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|95|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|45|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|98|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|20|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|103|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|42|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|23|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|76|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|70|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|109|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|128|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|64|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|122|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|134|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|89|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|39|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|54|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|112|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|11|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|86|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|3|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|30|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|6|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|51|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|29|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|26|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|32|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|73|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|119|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|106|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|92|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|131|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|13|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|125|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|67|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|63|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|135|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|16|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|77|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|4|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|69|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|121|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|38|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|104|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|99|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|21|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|94|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|41|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|127|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|46|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|71|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|72|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|126|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|130|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|93|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|68|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|47|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|33|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|17|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|105|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|9|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|113|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|12|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|85|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|50|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|118|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|143|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|25|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|55|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|notNull|(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;|80|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.Object"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.Object"
+      }
+    ]
+  }
+]

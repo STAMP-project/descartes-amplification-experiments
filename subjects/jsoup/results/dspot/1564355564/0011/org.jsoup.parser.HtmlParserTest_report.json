@@ -1,0 +1,82 @@
+{
+  "nbMutantKilledOriginally": 98,
+  "name": "org.jsoup.parser.HtmlParserTest",
+  "nbOriginalTestCases": 128,
+  "testCases": [
+    {
+      "name": "testSelectWithOption",
+      "nbAssertionAdded": 9,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 66,
+          "locationMethod": "isTrackErrors"
+        },
+        {
+          "ID": "false",
+          "lineNumber": 66,
+          "locationMethod": "isTrackErrors"
+        }
+      ]
+    },
+    {
+      "name": "testSelectWithOption_rv54",
+      "nbAssertionAdded": 14,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 246,
+          "locationMethod": "error"
+        }
+      ]
+    },
+    {
+      "name": "testSelectWithOption_mg37",
+      "nbAssertionAdded": 30,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 119,
+          "locationMethod": "normalise"
+        }
+      ]
+    },
+    {
+      "name": "testSelectWithOption_mg34",
+      "nbAssertionAdded": 28,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 40,
+          "locationMethod": "hasParent"
+        }
+      ]
+    },
+    {
+      "name": "testSelectWithOption_literalMutationString16",
+      "nbAssertionAdded": 18,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 1306,
+          "locationMethod": "anythingElse"
+        },
+        {
+          "ID": "false",
+          "lineNumber": 1306,
+          "locationMethod": "anythingElse"
+        }
+      ]
+    }
+  ]
+}

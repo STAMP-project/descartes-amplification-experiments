@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "org.owasp.html.Strings|regionMatchesIgnoreCase|(Ljava/lang/CharSequence;ILjava/lang/CharSequence;II)Z|59|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.Strings|regionMatchesIgnoreCase|(Ljava/lang/CharSequence;ILjava/lang/CharSequence;II)Z|60|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  }
+]

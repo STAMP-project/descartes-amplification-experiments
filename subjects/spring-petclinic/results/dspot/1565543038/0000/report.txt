@@ -1,0 +1,4 @@
+Test class that has been amplified: org.springframework.samples.petclinic.owner.PetControllerTests
+The original test suite kills 58 mutants
+The amplification results with 0 new tests
+it kills 0 more mutants

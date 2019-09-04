@@ -1,0 +1,10 @@
+{
+  "mutator": "1.0",
+  "class": "Vector",
+  "package": "net.tridentsdk.base",
+  "method": "getMagnitudeSquared",
+  "description": "()D",
+  "tests": [
+    "net.tridentsdk.base.VectorsTest"
+  ]
+}

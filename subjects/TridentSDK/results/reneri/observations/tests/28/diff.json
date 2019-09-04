@@ -1,0 +1,92 @@
+[
+  {
+    "pointcut": "net.tridentsdk.base.VectorsTest|testNormalize()|1|x",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.VectorsTest|testNormalize()|2|x",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.VectorsTest|testNormalize()|1|y",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.VectorsTest|testNormalize()|2|y",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.VectorsTest|testNormalize()|1|z",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.VectorsTest|testNormalize()|2|z",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  }
+]

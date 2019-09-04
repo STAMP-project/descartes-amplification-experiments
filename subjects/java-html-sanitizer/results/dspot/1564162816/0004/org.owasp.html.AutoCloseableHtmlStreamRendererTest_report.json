@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 2,
+  "name": "org.owasp.html.AutoCloseableHtmlStreamRendererTest",
+  "nbOriginalTestCases": 2,
+  "testCases": [
+    {
+      "name": "testThatCloseablesAreClosednull5",
+      "nbAssertionAdded": 4,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 45,
+          "locationMethod": "isAutoCloseable"
+        }
+      ]
+    }
+  ]
+}

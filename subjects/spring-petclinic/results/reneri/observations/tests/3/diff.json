@@ -1,0 +1,317 @@
+[
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$h7ZUdcq0$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$OisRrsWJ$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$QfH1cw9E$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$h7ZUdcq0$74lvjc3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$FlJy04Cn$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$xg8xFrjE$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$OisRrsWJ$74lvjc3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$FlJy04Cn$74lvjc3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$0uigVTNY$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$aTyK37gW$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$iTKWtQZM$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$dEUeNzeX$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$0uigVTNY$74lvjc3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$OzXHmhlW$74lvjc3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$dEUeNzeX$74lvjc3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$OzXHmhlW$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$OzXHmhlW$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$aTyK37gW$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$aTyK37gW$74lvjc3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$QfH1cw9E$74lvjc3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$QfH1cw9E$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$OisRrsWJ$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$xg8xFrjE$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$iTKWtQZM$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$FlJy04Cn$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|17|specialties",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$0uigVTNY$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$dEUeNzeX$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$h7ZUdcq0$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$iTKWtQZM$74lvjc3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.VetControllerTests|setup()|13|cachedValue$xg8xFrjE$74lvjc3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  }
+]

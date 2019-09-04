@@ -1,0 +1,30 @@
+{
+  "nbMutantKilledOriginally": 1,
+  "name": "net.tridentsdk.world.opt.WorldCreateSpecTest",
+  "nbOriginalTestCases": 2,
+  "testCases": [
+    {
+      "name": "testCustom",
+      "nbAssertionAdded": 16,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 71,
+          "locationMethod": "isAllowFeatures"
+        },
+        {
+          "ID": "\"A\"",
+          "lineNumber": 73,
+          "locationMethod": "getOptionString"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 73,
+          "locationMethod": "getOptionString"
+        }
+      ]
+    }
+  ]
+}

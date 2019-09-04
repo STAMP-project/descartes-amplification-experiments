@@ -1,0 +1,4 @@
+Test class that has been amplified: org.jsoup.parser.HtmlParserTest
+The original test suite kills 1123 mutants
+The amplification results with 6 new tests
+it kills 6 more mutants

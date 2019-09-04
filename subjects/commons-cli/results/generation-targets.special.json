@@ -1,0 +1,8 @@
+[
+    {
+        "class": "AmbiguousOptionException",
+        "name": "<init>",
+        "package": "org.apache.commons.cli",
+        "description": "(Ljava/lang/String;Ljava/util/Collection;)V"
+    }
+]

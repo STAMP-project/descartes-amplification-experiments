@@ -1,0 +1,722 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|1|#that|size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|6|#that|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|9|#that|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|8|#that|size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|11|#that|modCount",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|7|#that|size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|4|#that|modCount",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|2|#that|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|5|#that|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|4|#that|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|2|#that|modCount",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|0|#that|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|9|#that|modCount",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|8|#that|modCount",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|3|#that|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|3|#that|size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|10|#that|size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|1|#that|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|2|#that|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|10|#that|modCount",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|5|#that|modCount",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|0|#that|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|6|#that|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|8|#that|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|7|#that|modCount",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|0|#that|modCount",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|10|#that|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|4|#that|size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|4|#that|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|1|#that|modCount",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|6|#that|modCount",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|5|#that|size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|7|#that|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|10|#that|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|11|#that|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|8|#that|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|3|#that|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|1|#that|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|5|#that|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|6|#that|size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|9|#that|size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|11|#that|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|11|#that|size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|2|#that|size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|3|#that|modCount",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|0|#that|size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|9|#that|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_flattenAppend|(Ljava/lang/Object;)V|7|#that|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  }
+]

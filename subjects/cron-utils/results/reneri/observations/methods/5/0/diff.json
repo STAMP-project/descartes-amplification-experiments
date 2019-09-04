@@ -1,0 +1,108 @@
+[
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraints|getIntMappingValue|(Ljava/lang/Integer;)Ljava/lang/Integer;|677|#0",
+    "expected": [
+      {
+        "literalValue": "9",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "12",
+        "typeName": "java.lang.Integer"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "11",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "10",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "java.lang.Integer"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraints|getIntMappingValue|(Ljava/lang/Integer;)Ljava/lang/Integer;|676|#0",
+    "expected": [
+      {
+        "literalValue": "22",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "14",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "25",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "13",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "1",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "23",
+        "typeName": "java.lang.Integer"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "20",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "19",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "29",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "16",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "java.lang.Integer"
+      },
+      {
+        "literalValue": "26",
+        "typeName": "java.lang.Integer"
+      }
+    ]
+  }
+]

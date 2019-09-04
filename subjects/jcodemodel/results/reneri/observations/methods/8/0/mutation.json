@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "JBlock",
+  "package": "com.helger.jcodemodel",
+  "method": "_return",
+  "description": "()Lcom/helger/jcodemodel/JReturn;",
+  "tests": [
+    "com.helger.jcodemodel.JInvocationTest"
+  ]
+}

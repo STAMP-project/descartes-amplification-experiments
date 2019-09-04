@@ -1,0 +1,6902 @@
+[
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|150|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|143|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|32|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|175|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|10|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|80|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|88|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|218|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|168|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|63|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|94|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|109|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|122|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|221|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|53|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|165|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|25|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|230|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.javapoet",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|194|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|207|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|154|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|191|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|6|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|106|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|57|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|97|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|137|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|218|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|91|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|91|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|132|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|73|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|160|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|140|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|117|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|109|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|140|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|9|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|157|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|81|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|208|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|127|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|68|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo.bar.baz",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|21|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|203|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|10|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "readme",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|43|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|35|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|233|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|128|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|197|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|83|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo.bar",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|119|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|30|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|78|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|229|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|132|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|55|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|176|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|38|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|201|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|0|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "hello",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|114|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|226|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|79|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "example",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|27|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|139|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|145|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|28|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|162|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|129|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|89|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|61|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|173|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|96|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|40|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|121|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|170|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|72|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|102|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|130|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|211|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|24|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|186|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|111|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|223|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|138|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|12|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|215|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|211|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|64|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|62|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo.bar.baz",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|20|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|146|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|98|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|103|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|37|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|163|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|228|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|104|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|54|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|45|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|112|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|147|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|71|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|180|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|46|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "readme",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|164|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|50|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|201|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|120|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|198|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|180|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|155|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|9|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|172|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|106|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|67|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo.bar",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|178|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|159|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|170|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|19|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|214|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|147|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|13|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|172|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|200|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|53|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|150|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|153|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|162|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|208|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|56|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|73|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|220|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|50|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|8|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|113|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|205|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|47|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|31|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|85|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|197|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|224|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|143|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|66|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|5|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|93|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|217|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|144|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|130|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|2|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|196|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|107|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|51|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|190|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|14|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|158|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|110|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|191|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|144|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|124|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|13|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|7|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|82|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo.bar",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|86|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|76|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "example",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|127|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|225|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|65|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|133|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|228|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|18|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|161|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|48|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|179|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|92|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|118|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|223|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|204|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|142|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|114|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|104|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|100|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|207|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|96|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|83|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|110|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|195|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|108|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|6|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|33|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|17|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|14|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|183|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|120|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|187|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|126|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|49|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|23|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|193|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|107|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|3|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|17|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|192|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|37|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.example.helloworld",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|177|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|84|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|173|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|33|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|124|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|193|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|5|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|68|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|163|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|27|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|47|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "readme",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|222|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|177|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|1|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "hello",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|15|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|206|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|176|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|32|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|67|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|4|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|204|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|157|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|43|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "readme",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|108|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|167|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|125|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|103|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|63|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo.bar.baz",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|212|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|210|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|44|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|156|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|174|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|160|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|16|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|224|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|128|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|188|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|82|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|69|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|88|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|194|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|15|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|141|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|26|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|184|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|137|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|221|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|118|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|72|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|185|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|113|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|112|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|87|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|26|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|34|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|79|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|227|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|66|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo.bar",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|134|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|129|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|196|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|232|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|115|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|123|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|12|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|126|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|209|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|90|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|217|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|85|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo.bar.baz",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|123|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|77|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "example",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|131|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|166|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|136|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|174|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|199|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|52|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|229|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|131|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|111|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|80|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|220|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|189|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|48|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "readme",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|8|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|39|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|20|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|21|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|34|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|99|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|164|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|182|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|64|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|105|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|148|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|36|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|154|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|4|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|30|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|18|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|58|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|152|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|209|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|192|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|70|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|121|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|199|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|101|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|148|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|213|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|99|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|62|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|138|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|190|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|202|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|156|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|210|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|146|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|60|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo.bar",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|205|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|171|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|227|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|46|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|11|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|89|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|42|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "readme",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|219|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|52|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|166|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|97|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|158|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|203|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|29|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|54|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|36|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.example.helloworld",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|90|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|100|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|178|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|153|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|41|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|22|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|22|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|38|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|116|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|75|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|94|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|195|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|2|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|134|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|215|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|102|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|115|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|184|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|231|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.javapoet",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|16|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|181|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|28|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|19|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|25|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|200|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|105|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|98|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|135|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|149|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|182|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|95|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|95|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|136|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|189|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|225|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|7|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|216|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|81|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|56|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|57|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|233|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|152|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|188|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|219|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|122|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|142|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|11|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "readme",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|125|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|198|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|187|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|78|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "example",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|60|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|101|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|84|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo.bar.baz",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|119|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|149|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|212|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|65|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|69|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo.bar.baz",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|117|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|58|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|74|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|226|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|135|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|141|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|55|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|183|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|206|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|155|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|61|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo.bar",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|151|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|93|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|59|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|232|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|151|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|42|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|77|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|186|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|213|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|31|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|216|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|145|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|139|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|179|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|222|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "foo",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|167|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|23|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|185|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|175|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|76|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|35|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|230|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|171|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|3|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|39|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|116|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|49|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "readme",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|161|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|169|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|40|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|169|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|41|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|181|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|133|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|29|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|214|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|168|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|51|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|92|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|231|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|165|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|59|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|159|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|24|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.CodeWriter"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.CodeWriter|popPackage|()Lcom/squareup/javapoet/CodeWriter;|202|#that|packageName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.squareup.tacos",
+        "typeName": "java.lang.String"
+      }
+    ]
+  }
+]

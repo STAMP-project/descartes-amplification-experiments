@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "JBlock",
+  "package": "com.helger.jcodemodel",
+  "method": "directStatement",
+  "description": "(Ljava/lang/String;)Lcom/helger/jcodemodel/IJStatement;",
+  "tests": [
+    "com.helger.jcodemodel.VarArgsFuncTest"
+  ]
+}

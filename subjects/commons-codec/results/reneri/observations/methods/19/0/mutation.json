@@ -1,0 +1,10 @@
+{
+  "mutator": "empty",
+  "class": "MessageDigestAlgorithms",
+  "package": "org.apache.commons.codec.digest",
+  "method": "values",
+  "description": "()[Ljava/lang/String;",
+  "tests": [
+    "org.apache.commons.codec.digest.MessageDigestAlgorithmsTest"
+  ]
+}

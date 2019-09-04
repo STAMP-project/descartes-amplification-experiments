@@ -1,0 +1,572 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|17|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|14|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|28|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|9|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|25|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|22|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|3|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|33|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|12|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|23|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|20|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|4|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|19|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|34|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|31|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|36|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|6|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|35|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|2|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|32|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|10|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|13|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|27|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|15|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|21|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|8|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|26|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|7|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|16|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|37|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|18|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|11|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|5|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|24|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|29|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|getAllDontImportClasses|()Ljava/util/Set;|30|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  }
+]

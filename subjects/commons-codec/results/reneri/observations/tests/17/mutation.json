@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "RFC1522Codec",
+  "package": "org.apache.commons.codec.net",
+  "method": "encodeText",
+  "description": "(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;",
+  "tests": [
+    "org.apache.commons.codec.net.RFC1522CodecTest"
+  ]
+}

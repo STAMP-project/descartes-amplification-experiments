@@ -1,0 +1,1982 @@
+[
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|13|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|38|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|6|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|53|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|50|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|52|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|59|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|42|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|14|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|42|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|16|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|35|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|56|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|9|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|20|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|11|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|17|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|30|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|48|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|4|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|25|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|9|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|48|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|36|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|26|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|64|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|37|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|61|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|1|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|19|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|23|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|31|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|45|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|29|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|29|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|30|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|44|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|36|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|41|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|4|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|65|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|40|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|33|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|20|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|65|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|50|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|11|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|33|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|7|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|55|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|16|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|46|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|63|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|39|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|62|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|14|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|57|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|17|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|46|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|7|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|58|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|2|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|43|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|27|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|22|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|52|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|21|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|21|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|35|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|63|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|31|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|27|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|5|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|49|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|24|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|8|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|49|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|59|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|2|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|32|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|24|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|38|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|60|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|5|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|12|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|41|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|53|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|54|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|19|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|37|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|34|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|55|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|18|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|43|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|13|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|8|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|56|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|60|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|54|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|58|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|47|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|15|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|15|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|62|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|12|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|6|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|51|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|61|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|23|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|57|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|47|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|44|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|0|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|3|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|18|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|26|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|22|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|40|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|39|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|28|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|28|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|45|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|3|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|10|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|51|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|25|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|32|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|34|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|64|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.constraint.FieldConstraintsBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.constraint.FieldConstraintsBuilder|withIntValueMapping|(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;|10|#that|intMapping|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  }
+]

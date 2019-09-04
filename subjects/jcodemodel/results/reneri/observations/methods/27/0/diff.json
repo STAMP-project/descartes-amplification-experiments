@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JAnnotationArrayMember|params|([I)Lcom/helger/jcodemodel/JAnnotationArrayMember;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JAnnotationArrayMember"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JAnnotationArrayMember"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JAnnotationArrayMember|params|([I)Lcom/helger/jcodemodel/JAnnotationArrayMember;|0|#that|m_aValues|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "pointcut": "example.VersionedSetTest|testIntersection()|4|version",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "example.VersionedSetTest|testAdd()|2|version",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "example.VersionedSetTest|testIntersection()|5|version",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "long"
+      }
+    ]
+  }
+]

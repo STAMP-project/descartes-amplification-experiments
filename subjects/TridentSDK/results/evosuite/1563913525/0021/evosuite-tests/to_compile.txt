@@ -1,0 +1,1 @@
+./net/tridentsdk/ui/chat/ClickEvent_ESTest_scaffolding.java ./net/tridentsdk/ui/chat/ClickEvent_ESTest.java

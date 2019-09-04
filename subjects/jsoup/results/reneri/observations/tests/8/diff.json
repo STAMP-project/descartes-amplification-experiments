@@ -1,0 +1,547 @@
+[
+  {
+    "pointcut": "org.jsoup.integration.ParseTest|getFile(java.lang.String)|1|handlers|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlParserTest|handlesManyChildren()|6",
+    "expected": [
+      {
+        "literalValue": "1552755531801",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755618832",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755733562",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755589500",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755647391",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755503503",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755676348",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755762280",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755560315",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755705219",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552757549085",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757535573",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757604386",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757618044",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757631881",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757660254",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757646136",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757563129",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757576956",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757590558",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlParserTest|handlesManyChildren()|14",
+    "expected": [
+      {
+        "literalValue": "1552755531801",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755618832",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755733562",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755589500",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755647391",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755503503",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755676348",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755762280",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755560315",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755705219",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552757549085",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757535573",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757604386",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757618044",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757631881",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757660254",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757646136",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757563129",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757576956",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757590558",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlParserTest|handlesManyChildren()|13",
+    "expected": [
+      {
+        "literalValue": "1552755618850",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755762299",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755705237",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755733583",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755503524",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755589520",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755676369",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755531819",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755647410",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755560334",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552757590600",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757604427",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757563152",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757549125",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757577000",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757618083",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757631920",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757660294",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757535613",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757646179",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlParserTest|handlesDeepStack()|11",
+    "expected": [
+      {
+        "literalValue": "1552755614506",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755672030",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755701032",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755527672",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755643181",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755729430",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755585217",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755499251",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755556103",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755758087",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552757599732",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757572541",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757613646",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757544807",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757586134",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757641316",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757655732",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757627264",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757558677",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757531189",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlParserTest|handlesDeepStack()|22",
+    "expected": [
+      {
+        "literalValue": "1552755614506",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755672030",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755701032",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755527672",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755643181",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755729430",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755585217",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755499251",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755556103",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755758087",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552757599732",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757572541",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757613646",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757544807",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757586134",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757641316",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757655732",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757627264",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757558677",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757531189",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlParserTest|handlesDeepStack()|21",
+    "expected": [
+      {
+        "literalValue": "1552755701188",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755729602",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755527839",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755499415",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755585375",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755672197",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755614672",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755556267",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755758244",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755643350",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552757613846",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757641546",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757599923",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757558872",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757627462",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757572740",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757586337",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757655980",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757531387",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552757545018",
+        "typeName": "long"
+      }
+    ]
+  }
+]

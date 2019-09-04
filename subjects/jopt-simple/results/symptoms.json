@@ -1,0 +1,57 @@
+{
+  "no-infection": [
+    {
+      "mutator": "true",
+      "package": "joptsimple.internal",
+      "class": "Reflection",
+      "method": "meetsConverterRequirements",
+      "description": "(Ljava/lang/reflect/Method;Ljava/lang/Class;)Z"
+    }
+  ],
+  "no-propagation": [
+    {
+      "mutator": "null",
+      "package": "joptsimple.util",
+      "class": "InetAddressConverter",
+      "method": "message",
+      "description": "(Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+      "mutator": "null",
+      "package": "joptsimple.util",
+      "class": "EnumConverter",
+      "method": "message",
+      "description": "(Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+      "mutator": "\"\"",
+      "package": "joptsimple.util",
+      "class": "EnumConverter",
+      "method": "message",
+      "description": "(Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+      "mutator": "\"A\"",
+      "package": "joptsimple.util",
+      "class": "EnumConverter",
+      "method": "message",
+      "description": "(Ljava/lang/String;)Ljava/lang/String;"
+    }
+  ],
+  "weak-oracle": [
+    {
+      "mutator": "\"\"",
+      "package": "joptsimple.util",
+      "class": "InetAddressConverter",
+      "method": "message",
+      "description": "(Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+      "mutator": "\"A\"",
+      "package": "joptsimple.util",
+      "class": "InetAddressConverter",
+      "method": "message",
+      "description": "(Ljava/lang/String;)Ljava/lang/String;"
+    }
+  ]
+}

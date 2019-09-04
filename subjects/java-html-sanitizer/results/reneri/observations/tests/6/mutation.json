@@ -1,0 +1,17 @@
+{
+  "mutator": "void",
+  "class": "ElementAndAttributePolicyBasedSanitizerPolicy",
+  "package": "org.owasp.html",
+  "method": "closeDocument",
+  "description": "()V",
+  "tests": [
+    "org.owasp.html.HtmlSanitizerTest",
+    "org.owasp.html.SanitizersTest",
+    "org.owasp.html.HtmlPolicyBuilderTest",
+    "org.owasp.html.AntiSamyTest",
+    "org.owasp.html.UrlTextExampleTest",
+    "org.owasp.html.ExamplesTest",
+    "org.owasp.html.HtmlChangeReporterTest",
+    "org.owasp.html.HtmlPolicyBuilderFuzzerTest"
+  ]
+}

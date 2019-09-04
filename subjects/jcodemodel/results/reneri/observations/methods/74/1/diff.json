@@ -1,0 +1,212 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_escape|(Ljava/lang/String;)Ljava/lang/String;|11|#result",
+    "expected": [
+      {
+        "literalValue": "1.0",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_escape|(Ljava/lang/String;)Ljava/lang/String;|7|#result",
+    "expected": [
+      {
+        "literalValue": "Input value plus \"X\".",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_escape|(Ljava/lang/String;)Ljava/lang/String;|12|#result",
+    "expected": [
+      {
+        "literalValue": "JCodeModel unit test",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_escape|(Ljava/lang/String;)Ljava/lang/String;|8|#result",
+    "expected": [
+      {
+        "literalValue": "If input is null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_escape|(Ljava/lang/String;)Ljava/lang/String;|13|#result",
+    "expected": [
+      {
+        "literalValue": "Just for testing",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_escape|(Ljava/lang/String;)Ljava/lang/String;|9|#result",
+    "expected": [
+      {
+        "literalValue": "JCodeModel 2.8.5",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_escape|(Ljava/lang/String;)Ljava/lang/String;|2|#result",
+    "expected": [
+      {
+        "literalValue": "Line 3",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_escape|(Ljava/lang/String;)Ljava/lang/String;|0|#result",
+    "expected": [
+      {
+        "literalValue": "Line 1",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_escape|(Ljava/lang/String;)Ljava/lang/String;|1|#result",
+    "expected": [
+      {
+        "literalValue": "Line 2",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_escape|(Ljava/lang/String;)Ljava/lang/String;|10|#result",
+    "expected": [
+      {
+        "literalValue": "Package description",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_escape|(Ljava/lang/String;)Ljava/lang/String;|6|#result",
+    "expected": [
+      {
+        "literalValue": "Input value",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_escape|(Ljava/lang/String;)Ljava/lang/String;|5|#result",
+    "expected": [
+      {
+        "literalValue": "Description",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_escape|(Ljava/lang/String;)Ljava/lang/String;|4|#result",
+    "expected": [
+      {
+        "literalValue": "JavadocFuncTest",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|_escape|(Ljava/lang/String;)Ljava/lang/String;|3|#result",
+    "expected": [
+      {
+        "literalValue": "Class comment",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  }
+]

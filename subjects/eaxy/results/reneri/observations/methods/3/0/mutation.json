@@ -1,0 +1,11 @@
+{
+  "mutator": "true",
+  "class": "SampleXmlBuilder",
+  "package": "org.eaxy.experimental",
+  "method": "chance",
+  "description": "(D)Z",
+  "tests": [
+    "org.eaxy.experimental.SampleXmlBuilderTest",
+    "org.eaxy.experimental.SoapXmlBuilderDirectoryTest"
+  ]
+}

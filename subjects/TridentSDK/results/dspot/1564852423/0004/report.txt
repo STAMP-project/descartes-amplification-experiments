@@ -1,0 +1,4 @@
+Test class that has been amplified: net.tridentsdk.base.PositionTest
+The original test suite kills 145 mutants
+The amplification results with 4 new tests
+it kills 4 more mutants

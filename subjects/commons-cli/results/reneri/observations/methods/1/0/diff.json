@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "org.apache.commons.cli.DefaultParser|isLongOption|(Ljava/lang/String;)Z|10|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  }
+]

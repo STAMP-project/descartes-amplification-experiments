@@ -1,0 +1,11 @@
+{
+    "project": "TridentSDK/TridentSDK",
+    "revision": "c60da34d514127551fe05213e59522fbc416fb28",
+    "exclude": [
+        "net.tridentsdk.base.VectorTest",
+        "net.tridentsdk.base.generated.VectorsTest_jmhType",
+        "net.tridentsdk.base.generated.VectorsTest_jmhType_B1",
+        "net.tridentsdk.base.generated.VectorsTest_jmhType_B2",
+        "net.tridentsdk.base.generated.VectorsTest_jmhType_B3"
+    ]
+}

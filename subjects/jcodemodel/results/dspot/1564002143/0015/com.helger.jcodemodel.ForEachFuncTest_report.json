@@ -1,0 +1,95 @@
+{
+  "nbMutantKilledOriginally": 3,
+  "name": "com.helger.jcodemodel.ForEachFuncTest",
+  "nbOriginalTestCases": 1,
+  "testCases": [
+    {
+      "name": "testBasicnull218_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 4,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 234,
+          "locationMethod": "notNull"
+        }
+      ]
+    },
+    {
+      "name": "testBasic_rv269_failAssert0",
+      "nbAssertionAdded": 3,
+      "nbInputAdded": 6,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "1",
+          "lineNumber": 215,
+          "locationMethod": "pos"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 215,
+          "locationMethod": "pos"
+        }
+      ]
+    },
+    {
+      "name": "testBasic_literalMutationString60_failAssert0",
+      "nbAssertionAdded": 3,
+      "nbInputAdded": 10,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 106,
+          "locationMethod": "state"
+        }
+      ]
+    },
+    {
+      "name": "testBasic_literalMutationString52_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 4,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 134,
+          "locationMethod": "isJavaIdentifier"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 110,
+          "locationMethod": "isTrue"
+        }
+      ]
+    },
+    {
+      "name": "testBasic_rv270_failAssert0",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 4,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 178,
+          "locationMethod": "remove"
+        }
+      ]
+    },
+    {
+      "name": "testBasic_mg207_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 4,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 153,
+          "locationMethod": "name"
+        }
+      ]
+    }
+  ]
+}

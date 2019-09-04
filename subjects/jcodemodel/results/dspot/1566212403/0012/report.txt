@@ -1,0 +1,4 @@
+Test class that has been amplified: com.helger.jcodemodel.supplementary.issues.Issue58FuncTest
+The original test suite kills 371 mutants
+The amplification results with 27 new tests
+it kills 49 more mutants

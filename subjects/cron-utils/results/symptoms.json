@@ -1,0 +1,119 @@
+{
+  "no-infection": [
+    {
+      "mutator": "true",
+      "package": "com.cronutils.descriptor",
+      "class": "TimeDescriptionStrategy",
+      "method": "isDefault",
+      "description": "(Lcom/cronutils/model/field/expression/On;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "com.cronutils.model.time.generator",
+      "class": "AndDayOfWeekValueGenerator",
+      "method": "matchesFieldExpressionClass",
+      "description": "(Lcom/cronutils/model/field/expression/FieldExpression;)Z"
+    },
+    {
+      "mutator": "\"\"",
+      "package": "com.cronutils.descriptor",
+      "class": "TimeDescriptionStrategy$3",
+      "method": "apply",
+      "description": "(Lcom/cronutils/descriptor/TimeDescriptionStrategy$TimeFields;)Ljava/lang/String;"
+    },
+    {
+      "mutator": "true",
+      "package": "com.cronutils.model.time.generator",
+      "class": "BetweenDayOfWeekValueGenerator",
+      "method": "matchesFieldExpressionClass",
+      "description": "(Lcom/cronutils/model/field/expression/FieldExpression;)Z"
+    },
+    {
+      "mutator": "null",
+      "package": "com.cronutils.model.field.constraint",
+      "class": "FieldConstraints",
+      "method": "getIntMappingValue",
+      "description": "(Ljava/lang/Integer;)Ljava/lang/Integer;"
+    },
+    {
+      "mutator": "true",
+      "package": "com.cronutils.model.definition",
+      "class": "CronConstraintsFactory$1",
+      "method": "validate",
+      "description": "(Lcom/cronutils/model/Cron;)Z"
+    },
+    {
+      "mutator": "void",
+      "package": "com.cronutils.utils",
+      "class": "Preconditions",
+      "method": "checkState",
+      "description": "(ZLjava/lang/String;[Ljava/lang/Object;)V"
+    },
+    {
+      "mutator": "void",
+      "package": "com.cronutils.model.time",
+      "class": "ExecutionTimeBuilder",
+      "method": "validate",
+      "description": "(Lcom/cronutils/model/field/CronFieldName;Lcom/cronutils/model/field/CronField;)V"
+    }
+  ],
+  "no-propagation": [],
+  "weak-oracle": [
+    {
+      "mutator": "null",
+      "package": "com.cronutils.model.field.definition",
+      "class": "FieldSpecialCharsDefinitionBuilder",
+      "method": "withIntMapping",
+      "description": "(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;"
+    },
+    {
+      "mutator": "false",
+      "package": "com.cronutils.utils",
+      "class": "StringUtils",
+      "method": "isEmpty",
+      "description": "(Ljava/lang/CharSequence;)Z"
+    },
+    {
+      "mutator": "\"\"",
+      "package": "com.cronutils.descriptor",
+      "class": "TimeDescriptionStrategy$7",
+      "method": "apply",
+      "description": "(Lcom/cronutils/descriptor/TimeDescriptionStrategy$TimeFields;)Ljava/lang/String;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.cronutils.builder",
+      "class": "CronBuilder",
+      "method": "withSecond",
+      "description": "(Lcom/cronutils/model/field/expression/FieldExpression;)Lcom/cronutils/builder/CronBuilder;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.cronutils.model.field.expression.visitor",
+      "class": "ValueMappingFieldExpressionVisitor",
+      "method": "visit",
+      "description": "(Lcom/cronutils/model/field/expression/QuestionMark;)Lcom/cronutils/model/field/expression/FieldExpression;"
+    },
+    {
+      "mutator": "false",
+      "package": "com.cronutils.model.time.generator",
+      "class": "BetweenDayOfWeekValueGenerator",
+      "method": "isMatch",
+      "description": "(I)Z"
+    },
+    {
+      "mutator": "null",
+      "package": "com.cronutils.model.field.constraint",
+      "class": "FieldConstraintsBuilder",
+      "method": "withIntValueMapping",
+      "description": "(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;"
+    },
+    {
+      "mutator": "false",
+      "package": "com.cronutils.model.time",
+      "class": "ExecutionTime",
+      "method": "isSameDate",
+      "description": "(Lorg/threeten/bp/ZonedDateTime;IIIIII)Z"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "org.jsoup.select.StructuralEvaluator$Root|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|17|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  }
+]

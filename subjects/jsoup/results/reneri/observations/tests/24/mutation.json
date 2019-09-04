@@ -1,0 +1,17 @@
+{
+  "mutator": "void",
+  "class": "Validate",
+  "package": "org.jsoup.helper",
+  "method": "noNullElements",
+  "description": "([Ljava/lang/Object;Ljava/lang/String;)V",
+  "tests": [
+    "org.jsoup.nodes.DocumentTest",
+    "org.jsoup.nodes.TextNodeTest",
+    "org.jsoup.parser.XmlTreeBuilderTest",
+    "org.jsoup.safety.CleanerTest",
+    "org.jsoup.select.ElementsTest",
+    "org.jsoup.nodes.ElementTest",
+    "org.jsoup.nodes.NodeTest",
+    "org.jsoup.parser.HtmlParserTest"
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JAnnotationUse|param|(Ljava/lang/String;Lcom/helger/jcodemodel/JEnumConstant;)Lcom/helger/jcodemodel/JAnnotationUse;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JAnnotationUse|param|(Ljava/lang/String;Lcom/helger/jcodemodel/JEnumConstant;)Lcom/helger/jcodemodel/JAnnotationUse;|0|#that|m_aMemberValues",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Map"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Map"
+      }
+    ]
+  }
+]

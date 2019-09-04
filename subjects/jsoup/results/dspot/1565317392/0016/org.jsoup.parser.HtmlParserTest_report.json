@@ -1,0 +1,85 @@
+{
+  "nbMutantKilledOriginally": 179,
+  "name": "org.jsoup.parser.HtmlParserTest",
+  "nbOriginalTestCases": 128,
+  "testCases": [
+    {
+      "name": "parsesUnterminatedOption_add7_mg5377",
+      "nbAssertionAdded": 10,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 865,
+          "locationMethod": "getElementsByAttributeValueNot"
+        }
+      ]
+    },
+    {
+      "name": "parsesUnterminatedOption_mg31",
+      "nbAssertionAdded": 16,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 66,
+          "locationMethod": "isTrackErrors"
+        }
+      ]
+    },
+    {
+      "name": "parsesUnterminatedOption_add7_mg5373",
+      "nbAssertionAdded": 10,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 898,
+          "locationMethod": "getElementsByAttributeValueContaining"
+        }
+      ]
+    },
+    {
+      "name": "parsesUnterminatedOption_add7",
+      "nbAssertionAdded": 26,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 40,
+          "locationMethod": "hasParent"
+        }
+      ]
+    },
+    {
+      "name": "parsesUnterminatedOption_mg38_mg1181_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 1306,
+          "locationMethod": "anythingElse"
+        }
+      ]
+    },
+    {
+      "name": "parsesUnterminatedOption_mg27",
+      "nbAssertionAdded": 22,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 119,
+          "locationMethod": "normalise"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "com.cronutils.model.field.expression.visitor.ValueMappingFieldExpressionVisitorTest|testVisitQuestionMark()|3",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.expression.QuestionMark"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.expression.QuestionMark"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.expression.visitor.ValueMappingFieldExpressionVisitorTest|testVisitQuestionMark()|5",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.expression.QuestionMark"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.expression.QuestionMark"
+      }
+    ]
+  }
+]

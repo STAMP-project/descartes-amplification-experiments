@@ -1,0 +1,4 @@
+Test class that has been amplified: org.owasp.html.HtmlElementTablesTest
+The original test suite kills 351 mutants
+The amplification results with 2 new tests
+it kills 4 more mutants

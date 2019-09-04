@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "net.tridentsdk.base.VectorsTest|testOps()|3",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "net.tridentsdk.base.Vector"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "net.tridentsdk.base.Vector"
+      }
+    ]
+  }
+]

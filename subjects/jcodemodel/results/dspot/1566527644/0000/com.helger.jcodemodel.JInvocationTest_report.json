@@ -1,0 +1,100 @@
+{
+  "nbMutantKilledOriginally": 22,
+  "name": "com.helger.jcodemodel.JInvocationTest",
+  "nbOriginalTestCases": 2,
+  "testCases": [
+    {
+      "name": "testWithGenerics_rv663_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 15,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "0",
+          "lineNumber": 215,
+          "locationMethod": "pos"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 215,
+          "locationMethod": "pos"
+        }
+      ]
+    },
+    {
+      "name": "testWithGenerics_rv568_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 15,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 178,
+          "locationMethod": "remove"
+        }
+      ]
+    },
+    {
+      "name": "testWithGenerics_rv498_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 15,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 153,
+          "locationMethod": "name"
+        }
+      ]
+    },
+    {
+      "name": "testWithGenerics_literalMutationString119_failAssert0",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 33,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 134,
+          "locationMethod": "isJavaIdentifier"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 110,
+          "locationMethod": "isTrue"
+        }
+      ]
+    },
+    {
+      "name": "testWithGenericsnull411_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 17,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 234,
+          "locationMethod": "notNull"
+        }
+      ]
+    },
+    {
+      "name": "testWithGenerics_rv561_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 15,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 497,
+          "locationMethod": "invoke"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 142,
+          "locationMethod": "isFalse"
+        }
+      ]
+    }
+  ]
+}

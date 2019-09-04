@@ -1,0 +1,632 @@
+[
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|34|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|35|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|2|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|32|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|18|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|20|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|3|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|17|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|33|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|5|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|16|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|4|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|15|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|13|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|29|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|31|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|7|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|28|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|30|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|14|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|6|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|41|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|27|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|11|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|10|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|40|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|26|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|12|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|24|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|8|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|25|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|9|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|39|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|23|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|21|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|38|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|36|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|37|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|19|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|getDigest|(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;|22|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.security.MessageDigest"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.security.MessageDigest"
+      }
+    ]
+  }
+]

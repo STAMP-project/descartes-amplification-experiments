@@ -1,0 +1,150 @@
+{
+  "nbMutantKilledOriginally": 176,
+  "name": "org.jsoup.parser.HtmlParserTest",
+  "nbOriginalTestCases": 128,
+  "testCases": [
+    {
+      "name": "handlesSpanInTbody_literalMutationString9_add861_mg17616",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 1010,
+          "locationMethod": "getElementsMatchingOwnText"
+        }
+      ]
+    },
+    {
+      "name": "handlesSpanInTbody_mg37",
+      "nbAssertionAdded": 12,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 66,
+          "locationMethod": "isTrackErrors"
+        }
+      ]
+    },
+    {
+      "name": "handlesSpanInTbody_mg39_add1319_mg20662_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 81,
+          "locationMethod": "noNullElements"
+        }
+      ]
+    },
+    {
+      "name": "handlesSpanInTbody_mg30",
+      "nbAssertionAdded": 16,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 40,
+          "locationMethod": "hasParent"
+        }
+      ]
+    },
+    {
+      "name": "handlesSpanInTbody_mg38_add2566_mg5126",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 898,
+          "locationMethod": "getElementsByAttributeValueContaining"
+        }
+      ]
+    },
+    {
+      "name": "handlesSpanInTbody_mg39_mg1605",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 952,
+          "locationMethod": "getElementsByIndexEquals"
+        }
+      ]
+    },
+    {
+      "name": "handlesSpanInTbody_add4_mg2284_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 1022,
+          "locationMethod": "getElementsMatchingOwnText"
+        }
+      ]
+    },
+    {
+      "name": "handlesSpanInTbody_mg33",
+      "nbAssertionAdded": 18,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 119,
+          "locationMethod": "normalise"
+        }
+      ]
+    },
+    {
+      "name": "handlesSpanInTbody_add4_mg2235_mg10876",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 974,
+          "locationMethod": "getElementsContainingOwnText"
+        }
+      ]
+    },
+    {
+      "name": "handlesSpanInTbody_mg34_mg2394_mg19808_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 921,
+          "locationMethod": "getElementsByAttributeValueMatching"
+        }
+      ]
+    },
+    {
+      "name": "handlesSpanInTbody_add4_mg2235",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 887,
+          "locationMethod": "getElementsByAttributeValueEnding"
+        }
+      ]
+    }
+  ]
+}

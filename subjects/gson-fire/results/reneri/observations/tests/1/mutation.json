@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "IterableMapper",
+  "package": "io.gsonfire.util",
+  "method": "areObjectEquals",
+  "description": "(Ljava/lang/Object;Ljava/lang/Object;)Z",
+  "tests": [
+    "io.gsonfire.util.IterableMapperTest"
+  ]
+}

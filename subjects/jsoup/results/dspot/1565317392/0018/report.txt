@@ -1,0 +1,4 @@
+Test class that has been amplified: org.jsoup.nodes.ElementTest
+The original test suite kills 1123 mutants
+The amplification results with 13 new tests
+it kills 20 more mutants

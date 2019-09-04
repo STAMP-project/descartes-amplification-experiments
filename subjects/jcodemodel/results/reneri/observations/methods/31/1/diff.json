@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|addDontImportClass|(Ljava/lang/Class;)Z|0|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCodeModel|addDontImportClass|(Ljava/lang/Class;)Z|0|#that|m_aDontImportClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  }
+]

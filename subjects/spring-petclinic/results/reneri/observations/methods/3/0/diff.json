@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.Vet|addSpecialty|(Lorg/springframework/samples/petclinic/vet/Specialty;)V|1|#that|specialties",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.vet.Vet|addSpecialty|(Lorg/springframework/samples/petclinic/vet/Specialty;)V|0|#that|specialties",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  }
+]

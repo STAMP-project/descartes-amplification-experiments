@@ -1,0 +1,1007 @@
+[
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testLastDayOfWeekInMonth()|31|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testNthDayOfWeekInMonth()|34|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|6|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|46|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|46|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|18|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXMinutesBetweenTime()|26|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testNthDayOfWeekInMonth()|34|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testLastDayOfMonth()|29|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|6|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeAtXTimeBetweenDaysOfWeek()|32|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testNearestWeekdayToNthOfMonth()|32|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testEveryMinuteBetweenMonths()|24|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|18|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testLastDayOfMonth()|29|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeAtXHours()|24|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|18|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testLastDayOfWeekInMonth()|31|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testNearestWeekdayToNthOfMonth()|32|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.Issue227Test|testProperDescriptorOutputWithSeconds()|2|hashCodeValue",
+    "expected": [
+      {
+        "literalValue": "96636889",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testEverySecondInMonth()|28|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXMinutesBetweenTime()|26|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|6|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testEverySecondInMonth()|28|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testLastDayOfMonth()|29|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testNearestWeekdayToNthOfMonth()|32|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeAtXTimeBetweenDaysOfWeek()|32|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeAtXTimeBetweenDaysOfWeek()|32|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXMinutesBetweenTime()|26|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testEveryMinuteBetweenMonths()|24|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testLastDayOfWeekInMonth()|31|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testEverySecondInMonth()|28|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testNearestWeekdayToNthOfMonth()|32|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testLastDayOfWeekInMonth()|31|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testEverySecondInMonth()|28|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXMinutesBetweenTime()|26|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testNearestWeekdayToNthOfMonth()|32|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testEveryMinuteBetweenMonths()|24|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeAtXTimeBetweenDaysOfWeek()|32|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|18|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|46|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|46|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|6|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testLastDayOfWeekInMonth()|31|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|6|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testEverySecondInMonth()|28|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testEverySecondInMonth()|28|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|6|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testLastDayOfMonth()|29|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testNthDayOfWeekInMonth()|34|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testLastDayOfMonth()|29|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testLastDayOfWeekInMonth()|31|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testNthDayOfWeekInMonth()|34|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testLastDayOfMonth()|29|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXMinutesBetweenTime()|26|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testEverySecondInMonth()|28|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testLastDayOfWeekInMonth()|31|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testEveryMinuteBetweenMonths()|24|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|46|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|18|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeAtXHours()|24|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeAtXHours()|24|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|18|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testEveryMinuteBetweenMonths()|24|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testNthDayOfWeekInMonth()|34|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|46|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeAtXHours()|24|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeAtXHours()|24|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testEveryMinuteBetweenMonths()|24|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeAtXTimeBetweenDaysOfWeek()|32|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testEveryMinuteBetweenMonths()|24|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXMinutesBetweenTime()|26|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testEveryMinuteBetweenMonths()|24|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeAtXHours()|24|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXMinutesBetweenTime()|26|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeAtXHours()|24|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeAtXTimeBetweenDaysOfWeek()|32|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testNthDayOfWeekInMonth()|34|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testNearestWeekdayToNthOfMonth()|32|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|6|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeAtXHours()|24|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testEverySecondInMonth()|28|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testNearestWeekdayToNthOfMonth()|32|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|46|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|46|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.Issue227Test|testProperDescriptorOutput()|2|languageTag",
+    "expected": [
+      {
+        "literalValue": "en-US",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.Issue227Test|testProperDescriptorOutputWithSeconds()|2|languageTag",
+    "expected": [
+      {
+        "literalValue": "en-US",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testNthDayOfWeekInMonth()|34|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testLastDayOfWeekInMonth()|31|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeAtXTimeBetweenDaysOfWeek()|32|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|18|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testLastDayOfMonth()|29|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testNearestWeekdayToNthOfMonth()|32|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXMinutesBetweenTime()|26|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|18|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testNthDayOfWeekInMonth()|34|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeEveryXTimeUnits()|6|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testDescribeAtXTimeBetweenDaysOfWeek()|32|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.utils.descriptor.CronDescriptorTest|testLastDayOfMonth()|29|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  }
+]

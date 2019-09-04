@@ -1,0 +1,47 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JDocComment|generate|(Lcom/helger/jcodemodel/IJFormatter;)V|4|#0|m_aCollectedReferences|#size",
+    "expected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JDocComment|generate|(Lcom/helger/jcodemodel/IJFormatter;)V|3|#0|m_aCollectedReferences|#size",
+    "expected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JDocComment|generate|(Lcom/helger/jcodemodel/IJFormatter;)V|2|#0|m_aCollectedReferences|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "mutator": "1",
+  "class": "XmlIterator",
+  "package": "org.eaxy",
+  "method": "currentColumnNumber",
+  "description": "()I",
+  "tests": [
+    "org.eaxy.usage.ElementFinderTest"
+  ]
+}

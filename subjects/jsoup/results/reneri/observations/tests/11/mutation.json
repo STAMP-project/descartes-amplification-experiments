@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "Node",
+  "package": "org.jsoup.nodes",
+  "method": "previousSibling",
+  "description": "()Lorg/jsoup/nodes/Node;",
+  "tests": [
+    "org.jsoup.nodes.NodeTest"
+  ]
+}

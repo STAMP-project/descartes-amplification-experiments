@@ -1,0 +1,14 @@
+{
+  "mutator": "1",
+  "class": "JCHashCodeCalculator",
+  "package": "com.helger.jcodemodel.util",
+  "method": "append",
+  "description": "(ILjava/lang/Object;)I",
+  "tests": [
+    "com.helger.jcodemodel.JTypeVarTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue31FuncTest",
+    "com.helger.jcodemodel.JDirectClassTest",
+    "com.helger.jcodemodel.JLambdaMethodRefTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue30FuncTest"
+  ]
+}

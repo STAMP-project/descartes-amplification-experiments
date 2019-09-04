@@ -1,0 +1,242 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|isGE0|(ILjava/lang/String;)I|58|#result",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|isGE0|(ILjava/lang/String;)I|17|#result",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|isGE0|(ILjava/lang/String;)I|79|#result",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|isGE0|(ILjava/lang/String;)I|5|#result",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|isGE0|(ILjava/lang/String;)I|59|#result",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|isGE0|(ILjava/lang/String;)I|8|#result",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|isGE0|(ILjava/lang/String;)I|2|#result",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|isGE0|(ILjava/lang/String;)I|50|#result",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|isGE0|(ILjava/lang/String;)I|3|#result",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|isGE0|(ILjava/lang/String;)I|48|#result",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|isGE0|(ILjava/lang/String;)I|16|#result",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|isGE0|(ILjava/lang/String;)I|6|#result",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|isGE0|(ILjava/lang/String;)I|1|#result",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|isGE0|(ILjava/lang/String;)I|78|#result",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|isGE0|(ILjava/lang/String;)I|18|#result",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCValueEnforcer|isGE0|(ILjava/lang/String;)I|15|#result",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  }
+]

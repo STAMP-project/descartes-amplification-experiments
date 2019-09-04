@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 68,
+  "name": "com.squareup.javapoet.TypeSpecTest",
+  "nbOriginalTestCases": 109,
+  "testCases": [
+    {
+      "name": "varargs_mg78",
+      "nbAssertionAdded": 10,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 331,
+          "locationMethod": "equals"
+        }
+      ]
+    }
+  ]
+}

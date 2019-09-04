@@ -1,0 +1,1 @@
+[{"class": "org.apache.commons.cli.ParserTestCase", "method": "testSingleDash"}, {"class": "org.apache.commons.cli.ParserTestCase", "method": "testAmbiguousPartialLongOption1"}, {"class": "org.apache.commons.cli.OptionTest", "method": "testGetValue"}]

@@ -1,0 +1,1047 @@
+[
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|237|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|214|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|221|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|244|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|243|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|242|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|246|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|187|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|240|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|233|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|248|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|238|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|235|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|222|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|161|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|200|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|235|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|224|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|257|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|230|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|241|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|223|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|189|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|181|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|256|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|56|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|229|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|131|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|186|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|226|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|245|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|255|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|232|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|132|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|247|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|241|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|183|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|227|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|219|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|256|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|234|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|234|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|254|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|240|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|233|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|219|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|184|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|180|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|221|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|222|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|239|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|228|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|223|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|250|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|190|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|224|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|185|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|258|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|231|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|225|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|220|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|236|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|231|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|242|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|228|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|57|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleXmlBuilder|chance|(D)Z|182|#that|memberDefStack|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  }
+]

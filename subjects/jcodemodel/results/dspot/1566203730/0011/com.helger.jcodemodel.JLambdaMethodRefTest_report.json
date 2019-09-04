@@ -1,0 +1,443 @@
+{
+  "nbMutantKilledOriginally": 24,
+  "name": "com.helger.jcodemodel.JLambdaMethodRefTest",
+  "nbOriginalTestCases": 7,
+  "testCases": [
+    {
+      "name": "testInvocationMethodRef_JMethod_literalMutationString38_failAssert0",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 3,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 110,
+          "locationMethod": "isTrue"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 134,
+          "locationMethod": "isJavaIdentifier"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg128_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 4,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 208,
+          "locationMethod": "paramAtIndex"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg171",
+      "nbAssertionAdded": 190,
+      "nbInputAdded": 4,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 396,
+          "locationMethod": "annotations"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg161_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 4,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 377,
+          "locationMethod": "narrow"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg140_failAssert0",
+      "nbAssertionAdded": 3,
+      "nbInputAdded": 7,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 153,
+          "locationMethod": "name"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethodnull190_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 234,
+          "locationMethod": "notNull"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg180",
+      "nbAssertionAdded": 202,
+      "nbInputAdded": 4,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 155,
+          "locationMethod": "isSynchronized"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 178,
+          "locationMethod": "isDefault"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 165,
+          "locationMethod": "isStrictFP"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg95_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 142,
+          "locationMethod": "isFalse"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 98,
+          "locationMethod": "_check"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg150",
+      "nbAssertionAdded": 380,
+      "nbInputAdded": 4,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 254,
+          "locationMethod": "arg"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg157",
+      "nbAssertionAdded": 190,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 354,
+          "locationMethod": "args"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg135",
+      "nbAssertionAdded": 190,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 260,
+          "locationMethod": "equals"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg156",
+      "nbAssertionAdded": 190,
+      "nbInputAdded": 4,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 330,
+          "locationMethod": "argThis"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg101",
+      "nbAssertionAdded": 194,
+      "nbInputAdded": 4,
+      "nbMutantKilled": 4,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 158,
+          "locationMethod": "getName"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 147,
+          "locationMethod": "hasArgs"
+        },
+        {
+          "ID": "\"A\"",
+          "lineNumber": 158,
+          "locationMethod": "getName"
+        },
+        {
+          "ID": "\"\"",
+          "lineNumber": 158,
+          "locationMethod": "getName"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg155",
+      "nbAssertionAdded": 190,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 318,
+          "locationMethod": "argNull"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg154",
+      "nbAssertionAdded": 190,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 293,
+          "locationMethod": "arg"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg89",
+      "nbAssertionAdded": 630,
+      "nbInputAdded": 4,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "\"A\"",
+          "lineNumber": 111,
+          "locationMethod": "fullName"
+        },
+        {
+          "ID": "\"\"",
+          "lineNumber": 111,
+          "locationMethod": "fullName"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 111,
+          "locationMethod": "fullName"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod",
+      "nbAssertionAdded": 94,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 15,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 1059,
+          "locationMethod": "getAllDontImportClasses"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 214,
+          "locationMethod": "getPackage"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 155,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 604,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 198,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 532,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 166,
+          "locationMethod": "getPackage"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 281,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 338,
+          "locationMethod": "getTypeParameters"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 198,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 167,
+          "locationMethod": "getThrows"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 592,
+          "locationMethod": "hasHeaderComment"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 155,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 532,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 604,
+          "locationMethod": "getHashCode"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg149",
+      "nbAssertionAdded": 190,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 464,
+          "locationMethod": "lit"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 241,
+          "locationMethod": "arg"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_add12",
+      "nbAssertionAdded": 196,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 6,
+      "mutantsKilled": [
+        {
+          "ID": "1",
+          "lineNumber": 83,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "\"A\"",
+          "lineNumber": 509,
+          "locationMethod": "_typeFullName"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 509,
+          "locationMethod": "_typeFullName"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 83,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 161,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 491,
+          "locationMethod": "append"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg148",
+      "nbAssertionAdded": 380,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 374,
+          "locationMethod": "lit"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 228,
+          "locationMethod": "arg"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg104",
+      "nbAssertionAdded": 194,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 526,
+          "locationMethod": "getConstructor"
+        }
+      ]
+    },
+    {
+      "name": "testInvocationMethodRef_JMethod_mg90",
+      "nbAssertionAdded": 612,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 297,
+          "locationMethod": "_extends"
+        }
+      ]
+    }
+  ]
+}

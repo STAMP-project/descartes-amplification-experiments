@@ -1,0 +1,11 @@
+{
+  "mutator": "true",
+  "class": "StructuralEvaluator$PreviousSibling",
+  "package": "org.jsoup.select",
+  "method": "matches",
+  "description": "(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z",
+  "tests": [
+    "org.jsoup.nodes.ElementTest",
+    "org.jsoup.select.SelectorTest"
+  ]
+}

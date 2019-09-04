@@ -1,0 +1,147 @@
+{
+  "nbMutantKilledOriginally": 173,
+  "name": "org.jsoup.parser.HtmlParserTest",
+  "nbOriginalTestCases": 128,
+  "testCases": [
+    {
+      "name": "testSelectWithOption_mg33_mg3580",
+      "nbAssertionAdded": 18,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 865,
+          "locationMethod": "getElementsByAttributeValueNot"
+        }
+      ]
+    },
+    {
+      "name": "testSelectWithOption",
+      "nbAssertionAdded": 9,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 66,
+          "locationMethod": "isTrackErrors"
+        },
+        {
+          "ID": "false",
+          "lineNumber": 66,
+          "locationMethod": "isTrackErrors"
+        }
+      ]
+    },
+    {
+      "name": "testSelectWithOption_rv54",
+      "nbAssertionAdded": 14,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 246,
+          "locationMethod": "error"
+        }
+      ]
+    },
+    {
+      "name": "testSelectWithOption_mg37",
+      "nbAssertionAdded": 30,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 119,
+          "locationMethod": "normalise"
+        }
+      ]
+    },
+    {
+      "name": "testSelectWithOption_mg34",
+      "nbAssertionAdded": 28,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 40,
+          "locationMethod": "hasParent"
+        }
+      ]
+    },
+    {
+      "name": "testSelectWithOption_mg25_mg941",
+      "nbAssertionAdded": 18,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 887,
+          "locationMethod": "getElementsByAttributeValueEnding"
+        }
+      ]
+    },
+    {
+      "name": "testSelectWithOption_mg34_mg4094",
+      "nbAssertionAdded": 18,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 898,
+          "locationMethod": "getElementsByAttributeValueContaining"
+        }
+      ]
+    },
+    {
+      "name": "testSelectWithOption_mg25_mg950",
+      "nbAssertionAdded": 18,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 952,
+          "locationMethod": "getElementsByIndexEquals"
+        }
+      ]
+    },
+    {
+      "name": "testSelectWithOption_literalMutationString16",
+      "nbAssertionAdded": 18,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 1306,
+          "locationMethod": "anythingElse"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 1306,
+          "locationMethod": "anythingElse"
+        }
+      ]
+    },
+    {
+      "name": "testSelectWithOption_mg30_mg3685",
+      "nbAssertionAdded": 18,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 974,
+          "locationMethod": "getElementsContainingOwnText"
+        }
+      ]
+    }
+  ]
+}

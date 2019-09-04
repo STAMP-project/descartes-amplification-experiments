@@ -1,0 +1,136 @@
+{
+  "nbMutantKilledOriginally": 3,
+  "name": "com.helger.jcodemodel.ForEachFuncTest",
+  "nbOriginalTestCases": 1,
+  "testCases": [
+    {
+      "name": "testBasic_rv301_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "1",
+          "lineNumber": 215,
+          "locationMethod": "pos"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 215,
+          "locationMethod": "pos"
+        }
+      ]
+    },
+    {
+      "name": "testBasic_rv263_failAssert0null12377_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 3,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 234,
+          "locationMethod": "notNull"
+        }
+      ]
+    },
+    {
+      "name": "testBasic_literalMutationString75_failAssert0",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 7,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 106,
+          "locationMethod": "state"
+        }
+      ]
+    },
+    {
+      "name": "testBasic_rv302_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 178,
+          "locationMethod": "remove"
+        }
+      ]
+    },
+    {
+      "name": "testBasic_rv265_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 4,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 414,
+          "locationMethod": "invoke"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 427,
+          "locationMethod": "invokeThis"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 142,
+          "locationMethod": "isFalse"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 395,
+          "locationMethod": "invoke"
+        }
+      ]
+    },
+    {
+      "name": "testBasic_literalMutationString47_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 4,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 110,
+          "locationMethod": "isTrue"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 134,
+          "locationMethod": "isJavaIdentifier"
+        }
+      ]
+    },
+    {
+      "name": "testBasic_rv302_failAssert0_literalMutationNumber9984_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 3,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 99,
+          "locationMethod": "outer"
+        }
+      ]
+    },
+    {
+      "name": "testBasic_rv263_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 497,
+          "locationMethod": "invoke"
+        }
+      ]
+    }
+  ]
+}

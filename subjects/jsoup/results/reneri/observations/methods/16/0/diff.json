@@ -1,0 +1,182 @@
+[
+  {
+    "pointcut": "org.jsoup.nodes.Entities|load|(Lorg/jsoup/nodes/Entities$EscapeMode;Ljava/lang/String;I)V|2|#0|codeVals",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "int[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "int[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.Entities|load|(Lorg/jsoup/nodes/Entities$EscapeMode;Ljava/lang/String;I)V|1|#0|codeVals",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "int[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "int[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.Entities|load|(Lorg/jsoup/nodes/Entities$EscapeMode;Ljava/lang/String;I)V|0|#0|codeVals",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "int[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "int[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.Entities|load|(Lorg/jsoup/nodes/Entities$EscapeMode;Ljava/lang/String;I)V|0|#0|nameKeys",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.Entities|load|(Lorg/jsoup/nodes/Entities$EscapeMode;Ljava/lang/String;I)V|2|#0|codeKeys",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "int[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "int[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.Entities|load|(Lorg/jsoup/nodes/Entities$EscapeMode;Ljava/lang/String;I)V|1|#0|codeKeys",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "int[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "int[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.Entities|load|(Lorg/jsoup/nodes/Entities$EscapeMode;Ljava/lang/String;I)V|0|#0|codeKeys",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "int[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "int[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.Entities|load|(Lorg/jsoup/nodes/Entities$EscapeMode;Ljava/lang/String;I)V|0|#0|nameVals",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.Entities|load|(Lorg/jsoup/nodes/Entities$EscapeMode;Ljava/lang/String;I)V|2|#0|nameKeys",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.Entities|load|(Lorg/jsoup/nodes/Entities$EscapeMode;Ljava/lang/String;I)V|1|#0|nameKeys",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.Entities|load|(Lorg/jsoup/nodes/Entities$EscapeMode;Ljava/lang/String;I)V|1|#0|nameVals",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.Entities|load|(Lorg/jsoup/nodes/Entities$EscapeMode;Ljava/lang/String;I)V|2|#0|nameVals",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  }
+]

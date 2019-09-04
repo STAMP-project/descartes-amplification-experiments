@@ -1,0 +1,92 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JAnnotationArrayMember|param|(Ljava/lang/String;)Lcom/helger/jcodemodel/JAnnotationArrayMember;|2|#that|m_aValues|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JAnnotationArrayMember|param|(Ljava/lang/String;)Lcom/helger/jcodemodel/JAnnotationArrayMember;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JAnnotationArrayMember"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JAnnotationArrayMember"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JAnnotationArrayMember|param|(Ljava/lang/String;)Lcom/helger/jcodemodel/JAnnotationArrayMember;|0|#that|m_aValues|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JAnnotationArrayMember|param|(Ljava/lang/String;)Lcom/helger/jcodemodel/JAnnotationArrayMember;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JAnnotationArrayMember"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JAnnotationArrayMember"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JAnnotationArrayMember|param|(Ljava/lang/String;)Lcom/helger/jcodemodel/JAnnotationArrayMember;|1|#that|m_aValues|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JAnnotationArrayMember|param|(Ljava/lang/String;)Lcom/helger/jcodemodel/JAnnotationArrayMember;|2|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JAnnotationArrayMember"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JAnnotationArrayMember"
+      }
+    ]
+  }
+]

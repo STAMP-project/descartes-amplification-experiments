@@ -1,0 +1,11 @@
+{
+  "mutator": "false",
+  "class": "JFormatter",
+  "package": "com.helger.jcodemodel.writer",
+  "method": "isPrinting",
+  "description": "()Z",
+  "tests": [
+    "com.helger.jcodemodel.JDefinedClassTest",
+    "com.helger.jcodemodel.JavadocFuncTest"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 8,
+  "name": "net.tridentsdk.world.opt.OptsTest",
+  "nbOriginalTestCases": 6,
+  "testCases": [
+    {
+      "name": "gameRuleValueTestnull35_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 113,
+          "locationMethod": "copyTo"
+        }
+      ]
+    }
+  ]
+}

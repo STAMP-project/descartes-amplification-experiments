@@ -1,0 +1,20 @@
+{
+  "mutator": "true",
+  "class": "AutoCloseableHtmlStreamRenderer",
+  "package": "org.owasp.html",
+  "method": "isAutoCloseable",
+  "description": "(Ljava/lang/Object;)Z",
+  "tests": [
+    "org.owasp.html.HtmlStreamRendererTest",
+    "org.owasp.html.HtmlSanitizerTest",
+    "org.owasp.html.SanitizersTest",
+    "org.owasp.html.HtmlPolicyBuilderTest",
+    "org.owasp.html.AntiSamyTest",
+    "org.owasp.html.AutoCloseableHtmlStreamRendererTest",
+    "org.owasp.html.TagBalancingHtmlStreamRendererTest",
+    "org.owasp.html.UrlTextExampleTest",
+    "org.owasp.html.ExamplesTest",
+    "org.owasp.html.HtmlChangeReporterTest",
+    "org.owasp.html.HtmlPolicyBuilderFuzzerTest"
+  ]
+}

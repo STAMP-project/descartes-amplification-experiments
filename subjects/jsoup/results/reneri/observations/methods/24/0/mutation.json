@@ -1,0 +1,11 @@
+{
+  "mutator": "true",
+  "class": "Comment",
+  "package": "org.jsoup.nodes",
+  "method": "isXmlDeclaration",
+  "description": "()Z",
+  "tests": [
+    "org.jsoup.parser.XmlTreeBuilderTest",
+    "org.jsoup.helper.DataUtilTest"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 4,
+  "name": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest",
+  "nbOriginalTestCases": 1,
+  "testCases": [
+    {
+      "name": "testGenerateCandidatesNotIncludingIntervalExtremes_literalMutationNumber29_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 131,
+          "locationMethod": "isMatch"
+        }
+      ]
+    }
+  ]
+}

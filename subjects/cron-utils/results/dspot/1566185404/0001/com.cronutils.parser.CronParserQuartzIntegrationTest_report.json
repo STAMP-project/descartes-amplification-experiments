@@ -1,0 +1,25 @@
+{
+  "nbMutantKilledOriginally": 18,
+  "name": "com.cronutils.parser.CronParserQuartzIntegrationTest",
+  "nbOriginalTestCases": 29,
+  "testCases": [
+    {
+      "name": "testEveryXYears_rv55",
+      "nbAssertionAdded": 8,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 77,
+          "locationMethod": "instance"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 73,
+          "locationMethod": "withSecond"
+        }
+      ]
+    }
+  ]
+}

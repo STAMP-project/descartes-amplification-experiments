@@ -1,0 +1,23 @@
+[
+    {
+        "method": {
+            "class": "AmbiguousOptionException",
+            "name": "createMessage",
+            "package": "org.apache.commons.cli",
+            "description": "(Ljava/lang/String;Ljava/util/Collection;)Ljava/lang/String;"
+        },
+        "mutators": [
+            "\"\"",
+            "\"A\"",
+            "null"
+        ],
+        "entryPoints": [
+            {
+                "class": "AmbiguousOptionException",
+                "name": "<init>",
+                "package": "org.apache.commons.cli",
+                "description": "(Ljava/lang/String;Ljava/util/Collection;)V"
+            }
+        ]
+    }
+]

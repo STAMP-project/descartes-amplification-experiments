@@ -1,0 +1,62 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JDefinedClass|_extends|(Lcom/helger/jcodemodel/AbstractJClass;)Lcom/helger/jcodemodel/JDefinedClass;|1|#that|m_aSuperClass",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.AbstractJClass"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.AbstractJClass"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JDefinedClass|_extends|(Lcom/helger/jcodemodel/AbstractJClass;)Lcom/helger/jcodemodel/JDefinedClass;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JDefinedClass"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JDefinedClass"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JDefinedClass|_extends|(Lcom/helger/jcodemodel/AbstractJClass;)Lcom/helger/jcodemodel/JDefinedClass;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JDefinedClass"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JDefinedClass"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JDefinedClass|_extends|(Lcom/helger/jcodemodel/AbstractJClass;)Lcom/helger/jcodemodel/JDefinedClass;|0|#that|m_aSuperClass",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.AbstractJClass"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.AbstractJClass"
+      }
+    ]
+  }
+]

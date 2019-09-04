@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "PercentCodec",
+  "package": "org.apache.commons.codec.net",
+  "method": "inAlwaysEncodeCharsRange",
+  "description": "(B)Z",
+  "tests": [
+    "org.apache.commons.codec.net.PercentCodecTest"
+  ]
+}

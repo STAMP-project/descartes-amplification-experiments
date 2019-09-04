@@ -1,0 +1,12 @@
+{
+  "mutator": "false",
+  "class": "AbstractJClassContainer",
+  "package": "com.helger.jcodemodel",
+  "method": "isAnonymous",
+  "description": "()Z",
+  "tests": [
+    "com.helger.jcodemodel.supplementary.issues.Issue31FuncTest",
+    "com.helger.jcodemodel.AnonymousClassFuncTest",
+    "com.helger.jcodemodel.JInvocationTest"
+  ]
+}

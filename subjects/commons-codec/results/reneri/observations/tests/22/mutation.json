@@ -1,0 +1,12 @@
+{
+  "mutator": "false",
+  "class": "Base32",
+  "package": "org.apache.commons.codec.binary",
+  "method": "isInAlphabet",
+  "description": "(B)Z",
+  "tests": [
+    "org.apache.commons.codec.binary.Base32InputStreamTest",
+    "org.apache.commons.codec.binary.Base32OutputStreamTest",
+    "org.apache.commons.codec.binary.Base32Test"
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JDefinedClassTest|testCallSuper()|26",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JDefinedClass"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JDefinedClass"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.NestedClassFuncTest|testBasic()|8|m_aRefClasses|#size",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.NestedClassFuncTest|testBasic()|7",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JDefinedClass"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JDefinedClass"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JDefinedClassTest|testCallSuper()|27|m_aSuperClass",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.AbstractJClass"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.AbstractJClass"
+      }
+    ]
+  }
+]

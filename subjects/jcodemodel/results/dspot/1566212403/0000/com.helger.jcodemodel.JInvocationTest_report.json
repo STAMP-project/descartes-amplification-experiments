@@ -1,0 +1,273 @@
+{
+  "nbMutantKilledOriginally": 22,
+  "name": "com.helger.jcodemodel.JInvocationTest",
+  "nbOriginalTestCases": 2,
+  "testCases": [
+    {
+      "name": "testWithGenerics_rv537_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 15,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 153,
+          "locationMethod": "name"
+        }
+      ]
+    },
+    {
+      "name": "testWithGenerics_rv664_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 15,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 178,
+          "locationMethod": "remove"
+        }
+      ]
+    },
+    {
+      "name": "testWithGenerics_literalMutationString108_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 17,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 110,
+          "locationMethod": "isTrue"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 134,
+          "locationMethod": "isJavaIdentifier"
+        }
+      ]
+    },
+    {
+      "name": "testWithGenerics_rv599_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 15,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "1",
+          "lineNumber": 215,
+          "locationMethod": "pos"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 215,
+          "locationMethod": "pos"
+        }
+      ]
+    },
+    {
+      "name": "testWithGenerics_rv691_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 15,
+      "nbMutantKilled": 4,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 142,
+          "locationMethod": "isFalse"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 395,
+          "locationMethod": "invoke"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 414,
+          "locationMethod": "invoke"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 427,
+          "locationMethod": "invokeThis"
+        }
+      ]
+    },
+    {
+      "name": "testWithGenericsnull419_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 17,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 234,
+          "locationMethod": "notNull"
+        }
+      ]
+    },
+    {
+      "name": "testWithGenerics_mg346_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 18,
+      "nbMutantKilled": 31,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 98,
+          "locationMethod": "_check"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 751,
+          "locationMethod": "_collectImportOuterClassIfCausesNoAmbiguities"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 75,
+          "locationMethod": "compare"
+        },
+        {
+          "ID": "false",
+          "lineNumber": 302,
+          "locationMethod": "contains"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 425,
+          "locationMethod": "_addTypeVars"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 1533,
+          "locationMethod": "isGE0"
+        },
+        {
+          "ID": "false",
+          "lineNumber": 108,
+          "locationMethod": "isAmbiguousIn"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 99,
+          "locationMethod": "outer"
+        },
+        {
+          "ID": "false",
+          "lineNumber": 698,
+          "locationMethod": "_collectShouldBeImported"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 271,
+          "locationMethod": "add"
+        },
+        {
+          "ID": "\"A\"",
+          "lineNumber": 67,
+          "locationMethod": "name"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 1538,
+          "locationMethod": "isGE0"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 954,
+          "locationMethod": "addDontImportClasses"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 208,
+          "locationMethod": "paramAtIndex"
+        },
+        {
+          "ID": "false",
+          "lineNumber": 203,
+          "locationMethod": "isTypeName"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 125,
+          "locationMethod": "_extends"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 108,
+          "locationMethod": "isAmbiguousIn"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 1538,
+          "locationMethod": "isGE0"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 1533,
+          "locationMethod": "isGE0"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 698,
+          "locationMethod": "_collectShouldBeImported"
+        },
+        {
+          "ID": "false",
+          "lineNumber": 147,
+          "locationMethod": "isAnnotationTypeDeclaration"
+        },
+        {
+          "ID": "false",
+          "lineNumber": 186,
+          "locationMethod": "isAnonymous"
+        },
+        {
+          "ID": "empty",
+          "lineNumber": 92,
+          "locationMethod": "typeParams"
+        },
+        {
+          "ID": "false",
+          "lineNumber": 349,
+          "locationMethod": "hasVarArgs"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 688,
+          "locationMethod": "_return"
+        },
+        {
+          "ID": "false",
+          "lineNumber": 145,
+          "locationMethod": "isNative"
+        },
+        {
+          "ID": "false",
+          "lineNumber": 592,
+          "locationMethod": "hasHeaderComment"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 234,
+          "locationMethod": "isAnnotated"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 309,
+          "locationMethod": "clear"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 786,
+          "locationMethod": "_printIsImplicitlyImported"
+        },
+        {
+          "ID": "false",
+          "lineNumber": 137,
+          "locationMethod": "isInterface"
+        }
+      ]
+    }
+  ]
+}

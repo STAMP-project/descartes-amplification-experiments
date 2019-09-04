@@ -1,0 +1,1 @@
+{"no-infection": [{"mutator": "true", "package": "io.gsonfire.util", "method": "equals", "description": "(Ljava/lang/Object;)Z", "class": "SimpleIterable"}], "no-propagation": [], "weak-oracle": []}

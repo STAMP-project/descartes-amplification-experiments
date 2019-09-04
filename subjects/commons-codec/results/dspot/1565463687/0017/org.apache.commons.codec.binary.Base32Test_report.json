@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 20,
+  "name": "org.apache.commons.codec.binary.Base32Test",
+  "nbOriginalTestCases": 16,
+  "testCases": [
+    {
+      "name": "testBase32HexSamplesReverse_mg7",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 542,
+          "locationMethod": "isInAlphabet"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "mutator": "false",
+  "class": "HttpConnection$Base",
+  "package": "org.jsoup.helper",
+  "method": "looksLikeUtf8",
+  "description": "([B)Z",
+  "tests": [
+    "org.jsoup.helper.HttpConnectionTest",
+    "org.jsoup.integration.ConnectTest",
+    "org.jsoup.nodes.FormElementTest"
+  ]
+}

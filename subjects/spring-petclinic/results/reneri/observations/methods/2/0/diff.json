@@ -1,0 +1,137 @@
+[
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitController|setAllowedFields|(Lorg/springframework/web/bind/WebDataBinder;)V|6|#0|disallowedFields",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitController|setAllowedFields|(Lorg/springframework/web/bind/WebDataBinder;)V|8|#0|disallowedFields",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitController|setAllowedFields|(Lorg/springframework/web/bind/WebDataBinder;)V|4|#0|disallowedFields",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitController|setAllowedFields|(Lorg/springframework/web/bind/WebDataBinder;)V|7|#0|disallowedFields",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitController|setAllowedFields|(Lorg/springframework/web/bind/WebDataBinder;)V|5|#0|disallowedFields",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitController|setAllowedFields|(Lorg/springframework/web/bind/WebDataBinder;)V|1|#0|disallowedFields",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitController|setAllowedFields|(Lorg/springframework/web/bind/WebDataBinder;)V|2|#0|disallowedFields",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitController|setAllowedFields|(Lorg/springframework/web/bind/WebDataBinder;)V|3|#0|disallowedFields",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitController|setAllowedFields|(Lorg/springframework/web/bind/WebDataBinder;)V|0|#0|disallowedFields",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  }
+]

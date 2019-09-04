@@ -1,0 +1,10 @@
+{
+  "mutator": "void",
+  "class": "OwnerController",
+  "package": "org.springframework.samples.petclinic.owner",
+  "method": "setAllowedFields",
+  "description": "(Lorg/springframework/web/bind/WebDataBinder;)V",
+  "tests": [
+    "org.springframework.samples.petclinic.owner.OwnerControllerTests"
+  ]
+}

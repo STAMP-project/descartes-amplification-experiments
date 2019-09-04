@@ -1,0 +1,1 @@
+./org/apache/commons/codec/digest/HmacUtils_ESTest_scaffolding.java ./org/apache/commons/codec/digest/HmacUtils_ESTest.java

@@ -1,0 +1,80 @@
+{
+  "nbMutantKilledOriginally": 23,
+  "name": "net.tridentsdk.base.VectorsTest",
+  "nbOriginalTestCases": 8,
+  "testCases": [
+    {
+      "name": "testOps",
+      "nbAssertionAdded": 260,
+      "nbInputAdded": 12,
+      "nbMutantKilled": 13,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 294,
+          "locationMethod": "add"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 356,
+          "locationMethod": "multiply"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 373,
+          "locationMethod": "multiply"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 390,
+          "locationMethod": "multiply"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 421,
+          "locationMethod": "divide"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 404,
+          "locationMethod": "divide"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 325,
+          "locationMethod": "subtract"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 266,
+          "locationMethod": "add"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 342,
+          "locationMethod": "subtract"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 308,
+          "locationMethod": "subtract"
+        },
+        {
+          "ID": "1.0",
+          "lineNumber": 94,
+          "locationMethod": "getMagnitudeSquared"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 280,
+          "locationMethod": "add"
+        },
+        {
+          "ID": "1.0",
+          "lineNumber": 112,
+          "locationMethod": "getMagnitude"
+        }
+      ]
+    }
+  ]
+}

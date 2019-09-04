@@ -1,0 +1,632 @@
+[
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|3|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|22|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|23|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|39|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|38|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|24|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|21|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|20|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|25|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|1|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|26|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|2|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|7|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|27|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|8|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|33|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|12|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|9|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|0|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|13|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|32|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|29|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|28|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|31|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|14|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|30|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|16|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|15|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|18|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|17|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|11|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|41|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|34|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|40|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|19|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|35|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|10|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|6|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|36|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|5|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|4|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.digest.DigestUtils|isAvailable|(Ljava/lang/String;)Z|37|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  }
+]

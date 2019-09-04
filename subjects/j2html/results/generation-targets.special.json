@@ -1,0 +1,8 @@
+[
+    {
+        "class": "Part",
+        "name": "<init>",
+        "package": "j2html.utils",
+        "description": "(Ljava/lang/String;Ljava/lang/String;)V"
+    }
+]

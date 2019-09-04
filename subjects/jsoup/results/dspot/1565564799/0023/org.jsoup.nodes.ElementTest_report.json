@@ -1,0 +1,121 @@
+{
+  "nbMutantKilledOriginally": 145,
+  "name": "org.jsoup.nodes.ElementTest",
+  "nbOriginalTestCases": 93,
+  "testCases": [
+    {
+      "name": "testIs_mg234",
+      "nbAssertionAdded": 102,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 1010,
+          "locationMethod": "getElementsMatchingOwnText"
+        }
+      ]
+    },
+    {
+      "name": "testIs_mg157",
+      "nbAssertionAdded": 102,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 996,
+          "locationMethod": "getElementsMatchingText"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 984,
+          "locationMethod": "getElementsMatchingText"
+        }
+      ]
+    },
+    {
+      "name": "testIs_mg233",
+      "nbAssertionAdded": 102,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 963,
+          "locationMethod": "getElementsContainingText"
+        }
+      ]
+    },
+    {
+      "name": "testIs_mg156_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 1022,
+          "locationMethod": "getElementsMatchingOwnText"
+        }
+      ]
+    },
+    {
+      "name": "testIs",
+      "nbAssertionAdded": 49,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 40,
+          "locationMethod": "hasParent"
+        }
+      ]
+    },
+    {
+      "name": "testIs_mg104",
+      "nbAssertionAdded": 108,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 119,
+          "locationMethod": "normalise"
+        }
+      ]
+    },
+    {
+      "name": "testIs_mg224",
+      "nbAssertionAdded": 102,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 921,
+          "locationMethod": "getElementsByAttributeValueMatching"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 908,
+          "locationMethod": "getElementsByAttributeValueMatching"
+        }
+      ]
+    },
+    {
+      "name": "testIs_mg147",
+      "nbAssertionAdded": 102,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 865,
+          "locationMethod": "getElementsByAttributeValueNot"
+        }
+      ]
+    }
+  ]
+}

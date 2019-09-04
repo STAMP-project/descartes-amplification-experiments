@@ -1,0 +1,108 @@
+{
+  "nbMutantKilledOriginally": 52,
+  "name": "org.jsoup.parser.XmlTreeBuilderTest",
+  "nbOriginalTestCases": 21,
+  "testCases": [
+    {
+      "name": "testCommentAndDocType_mg19_mg484_mg2063_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 996,
+          "locationMethod": "getElementsMatchingText"
+        }
+      ]
+    },
+    {
+      "name": "testCommentAndDocType_mg27",
+      "nbAssertionAdded": 4,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 66,
+          "locationMethod": "isTrackErrors"
+        }
+      ]
+    },
+    {
+      "name": "testCommentAndDocType_mg19_mg478_mg2123",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 908,
+          "locationMethod": "getElementsByAttributeValueMatching"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 921,
+          "locationMethod": "getElementsByAttributeValueMatching"
+        }
+      ]
+    },
+    {
+      "name": "testCommentAndDocType_mg19_mg412",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 865,
+          "locationMethod": "getElementsByAttributeValueNot"
+        }
+      ]
+    },
+    {
+      "name": "testCommentAndDocType_mg19_mg478",
+      "nbAssertionAdded": 16,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 40,
+          "locationMethod": "hasParent"
+        }
+      ]
+    },
+    {
+      "name": "testCommentAndDocType_mg23",
+      "nbAssertionAdded": 10,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 119,
+          "locationMethod": "normalise"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 143,
+          "locationMethod": "normaliseTextNodes"
+        }
+      ]
+    },
+    {
+      "name": "testCommentAndDocType_mg19_mg360_mg5930",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 876,
+          "locationMethod": "getElementsByAttributeValueStarting"
+        }
+      ]
+    }
+  ]
+}

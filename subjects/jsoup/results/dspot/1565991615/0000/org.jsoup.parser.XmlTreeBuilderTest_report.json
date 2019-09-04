@@ -1,0 +1,147 @@
+{
+  "nbMutantKilledOriginally": 51,
+  "name": "org.jsoup.parser.XmlTreeBuilderTest",
+  "nbOriginalTestCases": 21,
+  "testCases": [
+    {
+      "name": "testSimpleXmlParse_literalMutationString22_mg643_mg10928",
+      "nbAssertionAdded": 6,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 840,
+          "locationMethod": "getElementsByAttributeStarting"
+        }
+      ]
+    },
+    {
+      "name": "testSimpleXmlParse_literalMutationString17_add381_mg15350",
+      "nbAssertionAdded": 6,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 963,
+          "locationMethod": "getElementsContainingText"
+        }
+      ]
+    },
+    {
+      "name": "testSimpleXmlParse_mg30_mg1557_mg19855",
+      "nbAssertionAdded": 6,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 996,
+          "locationMethod": "getElementsMatchingText"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 984,
+          "locationMethod": "getElementsMatchingText"
+        }
+      ]
+    },
+    {
+      "name": "testSimpleXmlParse_mg30_mg1526_mg11448",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 887,
+          "locationMethod": "getElementsByAttributeValueEnding"
+        }
+      ]
+    },
+    {
+      "name": "testSimpleXmlParse_mg30_mg1446",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 876,
+          "locationMethod": "getElementsByAttributeValueStarting"
+        }
+      ]
+    },
+    {
+      "name": "testSimpleXmlParse_mg30_mg1476_mg9678",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 974,
+          "locationMethod": "getElementsContainingOwnText"
+        }
+      ]
+    },
+    {
+      "name": "testSimpleXmlParse_mg38",
+      "nbAssertionAdded": 4,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 66,
+          "locationMethod": "isTrackErrors"
+        }
+      ]
+    },
+    {
+      "name": "testSimpleXmlParse_add5",
+      "nbAssertionAdded": 20,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 40,
+          "locationMethod": "hasParent"
+        }
+      ]
+    },
+    {
+      "name": "testSimpleXmlParse_mg31_add1679_mg18822",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 1010,
+          "locationMethod": "getElementsMatchingOwnText"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 1022,
+          "locationMethod": "getElementsMatchingOwnText"
+        }
+      ]
+    },
+    {
+      "name": "testSimpleXmlParse_mg34",
+      "nbAssertionAdded": 10,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 119,
+          "locationMethod": "normalise"
+        }
+      ]
+    }
+  ]
+}

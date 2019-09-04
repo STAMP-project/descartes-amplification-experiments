@@ -1,0 +1,4 @@
+Test class that has been amplified: com.cronutils.Issue200Test
+The original test suite kills 429 mutants
+The amplification results with 1 new tests
+it kills 1 more mutants

@@ -1,0 +1,319 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JPackage|parent|()Lcom/helger/jcodemodel/JPackage;|1|#trace",
+    "expected": [
+      {
+        "trace": [
+          {
+            "declaringClass": "com.helger.jcodemodel.JPackage",
+            "methodName": "parent",
+            "lineNumber": 150
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JPackageTest",
+            "methodName": "testGetParent",
+            "lineNumber": 65
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke0",
+            "lineNumber": -2
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 62
+          },
+          {
+            "declaringClass": "sun.reflect.DelegatingMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 43
+          },
+          {
+            "declaringClass": "java.lang.reflect.Method",
+            "methodName": "invoke",
+            "lineNumber": 498
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod$1",
+            "methodName": "runReflectiveCall",
+            "lineNumber": 50
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.model.ReflectiveCallable",
+            "methodName": "run",
+            "lineNumber": 12
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod",
+            "methodName": "invokeExplosively",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.statements.InvokeMethod",
+            "methodName": "evaluate",
+            "lineNumber": 17
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runLeaf",
+            "lineNumber": 325
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 78
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 57
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$3",
+            "methodName": "run",
+            "lineNumber": 290
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$1",
+            "methodName": "schedule",
+            "lineNumber": 71
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runChildren",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "access$000",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$2",
+            "methodName": "evaluate",
+            "lineNumber": 268
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "run",
+            "lineNumber": 363
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "execute",
+            "lineNumber": 365
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeWithRerun",
+            "lineNumber": 273
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeTestSet",
+            "lineNumber": 238
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "invoke",
+            "lineNumber": 159
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "invokeProviderInSameClassLoader",
+            "lineNumber": 384
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "runSuitesInProcess",
+            "lineNumber": 345
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "execute",
+            "lineNumber": 126
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "main",
+            "lineNumber": 418
+          }
+        ],
+        "typeName": "java.lang.StackTraceElement[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "trace": [
+          {
+            "declaringClass": "com.helger.jcodemodel.JPackage",
+            "methodName": "parent",
+            "lineNumber": -1
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JPackageTest",
+            "methodName": "testGetParent",
+            "lineNumber": 68
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke0",
+            "lineNumber": -2
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 62
+          },
+          {
+            "declaringClass": "sun.reflect.DelegatingMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 43
+          },
+          {
+            "declaringClass": "java.lang.reflect.Method",
+            "methodName": "invoke",
+            "lineNumber": 498
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod$1",
+            "methodName": "runReflectiveCall",
+            "lineNumber": 50
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.model.ReflectiveCallable",
+            "methodName": "run",
+            "lineNumber": 12
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod",
+            "methodName": "invokeExplosively",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.statements.InvokeMethod",
+            "methodName": "evaluate",
+            "lineNumber": 17
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runLeaf",
+            "lineNumber": 325
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 78
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 57
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$3",
+            "methodName": "run",
+            "lineNumber": 290
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$1",
+            "methodName": "schedule",
+            "lineNumber": 71
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runChildren",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "access$000",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$2",
+            "methodName": "evaluate",
+            "lineNumber": 268
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "run",
+            "lineNumber": 363
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "execute",
+            "lineNumber": 365
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeWithRerun",
+            "lineNumber": 273
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeTestSet",
+            "lineNumber": 238
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "invoke",
+            "lineNumber": 159
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "invokeProviderInSameClassLoader",
+            "lineNumber": 384
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "runSuitesInProcess",
+            "lineNumber": 345
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "execute",
+            "lineNumber": 126
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "main",
+            "lineNumber": 418
+          }
+        ],
+        "typeName": "java.lang.StackTraceElement[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JPackage|parent|()Lcom/helger/jcodemodel/JPackage;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JPackage"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JPackage"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JPackage|parent|()Lcom/helger/jcodemodel/JPackage;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JPackage"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JPackage"
+      }
+    ]
+  }
+]

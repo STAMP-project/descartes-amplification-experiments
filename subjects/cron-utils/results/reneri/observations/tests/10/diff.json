@@ -1,0 +1,1729 @@
+[
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|createDayOfMonthValueGeneratorInstance(com.cronutils.model.field.value.SpecialChar)|6|CGLIB$getSpecialChar$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzIntegrationTest|testHourlyIntervalTimeFromLastExecution()|13|seconds",
+    "expected": [
+      {
+        "literalValue": "5429",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5418",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5413",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5436",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5425",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5433",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5421",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5443",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5410",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5440",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5691",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5681",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5670",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5678",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5689",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5675",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5686",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5673",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5694",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5683",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testForCronFieldOnSpecialCharNotNone()|14|CGLIB$getSpecialChar$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|3|name",
+    "expected": [
+      {
+        "literalValue": "SUNDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "WEDNESDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "THURSDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "MONDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "TUESDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "FRIDAY",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SATURDAY",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testForCronFieldOnSpecialCharNotNone()|0|CGLIB$getSpecialChar$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|39|name",
+    "expected": [
+      {
+        "literalValue": "SUNDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "WEDNESDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "THURSDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "MONDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "TUESDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "FRIDAY",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SATURDAY",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testCreateDayOfMonthValueGeneratorInstanceBadCronFieldName()|5|CGLIB$getSpecialChar$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzIntegrationTest|testHourlyIntervalTimeFromLastExecution()|14",
+    "expected": [
+      {
+        "literalValue": "90",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "94",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testForCronFieldOnSpecialCharNotNone()|14|CGLIB$getSpecialChar$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testForCronFieldOnSpecialCharNone()|0|CGLIB$getSpecialChar$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testForCronFieldOnSpecialCharNotNone()|0|CGLIB$getSpecialChar$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testCreateDayOfMonthValueGeneratorInstanceBadCronFieldName()|6|CGLIB$getSpecialChar$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|12|ordinal",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|47",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|42",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "15",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "20",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|44",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "15",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "20",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|45",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|24",
+    "expected": [
+      {
+        "literalValue": "0 0 8 10 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 17 7 5",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 7 5 5",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 23 9 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 19 12 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 5 1 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 15 2 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 10 12 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 4 10 1",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 21 5 4",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0 0 18 4 6",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 21 12 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 17 9 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 3 5 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 11 9 4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 20 5 6",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 19 10 4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 5 2 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 12 10 4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 1 10 2",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|20",
+    "expected": [
+      {
+        "literalValue": "0 0 8 10 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 17 7 5",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 7 5 5",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 23 9 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 19 12 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 5 1 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 15 2 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 10 12 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 4 10 1",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 21 5 4",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0 0 18 4 6",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 21 12 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 17 9 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 3 5 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 11 9 4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 20 5 6",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 19 10 4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 5 2 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 12 10 4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 1 10 2",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|17",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|18",
+    "expected": [
+      {
+        "literalValue": "0 0 8 10 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 17 7 5",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 7 5 5",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 23 9 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 19 12 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 5 1 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 15 2 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 10 12 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 4 10 1",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 21 5 4",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0 0 18 4 6",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 21 12 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 17 9 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 3 5 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 11 9 4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 20 5 6",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 19 10 4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 5 2 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 12 10 4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 1 10 2",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|14",
+    "expected": [
+      {
+        "literalValue": "20",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "22",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "16",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|15",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "15",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "20",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|16",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|11",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|4|name",
+    "expected": [
+      {
+        "literalValue": "SUNDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "WEDNESDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "THURSDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "MONDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "TUESDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "FRIDAY",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SATURDAY",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|createDayOfMonthValueGeneratorInstance(com.cronutils.model.field.value.SpecialChar)|15|CGLIB$getSpecialChar$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|createDayOfMonthValueGeneratorInstance(com.cronutils.model.field.value.SpecialChar)|15|CGLIB$getSpecialChar$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testForCronFieldOnSpecialCharNotNone()|5|CGLIB$getSpecialChar$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testForCronFieldOnSpecialCharNotNone()|12|CGLIB$getSpecialChar$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|12|name",
+    "expected": [
+      {
+        "literalValue": "OCTOBER",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "JANUARY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "MAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "DECEMBER",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "FEBRUARY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "SEPTEMBER",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "JULY",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "APRIL",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|4|ordinal",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|39|ordinal",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|createDayOfMonthValueGeneratorInstance(com.cronutils.model.field.value.SpecialChar)|5|CGLIB$getSpecialChar$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testForCronFieldOnSpecialCharNotNone()|12|CGLIB$getSpecialChar$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testCreateDayOfWeekValueGeneratorInstanceBadCronFieldName()|8|CGLIB$getSpecialChar$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testCreateDayOfWeekValueGeneratorInstance()|8|CGLIB$getSpecialChar$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testForCronFieldOnSpecialCharNone()|1|CGLIB$getSpecialChar$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testForCronFieldOnSpecialCharNone()|1|CGLIB$getSpecialChar$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|5",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|2",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|9",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|6",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testCreateDayOfWeekValueGeneratorInstanceBadCronFieldName()|8|CGLIB$getSpecialChar$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testCreateDayOfWeekValueGeneratorInstance()|8|CGLIB$getSpecialChar$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testForCronFieldOnSpecialCharNone()|10|CGLIB$getSpecialChar$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testCreateDayOfMonthValueGeneratorInstanceBadCronFieldName()|6|CGLIB$getSpecialChar$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|3|ordinal",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testCreateDayOfMonthValueGeneratorInstanceBadCronFieldName()|15|CGLIB$getSpecialChar$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|createDayOfMonthValueGeneratorInstance(com.cronutils.model.field.value.SpecialChar)|6|CGLIB$getSpecialChar$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testCreateDayOfMonthValueGeneratorInstanceBadCronFieldName()|15|CGLIB$getSpecialChar$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|41|name",
+    "expected": [
+      {
+        "literalValue": "SUNDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "WEDNESDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "THURSDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "MONDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "TUESDAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "FRIDAY",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SATURDAY",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testForCronFieldOnSpecialCharNone()|10|CGLIB$getSpecialChar$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testForCronFieldOnSpecialCharNone()|0|CGLIB$getSpecialChar$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testForCronFieldOnSpecialCharNotNone()|5|CGLIB$getSpecialChar$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzIntegrationTest|testHourlyIntervalTimeFromLastExecution()|13|nanos",
+    "expected": [
+      {
+        "literalValue": "167000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "433000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "671000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "216000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "271000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "794000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "463000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "841000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "47000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "97000000",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "430000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "702000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "264000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "500000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "109000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "737000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "880000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "563000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "48000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "416000000",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|createDayOfMonthValueGeneratorInstance(com.cronutils.model.field.value.SpecialChar)|5|CGLIB$getSpecialChar$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|41|ordinal",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest|testCreateDayOfMonthValueGeneratorInstanceBadCronFieldName()|5|CGLIB$getSpecialChar$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  }
+]

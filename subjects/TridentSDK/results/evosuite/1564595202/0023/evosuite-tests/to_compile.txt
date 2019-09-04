@@ -1,0 +1,1 @@
+./net/tridentsdk/logger/LogHandler_ESTest_scaffolding.java ./net/tridentsdk/logger/LogHandler_ESTest.java

@@ -1,0 +1,8 @@
+[
+    {
+        "class": "JAtomInt",
+        "name": "plus",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/String;)Lcom/helger/jcodemodel/IJExpression;"
+    }
+]

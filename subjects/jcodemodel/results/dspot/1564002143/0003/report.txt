@@ -1,0 +1,4 @@
+Test class that has been amplified: com.helger.jcodemodel.JSwitchTest
+The original test suite kills 321 mutants
+The amplification results with 25 new tests
+it kills 49 more mutants

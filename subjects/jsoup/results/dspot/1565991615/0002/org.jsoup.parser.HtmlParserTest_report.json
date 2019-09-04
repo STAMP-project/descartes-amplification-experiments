@@ -1,0 +1,163 @@
+{
+  "nbMutantKilledOriginally": 174,
+  "name": "org.jsoup.parser.HtmlParserTest",
+  "nbOriginalTestCases": 128,
+  "testCases": [
+    {
+      "name": "handlesUnclosedAnchors_mg29_mg788",
+      "nbAssertionAdded": 4,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 840,
+          "locationMethod": "getElementsByAttributeStarting"
+        }
+      ]
+    },
+    {
+      "name": "handlesUnclosedAnchors_mg29_mg862_failAssert0",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 3,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 1022,
+          "locationMethod": "getElementsMatchingOwnText"
+        }
+      ]
+    },
+    {
+      "name": "handlesUnclosedAnchors_mg20_mg967_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 921,
+          "locationMethod": "getElementsByAttributeValueMatching"
+        }
+      ]
+    },
+    {
+      "name": "handlesUnclosedAnchors_mg19_mg1218",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 887,
+          "locationMethod": "getElementsByAttributeValueEnding"
+        }
+      ]
+    },
+    {
+      "name": "handlesUnclosedAnchors_mg29_mg813",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 876,
+          "locationMethod": "getElementsByAttributeValueStarting"
+        }
+      ]
+    },
+    {
+      "name": "handlesUnclosedAnchors_mg27",
+      "nbAssertionAdded": 4,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 66,
+          "locationMethod": "isTrackErrors"
+        }
+      ]
+    },
+    {
+      "name": "handlesUnclosedAnchors_mg16_mg816",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 974,
+          "locationMethod": "getElementsContainingOwnText"
+        }
+      ]
+    },
+    {
+      "name": "handlesUnclosedAnchors_mg16_mg818",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 963,
+          "locationMethod": "getElementsContainingText"
+        }
+      ]
+    },
+    {
+      "name": "handlesUnclosedAnchors_mg23",
+      "nbAssertionAdded": 8,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 119,
+          "locationMethod": "normalise"
+        }
+      ]
+    },
+    {
+      "name": "handlesUnclosedAnchors_mg20",
+      "nbAssertionAdded": 8,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 40,
+          "locationMethod": "hasParent"
+        }
+      ]
+    },
+    {
+      "name": "handlesUnclosedAnchors_literalMutationString5_add161_mg8101",
+      "nbAssertionAdded": 10,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 952,
+          "locationMethod": "getElementsByIndexEquals"
+        }
+      ]
+    },
+    {
+      "name": "handlesUnclosedAnchors_mg16_mg759",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 865,
+          "locationMethod": "getElementsByAttributeValueNot"
+        }
+      ]
+    }
+  ]
+}

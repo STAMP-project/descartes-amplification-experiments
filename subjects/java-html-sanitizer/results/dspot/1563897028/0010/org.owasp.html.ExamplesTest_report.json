@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 12,
+  "name": "org.owasp.html.ExamplesTest",
+  "nbOriginalTestCases": 4,
+  "testCases": [
+    {
+      "name": "testTextAllowedInLinks_literalMutationString4",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 238,
+          "locationMethod": "apply"
+        }
+      ]
+    }
+  ]
+}

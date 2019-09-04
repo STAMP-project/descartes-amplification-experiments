@@ -1,0 +1,90 @@
+{
+  "nbMutantKilledOriginally": 52,
+  "name": "org.jsoup.parser.XmlTreeBuilderTest",
+  "nbOriginalTestCases": 21,
+  "testCases": [
+    {
+      "name": "testCommentAndDocType_mg19_mg485",
+      "nbAssertionAdded": 4,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 974,
+          "locationMethod": "getElementsContainingOwnText"
+        }
+      ]
+    },
+    {
+      "name": "testCommentAndDocType_mg27",
+      "nbAssertionAdded": 4,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 66,
+          "locationMethod": "isTrackErrors"
+        }
+      ]
+    },
+    {
+      "name": "testCommentAndDocType_mg23",
+      "nbAssertionAdded": 10,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 119,
+          "locationMethod": "normalise"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 143,
+          "locationMethod": "normaliseTextNodes"
+        }
+      ]
+    },
+    {
+      "name": "testCommentAndDocType_mg19_mg580_mg18673",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 876,
+          "locationMethod": "getElementsByAttributeValueStarting"
+        }
+      ]
+    },
+    {
+      "name": "testCommentAndDocType_mg19_mg537",
+      "nbAssertionAdded": 8,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 40,
+          "locationMethod": "hasParent"
+        }
+      ]
+    },
+    {
+      "name": "testCommentAndDocType_mg19_mg419_mg15649",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 840,
+          "locationMethod": "getElementsByAttributeStarting"
+        }
+      ]
+    }
+  ]
+}

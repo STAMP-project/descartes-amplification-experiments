@@ -1,0 +1,10 @@
+{
+  "mutator": "\"A\"",
+  "class": "BeiderMorseEncoder",
+  "package": "org.apache.commons.codec.language.bm",
+  "method": "encode",
+  "description": "(Ljava/lang/String;)Ljava/lang/String;",
+  "tests": [
+    "org.apache.commons.codec.language.bm.BeiderMorseEncoderTest"
+  ]
+}

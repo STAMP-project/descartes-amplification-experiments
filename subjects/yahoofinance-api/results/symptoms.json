@@ -1,0 +1,42 @@
+{
+  "no-infection": [],
+  "no-propagation": [
+    {
+      "mutator": "null",
+      "package": "yahoofinance",
+      "class": "Utils",
+      "method": "unescape",
+      "description": "(Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+      "mutator": "\"A\"",
+      "package": "yahoofinance",
+      "class": "Utils",
+      "method": "unescape",
+      "description": "(Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+      "mutator": "true",
+      "package": "yahoofinance",
+      "class": "Utils",
+      "method": "isParseable",
+      "description": "(Ljava/lang/String;)Z"
+    },
+    {
+      "mutator": "\"\"",
+      "package": "yahoofinance",
+      "class": "Utils",
+      "method": "unescape",
+      "description": "(Ljava/lang/String;)Ljava/lang/String;"
+    }
+  ],
+  "weak-oracle": [
+    {
+      "mutator": "null",
+      "package": "yahoofinance",
+      "class": "Utils",
+      "method": "parseDateTime",
+      "description": "(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;"
+    }
+  ]
+}

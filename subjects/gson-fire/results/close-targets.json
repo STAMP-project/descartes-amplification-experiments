@@ -1,0 +1,1 @@
+[{"class": "io.gsonfire.gson.SimpleIterableTest", "method": "testSimpleIterated"}, {"class": "io.gsonfire.util.IterableMapperTest", "method": "testEqualsWithNull"}, {"class": "io.gsonfire.gson.AnnotationInspectorTest", "method": "testGetAnnotatedMethods"}]

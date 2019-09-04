@@ -1,0 +1,1 @@
+./io/gsonfire/util/IterableMapper_ESTest_scaffolding.java ./io/gsonfire/util/IterableMapper_ESTest.java

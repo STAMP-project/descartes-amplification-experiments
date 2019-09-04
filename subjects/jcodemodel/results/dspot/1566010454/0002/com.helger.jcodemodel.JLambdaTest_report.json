@@ -1,0 +1,172 @@
+{
+  "nbMutantKilledOriginally": 35,
+  "name": "com.helger.jcodemodel.JLambdaTest",
+  "nbOriginalTestCases": 7,
+  "testCases": [
+    {
+      "name": "testExpressionBasic2_literalMutationString11_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 110,
+          "locationMethod": "isTrue"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 134,
+          "locationMethod": "isJavaIdentifier"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_add5_rv320_rv7648",
+      "nbAssertionAdded": 12,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 296,
+          "locationMethod": "gt"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 616,
+          "locationMethod": "gt"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 605,
+          "locationMethod": "gt"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_add5_rv330_rv8474",
+      "nbAssertionAdded": 12,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 75,
+          "locationMethod": "minus"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 65,
+          "locationMethod": "minus"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_add5_rv344_rv8725",
+      "nbAssertionAdded": 12,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 161,
+          "locationMethod": "plus"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_add5_rv316_rv6181",
+      "nbAssertionAdded": 12,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 207,
+          "locationMethod": "div"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 326,
+          "locationMethod": "div"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 359,
+          "locationMethod": "div"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_add5_rv338_rv7038",
+      "nbAssertionAdded": 12,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 293,
+          "locationMethod": "mul"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_add3",
+      "nbAssertionAdded": 10,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 186,
+          "locationMethod": "removeAll"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_add5_rv310_rv3743",
+      "nbAssertionAdded": 12,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 85,
+          "locationMethod": "complement"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 99,
+          "locationMethod": "complement"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_mg18",
+      "nbAssertionAdded": 14,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 109,
+          "locationMethod": "params"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_add5_rv321_rv5044",
+      "nbAssertionAdded": 12,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 625,
+          "locationMethod": "gt0"
+        }
+      ]
+    }
+  ]
+}

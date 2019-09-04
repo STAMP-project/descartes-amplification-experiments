@@ -1,0 +1,46 @@
+{
+  "nbMutantKilledOriginally": 6,
+  "name": "org.jsoup.helper.DataUtilTest",
+  "nbOriginalTestCases": 15,
+  "testCases": [
+    {
+      "name": "discardsSpuriousByteOrderMark_mg31",
+      "nbAssertionAdded": 14,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 119,
+          "locationMethod": "normalise"
+        }
+      ]
+    },
+    {
+      "name": "discardsSpuriousByteOrderMark_mg24",
+      "nbAssertionAdded": 14,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 40,
+          "locationMethod": "hasParent"
+        }
+      ]
+    },
+    {
+      "name": "discardsSpuriousByteOrderMark_mg35",
+      "nbAssertionAdded": 8,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 66,
+          "locationMethod": "isTrackErrors"
+        }
+      ]
+    }
+  ]
+}

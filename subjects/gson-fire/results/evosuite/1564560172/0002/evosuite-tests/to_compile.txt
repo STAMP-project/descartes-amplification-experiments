@@ -1,0 +1,1 @@
+./io/gsonfire/postprocessors/methodinvoker/MappedMethodInspector_ESTest_scaffolding.java ./io/gsonfire/postprocessors/methodinvoker/MappedMethodInspector_ESTest.java

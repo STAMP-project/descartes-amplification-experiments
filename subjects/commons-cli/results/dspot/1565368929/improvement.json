@@ -1,0 +1,1 @@
+{"no-infection": [], "no-propagation": [{"mutator": "true", "package": "org.apache.commons.cli", "method": "hasValueSeparator", "description": "()Z", "class": "Option"}], "weak-oracle": []}

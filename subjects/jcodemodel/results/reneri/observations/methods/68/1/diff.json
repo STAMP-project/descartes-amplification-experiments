@@ -1,0 +1,3197 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|10|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|92|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|28|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|85|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|60|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|69|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|101|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|78|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|82|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|14|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|21|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|79|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|51|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|39|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|65|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|66|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|41|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|8|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|18|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|59|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|73|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|96|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|61|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|75|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|71|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|0|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|4|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|14|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|92|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|7|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|48|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|102|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|33|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|49|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|47|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|102|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|82|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|2|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|100|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|89|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|19|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|54|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|35|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|73|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|26|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|8|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|80|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|76|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|98|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|93|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|21|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|55|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|41|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|61|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|20|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|20|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|34|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|62|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|79|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|86|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|38|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|42|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|99|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|66|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|27|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|10|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|68|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|45|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|25|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|13|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|52|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|89|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|23|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|7|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|101|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|19|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|97|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|48|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|74|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|40|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|96|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|62|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|15|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|33|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|100|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|55|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|64|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|99|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|101|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|58|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|100|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|72|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|81|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|37|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|32|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|30|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|65|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|72|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|58|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|75|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|59|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|82|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|1|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|68|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|34|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|24|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|80|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|73|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|9|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|17|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|31|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|31|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|27|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|67|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|24|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|49|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|17|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|56|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|26|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|12|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|53|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|4|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|63|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|63|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|16|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|57|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|95|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|11|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|43|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|44|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|70|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|29|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|36|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|36|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|22|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|88|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|83|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|84|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|51|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|83|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|47|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|69|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|70|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|42|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|98|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|76|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|30|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|57|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|16|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|77|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|56|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|62|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|97|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|5|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|23|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|6|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|90|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|64|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|90|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|5|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|29|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|0|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|74|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|67|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|11|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|35|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|13|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|71|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|1|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|28|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|91|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|93|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|3|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|95|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|39|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|25|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|32|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|60|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|84|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|54|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|3|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|18|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|50|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|81|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|78|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|77|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|85|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|86|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|87|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|40|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|22|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|46|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|97|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|94|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|88|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|31|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|87|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|43|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|6|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|91|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|44|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|15|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|37|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|50|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|38|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|94|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|46|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|52|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|12|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|9|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|45|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|2|#that|m_aNames|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses|add|(Lcom/helger/jcodemodel/AbstractJClass;)Z|53|#that|m_aClasses|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  }
+]

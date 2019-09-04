@@ -1,0 +1,4 @@
+Test class that has been amplified: com.helger.jcodemodel.JLambdaMethodRefTest
+The original test suite kills 321 mutants
+The amplification results with 22 new tests
+it kills 43 more mutants

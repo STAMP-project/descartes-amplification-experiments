@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "org.apache.commons.codec.digest.MessageDigestAlgorithmsTest|data()|0|#length",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  }
+]

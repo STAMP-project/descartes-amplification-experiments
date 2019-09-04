@@ -1,0 +1,47 @@
+[
+  {
+    "pointcut": "com.cronutils.model.field.expression.visitor.ValueMappingFieldExpressionVisitor|visit|(Lcom/cronutils/model/field/expression/QuestionMark;)Lcom/cronutils/model/field/expression/FieldExpression;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.expression.FieldExpression"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.expression.FieldExpression"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.expression.visitor.ValueMappingFieldExpressionVisitor|visit|(Lcom/cronutils/model/field/expression/QuestionMark;)Lcom/cronutils/model/field/expression/FieldExpression;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.expression.FieldExpression"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.expression.FieldExpression"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.expression.visitor.ValueMappingFieldExpressionVisitor|visit|(Lcom/cronutils/model/field/expression/QuestionMark;)Lcom/cronutils/model/field/expression/FieldExpression;|2|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.expression.FieldExpression"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.expression.FieldExpression"
+      }
+    ]
+  }
+]

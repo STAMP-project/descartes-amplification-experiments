@@ -1,0 +1,77 @@
+[
+  {
+    "pointcut": "com.squareup.javapoet.MethodSpecTest|withParameterJavaDoc()|6|cachedString",
+    "expected": [
+      {
+        "literalValue": "int",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.MethodSpecTest|withParameterJavaDocAndWithoutMethodJavadoc()|1|cachedString",
+    "expected": [
+      {
+        "literalValue": "double",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.MethodSpecTest|withParameterJavaDoc()|1|cachedString",
+    "expected": [
+      {
+        "literalValue": "double",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.MethodSpecTest|withParameterJavaDocAndWithoutMethodJavadoc()|6|cachedString",
+    "expected": [
+      {
+        "literalValue": "int",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.MethodSpecTest|withoutParameterJavaDoc()|3|cachedString",
+    "expected": [
+      {
+        "literalValue": "double",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ]
+  }
+]

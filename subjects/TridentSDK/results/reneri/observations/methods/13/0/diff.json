@@ -1,0 +1,77 @@
+[
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|realSize|()I|3|#result",
+    "expected": [
+      {
+        "literalValue": "192",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|realSize|()I|4|#result",
+    "expected": [
+      {
+        "literalValue": "384",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|realSize|()I|2|#result",
+    "expected": [
+      {
+        "literalValue": "96",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|realSize|()I|1|#result",
+    "expected": [
+      {
+        "literalValue": "48",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|realSize|()I|0|#result",
+    "expected": [
+      {
+        "literalValue": "24",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  }
+]

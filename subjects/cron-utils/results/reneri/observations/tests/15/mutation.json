@@ -1,0 +1,11 @@
+{
+  "mutator": "true",
+  "class": "CronConstraintsFactory$1",
+  "package": "com.cronutils.model.definition",
+  "method": "validate",
+  "description": "(Lcom/cronutils/model/Cron;)Z",
+  "tests": [
+    "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest",
+    "com.cronutils.parser.CronParserTest"
+  ]
+}

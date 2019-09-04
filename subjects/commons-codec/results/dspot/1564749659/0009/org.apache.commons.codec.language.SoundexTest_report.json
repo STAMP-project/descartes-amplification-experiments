@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 15,
+  "name": "org.apache.commons.codec.language.SoundexTest",
+  "nbOriginalTestCases": 27,
+  "testCases": [
+    {
+      "name": "testNewInstance2_literalMutationString7_add85_literalMutationString1209",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 163,
+          "locationMethod": "hasMarker"
+        }
+      ]
+    }
+  ]
+}

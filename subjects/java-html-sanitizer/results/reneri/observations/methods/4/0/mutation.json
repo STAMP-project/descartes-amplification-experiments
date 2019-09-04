@@ -1,0 +1,17 @@
+{
+  "mutator": "true",
+  "class": "HtmlElementTables$TextContentModel",
+  "package": "org.owasp.html",
+  "method": "canContainPlainText",
+  "description": "(I)Z",
+  "tests": [
+    "org.owasp.html.HtmlSanitizerTest",
+    "org.owasp.html.HtmlPolicyBuilderTest",
+    "org.owasp.html.SanitizersTest",
+    "org.owasp.html.AntiSamyTest",
+    "org.owasp.html.UrlTextExampleTest",
+    "org.owasp.html.ExamplesTest",
+    "org.owasp.html.HtmlChangeReporterTest",
+    "org.owasp.html.HtmlPolicyBuilderFuzzerTest"
+  ]
+}

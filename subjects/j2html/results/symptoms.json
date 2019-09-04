@@ -1,0 +1,41 @@
+{
+  "no-infection": [
+    {
+      "mutator": "void",
+      "package": "j2html.utils",
+      "class": "Part",
+      "method": "simplifyHexColours",
+      "description": "()V"
+    },
+    {
+      "mutator": "void",
+      "package": "j2html.utils",
+      "class": "Part",
+      "method": "simplifyFontWeights",
+      "description": "()V"
+    },
+    {
+      "mutator": "void",
+      "package": "j2html.utils",
+      "class": "Part",
+      "method": "simplifyParameters",
+      "description": "()V"
+    },
+    {
+      "mutator": "void",
+      "package": "j2html.utils",
+      "class": "Part",
+      "method": "simplifyQuotesAndCaps",
+      "description": "()V"
+    },
+    {
+      "mutator": "true",
+      "package": "j2html.tags",
+      "class": "Tag",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    }
+  ],
+  "no-propagation": [],
+  "weak-oracle": []
+}

@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 2,
+  "name": "net.tridentsdk.world.IntPairTest",
+  "nbOriginalTestCases": 2,
+  "testCases": [
+    {
+      "name": "equalsHashString_mg16",
+      "nbAssertionAdded": 18,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 83,
+          "locationMethod": "equals"
+        }
+      ]
+    }
+  ]
+}

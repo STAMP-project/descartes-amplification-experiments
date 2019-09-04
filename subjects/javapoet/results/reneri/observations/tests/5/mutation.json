@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "ArrayTypeName",
+  "package": "com.squareup.javapoet",
+  "method": "get",
+  "description": "(Ljava/lang/reflect/GenericArrayType;Ljava/util/Map;)Lcom/squareup/javapoet/ArrayTypeName;",
+  "tests": [
+    "com.squareup.javapoet.TypeNameTest"
+  ]
+}

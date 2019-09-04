@@ -1,0 +1,502 @@
+[
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$ojws3L4Q$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$4lawYWgZ$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$F33aHOVt$dcnvrt3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$9y6EAupT$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$ojws3L4Q$a6g2na0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$pLK10tEf$dcnvrt3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$4lawYWgZ$a6g2na0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$BPG2jXGw$a6g2na0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$TBnllHzS$a6g2na0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$TBnllHzS$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$uZLvZJ68$dcnvrt3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$qXGpCBuO$a6g2na0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$eoazjXrh$a6g2na0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$pLK10tEf$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$BPG2jXGw$n978ik3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$BPG2jXGw$dcnvrt3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$F33aHOVt$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$uZLvZJ68$a6g2na0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$qXGpCBuO$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$ojws3L4Q$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$F33aHOVt$n978ik3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$uZLvZJ68$n978ik3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$F33aHOVt$a6g2na0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$BPG2jXGw$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$ojws3L4Q$dcnvrt3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$TBnllHzS$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$qXGpCBuO$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$4lawYWgZ$dcnvrt3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$eoazjXrh$n978ik3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$9y6EAupT$dcnvrt3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$BPG2jXGw$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$F33aHOVt$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$ojws3L4Q$n978ik3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$pLK10tEf$a6g2na0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$eoazjXrh$dcnvrt3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$TBnllHzS$dcnvrt3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$pLK10tEf$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$qXGpCBuO$dcnvrt3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$4lawYWgZ$n978ik3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$uZLvZJ68$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$TBnllHzS$n978ik3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$uZLvZJ68$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$eoazjXrh$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$qXGpCBuO$n978ik3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$9y6EAupT$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$9y6EAupT$n978ik3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$4lawYWgZ$7m9oaq0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$eoazjXrh$4cscpe1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$pLK10tEf$n978ik3",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.VisitControllerTests|init()|0|cachedValue$9y6EAupT$a6g2na0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  }
+]

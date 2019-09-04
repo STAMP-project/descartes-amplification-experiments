@@ -1,0 +1,1 @@
+{"project": "apache/commons-codec", "revision": "5e3b6f7c106aac1bf2937d33922151fd25e47eef", "exclude": ["org.apache.commons.codec.binary.Base64Codec13Test"]}

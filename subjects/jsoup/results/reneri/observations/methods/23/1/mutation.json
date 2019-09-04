@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "HtmlTreeBuilderState$16",
+  "package": "org.jsoup.parser",
+  "method": "anythingElse",
+  "description": "(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z",
+  "tests": [
+    "org.jsoup.parser.HtmlParserTest"
+  ]
+}

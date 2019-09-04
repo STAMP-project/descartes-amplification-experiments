@@ -1,0 +1,1373 @@
+[
+  {
+    "pointcut": "org.jsoup.helper.DataUtilTest|generatesMimeBoundaries()|6",
+    "expected": [
+      {
+        "literalValue": "kGpggqTs5kF-xhJ8aUzKN4UCWsC5FIDp",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "gRH7Pj_--mmEGE21BLT9QWq751jSJjNQ",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "mUF9bBqQaCwOKtl1St4TxXBI9O-q7ul-",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "kNMsAqpV4LXXWL4C-g3NxJ15Ik8FoAog",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "J62KRPF_9NaozSX8KEfTBHAhJrkx7gLS",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "44iRw5ocd4KKzDofuor44iC_mckSr8t7",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "nkGcabY1n3F2CwaL_6QkEIJJKJLIsDnK",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "KyjQHAdA3eyWP1n_4bqPNFzdilWrSeM3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "EBRr2dr3hBEU4FVrLbjVz6YpFVVJVYwm",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "6wglU_cVm66oa10wdDNsqYqSSS2qp_nv",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "QW_WtQ7hS3L6Gcq7llC31FtpqQKlTxp_",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "SHwlNNt6WCUtdLBWBSriGSVKlCTD4E95",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "3-Gl4sj_FtWt5zRF8rgdQjQVUFovU3Nj",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "EG42j4FGo23q-q4ETPdSODHE2lN9lv8N",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "rXrpc_Y4hatsuDkZ4RstY-wfLXO1Ccil",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "Z7ERbU3ZkxJAEBeSqk0AxwzOuW8SMWVW",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "OjsYZ-H12ZdKOay3fphigUlz9kkZXqq2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "6NCrKMZ8dQg6tB4hCAShW7UxfmkVu6pZ",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "X_C8yxcVfEyEUsdisfn-JbG6cGnEegGU",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "4IgY8yxkg-UuCaGZ9mDzbNw3osy7dNzx",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.helper.DataUtilTest|generatesMimeBoundaries()|7",
+    "expected": [
+      {
+        "literalValue": "eFJnzI2mnB9VHg7FRQGPJFmZvZakwA1k",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "iFJs1DFxpojDUJs1PzT82HyYctVhzHBm",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "K37oDXOcsZBoGo39l_dcLlsVF5m4_bos",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "Qz0uOv1GaRG0dd3SZ51SnYcr0PPZOaTO",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "3gel5pEbFnkAXsm8PNn4SjBZsjDljgak",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "U2Hs92MY1vo8MNQJY6MjGolMSQXpoS6_",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "t3YCgWsOWs4aSoeW0nuG_Cz_27Fa3t24",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "MBWHtm1BB46iCnSDLtcNDFqYmCzcDRr6",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "asMbKgMp2jX_w-N9yrKVl4-40dYaBSFC",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "sBSflsITpAwAqz8nK-S2v1ztEjlxFmIV",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "93HFXMRWDhU8AEG4oK9dmUoi_ANHREMw",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "ZIi0lepe2fD8q9srT90mWwpaeP9qscS4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "otAK0C0kPeqMRzjsVghcppHBraomtAia",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "Jnx_DOVJVSkfE2cB6eL5k_RPFFLYqkF2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "mvTkK3H9VZVOIJQ5D4haUkrIMX3udAla",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "GNQlJ0FxJiSuOEqm8SswNclRZNOUqekX",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "pHMLCqCCvWAJndTuHMeqI6WZMNuZSciz",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "y9Ut4OR_zqz6nadm3fUJi1IrtYsZPrWs",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "h0P763TIGcmumAwztM2fl68ngE6YFUFw",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "jgXdFsGgI6BGwC6n_YS5sV53ZQLcl5W2",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.helper.DataUtilTest|generatesMimeBoundaries()|2",
+    "expected": [
+      {
+        "literalValue": "kGpggqTs5kF-xhJ8aUzKN4UCWsC5FIDp",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "gRH7Pj_--mmEGE21BLT9QWq751jSJjNQ",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "mUF9bBqQaCwOKtl1St4TxXBI9O-q7ul-",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "kNMsAqpV4LXXWL4C-g3NxJ15Ik8FoAog",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "J62KRPF_9NaozSX8KEfTBHAhJrkx7gLS",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "44iRw5ocd4KKzDofuor44iC_mckSr8t7",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "nkGcabY1n3F2CwaL_6QkEIJJKJLIsDnK",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "KyjQHAdA3eyWP1n_4bqPNFzdilWrSeM3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "EBRr2dr3hBEU4FVrLbjVz6YpFVVJVYwm",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "6wglU_cVm66oa10wdDNsqYqSSS2qp_nv",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "QW_WtQ7hS3L6Gcq7llC31FtpqQKlTxp_",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "SHwlNNt6WCUtdLBWBSriGSVKlCTD4E95",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "3-Gl4sj_FtWt5zRF8rgdQjQVUFovU3Nj",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "EG42j4FGo23q-q4ETPdSODHE2lN9lv8N",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "rXrpc_Y4hatsuDkZ4RstY-wfLXO1Ccil",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "Z7ERbU3ZkxJAEBeSqk0AxwzOuW8SMWVW",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "OjsYZ-H12ZdKOay3fphigUlz9kkZXqq2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "6NCrKMZ8dQg6tB4hCAShW7UxfmkVu6pZ",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "X_C8yxcVfEyEUsdisfn-JbG6cGnEegGU",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "4IgY8yxkg-UuCaGZ9mDzbNw3osy7dNzx",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.helper.DataUtilTest|generatesMimeBoundaries()|4",
+    "expected": [
+      {
+        "literalValue": "eFJnzI2mnB9VHg7FRQGPJFmZvZakwA1k",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "iFJs1DFxpojDUJs1PzT82HyYctVhzHBm",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "K37oDXOcsZBoGo39l_dcLlsVF5m4_bos",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "Qz0uOv1GaRG0dd3SZ51SnYcr0PPZOaTO",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "3gel5pEbFnkAXsm8PNn4SjBZsjDljgak",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "U2Hs92MY1vo8MNQJY6MjGolMSQXpoS6_",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "t3YCgWsOWs4aSoeW0nuG_Cz_27Fa3t24",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "MBWHtm1BB46iCnSDLtcNDFqYmCzcDRr6",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "asMbKgMp2jX_w-N9yrKVl4-40dYaBSFC",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "sBSflsITpAwAqz8nK-S2v1ztEjlxFmIV",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "93HFXMRWDhU8AEG4oK9dmUoi_ANHREMw",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "ZIi0lepe2fD8q9srT90mWwpaeP9qscS4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "otAK0C0kPeqMRzjsVghcppHBraomtAia",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "Jnx_DOVJVSkfE2cB6eL5k_RPFFLYqkF2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "mvTkK3H9VZVOIJQ5D4haUkrIMX3udAla",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "GNQlJ0FxJiSuOEqm8SswNclRZNOUqekX",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "pHMLCqCCvWAJndTuHMeqI6WZMNuZSciz",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "y9Ut4OR_zqz6nadm3fUJi1IrtYsZPrWs",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "h0P763TIGcmumAwztM2fl68ngE6YFUFw",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "jgXdFsGgI6BGwC6n_YS5sV53ZQLcl5W2",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.helper.DataUtilTest|generatesMimeBoundaries()|0",
+    "expected": [
+      {
+        "literalValue": "kGpggqTs5kF-xhJ8aUzKN4UCWsC5FIDp",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "gRH7Pj_--mmEGE21BLT9QWq751jSJjNQ",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "mUF9bBqQaCwOKtl1St4TxXBI9O-q7ul-",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "kNMsAqpV4LXXWL4C-g3NxJ15Ik8FoAog",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "J62KRPF_9NaozSX8KEfTBHAhJrkx7gLS",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "44iRw5ocd4KKzDofuor44iC_mckSr8t7",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "nkGcabY1n3F2CwaL_6QkEIJJKJLIsDnK",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "KyjQHAdA3eyWP1n_4bqPNFzdilWrSeM3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "EBRr2dr3hBEU4FVrLbjVz6YpFVVJVYwm",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "6wglU_cVm66oa10wdDNsqYqSSS2qp_nv",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "QW_WtQ7hS3L6Gcq7llC31FtpqQKlTxp_",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "SHwlNNt6WCUtdLBWBSriGSVKlCTD4E95",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "3-Gl4sj_FtWt5zRF8rgdQjQVUFovU3Nj",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "EG42j4FGo23q-q4ETPdSODHE2lN9lv8N",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "rXrpc_Y4hatsuDkZ4RstY-wfLXO1Ccil",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "Z7ERbU3ZkxJAEBeSqk0AxwzOuW8SMWVW",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "OjsYZ-H12ZdKOay3fphigUlz9kkZXqq2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "6NCrKMZ8dQg6tB4hCAShW7UxfmkVu6pZ",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "X_C8yxcVfEyEUsdisfn-JbG6cGnEegGU",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "4IgY8yxkg-UuCaGZ9mDzbNw3osy7dNzx",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.helper.DataUtilTest|generatesMimeBoundaries()|1",
+    "expected": [
+      {
+        "literalValue": "eFJnzI2mnB9VHg7FRQGPJFmZvZakwA1k",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "iFJs1DFxpojDUJs1PzT82HyYctVhzHBm",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "K37oDXOcsZBoGo39l_dcLlsVF5m4_bos",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "Qz0uOv1GaRG0dd3SZ51SnYcr0PPZOaTO",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "3gel5pEbFnkAXsm8PNn4SjBZsjDljgak",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "U2Hs92MY1vo8MNQJY6MjGolMSQXpoS6_",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "t3YCgWsOWs4aSoeW0nuG_Cz_27Fa3t24",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "MBWHtm1BB46iCnSDLtcNDFqYmCzcDRr6",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "asMbKgMp2jX_w-N9yrKVl4-40dYaBSFC",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "sBSflsITpAwAqz8nK-S2v1ztEjlxFmIV",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "93HFXMRWDhU8AEG4oK9dmUoi_ANHREMw",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "ZIi0lepe2fD8q9srT90mWwpaeP9qscS4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "otAK0C0kPeqMRzjsVghcppHBraomtAia",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "Jnx_DOVJVSkfE2cB6eL5k_RPFFLYqkF2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "mvTkK3H9VZVOIJQ5D4haUkrIMX3udAla",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "GNQlJ0FxJiSuOEqm8SswNclRZNOUqekX",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "pHMLCqCCvWAJndTuHMeqI6WZMNuZSciz",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "y9Ut4OR_zqz6nadm3fUJi1IrtYsZPrWs",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "h0P763TIGcmumAwztM2fl68ngE6YFUFw",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "jgXdFsGgI6BGwC6n_YS5sV53ZQLcl5W2",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.XmlTreeBuilderTest|testSupplyParserToDataStream()|0|handlers|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.DocumentTest|DocumentsWithSameContentAreEqual()|16",
+    "expected": [
+      {
+        "literalValue": "1205044462",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "472654579",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.DocumentTest|DocumentsWithSameContentAreEqual()|10",
+    "expected": [
+      {
+        "literalValue": "985934102",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1190524793",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.DocumentTest|DocumentsWithSameContentAreEqual()|12",
+    "expected": [
+      {
+        "literalValue": "985934102",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1190524793",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.DocumentTest|DocumentsWithSameContentAreEqual()|14",
+    "expected": [
+      {
+        "literalValue": "985934102",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1190524793",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlParserTest|handlesManyChildren()|6",
+    "expected": [
+      {
+        "literalValue": "1552755531801",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755618832",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755733562",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755589500",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755647391",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755503503",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755676348",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755762280",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755560315",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755705219",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552758319630",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758406798",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758362834",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758334454",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758348774",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758391983",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758421166",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758377559",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758304463",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758436278",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.XmlTreeBuilderTest|testDetectCharsetEncodingDeclaration()|0|handlers|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlParserTest|handlesManyChildren()|14",
+    "expected": [
+      {
+        "literalValue": "1552755531801",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755618832",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755733562",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755589500",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755647391",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755503503",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755676348",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755762280",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755560315",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755705219",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552758319630",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758406798",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758362834",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758334454",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758348774",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758391983",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758421166",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758377559",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758304463",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758436278",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlParserTest|handlesManyChildren()|13",
+    "expected": [
+      {
+        "literalValue": "1552755618850",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755762299",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755705237",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755733583",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755503524",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755589520",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755676369",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755531819",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755647410",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755560334",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552758421194",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758319650",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758334475",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758304505",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758392005",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758348792",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758377577",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758436299",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758362853",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758406819",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlParserTest|handlesDeepStack()|11",
+    "expected": [
+      {
+        "literalValue": "1552755614506",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755672030",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755701032",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755527672",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755643181",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755729430",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755585217",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755499251",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755556103",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755758087",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552758358688",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758431853",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758344576",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758402456",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758373201",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758387720",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758416914",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758300169",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758315145",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758330159",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlParserTest|handlesDeepStack()|22",
+    "expected": [
+      {
+        "literalValue": "1552755614506",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755672030",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755701032",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755527672",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755643181",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755729430",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755585217",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755499251",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755556103",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755758087",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552758358688",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758431853",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758344576",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758402456",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758373201",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758387720",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758416914",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758300169",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758315145",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758330159",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlParserTest|handlesDeepStack()|21",
+    "expected": [
+      {
+        "literalValue": "1552755701188",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755729602",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755527839",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755499415",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755585375",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755672197",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755614672",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755556267",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755758244",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552755643350",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552758358865",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758432039",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758373375",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758344759",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758315325",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758387892",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758417089",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758300344",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758402628",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552758330333",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|49",
+    "expected": [
+      {
+        "literalValue": "88579647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1818402158",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|55",
+    "expected": [
+      {
+        "literalValue": "654845766",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1590550415",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|57",
+    "expected": [
+      {
+        "literalValue": "88579647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1818402158",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|51",
+    "expected": [
+      {
+        "literalValue": "88579647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1818402158",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|53",
+    "expected": [
+      {
+        "literalValue": "88579647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1818402158",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|59",
+    "expected": [
+      {
+        "literalValue": "1712536284",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1058025095",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|65",
+    "expected": [
+      {
+        "literalValue": "88579647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1818402158",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|67",
+    "expected": [
+      {
+        "literalValue": "1123225098",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1599771323",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|61",
+    "expected": [
+      {
+        "literalValue": "88579647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1818402158",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|63",
+    "expected": [
+      {
+        "literalValue": "2080166188",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "665576141",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.DocumentTest|parseAndHtmlOnDifferentThreads()|18|eetop",
+    "expected": [
+      {
+        "literalValue": "140233208068096",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140346772105216",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140458964174848",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140687503108096",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140719836774400",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140454428289024",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140238131853312",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140250521634816",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140350631663616",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140684792737792",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "140315675658240",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140370031108096",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140358617888768",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140503499024384",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140288180692992",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140655409793024",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140280284682240",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140246739769344",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140591141640192",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "140624910284800",
+        "typeName": "long"
+      }
+    ]
+  }
+]

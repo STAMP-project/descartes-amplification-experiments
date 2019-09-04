@@ -1,0 +1,12 @@
+{
+  "mutator": "false",
+  "class": "JNarrowedClass",
+  "package": "com.helger.jcodemodel",
+  "method": "isError",
+  "description": "()Z",
+  "tests": [
+    "com.helger.jcodemodel.AbstractJTypeTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue31FuncTest",
+    "com.helger.jcodemodel.AnonymousClassFuncTest"
+  ]
+}

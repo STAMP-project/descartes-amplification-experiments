@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "org.apache.commons.codec.language.SoundexTest|testNewInstance2()|1|specialCaseHW",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.SoundexTest|testNewInstance3()|0|specialCaseHW",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  }
+]

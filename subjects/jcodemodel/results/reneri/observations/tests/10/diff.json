@@ -1,0 +1,92 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.supplementary.issues.Issue41FuncTest|testSwitchInnerEnum()|32",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JBreak"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JBreak"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.supplementary.issues.Issue41FuncTest|testSwitchInnerEnum()|36",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JBreak"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JBreak"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.supplementary.issues.Issue41FuncTest|testSwitchInnerEnum()|27",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JBreak"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JBreak"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JSwitchTest|testGenerate()|36",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JBreak"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JBreak"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JSwitchTest|testGenerate()|32",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JBreak"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JBreak"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JSwitchTest|testGenerate()|27",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JBreak"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JBreak"
+      }
+    ]
+  }
+]

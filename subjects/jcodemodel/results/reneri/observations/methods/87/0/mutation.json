@@ -1,0 +1,10 @@
+{
+  "mutator": "void",
+  "class": "JForEach",
+  "package": "com.helger.jcodemodel",
+  "method": "state",
+  "description": "(Lcom/helger/jcodemodel/IJFormatter;)V",
+  "tests": [
+    "com.helger.jcodemodel.ForEachFuncTest"
+  ]
+}

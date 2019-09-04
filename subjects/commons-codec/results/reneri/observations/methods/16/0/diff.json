@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "org.apache.commons.codec.language.Soundex|hasMarker|([C)Z|0|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  }
+]

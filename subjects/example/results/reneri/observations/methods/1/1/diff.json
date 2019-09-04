@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "example.VersionedSet|isEmpty|()Z|0|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  }
+]

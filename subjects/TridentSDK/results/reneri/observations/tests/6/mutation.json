@@ -1,0 +1,11 @@
+{
+  "mutator": "true",
+  "class": "AbstractVector",
+  "package": "net.tridentsdk.base",
+  "method": "eq",
+  "description": "(DD)Z",
+  "tests": [
+    "net.tridentsdk.base.VectorsTest",
+    "net.tridentsdk.base.PositionTest"
+  ]
+}

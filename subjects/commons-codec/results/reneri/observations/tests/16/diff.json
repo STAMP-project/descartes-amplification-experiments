@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "org.apache.commons.codec.language.ColognePhoneticTest|checkEncoding(java.lang.String,java.lang.String)|2|defaultDisplayLocale",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Locale"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Locale"
+      }
+    ]
+  }
+]

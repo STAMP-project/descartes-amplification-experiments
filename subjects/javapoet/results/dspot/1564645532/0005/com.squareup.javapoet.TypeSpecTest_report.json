@@ -1,0 +1,33 @@
+{
+  "nbMutantKilledOriginally": 68,
+  "name": "com.squareup.javapoet.TypeSpecTest",
+  "nbOriginalTestCases": 109,
+  "testCases": [
+    {
+      "name": "annotationWithFields_mg59",
+      "nbAssertionAdded": 18,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 68,
+          "locationMethod": "equals"
+        }
+      ]
+    },
+    {
+      "name": "annotationWithFields_mg61",
+      "nbAssertionAdded": 18,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 331,
+          "locationMethod": "equals"
+        }
+      ]
+    }
+  ]
+}

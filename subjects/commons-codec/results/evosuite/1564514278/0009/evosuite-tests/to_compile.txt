@@ -1,0 +1,1 @@
+./org/apache/commons/codec/language/DaitchMokotoffSoundex$Branch_ESTest_scaffolding.java ./org/apache/commons/codec/language/DaitchMokotoffSoundex$Branch_ESTest.java

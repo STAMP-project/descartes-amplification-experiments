@@ -1,0 +1,20 @@
+[
+    {
+        "class": "ContainerTag",
+        "name": "equals",
+        "package": "j2html.tags",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "EmptyTag",
+        "name": "equals",
+        "package": "j2html.tags",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "Part",
+        "name": "<init>",
+        "package": "j2html.utils",
+        "description": "(Ljava/lang/String;Ljava/lang/String;)V"
+    }
+]

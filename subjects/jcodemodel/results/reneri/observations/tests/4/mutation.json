@@ -1,0 +1,30 @@
+{
+  "mutator": "0",
+  "class": "JCValueEnforcer",
+  "package": "com.helger.jcodemodel.util",
+  "method": "isGE0",
+  "description": "(ILjava/util/function/Supplier;)I",
+  "tests": [
+    "com.helger.jcodemodel.supplementary.issues.Issue34FuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue41FuncTest",
+    "com.helger.jcodemodel.JDefinedClassTest",
+    "com.helger.jcodemodel.JCodeModelTest",
+    "com.helger.jcodemodel.JInvocationTest",
+    "com.helger.jcodemodel.AnonymousClassFuncTest",
+    "com.helger.jcodemodel.JMethodTest",
+    "com.helger.jcodemodel.JSwitchTest",
+    "com.helger.jcodemodel.JavadocFuncTest",
+    "com.helger.jcodemodel.ForEachFuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue53FuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue31FuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue51FuncTest",
+    "com.helger.jcodemodel.JFieldRefTest",
+    "com.helger.jcodemodel.JSynchronizedBlockTest",
+    "com.helger.jcodemodel.JDirectClassTest",
+    "com.helger.jcodemodel.JBlockTest",
+    "com.helger.jcodemodel.JLambdaTest",
+    "com.helger.jcodemodel.JLambdaMethodRefTest",
+    "com.helger.jcodemodel.VarArgsFuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue30FuncTest"
+  ]
+}

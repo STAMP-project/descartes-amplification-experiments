@@ -1,0 +1,30 @@
+{
+  "nbMutantKilledOriginally": 1,
+  "name": "joptsimple.util.InetAddressConverterTest",
+  "nbOriginalTestCases": 2,
+  "testCases": [
+    {
+      "name": "unknownHost_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "\"A\"",
+          "lineNumber": 68,
+          "locationMethod": "message"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 68,
+          "locationMethod": "message"
+        },
+        {
+          "ID": "\"\"",
+          "lineNumber": 68,
+          "locationMethod": "message"
+        }
+      ]
+    }
+  ]
+}

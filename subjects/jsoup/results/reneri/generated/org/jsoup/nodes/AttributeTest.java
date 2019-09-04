@@ -1,0 +1,20 @@
+package org.jsoup.nodes;
+
+
+public class AttributeTest {
+    @org.junit.Test
+    public void html() {
+        org.jsoup.nodes.Attribute attr = eu.stamp_project.reneri.instrumentation.StateObserver.<org.jsoup.nodes.Attribute>observeState("org.jsoup.nodes.AttributeTest|html()|0", org.jsoup.nodes.Attribute.class, new org.jsoup.nodes.Attribute("key", "value &"));
+        org.junit.Assert.assertEquals("key=\"value &amp;\"", eu.stamp_project.reneri.instrumentation.StateObserver.observe("org.jsoup.nodes.AttributeTest|html()|2", eu.stamp_project.reneri.instrumentation.StateObserver.<org.jsoup.nodes.Attribute>observeState("org.jsoup.nodes.AttributeTest|html()|1", org.jsoup.nodes.Attribute.class, attr).html()));
+        org.junit.Assert.assertEquals(eu.stamp_project.reneri.instrumentation.StateObserver.observe("org.jsoup.nodes.AttributeTest|html()|4", eu.stamp_project.reneri.instrumentation.StateObserver.<org.jsoup.nodes.Attribute>observeState("org.jsoup.nodes.AttributeTest|html()|3", org.jsoup.nodes.Attribute.class, attr).html()), eu.stamp_project.reneri.instrumentation.StateObserver.observe("org.jsoup.nodes.AttributeTest|html()|6", eu.stamp_project.reneri.instrumentation.StateObserver.<org.jsoup.nodes.Attribute>observeState("org.jsoup.nodes.AttributeTest|html()|5", org.jsoup.nodes.Attribute.class, attr).toString()));
+    }
+
+    @org.junit.Test
+    public void testWithSupplementaryCharacterInAttributeKeyAndValue() {
+        java.lang.String s = eu.stamp_project.reneri.instrumentation.StateObserver.observe("org.jsoup.nodes.AttributeTest|testWithSupplementaryCharacterInAttributeKeyAndValue()|1", new java.lang.String(eu.stamp_project.reneri.instrumentation.StateObserver.<char[]>observeState("org.jsoup.nodes.AttributeTest|testWithSupplementaryCharacterInAttributeKeyAndValue()|0", char[].class, java.lang.Character.toChars(135361))));
+        org.jsoup.nodes.Attribute attr = eu.stamp_project.reneri.instrumentation.StateObserver.<org.jsoup.nodes.Attribute>observeState("org.jsoup.nodes.AttributeTest|testWithSupplementaryCharacterInAttributeKeyAndValue()|4", org.jsoup.nodes.Attribute.class, new org.jsoup.nodes.Attribute(eu.stamp_project.reneri.instrumentation.StateObserver.observe("org.jsoup.nodes.AttributeTest|testWithSupplementaryCharacterInAttributeKeyAndValue()|2", s), (("A" + (eu.stamp_project.reneri.instrumentation.StateObserver.observe("org.jsoup.nodes.AttributeTest|testWithSupplementaryCharacterInAttributeKeyAndValue()|3", s))) + "B")));
+        org.junit.Assert.assertEquals(((((eu.stamp_project.reneri.instrumentation.StateObserver.observe("org.jsoup.nodes.AttributeTest|testWithSupplementaryCharacterInAttributeKeyAndValue()|5", s)) + "=\"A") + (eu.stamp_project.reneri.instrumentation.StateObserver.observe("org.jsoup.nodes.AttributeTest|testWithSupplementaryCharacterInAttributeKeyAndValue()|6", s))) + "B\""), eu.stamp_project.reneri.instrumentation.StateObserver.observe("org.jsoup.nodes.AttributeTest|testWithSupplementaryCharacterInAttributeKeyAndValue()|8", eu.stamp_project.reneri.instrumentation.StateObserver.<org.jsoup.nodes.Attribute>observeState("org.jsoup.nodes.AttributeTest|testWithSupplementaryCharacterInAttributeKeyAndValue()|7", org.jsoup.nodes.Attribute.class, attr).html()));
+        org.junit.Assert.assertEquals(eu.stamp_project.reneri.instrumentation.StateObserver.observe("org.jsoup.nodes.AttributeTest|testWithSupplementaryCharacterInAttributeKeyAndValue()|10", eu.stamp_project.reneri.instrumentation.StateObserver.<org.jsoup.nodes.Attribute>observeState("org.jsoup.nodes.AttributeTest|testWithSupplementaryCharacterInAttributeKeyAndValue()|9", org.jsoup.nodes.Attribute.class, attr).html()), eu.stamp_project.reneri.instrumentation.StateObserver.observe("org.jsoup.nodes.AttributeTest|testWithSupplementaryCharacterInAttributeKeyAndValue()|12", eu.stamp_project.reneri.instrumentation.StateObserver.<org.jsoup.nodes.Attribute>observeState("org.jsoup.nodes.AttributeTest|testWithSupplementaryCharacterInAttributeKeyAndValue()|11", org.jsoup.nodes.Attribute.class, attr).toString()));
+    }
+}
+

@@ -1,0 +1,1 @@
+./net/tridentsdk/world/opt/GameRuleMap_ESTest_scaffolding.java ./net/tridentsdk/world/opt/GameRuleMap_ESTest.java

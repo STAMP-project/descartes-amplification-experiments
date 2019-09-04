@@ -1,0 +1,10 @@
+{
+  "mutator": "empty",
+  "class": "Hex",
+  "package": "org.apache.commons.codec.binary",
+  "method": "encode",
+  "description": "(Ljava/nio/ByteBuffer;)[B",
+  "tests": [
+    "org.apache.commons.codec.binary.HexTest"
+  ]
+}

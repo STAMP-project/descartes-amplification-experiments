@@ -1,0 +1,10 @@
+{
+  "mutator": "\"A\"",
+  "class": "JTypeVarClass",
+  "package": "com.helger.jcodemodel",
+  "method": "name",
+  "description": "()Ljava/lang/String;",
+  "tests": [
+    "com.helger.jcodemodel.JInvocationTest"
+  ]
+}

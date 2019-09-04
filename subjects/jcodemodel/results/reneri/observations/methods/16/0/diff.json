@@ -1,0 +1,62 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JAnnotationUse|param|(Ljava/lang/String;Ljava/lang/Class;)Lcom/helger/jcodemodel/JAnnotationUse;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JAnnotationUse|param|(Ljava/lang/String;Ljava/lang/Class;)Lcom/helger/jcodemodel/JAnnotationUse;|1|#that|m_aMemberValues",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Map"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Map"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JAnnotationUse|param|(Ljava/lang/String;Ljava/lang/Class;)Lcom/helger/jcodemodel/JAnnotationUse;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JAnnotationUse|param|(Ljava/lang/String;Ljava/lang/Class;)Lcom/helger/jcodemodel/JAnnotationUse;|0|#that|m_aMemberValues",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Map"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Map"
+      }
+    ]
+  }
+]

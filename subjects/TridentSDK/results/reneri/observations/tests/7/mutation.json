@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "AbstractVector",
+  "package": "net.tridentsdk.base",
+  "method": "multiply",
+  "description": "(DDD)Lnet/tridentsdk/base/AbstractVector;",
+  "tests": [
+    "net.tridentsdk.base.VectorsTest"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "mutator": "false",
+  "class": "Rule$4",
+  "package": "org.apache.commons.codec.language.bm",
+  "method": "isMatch",
+  "description": "(Ljava/lang/CharSequence;)Z",
+  "tests": [
+    "org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest",
+    "org.apache.commons.codec.language.bm.BeiderMorseEncoderTest",
+    "org.apache.commons.codec.language.bm.PhoneticEngineTest"
+  ]
+}

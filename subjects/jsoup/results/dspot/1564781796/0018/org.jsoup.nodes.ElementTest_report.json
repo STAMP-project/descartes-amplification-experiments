@@ -1,0 +1,181 @@
+{
+  "nbMutantKilledOriginally": 142,
+  "name": "org.jsoup.nodes.ElementTest",
+  "nbOriginalTestCases": 93,
+  "testCases": [
+    {
+      "name": "testPrependNewHtml_rv208",
+      "nbAssertionAdded": 42,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 865,
+          "locationMethod": "getElementsByAttributeValueNot"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_rv216",
+      "nbAssertionAdded": 42,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 963,
+          "locationMethod": "getElementsContainingText"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_rv217",
+      "nbAssertionAdded": 84,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 1010,
+          "locationMethod": "getElementsMatchingOwnText"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 1022,
+          "locationMethod": "getElementsMatchingOwnText"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_rv203",
+      "nbAssertionAdded": 84,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 840,
+          "locationMethod": "getElementsByAttributeStarting"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_rv215",
+      "nbAssertionAdded": 84,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 974,
+          "locationMethod": "getElementsContainingOwnText"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_mg80",
+      "nbAssertionAdded": 124,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 887,
+          "locationMethod": "getElementsByAttributeValueEnding"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_mg79",
+      "nbAssertionAdded": 62,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 898,
+          "locationMethod": "getElementsByAttributeValueContaining"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_rv209",
+      "nbAssertionAdded": 42,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 876,
+          "locationMethod": "getElementsByAttributeValueStarting"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_mg43",
+      "nbAssertionAdded": 192,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 66,
+          "locationMethod": "isTrackErrors"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml",
+      "nbAssertionAdded": 30,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 40,
+          "locationMethod": "hasParent"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_mg39",
+      "nbAssertionAdded": 140,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 119,
+          "locationMethod": "normalise"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_rv207_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 921,
+          "locationMethod": "getElementsByAttributeValueMatching"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_rv211",
+      "nbAssertionAdded": 84,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 952,
+          "locationMethod": "getElementsByIndexEquals"
+        }
+      ]
+    }
+  ]
+}

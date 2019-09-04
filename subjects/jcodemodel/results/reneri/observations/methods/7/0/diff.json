@@ -1,0 +1,92 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_if|(Lcom/helger/jcodemodel/IJExpression;)Lcom/helger/jcodemodel/JConditional;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JConditional"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JConditional"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_if|(Lcom/helger/jcodemodel/IJExpression;)Lcom/helger/jcodemodel/JConditional;|0|#that|m_aContentList|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_if|(Lcom/helger/jcodemodel/IJExpression;)Lcom/helger/jcodemodel/JConditional;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JConditional"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JConditional"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_if|(Lcom/helger/jcodemodel/IJExpression;)Lcom/helger/jcodemodel/JConditional;|1|#that|m_aContentList|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_if|(Lcom/helger/jcodemodel/IJExpression;)Lcom/helger/jcodemodel/JConditional;|0|#that|m_nPos",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_if|(Lcom/helger/jcodemodel/IJExpression;)Lcom/helger/jcodemodel/JConditional;|1|#that|m_nPos",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "JMethod",
+  "package": "com.helger.jcodemodel",
+  "method": "hasSignature",
+  "description": "([Lcom/helger/jcodemodel/AbstractJType;)Z",
+  "tests": [
+    "com.helger.jcodemodel.supplementary.issues.Issue58FuncTest"
+  ]
+}

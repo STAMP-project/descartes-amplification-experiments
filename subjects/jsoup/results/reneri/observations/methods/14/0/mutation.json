@@ -1,0 +1,20 @@
+{
+  "mutator": "void",
+  "class": "Tokeniser",
+  "package": "org.jsoup.parser",
+  "method": "error",
+  "description": "(Lorg/jsoup/parser/TokeniserState;)V",
+  "tests": [
+    "org.jsoup.nodes.DocumentTest",
+    "org.jsoup.helper.W3CDomTest",
+    "org.jsoup.parser.TokeniserStateTest",
+    "org.jsoup.safety.CleanerTest",
+    "org.jsoup.parser.AttributeParseTest",
+    "org.jsoup.parser.HtmlParserTest",
+    "org.jsoup.helper.DataUtilTest",
+    "org.jsoup.parser.TokenQueueTest",
+    "org.jsoup.nodes.DocumentTypeTest",
+    "org.jsoup.integration.ParseTest",
+    "org.jsoup.select.SelectorTest"
+  ]
+}

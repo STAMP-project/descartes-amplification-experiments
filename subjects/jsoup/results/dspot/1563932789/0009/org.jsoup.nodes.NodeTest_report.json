@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 48,
+  "name": "org.jsoup.nodes.NodeTest",
+  "nbOriginalTestCases": 25,
+  "testCases": [
+    {
+      "name": "orphanNodeReturnsNullForSiblingElements_mg55",
+      "nbAssertionAdded": 68,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 40,
+          "locationMethod": "hasParent"
+        }
+      ]
+    }
+  ]
+}

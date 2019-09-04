@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "Tag",
+  "package": "org.jsoup.parser",
+  "method": "isInline",
+  "description": "()Z",
+  "tests": [
+    "org.jsoup.parser.TagTest"
+  ]
+}

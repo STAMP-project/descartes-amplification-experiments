@@ -1,0 +1,78 @@
+[
+  {
+    "pointcut": "io.gsonfire.gson.HooksExceptionTest|testPostDeserializeException()|0|threadLocalHashCode",
+    "expected": [
+      {
+        "literalValue": "2119232183",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1492604898",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "-147926629",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "io.gsonfire.gson.HooksExceptionTest|testPreSerializeException()|10|threadLocalHashCode",
+    "expected": [
+      {
+        "literalValue": "2119232183",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1492604898",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "-147926629",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "io.gsonfire.gson.HooksExceptionTest|testPostDeserializeException()|8|threadLocalHashCode",
+    "expected": [
+      {
+        "literalValue": "2119232183",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1492604898",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "-147926629",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "io.gsonfire.gson.HooksExceptionTest|testPreSerializeException()|3|threadLocalHashCode",
+    "expected": [
+      {
+        "literalValue": "2119232183",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1492604898",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "-147926629",
+        "typeName": "int"
+      }
+    ]
+  }
+]

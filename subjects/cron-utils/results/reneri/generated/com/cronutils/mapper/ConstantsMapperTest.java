@@ -1,0 +1,74 @@
+package com.cronutils.mapper;
+
+
+/* Copyright 2015 jmrozanec
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+ */
+public class ConstantsMapperTest {
+    @org.junit.Test
+    public void testWeekDayMappingQuartzToJDK8time() throws java.lang.Exception {
+        com.cronutils.mapper.WeekDay quartz = eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToJDK8time()|0", com.cronutils.mapper.WeekDay.class, com.cronutils.mapper.ConstantsMapper.QUARTZ_WEEK_DAY);
+        com.cronutils.mapper.WeekDay jdktime = eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToJDK8time()|1", com.cronutils.mapper.WeekDay.class, com.cronutils.mapper.ConstantsMapper.JAVA8);
+        for (int j = 2; (eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToJDK8time()|2", j)) < 8; j++) {
+            org.junit.Assert.assertEquals(((eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToJDK8time()|3", j)) - 1), eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToJDK8time()|7", com.cronutils.mapper.ConstantsMapper.weekDayMapping(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToJDK8time()|4", com.cronutils.mapper.WeekDay.class, quartz), eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToJDK8time()|5", com.cronutils.mapper.WeekDay.class, jdktime), eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToJDK8time()|6", j))));
+        }
+        org.junit.Assert.assertEquals(7, eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToJDK8time()|10", com.cronutils.mapper.ConstantsMapper.weekDayMapping(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToJDK8time()|8", com.cronutils.mapper.WeekDay.class, quartz), eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToJDK8time()|9", com.cronutils.mapper.WeekDay.class, jdktime), 1)));
+    }
+
+    @org.junit.Test
+    public void testWeekDayMappingJDK8ToQuartz() throws java.lang.Exception {
+        com.cronutils.mapper.WeekDay quartz = eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToQuartz()|0", com.cronutils.mapper.WeekDay.class, com.cronutils.mapper.ConstantsMapper.QUARTZ_WEEK_DAY);
+        com.cronutils.mapper.WeekDay jdktime = eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToQuartz()|1", com.cronutils.mapper.WeekDay.class, com.cronutils.mapper.ConstantsMapper.JAVA8);
+        for (int j = 1; (eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToQuartz()|2", j)) < 7; j++) {
+            org.junit.Assert.assertEquals(((eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToQuartz()|3", j)) + 1), eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToQuartz()|7", com.cronutils.mapper.ConstantsMapper.weekDayMapping(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToQuartz()|4", com.cronutils.mapper.WeekDay.class, jdktime), eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToQuartz()|5", com.cronutils.mapper.WeekDay.class, quartz), eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToQuartz()|6", j))));
+        }
+        org.junit.Assert.assertEquals(1, eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToQuartz()|10", com.cronutils.mapper.ConstantsMapper.weekDayMapping(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToQuartz()|8", com.cronutils.mapper.WeekDay.class, jdktime), eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToQuartz()|9", com.cronutils.mapper.WeekDay.class, quartz), 7)));
+    }
+
+    @org.junit.Test
+    public void testWeekDayMappingQuartzToCrontab() throws java.lang.Exception {
+        com.cronutils.mapper.WeekDay quartz = eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToCrontab()|0", com.cronutils.mapper.WeekDay.class, com.cronutils.mapper.ConstantsMapper.QUARTZ_WEEK_DAY);
+        com.cronutils.mapper.WeekDay crontab = eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToCrontab()|1", com.cronutils.mapper.WeekDay.class, com.cronutils.mapper.ConstantsMapper.CRONTAB_WEEK_DAY);
+        for (int j = 1; (eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToCrontab()|2", j)) < 7; j++) {
+            org.junit.Assert.assertEquals(((eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToCrontab()|3", j)) - 1), eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToCrontab()|7", com.cronutils.mapper.ConstantsMapper.weekDayMapping(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToCrontab()|4", com.cronutils.mapper.WeekDay.class, quartz), eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToCrontab()|5", com.cronutils.mapper.WeekDay.class, crontab), eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingQuartzToCrontab()|6", j))));
+        }
+    }
+
+    @org.junit.Test
+    public void testWeekDayMappingCrontabToQuartz() throws java.lang.Exception {
+        com.cronutils.mapper.WeekDay quartz = eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToQuartz()|0", com.cronutils.mapper.WeekDay.class, com.cronutils.mapper.ConstantsMapper.QUARTZ_WEEK_DAY);
+        com.cronutils.mapper.WeekDay crontab = eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToQuartz()|1", com.cronutils.mapper.WeekDay.class, com.cronutils.mapper.ConstantsMapper.CRONTAB_WEEK_DAY);
+        for (int j = 0; (eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToQuartz()|2", j)) < 7; j++) {
+            org.junit.Assert.assertEquals(((eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToQuartz()|3", j)) + 1), eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToQuartz()|7", com.cronutils.mapper.ConstantsMapper.weekDayMapping(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToQuartz()|4", com.cronutils.mapper.WeekDay.class, crontab), eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToQuartz()|5", com.cronutils.mapper.WeekDay.class, quartz), eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToQuartz()|6", j))));
+        }
+    }
+
+    @org.junit.Test
+    public void testWeekDayMappingCrontabToJDK8() throws java.lang.Exception {
+        com.cronutils.mapper.WeekDay crontab = eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToJDK8()|0", com.cronutils.mapper.WeekDay.class, com.cronutils.mapper.ConstantsMapper.CRONTAB_WEEK_DAY);
+        com.cronutils.mapper.WeekDay jdktime = eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToJDK8()|1", com.cronutils.mapper.WeekDay.class, com.cronutils.mapper.ConstantsMapper.JAVA8);
+        for (int j = 1; (eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToJDK8()|2", j)) < 7; j++) {
+            org.junit.Assert.assertEquals(eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToJDK8()|3", j), eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToJDK8()|7", com.cronutils.mapper.ConstantsMapper.weekDayMapping(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToJDK8()|4", com.cronutils.mapper.WeekDay.class, crontab), eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToJDK8()|5", com.cronutils.mapper.WeekDay.class, jdktime), eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToJDK8()|6", j))));
+        }
+        org.junit.Assert.assertEquals(7, eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToJDK8()|10", com.cronutils.mapper.ConstantsMapper.weekDayMapping(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToJDK8()|8", com.cronutils.mapper.WeekDay.class, crontab), eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingCrontabToJDK8()|9", com.cronutils.mapper.WeekDay.class, jdktime), 0)));
+    }
+
+    @org.junit.Test
+    public void testWeekDayMappingJDK8ToCrontab() throws java.lang.Exception {
+        com.cronutils.mapper.WeekDay crontab = eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToCrontab()|0", com.cronutils.mapper.WeekDay.class, com.cronutils.mapper.ConstantsMapper.CRONTAB_WEEK_DAY);
+        com.cronutils.mapper.WeekDay jdktime = eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToCrontab()|1", com.cronutils.mapper.WeekDay.class, com.cronutils.mapper.ConstantsMapper.JAVA8);
+        for (int j = 1; (eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToCrontab()|2", j)) < 7; j++) {
+            org.junit.Assert.assertEquals(eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToCrontab()|3", j), eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToCrontab()|7", com.cronutils.mapper.ConstantsMapper.weekDayMapping(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToCrontab()|4", com.cronutils.mapper.WeekDay.class, jdktime), eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToCrontab()|5", com.cronutils.mapper.WeekDay.class, crontab), eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToCrontab()|6", j))));
+        }
+        org.junit.Assert.assertEquals(0, eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToCrontab()|10", com.cronutils.mapper.ConstantsMapper.weekDayMapping(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToCrontab()|8", com.cronutils.mapper.WeekDay.class, jdktime), eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.mapper.WeekDay>observeState("com.cronutils.mapper.ConstantsMapperTest|testWeekDayMappingJDK8ToCrontab()|9", com.cronutils.mapper.WeekDay.class, crontab), 7)));
+    }
+}
+

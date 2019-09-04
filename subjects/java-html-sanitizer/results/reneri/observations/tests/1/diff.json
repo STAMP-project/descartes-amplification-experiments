@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderFuzzerTest|testFuzzedOutput()|50",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderFuzzerTest|checkSafe(org.w3c.dom.Node,java.lang.String)|33",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  }
+]

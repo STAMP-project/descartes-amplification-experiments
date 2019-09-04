@@ -1,0 +1,10 @@
+{
+  "mutator": "false",
+  "class": "HmacUtils",
+  "package": "org.apache.commons.codec.digest",
+  "method": "isAvailable",
+  "description": "(Lorg/apache/commons/codec/digest/HmacAlgorithms;)Z",
+  "tests": [
+    "org.apache.commons.codec.digest.HmacAlgorithmsTest"
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "org.eaxy.usage.ElementFinderTest|shouldIterateOverFiles()|12",
+    "expected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  }
+]

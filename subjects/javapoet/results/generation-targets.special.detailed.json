@@ -1,0 +1,21 @@
+[
+    {
+        "method": {
+            "class": "MethodSpec",
+            "name": "lastParameterIsArray",
+            "package": "com.squareup.javapoet",
+            "description": "(Ljava/util/List;)Z"
+        },
+        "mutators": [
+            "true"
+        ],
+        "entryPoints": [
+            {
+                "class": "MethodSpec",
+                "name": "methodBuilder",
+                "package": "com.squareup.javapoet",
+                "description": "(Ljava/lang/String;)Lcom/squareup/javapoet/MethodSpec$Builder;"
+            }
+        ]
+    }
+]

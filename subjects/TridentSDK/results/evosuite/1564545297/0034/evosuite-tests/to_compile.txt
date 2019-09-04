@@ -1,0 +1,1 @@
+./net/tridentsdk/ui/chat/ChatComponent_ESTest_scaffolding.java ./net/tridentsdk/ui/chat/ChatComponent_ESTest.java

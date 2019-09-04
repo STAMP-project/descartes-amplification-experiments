@@ -1,0 +1,10 @@
+{
+  "mutator": "\"\"",
+  "class": "JTypeWildcard",
+  "package": "com.helger.jcodemodel",
+  "method": "fullName",
+  "description": "()Ljava/lang/String;",
+  "tests": [
+    "com.helger.jcodemodel.AbstractJTypeTest"
+  ]
+}

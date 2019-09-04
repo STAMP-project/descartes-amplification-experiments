@@ -1,0 +1,62 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JInvocationTest|testWithGenerics()|70",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JReturn"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JReturn"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JInvocationTest|testWithGenerics()|48",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JReturn"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JReturn"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JInvocationTest|testWithGenerics()|33",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JReturn"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JReturn"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JInvocationTest|testWithGenerics()|21",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JReturn"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JReturn"
+      }
+    ]
+  }
+]

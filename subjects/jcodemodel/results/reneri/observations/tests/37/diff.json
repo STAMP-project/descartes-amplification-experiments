@@ -1,0 +1,122 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.AbstractJTypeTest|testIsAssignableFromSmoke()|1|s_bIsCaseSensitiveFileSystem",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AbstractJTypeTest|testIsAssignableFromRandomized()|3|s_bIsCaseSensitiveFileSystem",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AbstractJTypeTest|testIsAssignableFromRandomized()|0|s_bIsCaseSensitiveFileSystem",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AbstractJTypeTest|testIsAssignableFromSmoke()|0|s_bIsCaseSensitiveFileSystem",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AbstractJTypeTest|testIsAssignableFromSmoke()|3|s_bIsCaseSensitiveFileSystem",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AbstractJTypeTest|testIsAssignableFromSmoke()|5|s_bIsCaseSensitiveFileSystem",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AbstractJTypeTest|testIsAssignableFromRandomized()|1|s_bIsCaseSensitiveFileSystem",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AbstractJTypeTest|testIsAssignableFromRandomized()|5|s_bIsCaseSensitiveFileSystem",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  }
+]

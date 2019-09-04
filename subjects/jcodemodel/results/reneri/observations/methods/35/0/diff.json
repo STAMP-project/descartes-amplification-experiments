@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JMethod|annotate|(Ljava/lang/Class;)Lcom/helger/jcodemodel/JAnnotationUse;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JMethod|annotate|(Ljava/lang/Class;)Lcom/helger/jcodemodel/JAnnotationUse;|0|#that|m_aAnnotations",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.List"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.List"
+      }
+    ]
+  }
+]

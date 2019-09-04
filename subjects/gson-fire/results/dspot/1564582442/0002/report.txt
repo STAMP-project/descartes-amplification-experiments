@@ -1,0 +1,4 @@
+Test class that has been amplified: io.gsonfire.gson.AnnotationInspectorTest
+The original test suite kills 99 mutants
+The amplification results with 0 new tests
+it kills 0 more mutants

@@ -1,0 +1,90 @@
+{
+  "nbMutantKilledOriginally": 16,
+  "name": "org.jsoup.nodes.TextNodeTest",
+  "nbOriginalTestCases": 6,
+  "testCases": [
+    {
+      "name": "testSplitAnEmbolden_mg48",
+      "nbAssertionAdded": 92,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 66,
+          "locationMethod": "isTrackErrors"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden",
+      "nbAssertionAdded": 44,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 40,
+          "locationMethod": "hasParent"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_rv145",
+      "nbAssertionAdded": 74,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "\"A\"",
+          "lineNumber": 75,
+          "locationMethod": "absUrl"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 75,
+          "locationMethod": "absUrl"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_rv156",
+      "nbAssertionAdded": 74,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 63,
+          "locationMethod": "hasAttr"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_mg44",
+      "nbAssertionAdded": 98,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 119,
+          "locationMethod": "normalise"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_rv166",
+      "nbAssertionAdded": 80,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 69,
+          "locationMethod": "removeAttr"
+        }
+      ]
+    }
+  ]
+}

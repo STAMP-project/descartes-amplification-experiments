@@ -1,0 +1,10 @@
+{
+  "mutator": "void",
+  "class": "Util",
+  "package": "com.squareup.javapoet",
+  "method": "requireExactlyOneOf",
+  "description": "(Ljava/util/Set;[Ljavax/lang/model/element/Modifier;)V",
+  "tests": [
+    "com.squareup.javapoet.TypeSpecTest"
+  ]
+}

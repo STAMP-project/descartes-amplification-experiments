@@ -1,0 +1,47 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.AnnotationUseFuncTest|testMain()|23",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AnnotationUseFuncTest|testMain()|26|m_aMemberValues|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AnnotationUseFuncTest|testMain()|24|m_aMemberValues",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Map"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Map"
+      }
+    ]
+  }
+]

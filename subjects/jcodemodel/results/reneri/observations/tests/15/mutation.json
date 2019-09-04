@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "JAnnotationUse",
+  "package": "com.helger.jcodemodel",
+  "method": "param",
+  "description": "(Ljava/lang/String;)Lcom/helger/jcodemodel/JAnnotationUse;",
+  "tests": [
+    "com.helger.jcodemodel.AnnotationUseFuncTest"
+  ]
+}

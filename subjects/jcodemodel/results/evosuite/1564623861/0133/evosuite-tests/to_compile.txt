@@ -1,0 +1,1 @@
+./com/helger/jcodemodel/JReferencedClass_ESTest_scaffolding.java ./com/helger/jcodemodel/JReferencedClass_ESTest.java

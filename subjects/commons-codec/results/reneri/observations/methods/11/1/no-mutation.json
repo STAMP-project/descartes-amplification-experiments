@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "DaitchMokotoffSoundex",
+  "package": "org.apache.commons.codec.language",
+  "method": "stripQuotes",
+  "description": "(Ljava/lang/String;)Ljava/lang/String;",
+  "tests": [
+    "org.apache.commons.codec.language.DaitchMokotoffSoundexTest"
+  ]
+}

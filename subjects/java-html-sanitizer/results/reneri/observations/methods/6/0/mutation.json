@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "StylingPolicy",
+  "package": "org.owasp.html",
+  "method": "isAlphanumericOrSpaceOrHyphen",
+  "description": "(Ljava/lang/String;II)Z",
+  "tests": [
+    "org.owasp.html.StylingPolicyTest"
+  ]
+}

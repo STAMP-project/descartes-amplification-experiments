@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "BCodec",
+  "package": "org.apache.commons.codec.net",
+  "method": "encode",
+  "description": "(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;",
+  "tests": [
+    "org.apache.commons.codec.net.BCodecTest"
+  ]
+}

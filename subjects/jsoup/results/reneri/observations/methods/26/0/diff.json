@@ -1,0 +1,3619 @@
+[
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|formattingElements|#size",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|stack",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.ArrayList"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|state",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|InTableBody",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|ordinal",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#trace",
+    "expected": [],
+    "unexpected": [
+      {
+        "trace": [
+          {
+            "declaringClass": "org.jsoup.parser.HtmlTreeBuilderState$20",
+            "methodName": "process",
+            "lineNumber": -1
+          },
+          {
+            "declaringClass": "org.jsoup.parser.HtmlTreeBuilder",
+            "methodName": "process",
+            "lineNumber": 136
+          },
+          {
+            "declaringClass": "org.jsoup.parser.TreeBuilder",
+            "methodName": "runParser",
+            "lineNumber": 56
+          },
+          {
+            "declaringClass": "org.jsoup.parser.TreeBuilder",
+            "methodName": "parse",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.jsoup.parser.Parser",
+            "methodName": "parse",
+            "lineNumber": 107
+          },
+          {
+            "declaringClass": "org.jsoup.Jsoup",
+            "methodName": "parse",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.jsoup.safety.CleanerTest",
+            "methodName": "handlesFramesets",
+            "lineNumber": 269
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke0",
+            "lineNumber": -2
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 62
+          },
+          {
+            "declaringClass": "sun.reflect.DelegatingMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 43
+          },
+          {
+            "declaringClass": "java.lang.reflect.Method",
+            "methodName": "invoke",
+            "lineNumber": 498
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod$1",
+            "methodName": "runReflectiveCall",
+            "lineNumber": 50
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.model.ReflectiveCallable",
+            "methodName": "run",
+            "lineNumber": 12
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod",
+            "methodName": "invokeExplosively",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.statements.InvokeMethod",
+            "methodName": "evaluate",
+            "lineNumber": 17
+          },
+          {
+            "declaringClass": "org.jsoup.MultiLocaleRule$1",
+            "methodName": "evaluate",
+            "lineNumber": 22
+          },
+          {
+            "declaringClass": "org.junit.rules.RunRules",
+            "methodName": "evaluate",
+            "lineNumber": 20
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runLeaf",
+            "lineNumber": 325
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 78
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 57
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$3",
+            "methodName": "run",
+            "lineNumber": 290
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$1",
+            "methodName": "schedule",
+            "lineNumber": 71
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runChildren",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "access$000",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$2",
+            "methodName": "evaluate",
+            "lineNumber": 268
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "run",
+            "lineNumber": 363
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "execute",
+            "lineNumber": 365
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeWithRerun",
+            "lineNumber": 273
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeTestSet",
+            "lineNumber": 238
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "invoke",
+            "lineNumber": 159
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "invokeProviderInSameClassLoader",
+            "lineNumber": 384
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "runSuitesInProcess",
+            "lineNumber": 345
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "execute",
+            "lineNumber": 126
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "main",
+            "lineNumber": 418
+          }
+        ],
+        "typeName": "java.lang.StackTraceElement[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|TagSearchEndTags|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#0|tagName",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "html",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|AfterHead",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|4|#trace",
+    "expected": [
+      {
+        "trace": [
+          {
+            "declaringClass": "org.jsoup.parser.HtmlTreeBuilderState$20",
+            "methodName": "process",
+            "lineNumber": 1425
+          },
+          {
+            "declaringClass": "org.jsoup.parser.HtmlTreeBuilder",
+            "methodName": "process",
+            "lineNumber": 136
+          },
+          {
+            "declaringClass": "org.jsoup.parser.TreeBuilder",
+            "methodName": "runParser",
+            "lineNumber": 56
+          },
+          {
+            "declaringClass": "org.jsoup.parser.TreeBuilder",
+            "methodName": "parse",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.jsoup.parser.Parser",
+            "methodName": "parse",
+            "lineNumber": 107
+          },
+          {
+            "declaringClass": "org.jsoup.Jsoup",
+            "methodName": "parse",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.jsoup.safety.CleanerTest",
+            "methodName": "handlesFramesets",
+            "lineNumber": 269
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke0",
+            "lineNumber": -2
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 62
+          },
+          {
+            "declaringClass": "sun.reflect.DelegatingMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 43
+          },
+          {
+            "declaringClass": "java.lang.reflect.Method",
+            "methodName": "invoke",
+            "lineNumber": 498
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod$1",
+            "methodName": "runReflectiveCall",
+            "lineNumber": 50
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.model.ReflectiveCallable",
+            "methodName": "run",
+            "lineNumber": 12
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod",
+            "methodName": "invokeExplosively",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.statements.InvokeMethod",
+            "methodName": "evaluate",
+            "lineNumber": 17
+          },
+          {
+            "declaringClass": "org.jsoup.MultiLocaleRule$1",
+            "methodName": "evaluate",
+            "lineNumber": 22
+          },
+          {
+            "declaringClass": "org.junit.rules.RunRules",
+            "methodName": "evaluate",
+            "lineNumber": 20
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runLeaf",
+            "lineNumber": 325
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 78
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 57
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$3",
+            "methodName": "run",
+            "lineNumber": 290
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$1",
+            "methodName": "schedule",
+            "lineNumber": 71
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runChildren",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "access$000",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$2",
+            "methodName": "evaluate",
+            "lineNumber": 268
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "run",
+            "lineNumber": 363
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "execute",
+            "lineNumber": 365
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeWithRerun",
+            "lineNumber": 273
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeTestSet",
+            "lineNumber": 238
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "invoke",
+            "lineNumber": 159
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "invokeProviderInSameClassLoader",
+            "lineNumber": 384
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "runSuitesInProcess",
+            "lineNumber": 345
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "execute",
+            "lineNumber": 126
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "main",
+            "lineNumber": 418
+          }
+        ],
+        "typeName": "java.lang.StackTraceElement[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "trace": [
+          {
+            "declaringClass": "org.jsoup.parser.HtmlTreeBuilderState$20",
+            "methodName": "process",
+            "lineNumber": -1
+          },
+          {
+            "declaringClass": "org.jsoup.parser.HtmlTreeBuilder",
+            "methodName": "process",
+            "lineNumber": 136
+          },
+          {
+            "declaringClass": "org.jsoup.parser.TreeBuilder",
+            "methodName": "runParser",
+            "lineNumber": 56
+          },
+          {
+            "declaringClass": "org.jsoup.parser.TreeBuilder",
+            "methodName": "parse",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.jsoup.parser.Parser",
+            "methodName": "parse",
+            "lineNumber": 107
+          },
+          {
+            "declaringClass": "org.jsoup.Jsoup",
+            "methodName": "parse",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.jsoup.parser.HtmlParserTest",
+            "methodName": "handlesFrames",
+            "lineNumber": 501
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke0",
+            "lineNumber": -2
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 62
+          },
+          {
+            "declaringClass": "sun.reflect.DelegatingMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 43
+          },
+          {
+            "declaringClass": "java.lang.reflect.Method",
+            "methodName": "invoke",
+            "lineNumber": 498
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod$1",
+            "methodName": "runReflectiveCall",
+            "lineNumber": 50
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.model.ReflectiveCallable",
+            "methodName": "run",
+            "lineNumber": 12
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod",
+            "methodName": "invokeExplosively",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.statements.InvokeMethod",
+            "methodName": "evaluate",
+            "lineNumber": 17
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runLeaf",
+            "lineNumber": 325
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 78
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 57
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$3",
+            "methodName": "run",
+            "lineNumber": 290
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$1",
+            "methodName": "schedule",
+            "lineNumber": 71
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runChildren",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "access$000",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$2",
+            "methodName": "evaluate",
+            "lineNumber": 268
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "run",
+            "lineNumber": 363
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "execute",
+            "lineNumber": 365
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeWithRerun",
+            "lineNumber": 273
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeTestSet",
+            "lineNumber": 238
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "invoke",
+            "lineNumber": 159
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "invokeProviderInSameClassLoader",
+            "lineNumber": 384
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "runSuitesInProcess",
+            "lineNumber": 345
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "execute",
+            "lineNumber": 126
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "main",
+            "lineNumber": 418
+          }
+        ],
+        "typeName": "java.lang.StackTraceElement[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|tokeniser",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Tokeniser"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#result",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|TagSearchSpecial",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|InSelect",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|originalState",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|InTableBody",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|InCaption",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|settings",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.ParseSettings"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|specificScopeTarget",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|TagSearchButton",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|TagsSearchInScope|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#0|pendingAttributeValueS",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|TagSearchTableScope|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|InBody",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|InBody",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|$assertionsDisabled",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|baseUri",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|AfterAfterFrameset",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|fragmentParsing",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|doc",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Document"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|TagSearchEndTags",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|InCell",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#0|pendingAttributeValue",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.StringBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|TagSearchButton|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|settings",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.ParseSettings"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|settings",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.ParseSettings"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|pendingTableCharacters|#size",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|specificScopeTarget|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|TagSearchSpecial|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "79",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|TagSearchSelectScope",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|TagSearchButton|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|TagsSearchInScope",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|specificScopeTarget",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|headElement",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Element"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|stack|#size",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#0|normalName",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "html",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|nullString",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "\u0000",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#0|type",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token$TokenType"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#0|hasEmptyAttributeValue",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|TagSearchEndTags",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|0|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|InHead",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|TagsSearchInScope",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|ordinal",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|TagSearchEndTags|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|Initial",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|$assertionsDisabled",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|InCell",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|pendingTableCharacters",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.List"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|end",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token$EndTag"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|InSelectInTable",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|InSelect",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|BeforeHead",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|$VALUES|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|InCaption",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|InBody",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|InRow",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|start",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token$StartTag"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|TagSearchTableScope",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|parser",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Parser"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|InSelectInTable",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|InRow",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|Initial",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|AfterFrameset",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|formattingElements",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.ArrayList"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|InHeadNoscript",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|MaxScopeSearchDepth",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "100",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#result",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|nullString",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "\u0000",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|ordinal",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|tokeniser",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Tokeniser"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|fosterInserts",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|formElement",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.FormElement"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|reader",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.CharacterReader"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|formattingElements",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.ArrayList"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|AfterAfterBody",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|TagSearchList|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|InFrameset",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|specificScopeTarget|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|formElement",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.FormElement"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|AfterBody",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|AfterFrameset",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|framesetOk",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|tokeniser",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Tokeniser"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#0|pendingAttributeName",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|BeforeHtml",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|TagSearchButton",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|InTable",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|InTableText",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|fosterInserts",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|ForeignContent",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|baseUriSetFromDoc",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|$VALUES|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|AfterFrameset",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|emptyEnd",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token$EndTag"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|AfterHead",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|framesetOk",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|Text",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|currentToken",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|AfterAfterFrameset",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|stack|#size",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|TagSearchList",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|InSelect",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|InTableBody",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|InColumnGroup",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|state",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|InColumnGroup",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#0|type",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token$TokenType"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|parser",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Parser"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|stack",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.ArrayList"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|Text",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|TagSearchTableScope",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|framesetOk",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|contextElement",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Element"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|InHead",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|formattingElements|#size",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|baseUriSetFromDoc",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|end",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token$EndTag"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|TagSearchSelectScope",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|headElement",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Element"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|AfterBody",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|InColumnGroup",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|Initial",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|TagSearchSelectScope|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|specificScopeTarget",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|InFrameset",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|formElement",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.FormElement"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|pendingTableCharacters",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.List"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|name",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "AfterFrameset",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|$assertionsDisabled",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#trace",
+    "expected": [],
+    "unexpected": [
+      {
+        "trace": [
+          {
+            "declaringClass": "org.jsoup.parser.HtmlTreeBuilderState$20",
+            "methodName": "process",
+            "lineNumber": -1
+          },
+          {
+            "declaringClass": "org.jsoup.parser.HtmlTreeBuilder",
+            "methodName": "process",
+            "lineNumber": 136
+          },
+          {
+            "declaringClass": "org.jsoup.parser.TreeBuilder",
+            "methodName": "runParser",
+            "lineNumber": 56
+          },
+          {
+            "declaringClass": "org.jsoup.parser.TreeBuilder",
+            "methodName": "parse",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.jsoup.parser.Parser",
+            "methodName": "parse",
+            "lineNumber": 107
+          },
+          {
+            "declaringClass": "org.jsoup.Jsoup",
+            "methodName": "parse",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.jsoup.safety.CleanerTest",
+            "methodName": "handlesFramesets",
+            "lineNumber": 269
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke0",
+            "lineNumber": -2
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 62
+          },
+          {
+            "declaringClass": "sun.reflect.DelegatingMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 43
+          },
+          {
+            "declaringClass": "java.lang.reflect.Method",
+            "methodName": "invoke",
+            "lineNumber": 498
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod$1",
+            "methodName": "runReflectiveCall",
+            "lineNumber": 50
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.model.ReflectiveCallable",
+            "methodName": "run",
+            "lineNumber": 12
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod",
+            "methodName": "invokeExplosively",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.statements.InvokeMethod",
+            "methodName": "evaluate",
+            "lineNumber": 17
+          },
+          {
+            "declaringClass": "org.jsoup.MultiLocaleRule$1",
+            "methodName": "evaluate",
+            "lineNumber": 22
+          },
+          {
+            "declaringClass": "org.junit.rules.RunRules",
+            "methodName": "evaluate",
+            "lineNumber": 20
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runLeaf",
+            "lineNumber": 325
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 78
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 57
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$3",
+            "methodName": "run",
+            "lineNumber": 290
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$1",
+            "methodName": "schedule",
+            "lineNumber": 71
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runChildren",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "access$000",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$2",
+            "methodName": "evaluate",
+            "lineNumber": 268
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "run",
+            "lineNumber": 363
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "execute",
+            "lineNumber": 365
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeWithRerun",
+            "lineNumber": 273
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeTestSet",
+            "lineNumber": 238
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "invoke",
+            "lineNumber": 159
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "invokeProviderInSameClassLoader",
+            "lineNumber": 384
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "runSuitesInProcess",
+            "lineNumber": 345
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "execute",
+            "lineNumber": 126
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "main",
+            "lineNumber": 418
+          }
+        ],
+        "typeName": "java.lang.StackTraceElement[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#trace",
+    "expected": [],
+    "unexpected": [
+      {
+        "trace": [
+          {
+            "declaringClass": "org.jsoup.parser.HtmlTreeBuilderState$20",
+            "methodName": "process",
+            "lineNumber": -1
+          },
+          {
+            "declaringClass": "org.jsoup.parser.HtmlTreeBuilder",
+            "methodName": "process",
+            "lineNumber": 136
+          },
+          {
+            "declaringClass": "org.jsoup.parser.TreeBuilder",
+            "methodName": "runParser",
+            "lineNumber": 56
+          },
+          {
+            "declaringClass": "org.jsoup.parser.TreeBuilder",
+            "methodName": "parse",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.jsoup.parser.Parser",
+            "methodName": "parse",
+            "lineNumber": 107
+          },
+          {
+            "declaringClass": "org.jsoup.Jsoup",
+            "methodName": "parse",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.jsoup.parser.HtmlParserTest",
+            "methodName": "handlesFrames",
+            "lineNumber": 501
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke0",
+            "lineNumber": -2
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 62
+          },
+          {
+            "declaringClass": "sun.reflect.DelegatingMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 43
+          },
+          {
+            "declaringClass": "java.lang.reflect.Method",
+            "methodName": "invoke",
+            "lineNumber": 498
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod$1",
+            "methodName": "runReflectiveCall",
+            "lineNumber": 50
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.model.ReflectiveCallable",
+            "methodName": "run",
+            "lineNumber": 12
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod",
+            "methodName": "invokeExplosively",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.statements.InvokeMethod",
+            "methodName": "evaluate",
+            "lineNumber": 17
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runLeaf",
+            "lineNumber": 325
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 78
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 57
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$3",
+            "methodName": "run",
+            "lineNumber": 290
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$1",
+            "methodName": "schedule",
+            "lineNumber": 71
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runChildren",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "access$000",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$2",
+            "methodName": "evaluate",
+            "lineNumber": 268
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "run",
+            "lineNumber": 363
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "execute",
+            "lineNumber": 365
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeWithRerun",
+            "lineNumber": 273
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeTestSet",
+            "lineNumber": 238
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "invoke",
+            "lineNumber": 159
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "invokeProviderInSameClassLoader",
+            "lineNumber": 384
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "runSuitesInProcess",
+            "lineNumber": 345
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "execute",
+            "lineNumber": 126
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "main",
+            "lineNumber": 418
+          }
+        ],
+        "typeName": "java.lang.StackTraceElement[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|3|#trace",
+    "expected": [
+      {
+        "trace": [
+          {
+            "declaringClass": "org.jsoup.parser.HtmlTreeBuilderState$20",
+            "methodName": "process",
+            "lineNumber": 1425
+          },
+          {
+            "declaringClass": "org.jsoup.parser.HtmlTreeBuilder",
+            "methodName": "process",
+            "lineNumber": 136
+          },
+          {
+            "declaringClass": "org.jsoup.parser.TreeBuilder",
+            "methodName": "runParser",
+            "lineNumber": 56
+          },
+          {
+            "declaringClass": "org.jsoup.parser.TreeBuilder",
+            "methodName": "parse",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.jsoup.parser.Parser",
+            "methodName": "parse",
+            "lineNumber": 107
+          },
+          {
+            "declaringClass": "org.jsoup.Jsoup",
+            "methodName": "parse",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.jsoup.parser.HtmlParserTest",
+            "methodName": "handlesFrames",
+            "lineNumber": 501
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke0",
+            "lineNumber": -2
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 62
+          },
+          {
+            "declaringClass": "sun.reflect.DelegatingMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 43
+          },
+          {
+            "declaringClass": "java.lang.reflect.Method",
+            "methodName": "invoke",
+            "lineNumber": 498
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod$1",
+            "methodName": "runReflectiveCall",
+            "lineNumber": 50
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.model.ReflectiveCallable",
+            "methodName": "run",
+            "lineNumber": 12
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod",
+            "methodName": "invokeExplosively",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.statements.InvokeMethod",
+            "methodName": "evaluate",
+            "lineNumber": 17
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runLeaf",
+            "lineNumber": 325
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 78
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 57
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$3",
+            "methodName": "run",
+            "lineNumber": 290
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$1",
+            "methodName": "schedule",
+            "lineNumber": 71
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runChildren",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "access$000",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$2",
+            "methodName": "evaluate",
+            "lineNumber": 268
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "run",
+            "lineNumber": 363
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "execute",
+            "lineNumber": 365
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeWithRerun",
+            "lineNumber": 273
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeTestSet",
+            "lineNumber": 238
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "invoke",
+            "lineNumber": 159
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "invokeProviderInSameClassLoader",
+            "lineNumber": 384
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "runSuitesInProcess",
+            "lineNumber": 345
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "execute",
+            "lineNumber": 126
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "main",
+            "lineNumber": 418
+          }
+        ],
+        "typeName": "java.lang.StackTraceElement[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "trace": [
+          {
+            "declaringClass": "org.jsoup.parser.HtmlTreeBuilderState$20",
+            "methodName": "process",
+            "lineNumber": -1
+          },
+          {
+            "declaringClass": "org.jsoup.parser.HtmlTreeBuilder",
+            "methodName": "process",
+            "lineNumber": 136
+          },
+          {
+            "declaringClass": "org.jsoup.parser.TreeBuilder",
+            "methodName": "runParser",
+            "lineNumber": 56
+          },
+          {
+            "declaringClass": "org.jsoup.parser.TreeBuilder",
+            "methodName": "parse",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.jsoup.parser.Parser",
+            "methodName": "parse",
+            "lineNumber": 107
+          },
+          {
+            "declaringClass": "org.jsoup.Jsoup",
+            "methodName": "parse",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.jsoup.parser.HtmlParserTest",
+            "methodName": "ignoresContentAfterFrameset",
+            "lineNumber": 509
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke0",
+            "lineNumber": -2
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 62
+          },
+          {
+            "declaringClass": "sun.reflect.DelegatingMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 43
+          },
+          {
+            "declaringClass": "java.lang.reflect.Method",
+            "methodName": "invoke",
+            "lineNumber": 498
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod$1",
+            "methodName": "runReflectiveCall",
+            "lineNumber": 50
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.model.ReflectiveCallable",
+            "methodName": "run",
+            "lineNumber": 12
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod",
+            "methodName": "invokeExplosively",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.statements.InvokeMethod",
+            "methodName": "evaluate",
+            "lineNumber": 17
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runLeaf",
+            "lineNumber": 325
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 78
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 57
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$3",
+            "methodName": "run",
+            "lineNumber": 290
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$1",
+            "methodName": "schedule",
+            "lineNumber": 71
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runChildren",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "access$000",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$2",
+            "methodName": "evaluate",
+            "lineNumber": 268
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "run",
+            "lineNumber": 363
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "execute",
+            "lineNumber": 365
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeWithRerun",
+            "lineNumber": 273
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeTestSet",
+            "lineNumber": 238
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "invoke",
+            "lineNumber": 159
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "invokeProviderInSameClassLoader",
+            "lineNumber": 384
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "runSuitesInProcess",
+            "lineNumber": 345
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "execute",
+            "lineNumber": 126
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "main",
+            "lineNumber": 418
+          }
+        ],
+        "typeName": "java.lang.StackTraceElement[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|InTable",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|state",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|contextElement",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Element"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|stack",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.ArrayList"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#0|selfClosing",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|originalState",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|BeforeHead",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|TagSearchList|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|TagSearchButton",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|specificScopeTarget|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|end",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token$EndTag"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|1|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|fragmentParsing",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|TagSearchSpecial",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|TagSearchButton|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|BeforeHtml",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|TagSearchEndTags|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|TagSearchList",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|name",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "AfterFrameset",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|InTableText",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|formattingElements|#size",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|TagSearchTableScope|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|TagSearchSelectScope|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|doc",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Document"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|TagSearchEndTags",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|contextElement",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Element"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|InHeadNoscript",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|TagSearchSelectScope|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|InTable",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#0|hasPendingAttributeValue",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|AfterHead",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|originalState",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|TagSearchSpecial|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "79",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|start",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token$StartTag"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|InCaption",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|currentToken",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|AfterAfterBody",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|TagsSearchInScope|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|AfterAfterBody",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|TagSearchSpecial|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "79",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|reader",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.CharacterReader"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|InHeadNoscript",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|pendingTableCharacters|#size",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|TagSearchSelectScope",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|InRow",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|pendingTableCharacters",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.List"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|ForeignContent",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|InSelectInTable",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|baseUri",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|currentToken",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|$VALUES",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|InTableText",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|parser",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Parser"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#0|type",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token$TokenType"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|pendingTableCharacters|#size",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|TagSearchTableScope|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState$20"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|formattingElements",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.ArrayList"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|TagSearchTableScope",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|TagSearchList|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|$VALUES|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#0",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|name",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "AfterFrameset",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|AfterAfterFrameset",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|MaxScopeSearchDepth",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "100",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|TagsSearchInScope",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|fragmentParsing",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|TagsSearchInScope|#length",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|emptyEnd",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token$EndTag"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|TagSearchList",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|baseUri",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState$20"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|headElement",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Element"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|AfterBody",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|BeforeHtml",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|reader",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.CharacterReader"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#result",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#0|attributes",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|start",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token$StartTag"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|nullString",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "\u0000",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|doc",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Document"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|emptyEnd",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token$EndTag"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|ForeignContent",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|baseUriSetFromDoc",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|BeforeHead",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#that|$VALUES",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState$20"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|$VALUES",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#1|TagSearchSpecial",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.String[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#1|fosterInserts",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|InFrameset",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|InCell",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|6|#that|Text",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|stack|#size",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|7|#that|InHead",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.HtmlTreeBuilderState"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilderState$20|process|(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z|5|#1|MaxScopeSearchDepth",
+    "expected": [],
+    "unexpected": [
+      {
+        "literalValue": "100",
+        "typeName": "int"
+      }
+    ]
+  }
+]

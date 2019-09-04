@@ -1,0 +1,1752 @@
+[
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|41|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|65|CGLIB$getFieldDefinition$6$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|12|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|16|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|71|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|53|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|6|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|7|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesWithIncrementsGreaterThanDaysOfMonth()|6|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|6|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|36|CGLIB$getFieldDefinition$6$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|18|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|41|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|65|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|12|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|59|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|6|CGLIB$getFieldDefinition$6$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|41|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|0|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|7|CGLIB$getFieldDefinition$6$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|7|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|8|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|36|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|53|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|47|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|36|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|7|CGLIB$getFieldDefinition$6$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|7|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|53|CGLIB$getFieldDefinition$6$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|7|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|36|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|6|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|7|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|6|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|47|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|53|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|2|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|59|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|12|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|12|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testQuartzCompatibilityIfDoYisQuestionMark()|6|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|20|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|41|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|12|CGLIB$getFieldDefinition$6$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|36|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|7|CGLIB$getFieldDefinition$6$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|71|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|41|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|59|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|8|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|41|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|6|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|22|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|65|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|71|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|41|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|12|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|6|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|59|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|1|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|65|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|12|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|47|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|1|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|53|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|12|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|7|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|53|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|12|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|6|CGLIB$getFieldDefinition$6$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|65|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|47|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|65|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|7|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testQuartzCompatibilityIfDoYisQuestionMark()|6|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|1|CGLIB$getFieldDefinition$6$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|36|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|12|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|12|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|16|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|71|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|14|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|6|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|10|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|47|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|59|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|59|CGLIB$getFieldDefinition$6$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|53|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|7|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|6|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|41|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|7|CGLIB$getFieldDefinition$6$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|7|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|12|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|1|CGLIB$getFieldDefinition$6$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|71|CGLIB$getFieldDefinition$6$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|71|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesWithIncrementsGreaterThanDaysOfMonth()|6|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|12|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|1|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|6|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testQuartzCompatibilityIfDoYisOmitted()|6|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|7|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|36|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|12|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|0|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|4|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|12|CGLIB$getFieldDefinition$6$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|65|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|59|CGLIB$getFieldDefinition$6$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|47|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|47|CGLIB$getFieldDefinition$6$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|53|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|1|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|12|CGLIB$getFieldDefinition$6$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|12|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|36|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|53|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|7|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|7|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|47|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|2|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|7|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|4|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|7|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|65|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|12|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|36|CGLIB$getFieldDefinition$6$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|6|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|59|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|53|CGLIB$getFieldDefinition$6$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|12|CGLIB$getFieldDefinition$6$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|65|CGLIB$getFieldDefinition$6$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|41|CGLIB$getFieldDefinition$6$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|41|CGLIB$getFieldDefinition$6$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseNoMatchingExpression()|7|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|20|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|71|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|65|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|1|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|12|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|1|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|59|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|7|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|36|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|71|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|71|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|18|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|22|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|1|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|12|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|10|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testExecutionTimesEveryTwoWeeksStartingWithFirstDayOfYear()|14|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|59|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseIncompleteEvery()|12|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|47|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|47|CGLIB$getFieldDefinition$6$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testParseEmptyExpression()|1|CGLIB$isMatchDayOfWeekAndDayOfMonth$1$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.parser.CronParserTest|testMultipleSpacesDoNotHurtParsingExpression()|71|CGLIB$getFieldDefinition$6$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest|testQuartzCompatibilityIfDoYisOmitted()|6|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  }
+]

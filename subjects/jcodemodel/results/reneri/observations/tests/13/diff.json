@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.VarArgsFuncTest|testBasic()|58",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.IJStatement"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.IJStatement"
+      }
+    ]
+  }
+]

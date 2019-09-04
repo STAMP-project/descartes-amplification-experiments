@@ -1,0 +1,1 @@
+./com/helger/jcodemodel/JNarrowedClass_ESTest_scaffolding.java ./com/helger/jcodemodel/JNarrowedClass_ESTest.java

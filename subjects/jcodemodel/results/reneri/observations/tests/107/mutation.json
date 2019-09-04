@@ -1,0 +1,11 @@
+{
+  "mutator": "void",
+  "class": "JConditional",
+  "package": "com.helger.jcodemodel",
+  "method": "state",
+  "description": "(Lcom/helger/jcodemodel/IJFormatter;)V",
+  "tests": [
+    "com.helger.jcodemodel.JDirectClassTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue30FuncTest"
+  ]
+}

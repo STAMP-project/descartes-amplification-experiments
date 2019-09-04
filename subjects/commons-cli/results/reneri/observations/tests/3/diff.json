@@ -1,0 +1,197 @@
+[
+  {
+    "pointcut": "org.apache.commons.cli.bug.BugCLI252Test|testAmbiquousOptionName()|!",
+    "expected": [
+      {
+        "exceptionMessage": "Ambiguous option: \u0027--pref\u0027  (could be: \u0027prefix\u0027, \u0027prefixplusplus\u0027)",
+        "typeName": "org.apache.commons.cli.AmbiguousOptionException"
+      }
+    ],
+    "unexpected": [
+      {
+        "exceptionMessage": "A",
+        "typeName": "org.apache.commons.cli.AmbiguousOptionException"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.ParserTestCase|testAmbiguousPartialLongOption4()|18|detailMessage",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027-ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.ParserTestCase|testAmbiguousPartialLongOption4()|16|detailMessage",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027-ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.ParserTestCase|testAmbiguousPartialLongOption1()|19|detailMessage",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027--ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.ParserTestCase|testAmbiguousPartialLongOption1()|15|detailMessage",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027--ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.ParserTestCase|testAmbiguousPartialLongOption1()|17|detailMessage",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027--ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.ParserTestCase|testAmbiguousPartialLongOption4()|20|detailMessage",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027-ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.ParserTestCase|testAmbiguousPartialLongOption3()|20|detailMessage",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027--ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.ParserTestCase|testAmbiguousPartialLongOption2()|15|detailMessage",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027-ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.ParserTestCase|testAmbiguousPartialLongOption2()|19|detailMessage",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027-ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.ParserTestCase|testAmbiguousPartialLongOption3()|16|detailMessage",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027--ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.ParserTestCase|testAmbiguousPartialLongOption2()|17|detailMessage",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027-ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.ParserTestCase|testAmbiguousPartialLongOption3()|18|detailMessage",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027--ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  }
+]

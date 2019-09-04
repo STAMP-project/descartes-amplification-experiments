@@ -1,0 +1,21 @@
+[
+    {
+        "method": {
+            "class": "IJExpression",
+            "name": "plus",
+            "package": "com.helger.jcodemodel",
+            "description": "(Ljava/lang/String;)Lcom/helger/jcodemodel/IJExpression;"
+        },
+        "mutators": [
+            "null"
+        ],
+        "entryPoints": [
+            {
+                "class": "JAtomInt",
+                "name": "plus",
+                "package": "com.helger.jcodemodel",
+                "description": "(Ljava/lang/String;)Lcom/helger/jcodemodel/IJExpression;"
+            }
+        ]
+    }
+]

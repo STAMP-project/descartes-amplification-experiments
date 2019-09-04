@@ -1,0 +1,2222 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|12|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|76|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|62|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|146|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|132|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|149|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|73|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|15|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|65|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|4|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|107|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|135|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|18|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|7|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|151|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|138|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|37|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|34|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|79|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|118|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|101|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|90|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|31|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|95|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|124|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|48|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|112|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|23|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|42|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|59|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|113|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|84|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|54|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|143|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|29|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|96|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|105|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|85|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|38|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|120|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|71|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|50|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|108|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|35|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|82|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|119|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|8|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|141|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|27|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|74|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|144|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|129|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|49|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|46|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|6|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|133|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|57|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|25|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|127|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|1|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|19|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|20|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|98|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|68|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|122|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|87|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|116|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|103|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|33|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|93|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|63|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|44|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|47|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|111|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|41|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|91|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|128|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|100|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|94|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|83|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|55|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|97|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|52|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|80|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|58|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|117|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|114|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|72|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|89|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|16|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|130|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|9|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|142|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|66|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|136|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|11|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|28|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|61|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|77|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|36|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|150|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|148|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|60|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|78|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|125|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|3|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|106|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|30|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|17|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|131|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|137|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|53|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|2|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|21|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|5|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|24|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|56|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|32|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|10|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|92|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|64|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|123|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|102|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|88|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|147|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|43|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|126|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|67|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|81|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|40|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|115|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|39|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|121|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|86|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|69|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|104|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|145|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|70|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|0|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|45|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|140|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|139|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|99|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|75|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|134|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|110|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|109|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter$NameUsage|isTypeName|()Z|51|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  }
+]

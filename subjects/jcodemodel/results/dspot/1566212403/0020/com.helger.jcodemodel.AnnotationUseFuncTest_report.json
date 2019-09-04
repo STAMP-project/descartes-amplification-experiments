@@ -1,0 +1,820 @@
+{
+  "nbMutantKilledOriginally": 21,
+  "name": "com.helger.jcodemodel.AnnotationUseFuncTest",
+  "nbOriginalTestCases": 1,
+  "testCases": [
+    {
+      "name": "testMain_rv716",
+      "nbAssertionAdded": 958,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 113,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv637",
+      "nbAssertionAdded": 934,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 333,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv953",
+      "nbAssertionAdded": 934,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 496,
+          "locationMethod": "param"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 97,
+          "locationMethod": "wrap"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 481,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv755",
+      "nbAssertionAdded": 958,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 143,
+          "locationMethod": "params"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg260",
+      "nbAssertionAdded": 974,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 165,
+          "locationMethod": "isStrictFP"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 178,
+          "locationMethod": "isDefault"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 155,
+          "locationMethod": "isSynchronized"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv635",
+      "nbAssertionAdded": 934,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 259,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv734",
+      "nbAssertionAdded": 958,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 373,
+          "locationMethod": "params"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv919",
+      "nbAssertionAdded": 934,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 391,
+          "locationMethod": "paramArray"
+        }
+      ]
+    },
+    {
+      "name": "testMain",
+      "nbAssertionAdded": 480,
+      "nbInputAdded": 13,
+      "nbMutantKilled": 31,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 518,
+          "locationMethod": "param"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 532,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 147,
+          "locationMethod": "hasArgs"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 101,
+          "locationMethod": "getAnnotationMembers"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 155,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 281,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "\"A\"",
+          "lineNumber": 158,
+          "locationMethod": "getName"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 607,
+          "locationMethod": "param"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 167,
+          "locationMethod": "getThrows"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 214,
+          "locationMethod": "getPackage"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 106,
+          "locationMethod": "hasAnnotationMembers"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 431,
+          "locationMethod": "getAllAnnotations"
+        },
+        {
+          "ID": "false",
+          "lineNumber": 170,
+          "locationMethod": "isAbstract"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 428,
+          "locationMethod": "paramArray"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 158,
+          "locationMethod": "getName"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 338,
+          "locationMethod": "getTypeParameters"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 198,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 155,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 604,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 90,
+          "locationMethod": "param"
+        },
+        {
+          "ID": "false",
+          "lineNumber": 106,
+          "locationMethod": "hasAnnotationMembers"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 604,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 166,
+          "locationMethod": "getPackage"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 198,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 532,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 570,
+          "locationMethod": "param"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 422,
+          "locationMethod": "param"
+        },
+        {
+          "ID": "\"\"",
+          "lineNumber": 158,
+          "locationMethod": "getName"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 592,
+          "locationMethod": "hasHeaderComment"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 1059,
+          "locationMethod": "getAllDontImportClasses"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 659,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv818",
+      "nbAssertionAdded": 934,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 79,
+          "locationMethod": "wrap"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 385,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv719",
+      "nbAssertionAdded": 958,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 182,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg306_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 15,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 142,
+          "locationMethod": "isFalse"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 98,
+          "locationMethod": "_check"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg479",
+      "nbAssertionAdded": 1972,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 740,
+          "locationMethod": "paramArray"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg238",
+      "nbAssertionAdded": 976,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 297,
+          "locationMethod": "_extends"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg419",
+      "nbAssertionAdded": 962,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 304,
+          "locationMethod": "params"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv864",
+      "nbAssertionAdded": 934,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 91,
+          "locationMethod": "wrap"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 459,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg431",
+      "nbAssertionAdded": 962,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 274,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv761",
+      "nbAssertionAdded": 958,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 281,
+          "locationMethod": "params"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg476",
+      "nbAssertionAdded": 986,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 280,
+          "locationMethod": "paramArray"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv781",
+      "nbAssertionAdded": 958,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 205,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg355",
+      "nbAssertionAdded": 962,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 108,
+          "locationMethod": "javadoc"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv946",
+      "nbAssertionAdded": 934,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 73,
+          "locationMethod": "wrap"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 348,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv924",
+      "nbAssertionAdded": 934,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 465,
+          "locationMethod": "paramArray"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv724",
+      "nbAssertionAdded": 958,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 228,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv747",
+      "nbAssertionAdded": 958,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 159,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg392",
+      "nbAssertionAdded": 986,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 576,
+          "locationMethod": "paramArray"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg368",
+      "nbAssertionAdded": 986,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 407,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv570",
+      "nbAssertionAdded": 934,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 703,
+          "locationMethod": "paramArray"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg327",
+      "nbAssertionAdded": 962,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 140,
+          "locationMethod": "argsMutable"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg329",
+      "nbAssertionAdded": 962,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 228,
+          "locationMethod": "equals"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg449",
+      "nbAssertionAdded": 962,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 235,
+          "locationMethod": "params"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv555",
+      "nbAssertionAdded": 934,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 237,
+          "locationMethod": "param"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 55,
+          "locationMethod": "wrap"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 374,
+          "locationMethod": "lit"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv874",
+      "nbAssertionAdded": 1868,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 613,
+          "locationMethod": "paramArray"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv897",
+      "nbAssertionAdded": 934,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 370,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv556",
+      "nbAssertionAdded": 934,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 61,
+          "locationMethod": "wrap"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 274,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv1007",
+      "nbAssertionAdded": 934,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 665,
+          "locationMethod": "paramArray"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv754",
+      "nbAssertionAdded": 958,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 120,
+          "locationMethod": "params"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv895",
+      "nbAssertionAdded": 934,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 296,
+          "locationMethod": "param"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg384",
+      "nbAssertionAdded": 986,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 317,
+          "locationMethod": "paramArray"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv653",
+      "nbAssertionAdded": 934,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 243,
+          "locationMethod": "paramArray"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg340",
+      "nbAssertionAdded": 962,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 164,
+          "locationMethod": "javadoc"
+        }
+      ]
+    },
+    {
+      "name": "testMain_rv573",
+      "nbAssertionAdded": 934,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 354,
+          "locationMethod": "paramArray"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg488",
+      "nbAssertionAdded": 986,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 502,
+          "locationMethod": "paramArray"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg444",
+      "nbAssertionAdded": 962,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 258,
+          "locationMethod": "params"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg465",
+      "nbAssertionAdded": 986,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 464,
+          "locationMethod": "lit"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 311,
+          "locationMethod": "param"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 67,
+          "locationMethod": "wrap"
+        }
+      ]
+    },
+    {
+      "name": "testMain_mg421",
+      "nbAssertionAdded": 962,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 212,
+          "locationMethod": "params"
+        }
+      ]
+    }
+  ]
+}

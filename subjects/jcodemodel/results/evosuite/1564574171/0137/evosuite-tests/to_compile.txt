@@ -1,0 +1,1 @@
+./com/helger/jcodemodel/JDirectClass_ESTest_scaffolding.java ./com/helger/jcodemodel/JDirectClass_ESTest.java

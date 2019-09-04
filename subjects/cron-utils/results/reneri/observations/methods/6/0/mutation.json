@@ -1,0 +1,15 @@
+{
+  "mutator": "true",
+  "class": "TimeDescriptionStrategy",
+  "package": "com.cronutils.descriptor",
+  "method": "isDefault",
+  "description": "(Lcom/cronutils/model/field/expression/On;)Z",
+  "tests": [
+    "com.cronutils.utils.descriptor.CronDescriptorCron4jIntegrationTest",
+    "com.cronutils.utils.descriptor.Issue227Test",
+    "com.cronutils.utils.descriptor.CronDescriptorCron4jIntegrationZhTest",
+    "com.cronutils.utils.descriptor.CronDescriptorTest",
+    "com.cronutils.parser.CronParserQuartzIntegrationTest",
+    "com.cronutils.utils.descriptor.CronDescriptorQuartzIntegrationTest"
+  ]
+}

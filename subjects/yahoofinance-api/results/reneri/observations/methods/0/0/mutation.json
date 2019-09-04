@@ -1,0 +1,13 @@
+{
+  "mutator": "true",
+  "class": "Utils",
+  "package": "yahoofinance",
+  "method": "isParseable",
+  "description": "(Ljava/lang/String;)Z",
+  "tests": [
+    "yahoofinance.FxQuoteRequestTest",
+    "yahoofinance.SimpleQuoteRequestTest",
+    "yahoofinance.HistoricalQuoteRequestTest",
+    "yahoofinance.QuoteRequestFlowTest"
+  ]
+}

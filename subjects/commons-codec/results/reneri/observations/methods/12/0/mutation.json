@@ -1,0 +1,12 @@
+{
+  "mutator": "false",
+  "class": "DoubleMetaphone$DoubleMetaphoneResult",
+  "package": "org.apache.commons.codec.language",
+  "method": "isComplete",
+  "description": "()Z",
+  "tests": [
+    "org.apache.commons.codec.language.DoubleMetaphoneTest",
+    "org.apache.commons.codec.StringEncoderComparatorTest",
+    "org.apache.commons.codec.language.DoubleMetaphone2Test"
+  ]
+}

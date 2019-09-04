@@ -1,0 +1,182 @@
+[
+    {
+        "class": "MessageDigestAlgorithms",
+        "name": "values",
+        "package": "org.apache.commons.codec.digest",
+        "description": "()[Ljava/lang/String;"
+    },
+    {
+        "class": "DigestUtils",
+        "name": "isAvailable",
+        "package": "org.apache.commons.codec.digest",
+        "description": "(Ljava/lang/String;)Z"
+    },
+    {
+        "class": "Hex",
+        "name": "encode",
+        "package": "org.apache.commons.codec.binary",
+        "description": "(Ljava/nio/ByteBuffer;)[B"
+    },
+    {
+        "class": "Metaphone",
+        "name": "isMetaphoneEqual",
+        "package": "org.apache.commons.codec.language",
+        "description": "(Ljava/lang/String;Ljava/lang/String;)Z"
+    },
+    {
+        "class": "ColognePhonetic",
+        "name": "isEncodeEqual",
+        "package": "org.apache.commons.codec.language",
+        "description": "(Ljava/lang/String;Ljava/lang/String;)Z"
+    },
+    {
+        "class": "DigestUtils",
+        "name": "getDigest",
+        "package": "org.apache.commons.codec.digest",
+        "description": "(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;"
+    },
+    {
+        "class": "BCodec",
+        "name": "encode",
+        "package": "org.apache.commons.codec.net",
+        "description": "(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+        "class": "PercentCodec",
+        "name": "encode",
+        "package": "org.apache.commons.codec.net",
+        "description": "([B)[B"
+    },
+    {
+        "class": "PercentCodec",
+        "name": "encode",
+        "package": "org.apache.commons.codec.net",
+        "description": "(Ljava/lang/Object;)Ljava/lang/Object;"
+    },
+    {
+        "class": "DaitchMokotoffSoundex$Branch",
+        "name": "equals",
+        "package": "org.apache.commons.codec.language",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "BeiderMorseEncoder",
+        "name": "encode",
+        "package": "org.apache.commons.codec.language.bm",
+        "description": "(Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+        "class": "Base32",
+        "name": "isInAlphabet",
+        "package": "org.apache.commons.codec.binary",
+        "description": "(B)Z"
+    },
+    {
+        "class": "Base64",
+        "name": "isInAlphabet",
+        "package": "org.apache.commons.codec.binary",
+        "description": "(Ljava/lang/String;)Z"
+    },
+    {
+        "class": "Base32",
+        "name": "isInAlphabet",
+        "package": "org.apache.commons.codec.binary",
+        "description": "(Ljava/lang/String;)Z"
+    },
+    {
+        "class": "HmacUtils",
+        "name": "isAvailable",
+        "package": "org.apache.commons.codec.digest",
+        "description": "(Lorg/apache/commons/codec/digest/HmacAlgorithms;)Z"
+    },
+    {
+        "class": "QCodec",
+        "name": "encode",
+        "package": "org.apache.commons.codec.net",
+        "description": "(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+        "class": "QCodec",
+        "name": "encodeText",
+        "package": "org.apache.commons.codec.net",
+        "description": "(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+        "class": "BCodec",
+        "name": "encodeText",
+        "package": "org.apache.commons.codec.net",
+        "description": "(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+        "class": "Rule$4",
+        "name": "isMatch",
+        "package": "org.apache.commons.codec.language.bm",
+        "description": "(Ljava/lang/CharSequence;)Z"
+    },
+    {
+        "class": "Base32",
+        "name": "hasData",
+        "package": "org.apache.commons.codec.binary",
+        "description": "(Lorg/apache/commons/codec/binary/BaseNCodec$Context;)Z"
+    },
+    {
+        "class": "Base64",
+        "name": "hasData",
+        "package": "org.apache.commons.codec.binary",
+        "description": "(Lorg/apache/commons/codec/binary/BaseNCodec$Context;)Z"
+    },
+    {
+        "class": "DoubleMetaphone$DoubleMetaphoneResult",
+        "name": "isComplete",
+        "package": "org.apache.commons.codec.language",
+        "description": "()Z"
+    },
+    {
+        "class": "DoubleMetaphone",
+        "name": "doubleMetaphone",
+        "package": "org.apache.commons.codec.language",
+        "description": "(Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+        "class": "DoubleMetaphone",
+        "name": "isDoubleMetaphoneEqual",
+        "package": "org.apache.commons.codec.language",
+        "description": "(Ljava/lang/String;Ljava/lang/String;Z)Z"
+    },
+    {
+        "class": "DoubleMetaphone",
+        "name": "encode",
+        "package": "org.apache.commons.codec.language",
+        "description": "(Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+        "class": "DoubleMetaphone",
+        "name": "doubleMetaphone",
+        "package": "org.apache.commons.codec.language",
+        "description": "(Ljava/lang/String;Z)Ljava/lang/String;"
+    },
+    {
+        "class": "DoubleMetaphone",
+        "name": "isDoubleMetaphoneEqual",
+        "package": "org.apache.commons.codec.language",
+        "description": "(Ljava/lang/String;Ljava/lang/String;)Z"
+    },
+    {
+        "class": "DoubleMetaphone",
+        "name": "encode",
+        "package": "org.apache.commons.codec.language",
+        "description": "(Ljava/lang/Object;)Ljava/lang/Object;"
+    },
+    {
+        "class": "Soundex",
+        "name": "<init>",
+        "package": "org.apache.commons.codec.language",
+        "description": "([C)V"
+    },
+    {
+        "class": "DaitchMokotoffSoundex",
+        "name": "<init>",
+        "package": "org.apache.commons.codec.language",
+        "description": "()V;"
+    }
+]

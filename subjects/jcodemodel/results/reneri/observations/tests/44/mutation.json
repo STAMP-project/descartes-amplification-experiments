@@ -1,0 +1,13 @@
+{
+  "mutator": "false",
+  "class": "JOp",
+  "package": "com.helger.jcodemodel",
+  "method": "hasTopOp",
+  "description": "(Lcom/helger/jcodemodel/IJExpression;)Z",
+  "tests": [
+    "com.helger.jcodemodel.supplementary.issues.Issue41FuncTest",
+    "com.helger.jcodemodel.JDirectClassTest",
+    "com.helger.jcodemodel.JSwitchTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue30FuncTest"
+  ]
+}

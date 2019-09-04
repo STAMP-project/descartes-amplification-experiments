@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "joptsimple.util.InetAddressConverterTest|unknownHost()|!",
+    "expected": [
+      {
+        "exceptionMessage": "Cannot convert value [!(@\u0026#()!*@\u0026#] into an InetAddress",
+        "typeName": "joptsimple.ValueConversionException"
+      }
+    ],
+    "unexpected": [
+      {
+        "exceptionMessage": "A",
+        "typeName": "joptsimple.ValueConversionException"
+      }
+    ]
+  }
+]

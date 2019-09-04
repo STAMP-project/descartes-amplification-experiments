@@ -1,0 +1,135 @@
+{
+  "nbMutantKilledOriginally": 2,
+  "name": "com.helger.jcodemodel.supplementary.issues.Issue53FuncTest",
+  "nbOriginalTestCases": 1,
+  "testCases": [
+    {
+      "name": "testIssue_mg181_failAssert0",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 11,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 98,
+          "locationMethod": "_check"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 142,
+          "locationMethod": "isFalse"
+        }
+      ]
+    },
+    {
+      "name": "testIssue_mg158_failAssert0_add9899_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 7,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 178,
+          "locationMethod": "isDefault"
+        }
+      ]
+    },
+    {
+      "name": "testIssue_remove53",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 6,
+      "nbMutantKilled": 9,
+      "mutantsKilled": [
+        {
+          "ID": "0",
+          "lineNumber": 604,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 198,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 532,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 155,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 155,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 198,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 281,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 532,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 604,
+          "locationMethod": "getHashCode"
+        }
+      ]
+    },
+    {
+      "name": "testIssue_literalMutationString135_failAssert0",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 9,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 134,
+          "locationMethod": "isJavaIdentifier"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 110,
+          "locationMethod": "isTrue"
+        }
+      ]
+    },
+    {
+      "name": "testIssue_remove51_failAssert0null6965_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 5,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 234,
+          "locationMethod": "notNull"
+        }
+      ]
+    },
+    {
+      "name": "testIssue_literalMutationString90_failAssert0",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 9,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 177,
+          "locationMethod": "simple"
+        }
+      ]
+    }
+  ]
+}

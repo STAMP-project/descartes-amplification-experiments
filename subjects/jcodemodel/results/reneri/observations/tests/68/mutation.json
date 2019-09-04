@@ -1,0 +1,26 @@
+{
+  "mutator": "null",
+  "class": "AbstractJClassContainer",
+  "package": "com.helger.jcodemodel",
+  "method": "outer",
+  "description": "()Lcom/helger/jcodemodel/AbstractJClass;",
+  "tests": [
+    "com.helger.jcodemodel.supplementary.issues.Issue34FuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue41FuncTest",
+    "com.helger.jcodemodel.JDefinedClassTest",
+    "com.helger.jcodemodel.JTypeVarTest",
+    "com.helger.jcodemodel.AnnotationUseFuncTest",
+    "com.helger.jcodemodel.JCodeModelTest",
+    "com.helger.jcodemodel.JInvocationTest",
+    "com.helger.jcodemodel.JSwitchTest",
+    "com.helger.jcodemodel.JavadocFuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue53FuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue31FuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue51FuncTest",
+    "com.helger.jcodemodel.InnerClassFuncTest",
+    "com.helger.jcodemodel.JDirectClassTest",
+    "com.helger.jcodemodel.NestedClassFuncTest",
+    "com.helger.jcodemodel.JLambdaMethodRefTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue30FuncTest"
+  ]
+}

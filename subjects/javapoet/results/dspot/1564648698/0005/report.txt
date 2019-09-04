@@ -1,0 +1,4 @@
+Test class that has been amplified: com.squareup.javapoet.TypeSpecTest
+The original test suite kills 320 mutants
+The amplification results with 2 new tests
+it kills 2 more mutants

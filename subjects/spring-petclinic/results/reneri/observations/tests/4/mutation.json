@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "Owner",
+  "package": "org.springframework.samples.petclinic.owner",
+  "method": "getPet",
+  "description": "(Ljava/lang/String;Z)Lorg/springframework/samples/petclinic/owner/Pet;",
+  "tests": [
+    "org.springframework.samples.petclinic.owner.PetControllerTests"
+  ]
+}

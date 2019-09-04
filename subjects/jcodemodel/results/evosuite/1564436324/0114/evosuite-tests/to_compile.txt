@@ -1,0 +1,1 @@
+./com/helger/jcodemodel/fmt/JStaticJavaFile$JStaticClass_ESTest_scaffolding.java ./com/helger/jcodemodel/fmt/JStaticJavaFile$JStaticClass_ESTest.java

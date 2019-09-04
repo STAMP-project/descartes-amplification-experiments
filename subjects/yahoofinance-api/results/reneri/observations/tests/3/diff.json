@@ -1,0 +1,6021 @@
+[
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|historicalFlowTest()|4|time",
+    "expected": [
+      {
+        "literalValue": "1473584861321",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584863247",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584867137",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584849631",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584853472",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584857378",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584865218",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584851566",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584855439",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584859392",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1473584933012",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584950976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584940847",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584934987",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584945086",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584936949",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584949023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584938870",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584942996",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584947049",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|impossibleRequestTest()|0|time",
+    "expected": [
+      {
+        "literalValue": "1552644455428",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453460",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467125",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461309",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459380",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449619",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457367",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465206",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463236",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451555",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644534975",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538859",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549010",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542984",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540834",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550965",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545073",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644533001",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536917",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547038",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|setup()|4|time",
+    "expected": [
+      {
+        "literalValue": "1552644449610",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455417",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449452",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467046",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459181",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465101",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449539",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644466831",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463247",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465218",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461300",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457282",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457047",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455269",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453322",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457203",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449292",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455344",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455108",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451406",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644462938",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467116",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459370",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463156",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461249",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644460994",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463227",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644466979",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459258",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453472",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457357",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451498",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455439",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449631",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467067",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465128",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644464866",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461321",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459285",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457304",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461160",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453388",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455366",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451566",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449564",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451547",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463095",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465032",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465197",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453408",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459392",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467137",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461228",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451273",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453452",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457378",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451477",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644536824",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534963",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538807",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540847",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532942",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538721",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542906",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546951",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544974",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546716",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542996",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546878",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540774",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534914",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547049",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544892",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532854",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538870",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550661",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548901",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544667",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542646",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550817",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540509",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534666",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536849",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540825",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532921",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538789",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534823",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534987",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644533012",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542808",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547029",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548678",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542974",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548837",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544999",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549001",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540751",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545086",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550908",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548950",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532992",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536755",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532713",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538851",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538572",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536595",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534891",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545059",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550955",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536949",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536906",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540681",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|multiYearTest()|6|time",
+    "expected": [
+      {
+        "literalValue": "1552644449564",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459285",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453408",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467067",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457304",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455366",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451498",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461249",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465128",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644546976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538807",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536849",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544999",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532942",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540774",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534914",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550908",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548950",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542906",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|impossibleRequestTest()|7|time",
+    "expected": [
+      {
+        "literalValue": "1552817253460",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817257367",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817267125",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817259380",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817265206",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817263236",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817251555",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817255428",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817261309",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817249619",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552817349010",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817342984",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817336917",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817333001",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817347038",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817340834",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817334975",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817338859",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817345073",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552817350965",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.FxQuoteRequestTest|fxFlowTest()|16|port",
+    "expected": [
+      {
+        "literalValue": "63195",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63199",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63211",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63220",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63203",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63224",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63207",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63191",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63216",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63228",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "63380",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63407",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63419",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63392",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63376",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63384",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63423",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63388",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63411",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63415",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|multiStockTest()|2|time",
+    "expected": [
+      {
+        "literalValue": "1473584863156",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584857282",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584853388",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584851477",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584855344",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584867046",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584865101",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584861228",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584859258",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584849539",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1473584938789",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584936824",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584932921",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584940751",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584942884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584944974",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584948901",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584950884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584934891",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584946951",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|setup()|0|time",
+    "expected": [
+      {
+        "literalValue": "1552644449610",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455417",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449452",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467046",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459181",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465101",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449539",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644466831",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463247",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465218",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461300",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457282",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457047",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455269",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453322",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457203",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449292",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455344",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455108",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451406",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644462938",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467116",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459370",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463156",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461249",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644460994",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463227",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644466979",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459258",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453472",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457357",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451498",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455439",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449631",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467067",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465128",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644464866",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461321",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459285",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457304",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461160",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453388",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455366",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451566",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449564",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451547",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463095",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465032",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465197",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453408",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459392",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467137",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461228",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451273",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453452",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457378",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451477",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644536824",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534963",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538807",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540847",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532942",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538721",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542906",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546951",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544974",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546716",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542996",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546878",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540774",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534914",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547049",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544892",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532854",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538870",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550661",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548901",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544667",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542646",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550817",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540509",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534666",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536849",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540825",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532921",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538789",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534823",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534987",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644533012",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542808",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547029",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548678",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542974",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548837",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544999",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549001",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540751",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545086",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550908",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548950",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532992",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536755",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532713",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538851",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538572",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536595",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534891",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545059",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550955",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536949",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536906",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540681",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|historicalQuoteTest()|0|time",
+    "expected": [
+      {
+        "literalValue": "1473584866831",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584851273",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584862938",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584859023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584853176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584857047",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584860994",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584864866",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584849292",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584855108",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1473584934666",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584942646",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584946716",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584932713",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584938572",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584944667",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584936595",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584940509",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584950661",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584948678",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|intervalTest()|0|time",
+    "expected": [
+      {
+        "literalValue": "1473584849452",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584853322",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584855269",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584851406",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584865032",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584863095",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584857203",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584861160",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584866979",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584859181",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1473584944892",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584936755",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584934823",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584948837",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584932854",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584946878",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584950817",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584940681",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584942808",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584938721",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|historicalFlowTest()|9|port",
+    "expected": [
+      {
+        "literalValue": "63196",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63221",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63200",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63225",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63204",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63212",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63229",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63208",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63192",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63217",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "63393",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63381",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63408",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63420",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63385",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63412",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63424",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63377",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63389",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63416",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|historicalQuoteTest()|1|time",
+    "expected": [
+      {
+        "literalValue": "1552644464866",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457047",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644462938",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451273",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449292",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644466831",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455108",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644460994",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644540509",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534666",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548678",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546716",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544667",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532713",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542646",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538572",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550661",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536595",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|setup()|6|time",
+    "expected": [
+      {
+        "literalValue": "1552644449610",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455417",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449452",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467046",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459181",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465101",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449539",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644466831",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463247",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465218",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461300",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457282",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457047",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455269",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453322",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457203",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449292",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455344",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455108",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451406",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644462938",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467116",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459370",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463156",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461249",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644460994",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463227",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644466979",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459258",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453472",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457357",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451498",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455439",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449631",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467067",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465128",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644464866",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461321",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459285",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457304",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461160",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453388",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455366",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451566",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449564",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451547",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463095",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465032",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465197",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453408",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459392",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467137",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461228",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451273",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453452",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457378",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451477",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644536824",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534963",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538807",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540847",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532942",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538721",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542906",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546951",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544974",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546716",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542996",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546878",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540774",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534914",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547049",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544892",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532854",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538870",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550661",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548901",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544667",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542646",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550817",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540509",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534666",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536849",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540825",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532921",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538789",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534823",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534987",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644533012",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542808",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547029",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548678",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542974",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548837",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544999",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549001",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540751",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545086",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550908",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548950",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532992",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536755",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532713",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538851",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538572",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536595",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534891",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545059",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550955",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536949",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536906",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540681",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.FxQuoteRequestTest|fxFlowTest()|5|port",
+    "expected": [
+      {
+        "literalValue": "63195",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63199",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63211",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63220",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63203",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63224",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63207",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63191",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63216",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63228",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "63380",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63407",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63419",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63392",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63376",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63384",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63423",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63388",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63411",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63415",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|setup()|3|time",
+    "expected": [
+      {
+        "literalValue": "1552644449610",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455417",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449452",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467046",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459181",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465101",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449539",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644466831",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463247",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465218",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461300",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457282",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457047",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455269",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453322",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457203",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449292",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455344",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455108",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451406",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644462938",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467116",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459370",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463156",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461249",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644460994",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463227",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644466979",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459258",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453472",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457357",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451498",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455439",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449631",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467067",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465128",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644464866",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461321",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459285",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457304",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461160",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453388",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455366",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451566",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449564",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451547",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463095",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465032",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465197",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453408",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459392",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467137",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461228",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451273",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453452",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457378",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451477",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644536824",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534963",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538807",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540847",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532942",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538721",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542906",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546951",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544974",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546716",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542996",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546878",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540774",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534914",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547049",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544892",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532854",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538870",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550661",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548901",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544667",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542646",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550817",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540509",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534666",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536849",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540825",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532921",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538789",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534823",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534987",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644533012",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542808",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547029",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548678",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542974",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548837",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544999",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549001",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540751",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545086",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550908",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548950",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532992",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536755",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532713",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538851",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538572",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536595",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534891",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545059",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550955",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536949",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536906",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540681",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|multiYearTest()|3|time",
+    "expected": [
+      {
+        "literalValue": "1552644449564",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459285",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453408",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467067",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457304",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455366",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451498",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461249",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465128",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644546976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538807",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536849",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544999",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532942",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540774",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534914",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550908",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548950",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542906",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|multiYearTest()|0|time",
+    "expected": [
+      {
+        "literalValue": "1552644449564",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459285",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453408",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467067",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457304",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455366",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451498",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461249",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465128",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644546976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538807",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536849",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544999",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532942",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540774",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534914",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550908",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548950",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542906",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|multiStockTest()|3|time",
+    "expected": [
+      {
+        "literalValue": "1552644459258",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457282",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467046",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465101",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453388",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449539",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463156",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455344",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461228",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451477",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644536824",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548901",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546951",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544974",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532921",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538789",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540751",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534891",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|impossibleRequestTest()|12|port",
+    "expected": [
+      {
+        "literalValue": "63196",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63221",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63200",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63225",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63204",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63212",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63229",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63208",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63192",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63217",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "63393",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63381",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63408",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63420",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63385",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63412",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63424",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63377",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63389",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63416",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|multiYearTest()|1|time",
+    "expected": [
+      {
+        "literalValue": "1552644449564",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459285",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453408",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467067",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457304",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455366",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451498",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461249",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465128",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644546976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538807",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536849",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544999",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532942",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540774",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534914",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550908",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548950",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542906",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|historicalFlowTest()|15|port",
+    "expected": [
+      {
+        "literalValue": "63196",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63221",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63200",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63225",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63204",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63212",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63229",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63208",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63192",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63217",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "63393",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63381",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63408",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63420",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63385",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63412",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63424",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63377",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63389",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63416",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|historicalFlowTest()|1|port",
+    "expected": [
+      {
+        "literalValue": "63196",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63221",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63200",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63225",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63204",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63212",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63229",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63208",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63192",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63217",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "63393",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63381",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63408",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63420",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63385",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63412",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63424",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63377",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63389",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63416",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|intervalTest()|1|time",
+    "expected": [
+      {
+        "literalValue": "1552644466979",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449452",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463095",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451406",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465032",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459181",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461160",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455269",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453322",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457203",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644536755",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546878",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548837",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534823",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532854",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538721",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550817",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540681",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544892",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542808",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|setup()|2|time",
+    "expected": [
+      {
+        "literalValue": "1552644449610",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455417",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449452",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467046",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459181",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465101",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449539",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644466831",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463247",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465218",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461300",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457282",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457047",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455269",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453322",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457203",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449292",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455344",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455108",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451406",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644462938",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467116",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459370",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463156",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461249",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644460994",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463227",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644466979",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459258",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453472",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457357",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451498",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455439",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449631",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467067",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465128",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644464866",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461321",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459285",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457304",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461160",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453388",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455366",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451566",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449564",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451547",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463095",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465032",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465197",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453408",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459392",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467137",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461228",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451273",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453452",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457378",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451477",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644536824",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534963",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538807",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540847",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532942",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538721",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542906",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546951",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544974",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546716",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542996",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546878",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540774",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534914",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547049",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544892",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532854",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538870",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550661",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548901",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544667",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542646",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550817",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540509",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534666",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536849",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540825",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532921",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538789",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534823",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534987",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644533012",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542808",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547029",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548678",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542974",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548837",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544999",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549001",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540751",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545086",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550908",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548950",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532992",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536755",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532713",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538851",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538572",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536595",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534891",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545059",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550955",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536949",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536906",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540681",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|historicalFlowTest()|29|port",
+    "expected": [
+      {
+        "literalValue": "63196",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63221",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63200",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63225",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63204",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63212",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63229",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63208",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63192",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63217",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "63393",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63381",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63408",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63420",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63385",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63412",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63424",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63377",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63389",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63416",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|impossibleRequestTest()|4|port",
+    "expected": [
+      {
+        "literalValue": "63196",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63221",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63200",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63225",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63204",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63212",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63229",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63208",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63192",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63217",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "63393",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63381",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63408",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63420",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63385",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63412",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63424",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63377",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63389",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63416",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|impossibleRequestTest()|2|time",
+    "expected": [
+      {
+        "literalValue": "1552644455428",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453460",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467125",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461309",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459380",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449619",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457367",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465206",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463236",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451555",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644534975",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538859",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549010",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542984",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540834",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550965",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545073",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644533001",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536917",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547038",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|multiYearTest()|4|time",
+    "expected": [
+      {
+        "literalValue": "1552644449564",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459285",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453408",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467067",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457304",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455366",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451498",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461249",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465128",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644546976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538807",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536849",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544999",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532942",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540774",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534914",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550908",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548950",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542906",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.FxQuoteRequestTest|fxFlowTest()|10|port",
+    "expected": [
+      {
+        "literalValue": "63195",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63199",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63211",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63220",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63203",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63224",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63207",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63191",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63216",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63228",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "63380",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63407",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63419",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63392",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63376",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63384",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63423",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63388",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63411",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63415",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.FxQuoteRequestTest|fxFlowTest()|0|port",
+    "expected": [
+      {
+        "literalValue": "63195",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63199",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63211",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63220",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63203",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63224",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63207",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63191",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63216",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63228",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "63380",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63407",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63419",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63392",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63376",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63384",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63423",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63388",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63411",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "63415",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|impossibleRequestTest()|1|time",
+    "expected": [
+      {
+        "literalValue": "1552644465208",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449621",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451556",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461310",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455429",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467127",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453462",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459381",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457368",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463237",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644547039",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644533003",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540836",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542985",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550966",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549012",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545075",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536918",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538860",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|multiYearTest()|2|time",
+    "expected": [
+      {
+        "literalValue": "1552644449564",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459285",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453408",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467067",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457304",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455366",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451498",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461249",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465128",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644546976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538807",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536849",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544999",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532942",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540774",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534914",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550908",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548950",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542906",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|setup()|5|time",
+    "expected": [
+      {
+        "literalValue": "1552644449610",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455417",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449452",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467046",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459181",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465101",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449539",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644466831",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463247",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465218",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461300",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457282",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457047",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455269",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453322",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457203",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449292",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455344",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455108",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451406",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644462938",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467116",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459370",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463156",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461249",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644460994",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463227",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644466979",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459258",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453472",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457357",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451498",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455439",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449631",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467067",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465128",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644464866",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461321",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459285",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457304",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461160",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453388",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455366",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451566",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449564",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451547",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463095",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465032",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465197",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453408",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459392",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467137",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461228",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451273",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453452",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457378",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451477",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644536824",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534963",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538807",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540847",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532942",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538721",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542906",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546951",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544974",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546716",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542996",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546878",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540774",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534914",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547049",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544892",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532854",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538870",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550661",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548901",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544667",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542646",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550817",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540509",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534666",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536849",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540825",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532921",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538789",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534823",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534987",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644533012",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542808",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547029",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548678",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542974",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548837",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544999",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549001",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540751",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545086",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550908",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548950",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532992",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536755",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532713",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538851",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538572",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536595",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534891",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545059",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550955",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536949",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536906",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540681",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|historicalFlowTest()|5|time",
+    "expected": [
+      {
+        "literalValue": "1552644465218",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461321",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455439",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449631",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453472",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459392",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467137",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457378",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463247",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451566",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644540847",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542996",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534987",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545086",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538870",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536949",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644533012",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547049",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|multiYearTest()|5|time",
+    "expected": [
+      {
+        "literalValue": "1473584865128",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584859285",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584851498",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584855366",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584863176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584849564",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584867067",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584853408",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584857304",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584861249",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1473584948950",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584942906",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584936849",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584938807",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584934914",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584944999",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584932942",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584940774",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584946976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1473584950908",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|setup()|1|time",
+    "expected": [
+      {
+        "literalValue": "1552644449610",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455417",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449452",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467046",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459181",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465101",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449539",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644466831",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463247",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465218",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461300",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457282",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457047",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455269",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453322",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457203",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449292",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455344",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455108",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451406",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644462938",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467116",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459370",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463156",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461249",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644460994",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463227",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644466979",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459258",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453472",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457357",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451498",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455439",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449631",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467067",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465128",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644464866",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461321",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459285",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457304",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461160",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453388",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455366",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451566",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449564",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451547",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463095",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465032",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644465197",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453408",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459392",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467137",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461228",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453176",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451273",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453452",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457378",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451477",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644536824",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534963",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538807",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540847",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532942",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538721",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542906",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546951",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544974",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546716",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542996",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546878",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549023",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540774",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534914",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547049",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544892",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532854",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538870",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550661",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548901",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544667",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542646",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550817",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540509",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534666",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536849",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540825",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532921",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538789",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534823",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534987",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644533012",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542808",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644546976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644547029",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548678",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542974",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548837",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644544999",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549001",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540751",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545086",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550908",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644548950",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532992",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536755",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644532713",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538851",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550884",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538572",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536595",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534891",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545059",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550955",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536949",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536906",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540681",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.HistoricalQuoteRequestTest|impossibleRequestTest()|8|time",
+    "expected": [
+      {
+        "literalValue": "1552644465208",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644449621",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644451556",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644461310",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644455429",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644467127",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644453462",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644459381",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644457368",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644463237",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1552644547039",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644533003",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644540836",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644542985",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644550966",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644534976",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644549012",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644545075",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644536918",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "1552644538860",
+        "typeName": "long"
+      }
+    ]
+  }
+]

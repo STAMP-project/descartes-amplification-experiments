@@ -1,0 +1,33 @@
+{
+  "mutator": "void",
+  "class": "Validate",
+  "package": "org.jsoup.helper",
+  "method": "isFalse",
+  "description": "(Z)V",
+  "tests": [
+    "org.jsoup.nodes.DocumentTest",
+    "org.jsoup.helper.W3CDomTest",
+    "org.jsoup.safety.CleanerTest",
+    "org.jsoup.nodes.ElementTest",
+    "org.jsoup.nodes.NodeTest",
+    "org.jsoup.helper.DataUtilTest",
+    "org.jsoup.parser.TokeniserTest",
+    "org.jsoup.parser.TokenQueueTest",
+    "org.jsoup.nodes.DocumentTypeTest",
+    "org.jsoup.integration.ParseTest",
+    "org.jsoup.nodes.FormElementTest",
+    "org.jsoup.internal.StringUtilTest",
+    "org.jsoup.select.CssTest",
+    "org.jsoup.nodes.TextNodeTest",
+    "org.jsoup.parser.TokeniserStateTest",
+    "org.jsoup.parser.XmlTreeBuilderTest",
+    "org.jsoup.select.ElementsTest",
+    "org.jsoup.parser.AttributeParseTest",
+    "org.jsoup.parser.HtmlParserTest",
+    "org.jsoup.nodes.AttributesTest",
+    "org.jsoup.nodes.EntitiesTest",
+    "org.jsoup.integration.ConnectTest",
+    "org.jsoup.select.SelectorTest",
+    "org.jsoup.select.TraversorTest"
+  ]
+}

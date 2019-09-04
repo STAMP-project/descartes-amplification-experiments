@@ -1,0 +1,23 @@
+{
+  "mutator": "false",
+  "class": "ExecutionTime",
+  "package": "com.cronutils.model.time",
+  "method": "isSameDate",
+  "description": "(Lorg/threeten/bp/ZonedDateTime;IIIIII)Z",
+  "tests": [
+    "com.cronutils.Issue143Test",
+    "com.cronutils.Issue215Test",
+    "com.cronutils.Issue218Test",
+    "com.cronutils.model.time.ExecutionTimeCustomDefinitionIntegrationTest",
+    "com.cronutils.Issue228Test",
+    "com.cronutils.Issue200Test",
+    "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest",
+    "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest",
+    "com.cronutils.Issue55UnexpectedExecutionTimes",
+    "com.cronutils.model.time.ExecutionTimeQuartzIntegrationTest",
+    "com.cronutils.OpenIssuesTest",
+    "com.cronutils.Issue223Test",
+    "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest",
+    "com.cronutils.parser.CronParserQuartzIntegrationTest"
+  ]
+}

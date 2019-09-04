@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "PetValidator",
+  "package": "org.springframework.samples.petclinic.owner",
+  "method": "supports",
+  "description": "(Ljava/lang/Class;)Z",
+  "tests": [
+    "org.springframework.samples.petclinic.owner.PetControllerTests"
+  ]
+}

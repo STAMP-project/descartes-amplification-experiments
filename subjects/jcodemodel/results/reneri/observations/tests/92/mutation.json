@@ -1,0 +1,11 @@
+{
+  "mutator": "\"\"",
+  "class": "JCommentPart",
+  "package": "com.helger.jcodemodel",
+  "method": "_escape",
+  "description": "(Ljava/lang/String;)Ljava/lang/String;",
+  "tests": [
+    "com.helger.jcodemodel.JDefinedClassTest",
+    "com.helger.jcodemodel.JavadocFuncTest"
+  ]
+}

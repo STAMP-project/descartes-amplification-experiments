@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "HtmlTreeBuilder",
+  "package": "org.jsoup.parser",
+  "method": "aboveOnStack",
+  "description": "(Lorg/jsoup/nodes/Element;)Lorg/jsoup/nodes/Element;",
+  "tests": [
+    "org.jsoup.parser.HtmlParserTest"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nbMutantKilledOriginally": 0,
+  "name": "org.apache.commons.cli.ParserTestCase",
+  "nbOriginalTestCases": 58,
+  "testCases": [
+    {
+      "name": "testAmbiguousPartialLongOption1_literalMutationString16_mg2010_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 176,
+          "locationMethod": "addRequiredOption"
+        }
+      ]
+    },
+    {
+      "name": "testAmbiguousPartialLongOption1_literalMutationString19_mg770_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 111,
+          "locationMethod": "addOption"
+        }
+      ]
+    }
+  ]
+}

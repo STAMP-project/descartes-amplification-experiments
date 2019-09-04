@@ -1,0 +1,1847 @@
+[
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testSkipIfEmptyUnionsProperly()|9|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testAndIntersects()|8|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "20",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testFormatting()|4|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testAndIntersects()|11|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "20",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testIssue30()|2|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testAndOrdering()|14|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testImagesAllowed()|5|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlSanitizerTest|sanitize(java.lang.String)|20|allowedTextContainers|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "16",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testAllowUrlProtocols()|3|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.AntiSamyTest|makePolicy(java.lang.Appendable)|32|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testCannedFormattingTagFilterNoItalics()|3|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.AntiSamyTest|makePolicy(java.lang.Appendable)|13|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testIssue9StylesInTables()|10|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "32",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "37",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlChangeReporterTest|testChangeReporting()|31|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testBlockAndFormattingElements()|5|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlChangeReporterTest|testChangeReporting()|34|allowedTextContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testAndIntersects()|10|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "20",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testSkipIfEmptyUnionsProperly()|10|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.AntiSamyTest|makePolicy(java.lang.Appendable)|15|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.AntiSamyTest|makePolicy(java.lang.Appendable)|34|allowedTextContainers|#size",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testImages()|1|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testImages()|9|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testCannedFormattingTagFilterNoItalics()|4|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testIssue9StylesInTables()|12|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "32",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "37",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testSkipIfEmptyUnionsProperly()|17|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "33",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testBlockAndFormattingElements()|19|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testFormatting()|6|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testScriptInTable()|4|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "32",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testStylesAndFormatting()|0|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.ExamplesTest|testSanitizeRemovesScripts()|0|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "40",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "50",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testAndIntersects()|21|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "20",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testBlockAndFormattingElements()|4|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testSkipIfEmptyUnionsProperly()|7|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testStyleTagInTable()|5|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "34",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "41",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testStyleTagInTable()|3|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testBlockAndFormattingElements()|12|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testStyleFiltering()|6|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testStylesAndFormatting()|7|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "32",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testBlockAndFormattingElements()|17|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testAllowUrlProtocols()|5|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testScriptInTable()|7|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testAndIntersects()|14|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "20",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testFormatting()|2|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testBlockAndFormattingElements()|2|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testImageTag()|6|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.AntiSamyTest|makePolicy(java.lang.Appendable)|21|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testImageTag()|5|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testStyleTagInTable()|4|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "34",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "41",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testIssue30()|4|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testFormatting()|8|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testAllowUrlProtocols()|6|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testBlockAndFormattingElements()|11|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testScriptInTable()|6|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "32",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.ExamplesTest|testSanitizeRemovesOnclick()|0|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "40",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "50",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testStylesAndFormatting()|6|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "32",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testBlockAndFormattingElements()|9|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testSkipIfEmptyUnionsProperly()|15|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "33",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testImagesAllowed()|6|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testAndIntersects()|12|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "20",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testBlockAndFormattingElements()|10|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testIssue9StylesInTables()|7|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "32",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "37",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.AntiSamyTest|sanitize(java.lang.String)|3|allowedTextContainers|#size",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testIssue30()|5|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testImages()|0|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testImages()|7|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testStyleFiltering()|5|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlSanitizerTest|sanitize(java.lang.String)|8|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "16",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testIssue9StylesInTables()|1|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testStylesAndFormatting()|4|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testBlockAndFormattingElements()|15|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testStyleFiltering()|3|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testStyleTagInTable()|1|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testIssue9StylesInTables()|2|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testStyleFiltering()|4|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testSkipIfEmptyUnionsProperly()|13|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "32",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testImageTag()|3|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testFormatting()|0|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlSanitizerTest|sanitize(java.lang.String)|17|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "16",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testBlockAndFormattingElements()|1|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testScriptInTable()|11|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "35",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "43",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testScriptInTable()|8|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "33",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testIssue80()|3|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testBlockAndFormattingElements()|23|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testAndIntersects()|18|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "20",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testScopingExitInNoContent()|1|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testAndIntersects()|24|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "20",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testStyleTagInTable()|2|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlSanitizerTest|sanitize(java.lang.String)|16|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "16",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.AntiSamyTest|makePolicy(java.lang.Appendable)|29|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testImages()|5|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.AntiSamyTest|makePolicy(java.lang.Appendable)|19|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testIssue9StylesInTables()|4|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "32",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "37",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testIssue9StylesInTables()|9|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "32",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "37",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testIssue80()|2|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testScriptInTable()|2|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlSanitizerTest|sanitize(java.lang.String)|6|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "16",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testIssue30()|0|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testBlockAndFormattingElements()|7|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testImageTag()|1|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testBlockAndFormattingElements()|21|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testScopingExitInNoContent()|2|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testCannedFormattingTagFilter()|3|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testImagesAllowed()|3|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testScriptInTable()|1|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testSkipIfEmptyUnionsProperly()|11|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "32",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testBlockAndFormattingElements()|13|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testScriptInTable()|10|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "35",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "43",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.AntiSamyTest|makePolicy(java.lang.Appendable)|11|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.AntiSamyTest|makePolicy(java.lang.Appendable)|30|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testAndOrdering()|1|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlSanitizerTest|sanitize(java.lang.String)|18|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "16",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testScopingExitInNoContent()|3|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testIssue9StylesInTables()|3|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "32",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "37",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlPolicyBuilderTest|testIssue80()|1|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.HtmlSanitizerTest|sanitize(java.lang.String)|22|allowedTextContainers|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "16",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testImages()|3|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testAndIntersects()|6|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.AntiSamyTest|makePolicy(java.lang.Appendable)|17|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.ExamplesTest|testTextAllowedInLinks()|0|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "40",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "50",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testBlockAndFormattingElements()|14|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.AntiSamyTest|makePolicy(java.lang.Appendable)|31|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testScriptInTable()|9|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.SanitizersTest|testStylesAndFormatting()|2|textContainers|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "31",
+        "typeName": "int"
+      }
+    ]
+  }
+]

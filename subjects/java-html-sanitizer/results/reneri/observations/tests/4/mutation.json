@@ -1,0 +1,11 @@
+{
+  "mutator": "true",
+  "class": "TagBalancingHtmlStreamEventReceiver",
+  "package": "org.owasp.html",
+  "method": "isHeaderElement",
+  "description": "(I)Z",
+  "tests": [
+    "org.owasp.html.HtmlPolicyBuilderTest",
+    "org.owasp.html.TagBalancingHtmlStreamRendererTest"
+  ]
+}

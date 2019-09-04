@@ -1,0 +1,77 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeWildcard|generate|(Lcom/helger/jcodemodel/IJFormatter;)V|0|#0|m_aCollectedReferences|#size",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeWildcard|generate|(Lcom/helger/jcodemodel/IJFormatter;)V|1|#0|m_aCollectedReferences|#size",
+    "expected": [
+      {
+        "literalValue": "24",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeWildcard|generate|(Lcom/helger/jcodemodel/IJFormatter;)V|1|#0|m_cLastChar",
+    "expected": [
+      {
+        "literalValue": "e",
+        "typeName": "char"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "\u003c",
+        "typeName": "char"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeWildcard|generate|(Lcom/helger/jcodemodel/IJFormatter;)V|4|#0|m_cLastChar",
+    "expected": [
+      {
+        "literalValue": "?",
+        "typeName": "char"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "\u003c",
+        "typeName": "char"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeWildcard|generate|(Lcom/helger/jcodemodel/IJFormatter;)V|5|#0|m_cLastChar",
+    "expected": [
+      {
+        "literalValue": "?",
+        "typeName": "char"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "\u003c",
+        "typeName": "char"
+      }
+    ]
+  }
+]

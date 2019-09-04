@@ -1,0 +1,43 @@
+{
+  "nbMutantKilledOriginally": 29,
+  "name": "org.owasp.html.HtmlElementTablesTest",
+  "nbOriginalTestCases": 6,
+  "testCases": [
+    {
+      "name": "testElementNames_add1",
+      "nbAssertionAdded": 4,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "empty",
+          "lineNumber": 723,
+          "locationMethod": "unpack"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 723,
+          "locationMethod": "unpack"
+        }
+      ]
+    },
+    {
+      "name": "testElementNames_add4",
+      "nbAssertionAdded": 4,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "0",
+          "lineNumber": 295,
+          "locationMethod": "nElementTypes"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 295,
+          "locationMethod": "nElementTypes"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "IntPair",
+  "package": "net.tridentsdk.world",
+  "method": "equals",
+  "description": "(Ljava/lang/Object;)Z",
+  "tests": [
+    "net.tridentsdk.world.IntPairTest"
+  ]
+}

@@ -1,0 +1,1 @@
+./com/helger/jcodemodel/writer/JFormatter$ImportedClasses_ESTest_scaffolding.java ./com/helger/jcodemodel/writer/JFormatter$ImportedClasses_ESTest.java

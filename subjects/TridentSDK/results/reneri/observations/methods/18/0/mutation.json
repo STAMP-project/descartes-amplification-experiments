@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "Position",
+  "package": "net.tridentsdk.base",
+  "method": "eq",
+  "description": "(FF)Z",
+  "tests": [
+    "net.tridentsdk.base.PositionTest"
+  ]
+}

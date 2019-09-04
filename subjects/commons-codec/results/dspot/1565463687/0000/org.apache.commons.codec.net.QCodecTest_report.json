@@ -1,0 +1,25 @@
+{
+  "nbMutantKilledOriginally": 20,
+  "name": "org.apache.commons.codec.net.QCodecTest",
+  "nbOriginalTestCases": 12,
+  "testCases": [
+    {
+      "name": "testEncodeStringWithNull_mg12_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 104,
+          "locationMethod": "encodeText"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 226,
+          "locationMethod": "encode"
+        }
+      ]
+    }
+  ]
+}

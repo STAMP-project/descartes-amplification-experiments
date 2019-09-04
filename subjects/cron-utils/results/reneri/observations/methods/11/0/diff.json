@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "com.cronutils.utils.StringUtils|isEmpty|(Ljava/lang/CharSequence;)Z|969|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  }
+]

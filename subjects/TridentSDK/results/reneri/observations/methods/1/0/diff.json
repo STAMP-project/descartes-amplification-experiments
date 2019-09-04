@@ -1,0 +1,77 @@
+[
+  {
+    "pointcut": "net.tridentsdk.base.AbstractVector|subtract|(Lnet/tridentsdk/base/AbstractVector;)Lnet/tridentsdk/base/AbstractVector;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "net.tridentsdk.base.AbstractVector"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "net.tridentsdk.base.AbstractVector"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.AbstractVector|subtract|(Lnet/tridentsdk/base/AbstractVector;)Lnet/tridentsdk/base/AbstractVector;|4|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "net.tridentsdk.base.AbstractVector"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "net.tridentsdk.base.AbstractVector"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.AbstractVector|subtract|(Lnet/tridentsdk/base/AbstractVector;)Lnet/tridentsdk/base/AbstractVector;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "net.tridentsdk.base.AbstractVector"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "net.tridentsdk.base.AbstractVector"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.AbstractVector|subtract|(Lnet/tridentsdk/base/AbstractVector;)Lnet/tridentsdk/base/AbstractVector;|3|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "net.tridentsdk.base.AbstractVector"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "net.tridentsdk.base.AbstractVector"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.AbstractVector|subtract|(Lnet/tridentsdk/base/AbstractVector;)Lnet/tridentsdk/base/AbstractVector;|2|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "net.tridentsdk.base.AbstractVector"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "net.tridentsdk.base.AbstractVector"
+      }
+    ]
+  }
+]

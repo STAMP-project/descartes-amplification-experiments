@@ -1,0 +1,1 @@
+./com/squareup/javapoet/ParameterSpec_ESTest_scaffolding.java ./com/squareup/javapoet/ParameterSpec_ESTest.java

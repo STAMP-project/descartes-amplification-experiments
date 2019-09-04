@@ -1,0 +1,10 @@
+{
+  "mutator": "void",
+  "class": "HtmlTreeBuilder",
+  "package": "org.jsoup.parser",
+  "method": "insertOnStackAfter",
+  "description": "(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)V",
+  "tests": [
+    "org.jsoup.parser.HtmlParserTest"
+  ]
+}

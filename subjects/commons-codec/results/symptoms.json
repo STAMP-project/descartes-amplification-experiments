@@ -1,0 +1,162 @@
+{
+  "no-infection": [
+    {
+      "mutator": "null",
+      "package": "org.apache.commons.codec.net",
+      "class": "RFC1522Codec",
+      "method": "encodeText",
+      "description": "(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+      "mutator": "true",
+      "package": "org.apache.commons.codec.language",
+      "class": "DaitchMokotoffSoundex$Branch",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "empty",
+      "package": "org.apache.commons.codec.binary",
+      "class": "Hex",
+      "method": "encode",
+      "description": "(Ljava/nio/ByteBuffer;)[B"
+    },
+    {
+      "mutator": "true",
+      "package": "org.apache.commons.codec.digest",
+      "class": "HmacUtils",
+      "method": "isAvailable",
+      "description": "(Lorg/apache/commons/codec/digest/HmacAlgorithms;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "org.apache.commons.codec.language",
+      "class": "ColognePhonetic",
+      "method": "isEncodeEqual",
+      "description": "(Ljava/lang/String;Ljava/lang/String;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "org.apache.commons.codec.language",
+      "class": "Metaphone",
+      "method": "isMetaphoneEqual",
+      "description": "(Ljava/lang/String;Ljava/lang/String;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "org.apache.commons.codec.binary",
+      "class": "BaseNCodec",
+      "method": "isInAlphabet",
+      "description": "(Ljava/lang/String;)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "org.apache.commons.codec.binary",
+      "class": "Base32",
+      "method": "isInAlphabet",
+      "description": "(B)Z"
+    },
+    {
+      "mutator": "null",
+      "package": "org.apache.commons.codec.net",
+      "class": "BCodec",
+      "method": "encode",
+      "description": "(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+      "mutator": "null",
+      "package": "org.apache.commons.codec.net",
+      "class": "QCodec",
+      "method": "encode",
+      "description": "(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;"
+    }
+  ],
+  "no-propagation": [
+    {
+      "mutator": "false",
+      "package": "org.apache.commons.codec.language",
+      "class": "DoubleMetaphone",
+      "method": "conditionC0",
+      "description": "(Ljava/lang/String;I)Z"
+    },
+    {
+      "mutator": "null",
+      "package": "org.apache.commons.codec.digest",
+      "class": "DigestUtils",
+      "method": "getDigest",
+      "description": "(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;"
+    },
+    {
+      "mutator": "false",
+      "package": "org.apache.commons.codec.digest",
+      "class": "DigestUtils",
+      "method": "isAvailable",
+      "description": "(Ljava/lang/String;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "org.apache.commons.codec.net",
+      "class": "PercentCodec",
+      "method": "inAlwaysEncodeCharsRange",
+      "description": "(B)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "org.apache.commons.codec.binary",
+      "class": "BaseNCodec",
+      "method": "hasData",
+      "description": "(Lorg/apache/commons/codec/binary/BaseNCodec$Context;)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "org.apache.commons.codec.digest",
+      "class": "HmacUtils",
+      "method": "isAvailable",
+      "description": "(Lorg/apache/commons/codec/digest/HmacAlgorithms;)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "org.apache.commons.codec.language",
+      "class": "DoubleMetaphone$DoubleMetaphoneResult",
+      "method": "isComplete",
+      "description": "()Z"
+    },
+    {
+      "mutator": "false",
+      "package": "org.apache.commons.codec.language.bm",
+      "class": "Rule$4",
+      "method": "isMatch",
+      "description": "(Ljava/lang/CharSequence;)Z"
+    }
+  ],
+  "weak-oracle": [
+    {
+      "mutator": "\"A\"",
+      "package": "org.apache.commons.codec.language.bm",
+      "class": "BeiderMorseEncoder",
+      "method": "encode",
+      "description": "(Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+      "mutator": "false",
+      "package": "org.apache.commons.codec.language",
+      "class": "Soundex",
+      "method": "hasMarker",
+      "description": "([C)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "org.apache.commons.codec.language",
+      "class": "Soundex",
+      "method": "hasMarker",
+      "description": "([C)Z"
+    },
+    {
+      "mutator": "empty",
+      "package": "org.apache.commons.codec.digest",
+      "class": "MessageDigestAlgorithms",
+      "method": "values",
+      "description": "()[Ljava/lang/String;"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mutator": "null",
+  "class": "FieldConstraintsBuilder",
+  "package": "com.cronutils.model.field.constraint",
+  "method": "withIntValueMapping",
+  "description": "(II)Lcom/cronutils/model/field/constraint/FieldConstraintsBuilder;",
+  "tests": [
+    "com.cronutils.model.definition.CronDefinitionBuilderTest",
+    "com.cronutils.Issue58UnixCronAsStringIntegrationTest",
+    "com.cronutils.mapper.CronMapperIntegrationTest",
+    "com.cronutils.Issue55UnexpectedExecutionTimes",
+    "com.cronutils.OpenIssuesTest",
+    "com.cronutils.model.time.ExecutionTimeCustomDefinitionIntegrationTest",
+    "com.cronutils.Issue223Test",
+    "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest",
+    "com.cronutils.Issue228Test",
+    "com.cronutils.model.CronTest"
+  ]
+}

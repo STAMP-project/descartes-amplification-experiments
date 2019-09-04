@@ -1,0 +1,33 @@
+{
+  "nbMutantKilledOriginally": 36,
+  "name": "j2html.tags.TagTest",
+  "nbOriginalTestCases": 11,
+  "testCases": [
+    {
+      "name": "testEquals_add3_mg2311",
+      "nbAssertionAdded": 308,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 114,
+          "locationMethod": "condWith"
+        }
+      ]
+    },
+    {
+      "name": "testEquals_mg93",
+      "nbAssertionAdded": 178,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 141,
+          "locationMethod": "equals"
+        }
+      ]
+    }
+  ]
+}

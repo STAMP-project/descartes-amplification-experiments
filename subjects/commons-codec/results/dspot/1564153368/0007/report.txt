@@ -1,0 +1,4 @@
+Test class that has been amplified: org.apache.commons.codec.net.BCodecTest
+The original test suite kills 783 mutants
+The amplification results with 1 new tests
+it kills 2 more mutants

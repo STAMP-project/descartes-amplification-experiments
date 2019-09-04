@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "JMethod",
+  "package": "com.helger.jcodemodel",
+  "method": "annotate",
+  "description": "(Ljava/lang/Class;)Lcom/helger/jcodemodel/JAnnotationUse;",
+  "tests": [
+    "com.helger.jcodemodel.JAnnotationUseTest"
+  ]
+}

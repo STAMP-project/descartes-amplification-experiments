@@ -1,0 +1,3167 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|23|#0|hash",
+    "expected": [
+      {
+        "literalValue": "1606987511",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|62|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|15|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|65|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|26|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|79|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|12|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|29|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|62|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|26|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|51|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|20|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|23|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|8|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|68|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|5|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|34|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|59|#0|hash",
+    "expected": [
+      {
+        "literalValue": "1131699347",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|57|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|54|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|2|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|46|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|42|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|73|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "-224019938",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|45|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|12|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|31|#0|hash",
+    "expected": [
+      {
+        "literalValue": "1606987511",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|70|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|18|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|76|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|77|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "-224019938",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|56|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|48|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|40|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|53|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "1215820639",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|50|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|52|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|53|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|14|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|50|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|78|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|38|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|42|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|74|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|6|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|42|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|64|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|61|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "84124647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|9|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|41|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "-1710516451",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|69|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "84124647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|50|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|47|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "-1710516451",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|67|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "1215820639",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|66|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|44|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|46|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|49|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "-1710516451",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|70|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|77|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|17|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|72|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|25|#0|hash",
+    "expected": [
+      {
+        "literalValue": "1606987511",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|38|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|30|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|71|#0|hash",
+    "expected": [
+      {
+        "literalValue": "559803334",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|35|#0|hash",
+    "expected": [
+      {
+        "literalValue": "1606987511",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|14|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|36|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|19|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "84121375",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|78|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|55|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "1215820639",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|13|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "84121375",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|38|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|0|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|68|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|19|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|20|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|22|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|22|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|49|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|66|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|25|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|63|#0|hash",
+    "expected": [
+      {
+        "literalValue": "559803334",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|2|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|27|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "1691108803",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|33|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "84124647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|75|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "-224019938",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|36|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|7|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|76|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|55|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|4|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|52|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|61|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|31|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|58|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|27|#0|hash",
+    "expected": [
+      {
+        "literalValue": "1606987511",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|3|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "84121376",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|16|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|30|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|47|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|55|#0|hash",
+    "expected": [
+      {
+        "literalValue": "1131699347",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|33|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|58|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|41|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|16|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|72|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|44|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|8|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|44|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|6|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|2|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|4|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|28|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|11|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|1|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "84121376",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|75|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|36|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|60|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|10|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|9|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "-146979606",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|11|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "-146979606",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|74|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|69|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|21|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "84121372",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|20|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|16|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|72|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|63|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|29|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "87469099",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|28|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|25|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "1691108803",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|24|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|30|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|58|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|66|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|31|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "1691108803",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|22|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|10|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|27|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|24|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|39|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "-1710516451",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|18|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|64|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|4|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|35|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "1691108803",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|14|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|52|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|5|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "84121372",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|39|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|51|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "-1710516451",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|54|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|0|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|24|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|64|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|67|#0|hash",
+    "expected": [
+      {
+        "literalValue": "1131699347",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|60|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|63|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "643924626",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|62|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|65|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "84124647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|40|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|43|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "-1710516451",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|6|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|48|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|21|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|68|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|46|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|45|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "-1710516451",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|71|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|60|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|53|#0|hash",
+    "expected": [
+      {
+        "literalValue": "1131699347",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|74|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|76|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|32|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|32|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|28|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|3|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|59|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|56|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|35|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|59|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "1215820639",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|15|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "84121375",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|57|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "84124647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|34|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|56|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|32|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|17|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "-146979606",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|43|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|8|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|10|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|78|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|26|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|23|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "1691108803",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|54|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|37|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|13|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|73|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|34|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|71|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "643924626",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|40|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|67|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|48|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|37|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "-1710516451",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|79|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "-224019938",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|70|#0|hash",
+    "expected": [
+      {
+        "literalValue": "2080923045",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|12|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|18|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.util.JCHashCodeGenerator"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeGenerator|append|(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;|7|#that|m_nHC",
+    "expected": [
+      {
+        "literalValue": "84121372",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      }
+    ]
+  }
+]

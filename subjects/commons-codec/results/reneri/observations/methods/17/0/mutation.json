@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "DaitchMokotoffSoundex$Branch",
+  "package": "org.apache.commons.codec.language",
+  "method": "equals",
+  "description": "(Ljava/lang/Object;)Z",
+  "tests": [
+    "org.apache.commons.codec.language.DaitchMokotoffSoundexTest"
+  ]
+}

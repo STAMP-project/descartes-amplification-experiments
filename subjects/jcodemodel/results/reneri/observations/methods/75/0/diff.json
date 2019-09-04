@@ -1,0 +1,152 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|format|(Lcom/helger/jcodemodel/IJFormatter;Ljava/lang/String;)V|9|#0|m_bAtBeginningOfLine",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|format|(Lcom/helger/jcodemodel/IJFormatter;Ljava/lang/String;)V|9|#0|m_cLastChar",
+    "expected": [
+      {
+        "literalValue": "\u0000",
+        "typeName": "char"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": " ",
+        "typeName": "char"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|format|(Lcom/helger/jcodemodel/IJFormatter;Ljava/lang/String;)V|17|#0|m_bAtBeginningOfLine",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|format|(Lcom/helger/jcodemodel/IJFormatter;Ljava/lang/String;)V|18|#0|m_bAtBeginningOfLine",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|format|(Lcom/helger/jcodemodel/IJFormatter;Ljava/lang/String;)V|17|#0|m_cLastChar",
+    "expected": [
+      {
+        "literalValue": "\u0000",
+        "typeName": "char"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": " ",
+        "typeName": "char"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|format|(Lcom/helger/jcodemodel/IJFormatter;Ljava/lang/String;)V|16|#0|m_cLastChar",
+    "expected": [
+      {
+        "literalValue": "\u0000",
+        "typeName": "char"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": " ",
+        "typeName": "char"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|format|(Lcom/helger/jcodemodel/IJFormatter;Ljava/lang/String;)V|18|#0|m_cLastChar",
+    "expected": [
+      {
+        "literalValue": "\u0000",
+        "typeName": "char"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": " ",
+        "typeName": "char"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|format|(Lcom/helger/jcodemodel/IJFormatter;Ljava/lang/String;)V|14|#0|m_bAtBeginningOfLine",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|format|(Lcom/helger/jcodemodel/IJFormatter;Ljava/lang/String;)V|16|#0|m_bAtBeginningOfLine",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JCommentPart|format|(Lcom/helger/jcodemodel/IJFormatter;Ljava/lang/String;)V|14|#0|m_cLastChar",
+    "expected": [
+      {
+        "literalValue": "\u0000",
+        "typeName": "char"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": " ",
+        "typeName": "char"
+      }
+    ]
+  }
+]

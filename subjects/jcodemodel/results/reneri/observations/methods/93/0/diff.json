@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JOpUnaryTight|generate|(Lcom/helger/jcodemodel/IJFormatter;)V|1|#0|m_cLastChar",
+    "expected": [
+      {
+        "literalValue": "+",
+        "typeName": "char"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": ";",
+        "typeName": "char"
+      }
+    ]
+  }
+]

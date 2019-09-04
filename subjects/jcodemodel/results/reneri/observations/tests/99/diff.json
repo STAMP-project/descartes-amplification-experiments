@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.VarArgsFuncTest|testBasic()|42|m_aUpdateExprs|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  }
+]

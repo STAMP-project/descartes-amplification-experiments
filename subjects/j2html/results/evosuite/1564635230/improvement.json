@@ -1,0 +1,1 @@
+{"no-infection": [{"mutator": "void", "package": "j2html.utils", "method": "simplifyParameters", "description": "()V", "class": "Part"}], "no-propagation": [], "weak-oracle": []}

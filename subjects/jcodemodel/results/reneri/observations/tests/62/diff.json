@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JPackageTest|testGetParent()|10|m_sName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.helger.jcodemodel",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JPackageTest|testGetParent()|9|m_sName",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "com.helger.jcodemodel",
+        "typeName": "java.lang.String"
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "class": "MethodSpec",
+        "name": "methodBuilder",
+        "package": "com.squareup.javapoet",
+        "description": "(Ljava/lang/String;)Lcom/squareup/javapoet/MethodSpec$Builder;"
+    }
+]

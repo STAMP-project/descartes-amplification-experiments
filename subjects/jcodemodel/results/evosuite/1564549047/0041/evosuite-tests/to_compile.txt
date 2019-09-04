@@ -1,0 +1,1 @@
+./com/helger/jcodemodel/JAnnotationArrayMember_ESTest_scaffolding.java ./com/helger/jcodemodel/JAnnotationArrayMember_ESTest.java

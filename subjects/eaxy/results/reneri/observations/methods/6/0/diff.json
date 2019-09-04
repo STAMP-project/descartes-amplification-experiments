@@ -1,0 +1,272 @@
+[
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|16|#result",
+    "expected": [
+      {
+        "literalValue": "multiple-namespaces.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|9|#result",
+    "expected": [
+      {
+        "literalValue": "AWSECommerceService.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|0|#result",
+    "expected": [
+      {
+        "literalValue": "StockQuoteService.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|17|#result",
+    "expected": [
+      {
+        "literalValue": "currencyconvertor.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|15|#result",
+    "expected": [
+      {
+        "literalValue": "greath-reservation.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|8|#result",
+    "expected": [
+      {
+        "literalValue": "AWSECommerceService.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|2|#result",
+    "expected": [
+      {
+        "literalValue": "airport.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|7|#result",
+    "expected": [
+      {
+        "literalValue": "AWSECommerceService.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|10|#result",
+    "expected": [
+      {
+        "literalValue": "AWSECommerceService.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|1|#result",
+    "expected": [
+      {
+        "literalValue": "airport.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|5|#result",
+    "expected": [
+      {
+        "literalValue": "currencyconvertor-multischema.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|11|#result",
+    "expected": [
+      {
+        "literalValue": "AWSECommerceService.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|6|#result",
+    "expected": [
+      {
+        "literalValue": "AWSECommerceService.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|12|#result",
+    "expected": [
+      {
+        "literalValue": "AWSECommerceService.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|14|#result",
+    "expected": [
+      {
+        "literalValue": "AWSECommerceService.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|3|#result",
+    "expected": [
+      {
+        "literalValue": "airport.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|4|#result",
+    "expected": [
+      {
+        "literalValue": "airport.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.eaxy.experimental.SampleSoapXmlBuilder|getFilename|()Ljava/lang/String;|13|#result",
+    "expected": [
+      {
+        "literalValue": "AWSECommerceService.wsdl",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  }
+]

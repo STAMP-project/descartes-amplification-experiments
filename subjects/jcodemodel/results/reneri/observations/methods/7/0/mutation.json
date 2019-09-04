@@ -1,0 +1,11 @@
+{
+  "mutator": "null",
+  "class": "JBlock",
+  "package": "com.helger.jcodemodel",
+  "method": "_if",
+  "description": "(Lcom/helger/jcodemodel/IJExpression;)Lcom/helger/jcodemodel/JConditional;",
+  "tests": [
+    "com.helger.jcodemodel.JDirectClassTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue30FuncTest"
+  ]
+}

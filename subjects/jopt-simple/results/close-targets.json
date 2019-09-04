@@ -1,0 +1,1 @@
+[{"class": "joptsimple.util.InetAddressConverterTest", "method": "unknownHost"}, {"class": "joptsimple.DefaultSettingsOptionParserHelpTest", "method": "oneOptionRequiredArgNoDescriptionWithType"}, {"class": "joptsimple.util.EnumConverterTest", "method": "rejectsNonEnumeratedValues"}]

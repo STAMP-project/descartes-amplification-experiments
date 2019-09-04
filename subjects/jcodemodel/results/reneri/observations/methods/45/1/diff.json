@@ -1,0 +1,122 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter|_collectCausesNoAmbiguities|(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/JDefinedClass;)Z|9|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter|_collectCausesNoAmbiguities|(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/JDefinedClass;)Z|14|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter|_collectCausesNoAmbiguities|(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/JDefinedClass;)Z|3|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter|_collectCausesNoAmbiguities|(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/JDefinedClass;)Z|7|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter|_collectCausesNoAmbiguities|(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/JDefinedClass;)Z|8|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter|_collectCausesNoAmbiguities|(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/JDefinedClass;)Z|12|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter|_collectCausesNoAmbiguities|(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/JDefinedClass;)Z|15|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.writer.JFormatter|_collectCausesNoAmbiguities|(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/JDefinedClass;)Z|10|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  }
+]

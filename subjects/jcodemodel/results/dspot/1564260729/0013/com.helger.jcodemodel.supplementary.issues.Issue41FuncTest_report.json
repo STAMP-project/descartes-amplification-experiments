@@ -1,0 +1,437 @@
+{
+  "nbMutantKilledOriginally": 0,
+  "name": "com.helger.jcodemodel.supplementary.issues.Issue41FuncTest",
+  "nbOriginalTestCases": 3,
+  "testCases": [
+    {
+      "name": "testSwitchInnerEnum_mg178",
+      "nbAssertionAdded": 52,
+      "nbInputAdded": 14,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 155,
+          "locationMethod": "isSynchronized"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 178,
+          "locationMethod": "isDefault"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 165,
+          "locationMethod": "isStrictFP"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnumnull192_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 5,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 234,
+          "locationMethod": "notNull"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_mg115",
+      "nbAssertionAdded": 14,
+      "nbInputAdded": 8,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 802,
+          "locationMethod": "annotations"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_mg157",
+      "nbAssertionAdded": 14,
+      "nbInputAdded": 8,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 486,
+          "locationMethod": "hasSignature"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_literalMutationString45_mg3280",
+      "nbAssertionAdded": 10,
+      "nbInputAdded": 8,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 161,
+          "locationMethod": "isReference"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_mg77",
+      "nbAssertionAdded": 14,
+      "nbInputAdded": 8,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 460,
+          "locationMethod": "buildsErrorTypeRefs"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_add4_add42232",
+      "nbAssertionAdded": 12,
+      "nbInputAdded": 8,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 167,
+          "locationMethod": "getThrows"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_rv209",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 6,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 164,
+          "locationMethod": "javadoc"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_mg117_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 6,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 142,
+          "locationMethod": "isFalse"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 98,
+          "locationMethod": "_check"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnumnull197_failAssert0",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 9,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 114,
+          "locationMethod": "state"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 113,
+          "locationMethod": "state"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_mg119",
+      "nbAssertionAdded": 14,
+      "nbInputAdded": 8,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 842,
+          "locationMethod": "containsErrorTypes"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 961,
+          "locationMethod": "containsErrorTypes"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_rv200",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 6,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 203,
+          "locationMethod": "annotations"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_rv202",
+      "nbAssertionAdded": 6,
+      "nbInputAdded": 18,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 140,
+          "locationMethod": "argsMutable"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_rv204",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 6,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 228,
+          "locationMethod": "equals"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_mg120",
+      "nbAssertionAdded": 42,
+      "nbInputAdded": 20,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 450,
+          "locationMethod": "containsField"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_mg124",
+      "nbAssertionAdded": 42,
+      "nbInputAdded": 20,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 425,
+          "locationMethod": "fields"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_mg146",
+      "nbAssertionAdded": 14,
+      "nbInputAdded": 8,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 130,
+          "locationMethod": "args"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_mg180_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 5,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 153,
+          "locationMethod": "name"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_mg185_mg29553",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 8,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 396,
+          "locationMethod": "annotations"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_mg158_mg15192",
+      "nbAssertionAdded": 2,
+      "nbInputAdded": 8,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 260,
+          "locationMethod": "equals"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_literalMutationString65_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 5,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 134,
+          "locationMethod": "isJavaIdentifier"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 110,
+          "locationMethod": "isTrue"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum",
+      "nbAssertionAdded": 6,
+      "nbInputAdded": 4,
+      "nbMutantKilled": 13,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 158,
+          "locationMethod": "getName"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 155,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 532,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 281,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 532,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 198,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "\"A\"",
+          "lineNumber": 158,
+          "locationMethod": "getName"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 604,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 198,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 604,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "\"\"",
+          "lineNumber": 158,
+          "locationMethod": "getName"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 147,
+          "locationMethod": "hasArgs"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 155,
+          "locationMethod": "append"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_rv219",
+      "nbAssertionAdded": 42,
+      "nbInputAdded": 12,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 725,
+          "locationMethod": "_break"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 738,
+          "locationMethod": "_break"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_rv217_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 3,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 72,
+          "locationMethod": "state"
+        }
+      ]
+    },
+    {
+      "name": "testSwitchInnerEnum_rv211",
+      "nbAssertionAdded": 62,
+      "nbInputAdded": 6,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 214,
+          "locationMethod": "getPackage"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 166,
+          "locationMethod": "getPackage"
+        },
+        {
+          "ID": "true",
+          "lineNumber": 592,
+          "locationMethod": "hasHeaderComment"
+        }
+      ]
+    }
+  ]
+}

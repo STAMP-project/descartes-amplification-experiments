@@ -1,0 +1,46 @@
+{
+  "nbMutantKilledOriginally": 33,
+  "name": "com.squareup.javapoet.TypeNameTest",
+  "nbOriginalTestCases": 12,
+  "testCases": [
+    {
+      "name": "genericType",
+      "nbAssertionAdded": 35,
+      "nbInputAdded": 3,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 107,
+          "locationMethod": "get"
+        }
+      ]
+    },
+    {
+      "name": "genericType_rv70",
+      "nbAssertionAdded": 70,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 57,
+          "locationMethod": "withoutAnnotations"
+        }
+      ]
+    },
+    {
+      "name": "genericType_mg44",
+      "nbAssertionAdded": 90,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 47,
+          "locationMethod": "withoutAnnotations"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "mutator": "\"\"",
+  "class": "WorldCreateSpec",
+  "package": "net.tridentsdk.world.opt",
+  "method": "getOptionString",
+  "description": "()Ljava/lang/String;",
+  "tests": [
+    "net.tridentsdk.world.opt.WorldCreateSpecTest"
+  ]
+}

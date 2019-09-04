@@ -1,0 +1,11 @@
+{
+  "mutator": "void",
+  "class": "JBlock",
+  "package": "com.helger.jcodemodel",
+  "method": "removeAll",
+  "description": "()V",
+  "tests": [
+    "com.helger.jcodemodel.supplementary.issues.Issue53FuncTest",
+    "com.helger.jcodemodel.JLambdaTest"
+  ]
+}

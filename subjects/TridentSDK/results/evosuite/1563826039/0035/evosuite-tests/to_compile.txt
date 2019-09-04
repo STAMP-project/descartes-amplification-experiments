@@ -1,0 +1,1 @@
+./net/tridentsdk/world/opt/WorldBorder$DoubleXZ_ESTest_scaffolding.java ./net/tridentsdk/world/opt/WorldBorder$DoubleXZ_ESTest.java

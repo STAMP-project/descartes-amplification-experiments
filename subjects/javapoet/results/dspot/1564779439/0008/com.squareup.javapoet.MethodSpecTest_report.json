@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 30,
+  "name": "com.squareup.javapoet.MethodSpecTest",
+  "nbOriginalTestCases": 18,
+  "testCases": [
+    {
+      "name": "equalsAndHashCode_mg50",
+      "nbAssertionAdded": 74,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 166,
+          "locationMethod": "equals"
+        }
+      ]
+    }
+  ]
+}

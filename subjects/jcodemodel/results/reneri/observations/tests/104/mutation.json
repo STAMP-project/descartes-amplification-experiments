@@ -1,0 +1,10 @@
+{
+  "mutator": "false",
+  "class": "JReferencedClass$1",
+  "package": "com.helger.jcodemodel",
+  "method": "hasNext",
+  "description": "()Z",
+  "tests": [
+    "com.helger.jcodemodel.AbstractJTypeTest"
+  ]
+}

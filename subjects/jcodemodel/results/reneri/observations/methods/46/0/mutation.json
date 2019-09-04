@@ -1,0 +1,21 @@
+{
+  "mutator": "void",
+  "class": "JInvocation",
+  "package": "com.helger.jcodemodel",
+  "method": "_addTypeVars",
+  "description": "(Lcom/helger/jcodemodel/IJFormatter;)V",
+  "tests": [
+    "com.helger.jcodemodel.ForEachFuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue53FuncTest",
+    "com.helger.jcodemodel.JDefinedClassTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue31FuncTest",
+    "com.helger.jcodemodel.JCodeModelTest",
+    "com.helger.jcodemodel.JDirectClassTest",
+    "com.helger.jcodemodel.JInvocationTest",
+    "com.helger.jcodemodel.AnonymousClassFuncTest",
+    "com.helger.jcodemodel.JLambdaTest",
+    "com.helger.jcodemodel.JLambdaMethodRefTest",
+    "com.helger.jcodemodel.VarArgsFuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue30FuncTest"
+  ]
+}

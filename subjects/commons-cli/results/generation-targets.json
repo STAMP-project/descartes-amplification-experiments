@@ -1,0 +1,38 @@
+[
+    {
+        "class": "Option",
+        "name": "hasValueSeparator",
+        "package": "org.apache.commons.cli",
+        "description": "()Z"
+    },
+    {
+        "class": "DefaultParser",
+        "name": "parse",
+        "package": "org.apache.commons.cli",
+        "description": "(Lorg/apache/commons/cli/Options;[Ljava/lang/String;Z)Lorg/apache/commons/cli/CommandLine;"
+    },
+    {
+        "class": "DefaultParser",
+        "name": "parse",
+        "package": "org.apache.commons.cli",
+        "description": "(Lorg/apache/commons/cli/Options;[Ljava/lang/String;)Lorg/apache/commons/cli/CommandLine;"
+    },
+    {
+        "class": "DefaultParser",
+        "name": "parse",
+        "package": "org.apache.commons.cli",
+        "description": "(Lorg/apache/commons/cli/Options;[Ljava/lang/String;Ljava/util/Properties;)Lorg/apache/commons/cli/CommandLine;"
+    },
+    {
+        "class": "DefaultParser",
+        "name": "parse",
+        "package": "org.apache.commons.cli",
+        "description": "(Lorg/apache/commons/cli/Options;[Ljava/lang/String;Ljava/util/Properties;Z)Lorg/apache/commons/cli/CommandLine;"
+    },
+    {
+        "class": "AmbiguousOptionException",
+        "name": "<init>",
+        "package": "org.apache.commons.cli",
+        "description": "(Ljava/lang/String;Ljava/util/Collection;)V"
+    }
+]

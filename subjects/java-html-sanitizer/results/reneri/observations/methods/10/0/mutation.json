@@ -1,0 +1,20 @@
+{
+  "mutator": "empty",
+  "class": "HtmlElementTables$SparseElementMultitable",
+  "package": "org.owasp.html",
+  "method": "getElementIndexList",
+  "description": "(II)[I",
+  "tests": [
+    "org.owasp.html.HtmlElementTablesTest",
+    "org.owasp.html.HtmlStreamRendererTest",
+    "org.owasp.html.HtmlSanitizerTest",
+    "org.owasp.html.HtmlPolicyBuilderTest",
+    "org.owasp.html.SanitizersTest",
+    "org.owasp.html.HtmlSanitizerFuzzerTest",
+    "org.owasp.html.AntiSamyTest",
+    "org.owasp.html.TagBalancingHtmlStreamRendererTest",
+    "org.owasp.html.UrlTextExampleTest",
+    "org.owasp.html.ExamplesTest",
+    "org.owasp.html.HtmlChangeReporterTest"
+  ]
+}

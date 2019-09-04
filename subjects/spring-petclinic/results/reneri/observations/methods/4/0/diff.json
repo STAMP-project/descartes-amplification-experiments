@@ -1,0 +1,62 @@
+[
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.Owner|getPet|(Ljava/lang/String;Z)Lorg/springframework/samples/petclinic/owner/Pet;|1|#that|pets",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.Owner|getPet|(Ljava/lang/String;Z)Lorg/springframework/samples/petclinic/owner/Pet;|1|#0",
+    "expected": [
+      {
+        "literalValue": "betty",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "Betty",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.Owner|getPet|(Ljava/lang/String;Z)Lorg/springframework/samples/petclinic/owner/Pet;|0|#0",
+    "expected": [
+      {
+        "literalValue": "betty",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "Betty",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.springframework.samples.petclinic.owner.Owner|getPet|(Ljava/lang/String;Z)Lorg/springframework/samples/petclinic/owner/Pet;|0|#that|pets",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Set"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Set"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JavadocFuncTest|testOnClass()|19",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.IJExpression"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.IJExpression"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JavadocFuncTest|testOnClass()|20|m_aExpr",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.IJExpression"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.IJExpression"
+      }
+    ]
+  }
+]

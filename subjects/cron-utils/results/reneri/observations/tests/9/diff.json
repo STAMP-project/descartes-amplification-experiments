@@ -1,0 +1,1501 @@
+[
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|11|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "33",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "22",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzIntegrationTest|testHourlyIntervalTimeFromLastExecution()|13|seconds",
+    "expected": [
+      {
+        "literalValue": "5429",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5418",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5413",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5436",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5425",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5433",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5421",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5443",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5410",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5440",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5649",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5646",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5658",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5644",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5666",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5656",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5653",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5651",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5663",
+        "typeName": "long"
+      },
+      {
+        "literalValue": "5661",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|11|modCount",
+    "expected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|16|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "33",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "22",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|16|size",
+    "expected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzIntegrationTest|testHourlyIntervalTimeFromLastExecution()|14",
+    "expected": [
+      {
+        "literalValue": "90",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "94",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|15|modCount",
+    "expected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|13|modCount",
+    "expected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|12|ordinal",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|47",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|42",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "15",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "20",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "27",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "29",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|44",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "15",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "20",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "27",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "29",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|45",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|24",
+    "expected": [
+      {
+        "literalValue": "0 0 8 10 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 17 7 5",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 7 5 5",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 23 9 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 19 12 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 5 1 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 15 2 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 10 12 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 4 10 1",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 21 5 4",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0 0 27 12 4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 20 12 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 20 8 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 29 2 1",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 18 4 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 1 4 1",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 18 10 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 11 11 4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 20 2 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 12 10 3",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|20",
+    "expected": [
+      {
+        "literalValue": "0 0 8 10 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 17 7 5",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 7 5 5",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 23 9 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 19 12 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 5 1 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 15 2 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 10 12 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 4 10 1",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 21 5 4",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0 0 27 12 4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 20 12 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 20 8 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 29 2 1",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 18 4 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 1 4 1",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 18 10 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 11 11 4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 20 2 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 12 10 3",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|18",
+    "expected": [
+      {
+        "literalValue": "0 0 8 10 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 17 7 5",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 7 5 5",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 23 9 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 19 12 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 5 1 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 15 2 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 10 12 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 4 10 1",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 21 5 4",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0 0 27 12 4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 20 12 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 20 8 2",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 29 2 1",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 18 4 3",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 1 4 1",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 18 10 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 11 11 4",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 20 2 0",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "0 0 12 10 3",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|14",
+    "expected": [
+      {
+        "literalValue": "20",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "22",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "16",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "26",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "28",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|15",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "15",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "17",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "20",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "27",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "29",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "18",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|16",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|11",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|16|modCount",
+    "expected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|12|size",
+    "expected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|validateInterval(int,int,java.util.List)|5|size",
+    "expected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|12|name",
+    "expected": [
+      {
+        "literalValue": "OCTOBER",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "JANUARY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "MAY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "DECEMBER",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "FEBRUARY",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "SEPTEMBER",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "JULY",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "APRIL",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "AUGUST",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "NOVEMBER",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|15|#size",
+    "expected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|validateInterval(int,int,java.util.List)|5|#size",
+    "expected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|16|#size",
+    "expected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|12|modCount",
+    "expected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest|testRandomDayOfMonthAndDayOfWeek()|9",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|15|size",
+    "expected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|14|size",
+    "expected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|11|size",
+    "expected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|14|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "33",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "22",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|validateInterval(int,int,java.util.List)|5|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "33",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "22",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|14|#size",
+    "expected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|validateInterval(int,int,java.util.List)|5|modCount",
+    "expected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|13|#size",
+    "expected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|12|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "33",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "22",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|12|#size",
+    "expected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|15|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "33",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "22",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|14|modCount",
+    "expected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeQuartzIntegrationTest|testHourlyIntervalTimeFromLastExecution()|13|nanos",
+    "expected": [
+      {
+        "literalValue": "167000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "433000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "671000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "216000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "271000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "794000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "463000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "841000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "47000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "97000000",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "59000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "88000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "679000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "750000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "197000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "469000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "641000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "309000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "198000000",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "877000000",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|13|size",
+    "expected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|13|elementData|#length",
+    "expected": [
+      {
+        "literalValue": "33",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "22",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|11|#size",
+    "expected": [
+      {
+        "literalValue": "23",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "21",
+        "typeName": "int"
+      }
+    ]
+  }
+]

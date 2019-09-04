@@ -1,0 +1,1 @@
+./org/eaxy/experimental/SampleSoapXmlBuilder_ESTest_scaffolding.java ./org/eaxy/experimental/SampleSoapXmlBuilder_ESTest.java

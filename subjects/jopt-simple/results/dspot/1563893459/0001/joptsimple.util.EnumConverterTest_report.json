@@ -1,0 +1,30 @@
+{
+  "nbMutantKilledOriginally": 4,
+  "name": "joptsimple.util.EnumConverterTest",
+  "nbOriginalTestCases": 6,
+  "testCases": [
+    {
+      "name": "rejectsNonEnumeratedValues_remove3_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "\"\"",
+          "lineNumber": 104,
+          "locationMethod": "message"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 104,
+          "locationMethod": "message"
+        },
+        {
+          "ID": "\"A\"",
+          "lineNumber": 104,
+          "locationMethod": "message"
+        }
+      ]
+    }
+  ]
+}

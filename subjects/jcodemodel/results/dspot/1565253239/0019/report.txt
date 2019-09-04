@@ -1,0 +1,4 @@
+Test class that has been amplified: com.helger.jcodemodel.JAnnotationUseTest
+The original test suite kills 371 mutants
+The amplification results with 41 new tests
+it kills 74 more mutants

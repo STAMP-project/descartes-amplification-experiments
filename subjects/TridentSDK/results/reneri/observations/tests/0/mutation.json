@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "ChatComponent",
+  "package": "net.tridentsdk.ui.chat",
+  "method": "addExtra",
+  "description": "(Ljava/lang/String;)Lnet/tridentsdk/ui/chat/ChatComponent;",
+  "tests": [
+    "net.tridentsdk.ui.chat.ChatComponentTest"
+  ]
+}

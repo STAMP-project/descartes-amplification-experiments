@@ -1,0 +1,137 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.AnnotationUseFuncTest|testMain()|48|m_aMemberValues|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AnnotationUseFuncTest|testMain()|61|m_aMemberValues|#size",
+    "expected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AnnotationUseFuncTest|testMain()|65|m_aMemberValues",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Map"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Map"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AnnotationUseFuncTest|testMain()|37|m_aMemberValues|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AnnotationUseFuncTest|testMain()|47|m_aMemberValues|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AnnotationUseFuncTest|testMain()|45|m_aMemberValues|#size",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AnnotationUseFuncTest|testMain()|36",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AnnotationUseFuncTest|testMain()|64",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.AnnotationUseFuncTest|testMain()|66|m_aMemberValues|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  }
+]

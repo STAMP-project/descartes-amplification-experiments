@@ -1,0 +1,11 @@
+{
+  "mutator": "void",
+  "class": "JTypeWildcard",
+  "package": "com.helger.jcodemodel",
+  "method": "generate",
+  "description": "(Lcom/helger/jcodemodel/IJFormatter;)V",
+  "tests": [
+    "com.helger.jcodemodel.supplementary.issues.Issue53FuncTest",
+    "com.helger.jcodemodel.JInvocationTest"
+  ]
+}

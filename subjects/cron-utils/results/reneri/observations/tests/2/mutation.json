@@ -1,0 +1,24 @@
+{
+  "mutator": "void",
+  "class": "ExecutionTimeBuilder",
+  "package": "com.cronutils.model.time",
+  "method": "validate",
+  "description": "(Lcom/cronutils/model/field/CronFieldName;Lcom/cronutils/model/field/CronField;)V",
+  "tests": [
+    "com.cronutils.Issue143Test",
+    "com.cronutils.model.definition.CronDefinitionIssue25IntegrationTest",
+    "com.cronutils.Issue215Test",
+    "com.cronutils.Issue218Test",
+    "com.cronutils.model.time.ExecutionTimeCustomDefinitionIntegrationTest",
+    "com.cronutils.Issue228Test",
+    "com.cronutils.Issue200Test",
+    "com.cronutils.model.time.ExecutionTimeQuartzWithDayOfYearExtensionIntegrationTest",
+    "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest",
+    "com.cronutils.Issue55UnexpectedExecutionTimes",
+    "com.cronutils.model.time.ExecutionTimeQuartzIntegrationTest",
+    "com.cronutils.OpenIssuesTest",
+    "com.cronutils.Issue223Test",
+    "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest",
+    "com.cronutils.parser.CronParserQuartzIntegrationTest"
+  ]
+}

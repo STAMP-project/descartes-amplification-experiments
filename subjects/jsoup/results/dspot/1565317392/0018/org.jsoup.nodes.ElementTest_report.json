@@ -1,0 +1,211 @@
+{
+  "nbMutantKilledOriginally": 146,
+  "name": "org.jsoup.nodes.ElementTest",
+  "nbOriginalTestCases": 93,
+  "testCases": [
+    {
+      "name": "testPrependNewHtml_rv216",
+      "nbAssertionAdded": 42,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 963,
+          "locationMethod": "getElementsContainingText"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_rv217",
+      "nbAssertionAdded": 42,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 1010,
+          "locationMethod": "getElementsMatchingOwnText"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 1022,
+          "locationMethod": "getElementsMatchingOwnText"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_mg80",
+      "nbAssertionAdded": 62,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 887,
+          "locationMethod": "getElementsByAttributeValueEnding"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_mg89",
+      "nbAssertionAdded": 62,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 974,
+          "locationMethod": "getElementsContainingOwnText"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_mg79",
+      "nbAssertionAdded": 62,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 898,
+          "locationMethod": "getElementsByAttributeValueContaining"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_add7_mg57635_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 576,
+          "locationMethod": "quirksMode"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 315,
+          "locationMethod": "load"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 81,
+          "locationMethod": "noNullElements"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_rv179_mg25174_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 5,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 53,
+          "locationMethod": "isFalse"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 293,
+          "locationMethod": "reset"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 332,
+          "locationMethod": "reset"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 72,
+          "locationMethod": "noNullElements"
+        },
+        {
+          "ID": "\"\"",
+          "lineNumber": 218,
+          "locationMethod": "consumeToAnySorted"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml",
+      "nbAssertionAdded": 30,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 40,
+          "locationMethod": "hasParent"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_mg39",
+      "nbAssertionAdded": 140,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 119,
+          "locationMethod": "normalise"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_rv228_mg18611",
+      "nbAssertionAdded": 46,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 952,
+          "locationMethod": "getElementsByIndexEquals"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_mg120_mg59332",
+      "nbAssertionAdded": 68,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 66,
+          "locationMethod": "isTrackErrors"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_mg92_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 3,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 996,
+          "locationMethod": "getElementsMatchingText"
+        }
+      ]
+    },
+    {
+      "name": "testPrependNewHtml_rv223_mg42855",
+      "nbAssertionAdded": 46,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 865,
+          "locationMethod": "getElementsByAttributeValueNot"
+        }
+      ]
+    }
+  ]
+}

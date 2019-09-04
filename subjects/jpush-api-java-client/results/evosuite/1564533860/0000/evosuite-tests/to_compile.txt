@@ -1,0 +1,1 @@
+./cn/jpush/api/schedule/model/TriggerPayload$Builder_ESTest_scaffolding.java ./cn/jpush/api/schedule/model/TriggerPayload$Builder_ESTest.java

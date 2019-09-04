@@ -1,0 +1,10 @@
+{
+  "mutator": "empty",
+  "class": "AbstractJGenerifiableImpl",
+  "package": "com.helger.jcodemodel",
+  "method": "typeParams",
+  "description": "()[Lcom/helger/jcodemodel/JTypeVar;",
+  "tests": [
+    "com.helger.jcodemodel.JInvocationTest"
+  ]
+}

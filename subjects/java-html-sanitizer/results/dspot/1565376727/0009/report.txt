@@ -1,0 +1,4 @@
+Test class that has been amplified: org.owasp.html.ExamplesTest
+The original test suite kills 351 mutants
+The amplification results with 0 new tests
+it kills 0 more mutants

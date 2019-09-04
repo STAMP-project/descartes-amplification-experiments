@@ -1,0 +1,274 @@
+{
+  "no-infection": [
+    {
+      "mutator": "void",
+      "package": "org.jsoup.parser",
+      "class": "Tokeniser",
+      "method": "createDoctypePending",
+      "description": "()V"
+    },
+    {
+      "mutator": "void",
+      "package": "org.jsoup.helper",
+      "class": "Validate",
+      "method": "isFalse",
+      "description": "(Z)V"
+    },
+    {
+      "mutator": "void",
+      "package": "org.jsoup.parser",
+      "class": "Tokeniser",
+      "method": "createTempBuffer",
+      "description": "()V"
+    },
+    {
+      "mutator": "true",
+      "package": "org.jsoup.select",
+      "class": "StructuralEvaluator$PreviousSibling",
+      "method": "matches",
+      "description": "(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "org.jsoup.parser",
+      "class": "HtmlTreeBuilder",
+      "method": "inSelectScope",
+      "description": "(Ljava/lang/String;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "org.jsoup.parser",
+      "class": "Tag",
+      "method": "isInline",
+      "description": "()Z"
+    },
+    {
+      "mutator": "true",
+      "package": "org.jsoup.parser",
+      "class": "HtmlTreeBuilderState$22",
+      "method": "process",
+      "description": "(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z"
+    },
+    {
+      "mutator": "void",
+      "package": "org.jsoup.helper",
+      "class": "Validate",
+      "method": "noNullElements",
+      "description": "([Ljava/lang/Object;Ljava/lang/String;)V"
+    },
+    {
+      "mutator": "void",
+      "package": "org.jsoup.parser",
+      "class": "Tokeniser",
+      "method": "createCommentPending",
+      "description": "()V"
+    },
+    {
+      "mutator": "true",
+      "package": "org.jsoup.parser",
+      "class": "HtmlTreeBuilder",
+      "method": "inListItemScope",
+      "description": "(Ljava/lang/String;)Z"
+    },
+    {
+      "mutator": "void",
+      "package": "org.jsoup.parser",
+      "class": "HtmlTreeBuilder",
+      "method": "clearStackToTableRowContext",
+      "description": "()V"
+    },
+    {
+      "mutator": "true",
+      "package": "org.jsoup.nodes",
+      "class": "Comment",
+      "method": "isXmlDeclaration",
+      "description": "()Z"
+    },
+    {
+      "mutator": "false",
+      "package": "org.jsoup.parser",
+      "class": "CharacterReader",
+      "method": "matchesDigit",
+      "description": "()Z"
+    },
+    {
+      "mutator": "null",
+      "package": "org.jsoup.nodes",
+      "class": "Node",
+      "method": "previousSibling",
+      "description": "()Lorg/jsoup/nodes/Node;"
+    },
+    {
+      "mutator": "\"\"",
+      "package": "org.jsoup.nodes",
+      "class": "LeafNode",
+      "method": "baseUri",
+      "description": "()Ljava/lang/String;"
+    },
+    {
+      "mutator": "true",
+      "package": "org.jsoup.parser",
+      "class": "HtmlTreeBuilder",
+      "method": "isInActiveFormattingElements",
+      "description": "(Lorg/jsoup/nodes/Element;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "org.jsoup.safety",
+      "class": "Whitelist$TypedValue",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "org.jsoup.parser",
+      "class": "HtmlTreeBuilderState$16",
+      "method": "anythingElse",
+      "description": "(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z"
+    },
+    {
+      "mutator": "void",
+      "package": "org.jsoup.helper",
+      "class": "Validate",
+      "method": "noNullElements",
+      "description": "([Ljava/lang/Object;)V"
+    },
+    {
+      "mutator": "void",
+      "package": "org.jsoup.parser",
+      "class": "Tokeniser",
+      "method": "error",
+      "description": "(Lorg/jsoup/parser/TokeniserState;)V"
+    }
+  ],
+  "no-propagation": [
+    {
+      "mutator": "true",
+      "package": "org.jsoup.select",
+      "class": "Evaluator$IsOnlyChild",
+      "method": "matches",
+      "description": "(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "org.jsoup.parser",
+      "class": "HtmlTreeBuilderState$22",
+      "method": "process",
+      "description": "(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "org.jsoup.parser",
+      "class": "HtmlTreeBuilder",
+      "method": "isInActiveFormattingElements",
+      "description": "(Lorg/jsoup/nodes/Element;)Z"
+    },
+    {
+      "mutator": "void",
+      "package": "org.jsoup.nodes",
+      "class": "Entities",
+      "method": "load",
+      "description": "(Lorg/jsoup/nodes/Entities$EscapeMode;Ljava/lang/String;I)V"
+    },
+    {
+      "mutator": "true",
+      "package": "org.jsoup.parser",
+      "class": "HtmlTreeBuilderState$16",
+      "method": "anythingElse",
+      "description": "(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "org.jsoup.parser",
+      "class": "HtmlTreeBuilderState$20",
+      "method": "process",
+      "description": "(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z"
+    },
+    {
+      "mutator": "null",
+      "package": "org.jsoup.parser",
+      "class": "HtmlTreeBuilder",
+      "method": "aboveOnStack",
+      "description": "(Lorg/jsoup/nodes/Element;)Lorg/jsoup/nodes/Element;"
+    },
+    {
+      "mutator": "false",
+      "package": "org.jsoup.parser",
+      "class": "HtmlTreeBuilderState$20",
+      "method": "process",
+      "description": "(Lorg/jsoup/parser/Token;Lorg/jsoup/parser/HtmlTreeBuilder;)Z"
+    },
+    {
+      "mutator": "void",
+      "package": "org.jsoup.parser",
+      "class": "HtmlTreeBuilder",
+      "method": "insertOnStackAfter",
+      "description": "(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)V"
+    }
+  ],
+  "weak-oracle": [
+    {
+      "mutator": "null",
+      "package": "org.jsoup.parser",
+      "class": "Token$Doctype",
+      "method": "reset",
+      "description": "()Lorg/jsoup/parser/Token;"
+    },
+    {
+      "mutator": "false",
+      "package": "org.jsoup.nodes",
+      "class": "Node",
+      "method": "hasParent",
+      "description": "()Z"
+    },
+    {
+      "mutator": "false",
+      "package": "org.jsoup.helper",
+      "class": "HttpConnection$Base",
+      "method": "looksLikeUtf8",
+      "description": "([B)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "org.jsoup.parser",
+      "class": "HtmlTreeBuilder",
+      "method": "inScope",
+      "description": "([Ljava/lang/String;)Z"
+    },
+    {
+      "mutator": "\"A\"",
+      "package": "org.jsoup.nodes",
+      "class": "LeafNode",
+      "method": "baseUri",
+      "description": "()Ljava/lang/String;"
+    },
+    {
+      "mutator": "true",
+      "package": "org.jsoup.select",
+      "class": "StructuralEvaluator$Root",
+      "method": "matches",
+      "description": "(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z"
+    },
+    {
+      "mutator": "null",
+      "package": "org.jsoup.parser",
+      "class": "Token$Character",
+      "method": "reset",
+      "description": "()Lorg/jsoup/parser/Token;"
+    },
+    {
+      "mutator": "void",
+      "package": "org.jsoup.select",
+      "class": "QueryParser",
+      "method": "allElements",
+      "description": "()V"
+    },
+    {
+      "mutator": "\"\"",
+      "package": "org.jsoup.parser",
+      "class": "CharacterReader",
+      "method": "consumeToAnySorted",
+      "description": "([C)Ljava/lang/String;"
+    }
+  ]
+}

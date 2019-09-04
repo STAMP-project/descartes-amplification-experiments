@@ -1,0 +1,11 @@
+{
+  "mutator": "false",
+  "class": "BaseNCodec",
+  "package": "org.apache.commons.codec.binary",
+  "method": "hasData",
+  "description": "(Lorg/apache/commons/codec/binary/BaseNCodec$Context;)Z",
+  "tests": [
+    "org.apache.commons.codec.binary.Base32InputStreamTest",
+    "org.apache.commons.codec.binary.Base64InputStreamTest"
+  ]
+}

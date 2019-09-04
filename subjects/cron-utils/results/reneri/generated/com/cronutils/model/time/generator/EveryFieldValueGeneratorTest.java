@@ -1,0 +1,73 @@
+package com.cronutils.model.time.generator;
+
+
+/* Copyright 2015 jmrozanec
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+ */
+public class EveryFieldValueGeneratorTest {
+    private com.cronutils.model.field.constraint.FieldConstraints constraints;
+
+    private com.cronutils.model.time.generator.EveryFieldValueGenerator fieldValueGenerator;
+
+    private int time = 7;
+
+    @org.junit.Before
+    public void setUp() {
+        eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.field.constraint.FieldConstraints>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|setUp()|1", com.cronutils.model.field.constraint.FieldConstraints.class, (constraints = eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.field.constraint.FieldConstraintsBuilder>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|setUp()|0", com.cronutils.model.field.constraint.FieldConstraintsBuilder.class, com.cronutils.model.field.constraint.FieldConstraintsBuilder.instance()).createConstraintsInstance()));
+        eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.time.generator.EveryFieldValueGenerator>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|setUp()|8", com.cronutils.model.time.generator.EveryFieldValueGenerator.class, (fieldValueGenerator = new com.cronutils.model.time.generator.EveryFieldValueGenerator(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.field.CronField>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|setUp()|7", com.cronutils.model.field.CronField.class, new com.cronutils.model.field.CronField(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.field.CronFieldName>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|setUp()|2", com.cronutils.model.field.CronFieldName.class, com.cronutils.model.field.CronFieldName.HOUR), eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.field.expression.Every>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|setUp()|5", com.cronutils.model.field.expression.Every.class, new com.cronutils.model.field.expression.Every(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.field.value.IntegerFieldValue>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|setUp()|4", com.cronutils.model.field.value.IntegerFieldValue.class, new com.cronutils.model.field.value.IntegerFieldValue(eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|setUp()|3", time))))), eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.field.constraint.FieldConstraints>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|setUp()|6", com.cronutils.model.field.constraint.FieldConstraints.class, constraints))))));
+    }
+
+    @org.junit.Test
+    public void testGenerateNextValue() throws java.lang.Exception {
+        for (int j = 1; (eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGenerateNextValue()|0", j)) <= 10; j++) {
+            int value = ((eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGenerateNextValue()|1", time)) * (eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGenerateNextValue()|2", j))) - (1 + ((int) (2 * (eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGenerateNextValue()|3", java.lang.Math.random())))));
+            org.junit.Assert.assertEquals(((eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGenerateNextValue()|4", j)) * (eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGenerateNextValue()|5", time))), eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGenerateNextValue()|8", eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.time.generator.EveryFieldValueGenerator>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGenerateNextValue()|6", com.cronutils.model.time.generator.EveryFieldValueGenerator.class, fieldValueGenerator).generateNextValue(eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGenerateNextValue()|7", value))));
+        }
+    }
+
+    @org.junit.Test
+    public void testGeneratePreviousValue() throws java.lang.Exception {
+        for (int j = 0; (eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGeneratePreviousValue()|0", j)) < 10; j++) {
+            int value = (((eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGeneratePreviousValue()|1", time)) * (eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGeneratePreviousValue()|2", j))) + 1) + ((int) (2 * (eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGeneratePreviousValue()|3", java.lang.Math.random()))));
+            org.junit.Assert.assertEquals(((eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGeneratePreviousValue()|4", j)) * (eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGeneratePreviousValue()|5", time))), eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGeneratePreviousValue()|8", eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.time.generator.EveryFieldValueGenerator>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGeneratePreviousValue()|6", com.cronutils.model.time.generator.EveryFieldValueGenerator.class, fieldValueGenerator).generatePreviousValue(eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGeneratePreviousValue()|7", value))));
+        }
+    }
+
+    @org.junit.Test
+    public void testGenerateCandidatesNotIncludingIntervalExtremes() throws java.lang.Exception {
+        int candidatesQty = 7;
+        java.util.List<java.lang.Integer> candidates = eu.stamp_project.reneri.instrumentation.StateObserver.<java.util.List<java.lang.Integer>>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|3", java.util.List.class, eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.time.generator.EveryFieldValueGenerator>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|0", com.cronutils.model.time.generator.EveryFieldValueGenerator.class, fieldValueGenerator).generateCandidatesNotIncludingIntervalExtremes(0, ((eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|1", time)) * (eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|2", candidatesQty)))));
+        org.junit.Assert.assertEquals(((eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|4", candidatesQty)) - 1), eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|6", eu.stamp_project.reneri.instrumentation.StateObserver.<java.util.List<java.lang.Integer>>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testGenerateCandidatesNotIncludingIntervalExtremes()|5", java.util.List.class, candidates).size()));
+    }
+
+    @org.junit.Test
+    public void testIsMatch() throws java.lang.Exception {
+        org.junit.Assert.assertTrue(eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testIsMatch()|2", eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.time.generator.EveryFieldValueGenerator>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testIsMatch()|0", com.cronutils.model.time.generator.EveryFieldValueGenerator.class, fieldValueGenerator).isMatch(eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testIsMatch()|1", time))));
+        org.junit.Assert.assertFalse(eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testIsMatch()|5", eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.time.generator.EveryFieldValueGenerator>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testIsMatch()|3", com.cronutils.model.time.generator.EveryFieldValueGenerator.class, fieldValueGenerator).isMatch(((eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testIsMatch()|4", time)) + 1))));
+    }
+
+    @org.junit.Test
+    public void testMatchesFieldExpressionClass() throws java.lang.Exception {
+        org.junit.Assert.assertTrue(eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testMatchesFieldExpressionClass()|2", eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.time.generator.EveryFieldValueGenerator>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testMatchesFieldExpressionClass()|0", com.cronutils.model.time.generator.EveryFieldValueGenerator.class, fieldValueGenerator).matchesFieldExpressionClass(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.field.expression.Every>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testMatchesFieldExpressionClass()|1", com.cronutils.model.field.expression.Every.class, org.mockito.Mockito.mock(com.cronutils.model.field.expression.Every.class)))));
+        org.junit.Assert.assertFalse(eu.stamp_project.reneri.instrumentation.StateObserver.observe("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testMatchesFieldExpressionClass()|5", eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.time.generator.EveryFieldValueGenerator>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testMatchesFieldExpressionClass()|3", com.cronutils.model.time.generator.EveryFieldValueGenerator.class, fieldValueGenerator).matchesFieldExpressionClass(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.field.expression.FieldExpression>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testMatchesFieldExpressionClass()|4", com.cronutils.model.field.expression.FieldExpression.class, org.mockito.Mockito.mock(com.cronutils.model.field.expression.FieldExpression.class)))));
+    }
+
+    @org.junit.Test(expected = java.lang.IllegalArgumentException.class)
+    public void testConstructorNotMatchesEvery() throws java.lang.Exception {
+        try {
+            eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.time.generator.EveryFieldValueGenerator>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testConstructorNotMatchesEvery()|4", com.cronutils.model.time.generator.EveryFieldValueGenerator.class, new com.cronutils.model.time.generator.EveryFieldValueGenerator(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.field.CronField>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testConstructorNotMatchesEvery()|3", com.cronutils.model.field.CronField.class, new com.cronutils.model.field.CronField(eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.field.CronFieldName>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testConstructorNotMatchesEvery()|0", com.cronutils.model.field.CronFieldName.class, com.cronutils.model.field.CronFieldName.HOUR), eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.field.expression.FieldExpression>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testConstructorNotMatchesEvery()|1", com.cronutils.model.field.expression.FieldExpression.class, org.mockito.Mockito.mock(com.cronutils.model.field.expression.FieldExpression.class)), eu.stamp_project.reneri.instrumentation.StateObserver.<com.cronutils.model.field.constraint.FieldConstraints>observeState("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testConstructorNotMatchesEvery()|2", com.cronutils.model.field.constraint.FieldConstraints.class, constraints)))));
+        } catch (java.lang.IllegalArgumentException a1552674205440) {
+            eu.stamp_project.reneri.instrumentation.StateObserver.observeThrownException("com.cronutils.model.time.generator.EveryFieldValueGeneratorTest|testConstructorNotMatchesEvery()|!", a1552674205440);
+            throw a1552674205440;
+        }
+    }
+}
+

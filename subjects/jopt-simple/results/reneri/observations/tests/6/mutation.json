@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "InetAddressConverter",
+  "package": "joptsimple.util",
+  "method": "message",
+  "description": "(Ljava/lang/String;)Ljava/lang/String;",
+  "tests": [
+    "joptsimple.util.InetAddressConverterTest"
+  ]
+}

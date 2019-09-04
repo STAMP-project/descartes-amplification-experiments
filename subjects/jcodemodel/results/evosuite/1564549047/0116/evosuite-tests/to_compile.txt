@@ -1,0 +1,1 @@
+./com/helger/jcodemodel/JAnonymousClass_ESTest_scaffolding.java ./com/helger/jcodemodel/JAnonymousClass_ESTest.java

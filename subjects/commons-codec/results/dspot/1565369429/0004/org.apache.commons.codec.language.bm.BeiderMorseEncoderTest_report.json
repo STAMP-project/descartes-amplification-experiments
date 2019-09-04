@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 19,
+  "name": "org.apache.commons.codec.language.bm.BeiderMorseEncoderTest",
+  "nbOriginalTestCases": 18,
+  "testCases": [
+    {
+      "name": "testAsciiEncodeNotEmpty2Letters_mg28",
+      "nbAssertionAdded": 14,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "\"A\"",
+          "lineNumber": 96,
+          "locationMethod": "encode"
+        }
+      ]
+    }
+  ]
+}

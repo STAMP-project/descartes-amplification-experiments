@@ -1,0 +1,11 @@
+{
+  "mutator": "void",
+  "class": "JSwitch",
+  "package": "com.helger.jcodemodel",
+  "method": "state",
+  "description": "(Lcom/helger/jcodemodel/IJFormatter;)V",
+  "tests": [
+    "com.helger.jcodemodel.supplementary.issues.Issue41FuncTest",
+    "com.helger.jcodemodel.JSwitchTest"
+  ]
+}

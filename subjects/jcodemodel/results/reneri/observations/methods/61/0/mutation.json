@@ -1,0 +1,12 @@
+{
+  "mutator": "null",
+  "class": "JReferencedClass",
+  "package": "com.helger.jcodemodel",
+  "method": "_extends",
+  "description": "()Lcom/helger/jcodemodel/AbstractJClass;",
+  "tests": [
+    "com.helger.jcodemodel.supplementary.issues.Issue53FuncTest",
+    "com.helger.jcodemodel.AbstractJTypeTest",
+    "com.helger.jcodemodel.JInvocationTest"
+  ]
+}

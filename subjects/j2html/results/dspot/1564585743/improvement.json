@@ -1,0 +1,1 @@
+{"no-infection": [{"mutator": "true", "package": "j2html.tags", "method": "equals", "description": "(Ljava/lang/Object;)Z", "class": "Tag"}], "no-propagation": [], "weak-oracle": []}

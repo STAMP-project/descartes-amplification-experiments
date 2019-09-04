@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "VersionedSet",
+  "package": "example",
+  "method": "equals",
+  "description": "(Ljava/lang/Object;)Z",
+  "tests": [
+    "example.VersionedSetTest"
+  ]
+}

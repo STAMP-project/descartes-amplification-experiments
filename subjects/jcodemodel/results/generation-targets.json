@@ -1,0 +1,884 @@
+[
+    {
+        "class": "JCValueEnforcer",
+        "name": "isGE0",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(ILjava/util/function/Supplier;)I"
+    },
+    {
+        "class": "JAnnotationUse",
+        "name": "paramArray",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/String;[I)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+        "class": "JPackage",
+        "name": "annotate",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/AbstractJClass;)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+        "class": "JFormatter",
+        "name": "writeClassFull",
+        "package": "com.helger.jcodemodel.writer",
+        "description": "(Lcom/helger/jcodemodel/JDefinedClass;)V"
+    },
+    {
+        "class": "JFormatter",
+        "name": "writeClassFull",
+        "package": "com.helger.jcodemodel.writer",
+        "description": "(Lcom/helger/jcodemodel/JDefinedClass;)V"
+    },
+    {
+        "class": "JAnonymousClass",
+        "name": "isAnnotationTypeDeclaration",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JDirectClass",
+        "name": "isAnnotationTypeDeclaration",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JDefinedClass",
+        "name": "isAnnotationTypeDeclaration",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JAnnotationUse",
+        "name": "param",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/String;Ljava/lang/Enum;)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+        "class": "JDefinedClass",
+        "name": "hasHeaderComment",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JMods",
+        "name": "forField",
+        "package": "com.helger.jcodemodel",
+        "description": "(I)Lcom/helger/jcodemodel/JMods;"
+    },
+    {
+        "class": "JMods",
+        "name": "forMethod",
+        "package": "com.helger.jcodemodel",
+        "description": "(I)Lcom/helger/jcodemodel/JMods;"
+    },
+    {
+        "class": "JMods",
+        "name": "forVar",
+        "package": "com.helger.jcodemodel",
+        "description": "(I)Lcom/helger/jcodemodel/JMods;"
+    },
+    {
+        "class": "JMods",
+        "name": "forInterface",
+        "package": "com.helger.jcodemodel",
+        "description": "(I)Lcom/helger/jcodemodel/JMods;"
+    },
+    {
+        "class": "JMods",
+        "name": "forClass",
+        "package": "com.helger.jcodemodel",
+        "description": "(I)Lcom/helger/jcodemodel/JMods;"
+    },
+    {
+        "class": "JFormatter$ImportedClasses",
+        "name": "contains",
+        "package": "com.helger.jcodemodel.writer",
+        "description": "(Lcom/helger/jcodemodel/AbstractJClass;)Z"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "getHashCode",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(Ljava/lang/Object;[Ljava/lang/Object;)I"
+    },
+    {
+        "class": "JPackage",
+        "name": "annotate",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/Class;)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "getHashCode",
+        "package": "com.helger.jcodemodel.util",
+        "description": "()I"
+    },
+    {
+        "class": "ClassNameComparator",
+        "name": "compare",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/AbstractJClass;)I"
+    },
+    {
+        "class": "JCValueEnforcer",
+        "name": "isTrue",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(ZLjava/util/function/Supplier;)V"
+    },
+    {
+        "class": "JAnnotationUse",
+        "name": "param",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/String;I)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+        "class": "JAnnotationUse",
+        "name": "param",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/String;Ljava/lang/Class;)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+        "class": "JMethod",
+        "name": "hasVarArgs",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JCommentPart",
+        "name": "add",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "JBlock",
+        "name": "_break",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/JLabel;)Lcom/helger/jcodemodel/JBreak;"
+    },
+    {
+        "class": "JFormatter",
+        "name": "isPrinting",
+        "package": "com.helger.jcodemodel.writer",
+        "description": "()Z"
+    },
+    {
+        "class": "JConditional",
+        "name": "state",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+        "class": "JDocComment",
+        "name": "generate",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+        "class": "JCodeModel",
+        "name": "addDontImportClass",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/AbstractJClass;)Z"
+    },
+    {
+        "class": "JTypeWildcard",
+        "name": "generate",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+        "class": "JMethod",
+        "name": "annotate",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/AbstractJClass;)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+        "class": "AbstractCodeWriter$JavaUnicodeEscapeWriter",
+        "name": "requireEscaping",
+        "package": "com.helger.jcodemodel.writer",
+        "description": "(I)Z"
+    },
+    {
+        "class": "TypedAnnotationWriter",
+        "name": "invoke",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/Object;Ljava/lang/reflect/Method;[Ljava/lang/Object;)Ljava/lang/Object;"
+    },
+    {
+        "class": "JSwitch",
+        "name": "state",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+        "class": "JDirectClass",
+        "name": "outer",
+        "package": "com.helger.jcodemodel",
+        "description": "()Lcom/helger/jcodemodel/AbstractJClass;"
+    },
+    {
+        "class": "JAnonymousClass",
+        "name": "outer",
+        "package": "com.helger.jcodemodel",
+        "description": "()Lcom/helger/jcodemodel/AbstractJClass;"
+    },
+    {
+        "class": "JDefinedClass",
+        "name": "outer",
+        "package": "com.helger.jcodemodel",
+        "description": "()Lcom/helger/jcodemodel/AbstractJClass;"
+    },
+    {
+        "class": "JCHashCodeCalculator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(II)I"
+    },
+    {
+        "class": "JReferencedClass$1",
+        "name": "hasNext",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JCValueEnforcer",
+        "name": "isGE0",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(ILjava/lang/String;)I"
+    },
+    {
+        "class": "JAnnotationArrayMember",
+        "name": "param",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/String;)Lcom/helger/jcodemodel/JAnnotationArrayMember;"
+    },
+    {
+        "class": "JCValueEnforcer",
+        "name": "isFalse",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(ZLjava/lang/String;)V"
+    },
+    {
+        "class": "JVar",
+        "name": "isAnnotated",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JJavaName",
+        "name": "isJavaIdentifier",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/String;)Z"
+    },
+    {
+        "class": "JTypeWildcard",
+        "name": "fullName",
+        "package": "com.helger.jcodemodel",
+        "description": "()Ljava/lang/String;"
+    },
+    {
+        "class": "JBlock",
+        "name": "removeAll",
+        "package": "com.helger.jcodemodel",
+        "description": "()V"
+    },
+    {
+        "class": "JLambda",
+        "name": "simple",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJExpression;)Lcom/helger/jcodemodel/JLambda;"
+    },
+    {
+        "class": "JMethod",
+        "name": "typeParams",
+        "package": "com.helger.jcodemodel",
+        "description": "()[Lcom/helger/jcodemodel/JTypeVar;"
+    },
+    {
+        "class": "JDefinedClass$1",
+        "name": "typeParams",
+        "package": "com.helger.jcodemodel",
+        "description": "()[Lcom/helger/jcodemodel/JTypeVar;"
+    },
+    {
+        "class": "JTypeVarClass",
+        "name": "name",
+        "package": "com.helger.jcodemodel",
+        "description": "()Ljava/lang/String;"
+    },
+    {
+        "class": "JCodeModel",
+        "name": "getAllDontImportClasses",
+        "package": "com.helger.jcodemodel",
+        "description": "()Ljava/util/Set;"
+    },
+    {
+        "class": "JFormatter",
+        "name": "writeClassFull",
+        "package": "com.helger.jcodemodel.writer",
+        "description": "(Lcom/helger/jcodemodel/JDefinedClass;)V"
+    },
+    {
+        "class": "JFormatter",
+        "name": "addDontImportClasses",
+        "package": "com.helger.jcodemodel.writer",
+        "description": "(Ljava/lang/Iterable;)V"
+    },
+    {
+        "class": "JTypeVarClass",
+        "name": "fullName",
+        "package": "com.helger.jcodemodel",
+        "description": "()Ljava/lang/String;"
+    },
+    {
+        "class": "JMods",
+        "name": "isAbstract",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JFormatter$NameUsage",
+        "name": "isAmbiguousIn",
+        "package": "com.helger.jcodemodel.writer",
+        "description": "(Lcom/helger/jcodemodel/JDefinedClass;)Z"
+    },
+    {
+        "class": "JCommentPart",
+        "name": "append",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/Object;)Lcom/helger/jcodemodel/JCommentPart;"
+    },
+    {
+        "class": "JCommentPart",
+        "name": "add",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "JFormatter",
+        "name": "writeClassFull",
+        "package": "com.helger.jcodemodel.writer",
+        "description": "(Lcom/helger/jcodemodel/JDefinedClass;)V"
+    },
+    {
+        "class": "SingleStreamCodeWriter",
+        "name": "close",
+        "package": "com.helger.jcodemodel.writer",
+        "description": "()V"
+    },
+    {
+        "class": "JAnnotationArrayMember",
+        "name": "params",
+        "package": "com.helger.jcodemodel",
+        "description": "([I)Lcom/helger/jcodemodel/JAnnotationArrayMember;"
+    },
+    {
+        "class": "JBreak",
+        "name": "state",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+        "class": "JBlock",
+        "name": "_break",
+        "package": "com.helger.jcodemodel",
+        "description": "()Lcom/helger/jcodemodel/JBreak;"
+    },
+    {
+        "class": "JForEach",
+        "name": "state",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+        "class": "JNarrowedClass",
+        "name": "isError",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JCHashCodeCalculator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(ILjava/lang/Object;)I"
+    },
+    {
+        "class": "JReferencedClass",
+        "name": "outer",
+        "package": "com.helger.jcodemodel",
+        "description": "()Lcom/helger/jcodemodel/AbstractJClass;"
+    },
+    {
+        "class": "JMods",
+        "name": "isNative",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JFormatter$ImportedClasses",
+        "name": "clear",
+        "package": "com.helger.jcodemodel.writer",
+        "description": "()V"
+    },
+    {
+        "class": "JCValueEnforcer",
+        "name": "notNull",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;"
+    },
+    {
+        "class": "JBlock",
+        "name": "directStatement",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/String;)Lcom/helger/jcodemodel/IJStatement;"
+    },
+    {
+        "class": "JDefinedClass",
+        "name": "isAnonymous",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JDirectClass",
+        "name": "isAnonymous",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JAnonymousClass",
+        "name": "isAnonymous",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JOp",
+        "name": "hasTopOp",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJExpression;)Z"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(Ljava/lang/Iterable;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(S)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "([F)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "getHashCode",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(Ljava/lang/Object;[Ljava/lang/Object;)I"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(B)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "([B)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(Lorg/w3c/dom/Node;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "([Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(Z)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(C)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(J)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(D)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "([J)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "getHashCode",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(I[Ljava/lang/Object;)I"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "([Ljava/lang/Enum;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(Ljava/lang/StringBuilder;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "([I)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "([C)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(I)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(Ljava/util/Map;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(F)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "([S)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "([Z)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(Ljava/lang/StringBuffer;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(Ljava/lang/Enum;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "([D)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCValueEnforcer",
+        "name": "isFalse",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(ZLjava/util/function/Supplier;)V"
+    },
+    {
+        "class": "JTypeVarClass",
+        "name": "isReference",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JTypeWildcard",
+        "name": "isReference",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JDefinedClass",
+        "name": "isReference",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JNullType",
+        "name": "isReference",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JReferencedClass",
+        "name": "isReference",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JTypeVar",
+        "name": "isReference",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JPrimitiveType",
+        "name": "isReference",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JDirectClass",
+        "name": "isReference",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JArrayClass",
+        "name": "isReference",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JNarrowedClass",
+        "name": "isReference",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JStaticJavaFile$JStaticClass",
+        "name": "isReference",
+        "package": "com.helger.jcodemodel.fmt",
+        "description": "()Z"
+    },
+    {
+        "class": "JErrorClass",
+        "name": "isReference",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JAnonymousClass",
+        "name": "isReference",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JCodeModel",
+        "name": "addDontImportClass",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/Class;)Z"
+    },
+    {
+        "class": "JEnumConstant",
+        "name": "equals",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "JCommentPart",
+        "name": "format",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJFormatter;Ljava/lang/String;)V"
+    },
+    {
+        "class": "JAnnotationUse",
+        "name": "param",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/String;Lcom/helger/jcodemodel/JEnumConstant;)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+        "class": "JPackage",
+        "name": "parent",
+        "package": "com.helger.jcodemodel",
+        "description": "()Lcom/helger/jcodemodel/JPackage;"
+    },
+    {
+        "class": "JDirectClass",
+        "name": "equals",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "JFormatter$ImportedClasses",
+        "name": "add",
+        "package": "com.helger.jcodemodel.writer",
+        "description": "(Lcom/helger/jcodemodel/AbstractJClass;)Z"
+    },
+    {
+        "class": "JForLoop",
+        "name": "state",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+        "class": "JFormatter$ImportedClasses",
+        "name": "addDontImportClass",
+        "package": "com.helger.jcodemodel.writer",
+        "description": "(Lcom/helger/jcodemodel/AbstractJClass;)V"
+    },
+    {
+        "class": "JDirectStatement",
+        "name": "state",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+        "class": "JOpUnaryTight",
+        "name": "generate",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+        "class": "JCHashCodeGenerator",
+        "name": "append",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+        "class": "JCValueEnforcer",
+        "name": "isTrue",
+        "package": "com.helger.jcodemodel.util",
+        "description": "(ZLjava/lang/String;)V"
+    },
+    {
+        "class": "JAnnotationUse",
+        "name": "param",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/String;)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+        "class": "JFormatter$NameUsage",
+        "name": "isTypeName",
+        "package": "com.helger.jcodemodel.writer",
+        "description": "()Z"
+    },
+    {
+        "class": "JMethod",
+        "name": "annotate",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/Class;)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+        "class": "JReferencedClass",
+        "name": "_extends",
+        "package": "com.helger.jcodemodel",
+        "description": "()Lcom/helger/jcodemodel/AbstractJClass;"
+    },
+    {
+        "class": "JDefinedClass",
+        "name": "_extends",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/AbstractJClass;)Lcom/helger/jcodemodel/JDefinedClass;"
+    },
+    {
+        "class": "JInvocation",
+        "name": "generate",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+        "class": "JDefinedClass",
+        "name": "isInterface",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JDirectClass",
+        "name": "isInterface",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JAnonymousClass",
+        "name": "isInterface",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JBlock",
+        "name": "_if",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJExpression;)Lcom/helger/jcodemodel/JConditional;"
+    },
+    {
+        "class": "JBlock",
+        "name": "_return",
+        "package": "com.helger.jcodemodel",
+        "description": "()Lcom/helger/jcodemodel/JReturn;"
+    },
+    {
+        "class": "JCodeModel",
+        "name": "checkIfFileSystemIsCaseSensitive",
+        "package": "com.helger.jcodemodel",
+        "description": "()Z"
+    },
+    {
+        "class": "JForLoop",
+        "name": "update",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJExpression;)V"
+    },
+    {
+        "class": "JCase",
+        "name": "state",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+        "class": "JMethod",
+        "name": "hasSignature",
+        "package": "com.helger.jcodemodel",
+        "description": "([Lcom/helger/jcodemodel/AbstractJType;)Z"
+    },
+    {
+        "class": "JCommentPart",
+        "name": "format",
+        "package": "com.helger.jcodemodel",
+        "description": "(Lcom/helger/jcodemodel/IJFormatter;Ljava/lang/String;)V"
+    },
+    {
+        "class": "JAtomInt",
+        "name": "plus",
+        "package": "com.helger.jcodemodel",
+        "description": "(Ljava/lang/String;)Lcom/helger/jcodemodel/IJExpression;"
+    }
+]

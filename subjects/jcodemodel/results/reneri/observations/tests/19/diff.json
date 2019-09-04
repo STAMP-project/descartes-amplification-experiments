@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.AnnotationUseFuncTest|testMain()|26",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ]
+  }
+]

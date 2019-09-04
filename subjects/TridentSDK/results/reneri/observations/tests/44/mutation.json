@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "LogHandler",
+  "package": "net.tridentsdk.logger",
+  "method": "removeHandler",
+  "description": "(Lnet/tridentsdk/logger/Logger;Lnet/tridentsdk/logger/LogHandler;)Z",
+  "tests": [
+    "net.tridentsdk.logger.LogHandlerTest"
+  ]
+}

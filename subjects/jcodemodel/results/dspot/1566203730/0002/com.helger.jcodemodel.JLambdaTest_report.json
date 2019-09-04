@@ -1,0 +1,182 @@
+{
+  "nbMutantKilledOriginally": 30,
+  "name": "com.helger.jcodemodel.JLambdaTest",
+  "nbOriginalTestCases": 7,
+  "testCases": [
+    {
+      "name": "testExpressionBasic2_literalMutationString11_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 134,
+          "locationMethod": "isJavaIdentifier"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 110,
+          "locationMethod": "isTrue"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_add5_rv313_rv4702",
+      "nbAssertionAdded": 12,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 348,
+          "locationMethod": "div"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 326,
+          "locationMethod": "div"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 207,
+          "locationMethod": "div"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_add5_rv316_rv8833",
+      "nbAssertionAdded": 12,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 691,
+          "locationMethod": "eq0"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_add5_rv354_rv8590",
+      "nbAssertionAdded": 12,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 168,
+          "locationMethod": "postdecr"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 130,
+          "locationMethod": "postdecr"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_add5_rv321_rv2600",
+      "nbAssertionAdded": 12,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 4,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 647,
+          "locationMethod": "gte"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 302,
+          "locationMethod": "gte"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 656,
+          "locationMethod": "gte0"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 636,
+          "locationMethod": "gte"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_add3",
+      "nbAssertionAdded": 10,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 186,
+          "locationMethod": "removeAll"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_add5_rv345_rv1780",
+      "nbAssertionAdded": 12,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 315,
+          "locationMethod": "mul"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_add5_rv349_rv7133",
+      "nbAssertionAdded": 12,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 161,
+          "locationMethod": "plus"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_add5_rv340_rv8190",
+      "nbAssertionAdded": 12,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 392,
+          "locationMethod": "mod"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 381,
+          "locationMethod": "mod"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 213,
+          "locationMethod": "mod"
+        }
+      ]
+    },
+    {
+      "name": "testExpressionBasic2_mg18",
+      "nbAssertionAdded": 14,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 109,
+          "locationMethod": "params"
+        }
+      ]
+    }
+  ]
+}

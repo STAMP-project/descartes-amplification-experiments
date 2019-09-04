@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "com.cronutils.builder.CronBuilder|withSecond|(Lcom/cronutils/model/field/expression/FieldExpression;)Lcom/cronutils/builder/CronBuilder;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.builder.CronBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.builder.CronBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.builder.CronBuilder|withSecond|(Lcom/cronutils/model/field/expression/FieldExpression;)Lcom/cronutils/builder/CronBuilder;|0|#that|fields|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ]
+  }
+]

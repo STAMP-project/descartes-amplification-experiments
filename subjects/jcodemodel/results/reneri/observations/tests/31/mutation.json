@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "JAnnotationArrayMember",
+  "package": "com.helger.jcodemodel",
+  "method": "param",
+  "description": "(Ljava/lang/String;)Lcom/helger/jcodemodel/JAnnotationArrayMember;",
+  "tests": [
+    "com.helger.jcodemodel.AnnotationUseFuncTest"
+  ]
+}

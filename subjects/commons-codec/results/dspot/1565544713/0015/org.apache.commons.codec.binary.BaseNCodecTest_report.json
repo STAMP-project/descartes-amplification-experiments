@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 6,
+  "name": "org.apache.commons.codec.binary.BaseNCodecTest",
+  "nbOriginalTestCases": 7,
+  "testCases": [
+    {
+      "name": "testIsInAlphabetString_literalMutationString9",
+      "nbAssertionAdded": 6,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 505,
+          "locationMethod": "isInAlphabet"
+        }
+      ]
+    }
+  ]
+}

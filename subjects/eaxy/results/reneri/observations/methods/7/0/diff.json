@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "org.eaxy.XmlIterator|currentColumnNumber|()I|0|#result",
+    "expected": [
+      {
+        "literalValue": "19",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  }
+]

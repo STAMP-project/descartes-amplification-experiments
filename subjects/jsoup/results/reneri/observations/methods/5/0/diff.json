@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilder|aboveOnStack|(Lorg/jsoup/nodes/Element;)Lorg/jsoup/nodes/Element;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Element"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Element"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilder|aboveOnStack|(Lorg/jsoup/nodes/Element;)Lorg/jsoup/nodes/Element;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Element"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Element"
+      }
+    ]
+  }
+]

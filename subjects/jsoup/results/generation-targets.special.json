@@ -1,0 +1,8 @@
+[
+    {
+        "class": "HttpConnection$Request",
+        "name": "addHeader",
+        "package": "org.jsoup.helper",
+        "description": "(Ljava/lang/String;Ljava/lang/String;)Lorg/jsoup/helper/HttpConnection$Request;"
+    }
+]

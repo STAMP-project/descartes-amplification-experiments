@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 34,
+  "name": "j2html.tags.InlineStaticResourceTest",
+  "nbOriginalTestCases": 2,
+  "testCases": [
+    {
+      "name": "testAllTags_add7_mg23828",
+      "nbAssertionAdded": 144,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 114,
+          "locationMethod": "condWith"
+        }
+      ]
+    }
+  ]
+}

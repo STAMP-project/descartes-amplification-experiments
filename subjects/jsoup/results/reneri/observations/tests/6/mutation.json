@@ -1,0 +1,12 @@
+{
+  "mutator": "true",
+  "class": "HtmlTreeBuilder",
+  "package": "org.jsoup.parser",
+  "method": "inSelectScope",
+  "description": "(Ljava/lang/String;)Z",
+  "tests": [
+    "org.jsoup.parser.HtmlParserTest",
+    "org.jsoup.integration.ParseTest",
+    "org.jsoup.nodes.FormElementTest"
+  ]
+}

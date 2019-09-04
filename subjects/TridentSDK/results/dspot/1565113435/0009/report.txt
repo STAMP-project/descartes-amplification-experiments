@@ -1,0 +1,4 @@
+Test class that has been amplified: net.tridentsdk.world.IntPairTest
+The original test suite kills 145 mutants
+The amplification results with 1 new tests
+it kills 1 more mutants

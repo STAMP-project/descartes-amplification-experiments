@@ -1,0 +1,1 @@
+./com/helger/jcodemodel/JTypeVarClass_ESTest_scaffolding.java ./com/helger/jcodemodel/JTypeVarClass_ESTest.java

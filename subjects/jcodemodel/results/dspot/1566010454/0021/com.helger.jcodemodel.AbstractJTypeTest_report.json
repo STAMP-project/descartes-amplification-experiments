@@ -1,0 +1,282 @@
+{
+  "nbMutantKilledOriginally": 18,
+  "name": "com.helger.jcodemodel.AbstractJTypeTest",
+  "nbOriginalTestCases": 2,
+  "testCases": [
+    {
+      "name": "testIsAssignableFromSmoke",
+      "nbAssertionAdded": 617,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 6,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 170,
+          "locationMethod": "isAbstract"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 111,
+          "locationMethod": "fullName"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 1059,
+          "locationMethod": "getAllDontImportClasses"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 338,
+          "locationMethod": "getTypeParameters"
+        },
+        {
+          "ID": "\"A\"",
+          "lineNumber": 111,
+          "locationMethod": "fullName"
+        },
+        {
+          "ID": "\"\"",
+          "lineNumber": 111,
+          "locationMethod": "fullName"
+        }
+      ]
+    },
+    {
+      "name": "testIsAssignableFromSmoke_mg107",
+      "nbAssertionAdded": 1266,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 161,
+          "locationMethod": "isReference"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 178,
+          "locationMethod": "getPrimitiveType"
+        }
+      ]
+    },
+    {
+      "name": "testIsAssignableFromSmoke_mg84_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 110,
+          "locationMethod": "isTrue"
+        }
+      ]
+    },
+    {
+      "name": "testIsAssignableFromSmoke_mg119",
+      "nbAssertionAdded": 1278,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 270,
+          "locationMethod": "narrow"
+        }
+      ]
+    },
+    {
+      "name": "testIsAssignableFromSmoke_mg61",
+      "nbAssertionAdded": 1278,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 400,
+          "locationMethod": "errorClass"
+        }
+      ]
+    },
+    {
+      "name": "testIsAssignableFromSmoke_mg62",
+      "nbAssertionAdded": 1278,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 435,
+          "locationMethod": "errorClass"
+        }
+      ]
+    },
+    {
+      "name": "testIsAssignableFromSmoke_mg52",
+      "nbAssertionAdded": 1258,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 464,
+          "locationMethod": "_getClass"
+        }
+      ]
+    },
+    {
+      "name": "testIsAssignableFromSmoke_mg111",
+      "nbAssertionAdded": 1278,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "\"\"",
+          "lineNumber": 85,
+          "locationMethod": "fullName"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 85,
+          "locationMethod": "fullName"
+        },
+        {
+          "ID": "\"A\"",
+          "lineNumber": 85,
+          "locationMethod": "fullName"
+        }
+      ]
+    },
+    {
+      "name": "testIsAssignableFromSmoke_mg79",
+      "nbAssertionAdded": 1278,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 170,
+          "locationMethod": "isAbstract"
+        }
+      ]
+    },
+    {
+      "name": "testIsAssignableFromSmoke_mg58",
+      "nbAssertionAdded": 1258,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 447,
+          "locationMethod": "buildsErrorTypeRefs"
+        }
+      ]
+    },
+    {
+      "name": "testIsAssignableFromSmoke_mg59",
+      "nbAssertionAdded": 1258,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "1",
+          "lineNumber": 665,
+          "locationMethod": "countArtifacts"
+        }
+      ]
+    },
+    {
+      "name": "testIsAssignableFromSmoke_mg97",
+      "nbAssertionAdded": 1278,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 301,
+          "locationMethod": "narrow"
+        }
+      ]
+    },
+    {
+      "name": "testIsAssignableFromSmoke_mg86",
+      "nbAssertionAdded": 1272,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 172,
+          "locationMethod": "unboxify"
+        }
+      ]
+    },
+    {
+      "name": "testIsAssignableFromSmoke_mg65",
+      "nbAssertionAdded": 1288,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 9,
+      "mutantsKilled": [
+        {
+          "ID": "1",
+          "lineNumber": 532,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 198,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 604,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 155,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 155,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 604,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 281,
+          "locationMethod": "append"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 532,
+          "locationMethod": "getHashCode"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 198,
+          "locationMethod": "append"
+        }
+      ]
+    },
+    {
+      "name": "testIsAssignableFromSmoke_mg66",
+      "nbAssertionAdded": 1280,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 166,
+          "locationMethod": "getPackage"
+        }
+      ]
+    }
+  ]
+}

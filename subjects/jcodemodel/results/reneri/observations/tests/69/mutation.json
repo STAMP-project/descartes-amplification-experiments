@@ -1,0 +1,13 @@
+{
+  "mutator": "true",
+  "class": "JDirectClass",
+  "package": "com.helger.jcodemodel",
+  "method": "equals",
+  "description": "(Ljava/lang/Object;)Z",
+  "tests": [
+    "com.helger.jcodemodel.supplementary.issues.Issue31FuncTest",
+    "com.helger.jcodemodel.JDirectClassTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue58FuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue30FuncTest"
+  ]
+}

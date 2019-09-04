@@ -1,0 +1,284 @@
+[
+  {
+    "pointcut": "com.squareup.javapoet.TypeNameTest|innerGenericInGenericType()|9|slot",
+    "expected": [
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.TypeNameTest|innerClassInGenericType()|3|slot",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.TypeNameTest|innerStaticInGenericType()|0|slot",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.TypeNameTest|innerClassInGenericType()|9|slot",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.TypeNameTest|innerStaticInGenericType()|1|slot",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.TypeNameTest|innerGenericInGenericType()|1|slot",
+    "expected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.TypeNameTest|innerGenericInGenericType()|6|slot",
+    "expected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.TypeNameTest|innerGenericInGenericType()|0|slot",
+    "expected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.TypeNameTest|innerClassInGenericType()|1|slot",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.TypeNameTest|innerClassInGenericType()|6|slot",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.TypeNameTest|innerStaticInGenericType()|3|slot",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.TypeNameTest|genericType()|11",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.TypeName"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.TypeName"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.TypeNameTest|innerClassInGenericType()|0|slot",
+    "expected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.TypeNameTest|innerGenericInGenericType()|3|slot",
+    "expected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ]
+  }
+]

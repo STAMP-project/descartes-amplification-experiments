@@ -1,0 +1,10 @@
+{
+  "mutator": "void",
+  "class": "JForLoop",
+  "package": "com.helger.jcodemodel",
+  "method": "update",
+  "description": "(Lcom/helger/jcodemodel/IJExpression;)V",
+  "tests": [
+    "com.helger.jcodemodel.VarArgsFuncTest"
+  ]
+}

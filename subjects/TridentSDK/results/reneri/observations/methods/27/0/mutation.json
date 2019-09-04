@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "WorldCreateSpec",
+  "package": "net.tridentsdk.world.opt",
+  "method": "isAllowFeatures",
+  "description": "()Z",
+  "tests": [
+    "net.tridentsdk.world.opt.WorldCreateSpecTest"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "JLambda",
+  "package": "com.helger.jcodemodel",
+  "method": "simple",
+  "description": "(Lcom/helger/jcodemodel/IJExpression;)Lcom/helger/jcodemodel/JLambda;",
+  "tests": [
+    "com.helger.jcodemodel.supplementary.issues.Issue53FuncTest"
+  ]
+}

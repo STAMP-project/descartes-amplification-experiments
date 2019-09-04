@@ -1,0 +1,78 @@
+[
+    {
+        "method": {
+            "class": "Part",
+            "name": "simplifyParameters",
+            "package": "j2html.utils",
+            "description": "()V"
+        },
+        "mutators": [
+            "void"
+        ],
+        "entryPoints": [
+            {
+                "class": "Part",
+                "name": "<init>",
+                "package": "j2html.utils",
+                "description": "(Ljava/lang/String;Ljava/lang/String;)V"
+            }
+        ]
+    },
+    {
+        "method": {
+            "class": "Part",
+            "name": "simplifyFontWeights",
+            "package": "j2html.utils",
+            "description": "()V"
+        },
+        "mutators": [
+            "void"
+        ],
+        "entryPoints": [
+            {
+                "class": "Part",
+                "name": "<init>",
+                "package": "j2html.utils",
+                "description": "(Ljava/lang/String;Ljava/lang/String;)V"
+            }
+        ]
+    },
+    {
+        "method": {
+            "class": "Part",
+            "name": "simplifyHexColours",
+            "package": "j2html.utils",
+            "description": "()V"
+        },
+        "mutators": [
+            "void"
+        ],
+        "entryPoints": [
+            {
+                "class": "Part",
+                "name": "<init>",
+                "package": "j2html.utils",
+                "description": "(Ljava/lang/String;Ljava/lang/String;)V"
+            }
+        ]
+    },
+    {
+        "method": {
+            "class": "Part",
+            "name": "simplifyQuotesAndCaps",
+            "package": "j2html.utils",
+            "description": "()V"
+        },
+        "mutators": [
+            "void"
+        ],
+        "entryPoints": [
+            {
+                "class": "Part",
+                "name": "<init>",
+                "package": "j2html.utils",
+                "description": "(Ljava/lang/String;Ljava/lang/String;)V"
+            }
+        ]
+    }
+]

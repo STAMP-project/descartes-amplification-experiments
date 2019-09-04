@@ -1,0 +1,35 @@
+{
+  "no-infection": [
+    {
+      "mutator": "true",
+      "package": "io.gsonfire.util",
+      "class": "IterableMapper",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "io.gsonfire.util",
+      "class": "IterableMapper",
+      "method": "areObjectEquals",
+      "description": "(Ljava/lang/Object;Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "io.gsonfire.util",
+      "class": "SimpleIterable",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    }
+  ],
+  "no-propagation": [],
+  "weak-oracle": [
+    {
+      "mutator": "null",
+      "package": "io.gsonfire.util.reflection",
+      "class": "AnnotationInspector",
+      "method": "getFromCache",
+      "description": "(Ljava/lang/Class;Ljava/lang/Class;)Ljava/util/Collection;"
+    }
+  ]
+}

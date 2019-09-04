@@ -1,0 +1,30 @@
+{
+  "mutator": "null",
+  "class": "Token$Character",
+  "package": "org.jsoup.parser",
+  "method": "reset",
+  "description": "()Lorg/jsoup/parser/Token;",
+  "tests": [
+    "org.jsoup.nodes.DocumentTest",
+    "org.jsoup.helper.W3CDomTest",
+    "org.jsoup.safety.CleanerTest",
+    "org.jsoup.nodes.ElementTest",
+    "org.jsoup.nodes.NodeTest",
+    "org.jsoup.parser.TokeniserTest",
+    "org.jsoup.helper.DataUtilTest",
+    "org.jsoup.integration.ParseTest",
+    "org.jsoup.internal.StringUtilTest",
+    "org.jsoup.nodes.FormElementTest",
+    "org.jsoup.select.CssTest",
+    "org.jsoup.nodes.TextNodeTest",
+    "org.jsoup.parser.XmlTreeBuilderTest",
+    "org.jsoup.select.ElementsTest",
+    "org.jsoup.parser.TokeniserStateTest",
+    "org.jsoup.parser.AttributeParseTest",
+    "org.jsoup.parser.HtmlParserTest",
+    "org.jsoup.nodes.EntitiesTest",
+    "org.jsoup.integration.ConnectTest",
+    "org.jsoup.select.SelectorTest",
+    "org.jsoup.select.TraversorTest"
+  ]
+}

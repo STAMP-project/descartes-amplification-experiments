@@ -1,0 +1,33 @@
+{
+  "nbMutantKilledOriginally": 1,
+  "name": "org.owasp.html.HtmlPolicyBuilderFuzzerTest",
+  "nbOriginalTestCases": 1,
+  "testCases": [
+    {
+      "name": "testFuzzedOutput_add19_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "void",
+          "lineNumber": 83,
+          "locationMethod": "closeDocument"
+        }
+      ]
+    },
+    {
+      "name": "testFuzzedOutput_add11_failAssert0null649_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 45,
+          "locationMethod": "isAutoCloseable"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,992 @@
+[
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|35|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|21|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|50|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|56|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|24|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|53|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|32|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|14|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|59|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|42|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|60|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|17|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|38|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|63|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|57|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|40|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|16|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|45|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|7|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|11|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|39|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|46|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|27|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|10|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|52|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|64|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|28|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|58|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|22|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|34|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|6|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|8|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|12|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|44|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|5|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|47|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|15|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|62|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|41|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|65|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|23|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|33|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|30|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|26|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|51|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|2|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|29|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|31|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|25|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|54|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|19|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|20|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|36|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|4|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|48|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|18|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|61|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|55|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|37|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|3|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|49|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|43|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|13|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder|withIntMapping|(II)Lcom/cronutils/model/field/definition/FieldSpecialCharsDefinitionBuilder;|9|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.model.field.definition.FieldSpecialCharsDefinitionBuilder"
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "mutator": "void",
+  "class": "Preconditions",
+  "package": "com.cronutils.utils",
+  "method": "checkState",
+  "description": "(ZLjava/lang/String;[Ljava/lang/Object;)V",
+  "tests": [
+    "com.cronutils.parser.CronParserQuartzIntegrationTest"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "mutator": "void",
+  "class": "SingleStreamCodeWriter",
+  "package": "com.helger.jcodemodel.writer",
+  "method": "close",
+  "description": "()V",
+  "tests": [
+    "com.helger.jcodemodel.InnerClassFuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue61FuncTest"
+  ]
+}

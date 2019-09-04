@@ -1,0 +1,28 @@
+{
+  "mutator": "\"\"",
+  "class": "CharacterReader",
+  "package": "org.jsoup.parser",
+  "method": "consumeToAnySorted",
+  "description": "([C)Ljava/lang/String;",
+  "tests": [
+    "org.jsoup.nodes.DocumentTest",
+    "org.jsoup.helper.W3CDomTest",
+    "org.jsoup.safety.CleanerTest",
+    "org.jsoup.nodes.ElementTest",
+    "org.jsoup.nodes.NodeTest",
+    "org.jsoup.parser.TokeniserTest",
+    "org.jsoup.helper.DataUtilTest",
+    "org.jsoup.parser.TokenQueueTest",
+    "org.jsoup.integration.ParseTest",
+    "org.jsoup.nodes.FormElementTest",
+    "org.jsoup.select.CssTest",
+    "org.jsoup.parser.XmlTreeBuilderTest",
+    "org.jsoup.select.ElementsTest",
+    "org.jsoup.parser.TokeniserStateTest",
+    "org.jsoup.parser.AttributeParseTest",
+    "org.jsoup.parser.HtmlParserTest",
+    "org.jsoup.nodes.EntitiesTest",
+    "org.jsoup.integration.ConnectTest",
+    "org.jsoup.select.SelectorTest"
+  ]
+}

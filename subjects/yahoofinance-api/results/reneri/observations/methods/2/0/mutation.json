@@ -1,0 +1,13 @@
+{
+  "mutator": "\"\"",
+  "class": "Utils",
+  "package": "yahoofinance",
+  "method": "unescape",
+  "description": "(Ljava/lang/String;)Ljava/lang/String;",
+  "tests": [
+    "yahoofinance.FxQuoteRequestTest",
+    "yahoofinance.SimpleQuoteRequestTest",
+    "yahoofinance.HistoricalQuoteRequestTest",
+    "yahoofinance.QuoteRequestFlowTest"
+  ]
+}

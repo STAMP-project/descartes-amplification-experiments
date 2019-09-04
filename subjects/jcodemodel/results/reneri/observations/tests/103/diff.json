@@ -1,0 +1,92 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.supplementary.issues.Issue53FuncTest|testIssue()|21|m_aExpr",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.IJExpression"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.IJExpression"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.supplementary.issues.Issue53FuncTest|testIssue()|56|m_aInitExpr",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.IJExpression"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.IJExpression"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.supplementary.issues.Issue53FuncTest|testIssue()|75|m_aInitExpr",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.IJExpression"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.IJExpression"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.supplementary.issues.Issue53FuncTest|testIssue()|20",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JLambda"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JLambda"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.supplementary.issues.Issue53FuncTest|testIssue()|55",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JLambda"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JLambda"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.supplementary.issues.Issue53FuncTest|testIssue()|17",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JLambda"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JLambda"
+      }
+    ]
+  }
+]

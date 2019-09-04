@@ -1,0 +1,1 @@
+{"methods":[],"analysis":{"time":1698,"mutators":["void","null","empty","true","false","0","1","(short)0","(short)1","(byte)0","(byte)1","0L","1L","0.0","1.0","0.0f","1.0f","'\\40'","'A'","\"\"","\"A\""]}}

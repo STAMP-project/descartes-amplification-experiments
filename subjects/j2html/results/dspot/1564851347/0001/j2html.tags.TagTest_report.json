@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 36,
+  "name": "j2html.tags.TagTest",
+  "nbOriginalTestCases": 11,
+  "testCases": [
+    {
+      "name": "testEquals_mg93",
+      "nbAssertionAdded": 178,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 141,
+          "locationMethod": "equals"
+        }
+      ]
+    }
+  ]
+}

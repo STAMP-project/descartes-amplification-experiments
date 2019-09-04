@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "VersionedSet",
+  "package": "example",
+  "method": "isEmpty",
+  "description": "()Z",
+  "tests": [
+    "example.VersionedSetTest"
+  ]
+}

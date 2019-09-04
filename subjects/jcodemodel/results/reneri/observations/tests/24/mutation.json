@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "IJExpression",
+  "package": "com.helger.jcodemodel",
+  "method": "plus",
+  "description": "(Ljava/lang/String;)Lcom/helger/jcodemodel/IJExpression;",
+  "tests": [
+    "com.helger.jcodemodel.JavadocFuncTest"
+  ]
+}

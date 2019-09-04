@@ -1,0 +1,11 @@
+{
+  "mutator": "0",
+  "class": "HtmlElementTables",
+  "package": "org.owasp.html",
+  "method": "nElementTypes",
+  "description": "()I",
+  "tests": [
+    "org.owasp.html.HtmlElementTablesTest",
+    "org.owasp.html.AntiSamyTest"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "TriggerPayload$Builder",
+  "package": "cn.jpush.api.schedule.model",
+  "method": "isTimeUnitOk",
+  "description": "(Lcn/jiguang/common/TimeUnit;)Z",
+  "tests": [
+    "cn.jpush.api.schedule.model.TriggerPayloadTest"
+  ]
+}

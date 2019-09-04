@@ -1,0 +1,122 @@
+[
+  {
+    "pointcut": "com.squareup.javapoet.ArrayTypeName|get|(Ljava/lang/reflect/GenericArrayType;Ljava/util/Map;)Lcom/squareup/javapoet/ArrayTypeName;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.squareup.javapoet.ArrayTypeName"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.squareup.javapoet.ArrayTypeName"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.ArrayTypeName|get|(Ljava/lang/reflect/GenericArrayType;Ljava/util/Map;)Lcom/squareup/javapoet/ArrayTypeName;|0|#1|tail",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.LinkedHashMap$Entry"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.LinkedHashMap$Entry"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.ArrayTypeName|get|(Ljava/lang/reflect/GenericArrayType;Ljava/util/Map;)Lcom/squareup/javapoet/ArrayTypeName;|0|#1|modCount",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.ArrayTypeName|get|(Ljava/lang/reflect/GenericArrayType;Ljava/util/Map;)Lcom/squareup/javapoet/ArrayTypeName;|0|#1|size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.ArrayTypeName|get|(Ljava/lang/reflect/GenericArrayType;Ljava/util/Map;)Lcom/squareup/javapoet/ArrayTypeName;|0|#1|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.ArrayTypeName|get|(Ljava/lang/reflect/GenericArrayType;Ljava/util/Map;)Lcom/squareup/javapoet/ArrayTypeName;|0|#1|threshold",
+    "expected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.ArrayTypeName|get|(Ljava/lang/reflect/GenericArrayType;Ljava/util/Map;)Lcom/squareup/javapoet/ArrayTypeName;|0|#1|table",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.HashMap$Node[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.HashMap$Node[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.squareup.javapoet.ArrayTypeName|get|(Ljava/lang/reflect/GenericArrayType;Ljava/util/Map;)Lcom/squareup/javapoet/ArrayTypeName;|0|#1|head",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.LinkedHashMap$Entry"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.LinkedHashMap$Entry"
+      }
+    ]
+  }
+]

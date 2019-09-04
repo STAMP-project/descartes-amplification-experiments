@@ -1,0 +1,12 @@
+{
+  "mutator": "true",
+  "class": "MethodSpec",
+  "package": "com.squareup.javapoet",
+  "method": "lastParameterIsArray",
+  "description": "(Ljava/util/List;)Z",
+  "tests": [
+    "com.squareup.javapoet.JavaFileTest",
+    "com.squareup.javapoet.TypeSpecTest",
+    "com.squareup.javapoet.AnnotatedTypeNameTest"
+  ]
+}

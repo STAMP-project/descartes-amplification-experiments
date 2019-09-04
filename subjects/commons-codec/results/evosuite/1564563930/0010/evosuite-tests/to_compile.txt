@@ -1,0 +1,1 @@
+./org/apache/commons/codec/language/bm/BeiderMorseEncoder_ESTest_scaffolding.java ./org/apache/commons/codec/language/bm/BeiderMorseEncoder_ESTest.java

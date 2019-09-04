@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "DigestUtils",
+  "package": "org.apache.commons.codec.digest",
+  "method": "getDigest",
+  "description": "(Ljava/lang/String;Ljava/security/MessageDigest;)Ljava/security/MessageDigest;",
+  "tests": [
+    "org.apache.commons.codec.digest.MessageDigestAlgorithmsTest"
+  ]
+}

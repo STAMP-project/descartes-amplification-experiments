@@ -1,0 +1,12 @@
+{
+  "mutator": "null",
+  "class": "Utils",
+  "package": "yahoofinance",
+  "method": "parseDateTime",
+  "description": "(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;",
+  "tests": [
+    "yahoofinance.SimpleQuoteRequestTest",
+    "yahoofinance.HistoricalQuoteRequestTest",
+    "yahoofinance.QuoteRequestFlowTest"
+  ]
+}

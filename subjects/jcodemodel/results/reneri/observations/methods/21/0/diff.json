@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.IJExpression|plus|(Ljava/lang/String;)Lcom/helger/jcodemodel/IJExpression;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.IJExpression"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.IJExpression"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+    { "method": "cn/jpush/api/push/model/Options/sendno()Lcn/jpush/api/push/model/Options;",
+        "tests": [
+            {"test": "cn/jpush/api/schedule/model/SchedulePayloadTest/testToJson()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/model/PushPayloadTest/testGlobalExceed()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/model/PushPayloadTest/testIosExceed()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/model/PushPayloadTest/testGlobalExeed2()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/model/AudienceTest/sendByAliasMore()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/model/AudienceTest/sendByTag()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/model/AudienceTest/sendByAlias()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/model/AudienceTest/sendByTagAlias()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/model/AudienceTest/sendByTagAlias_0()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/model/AudienceTest/sendByTagMore()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/model/AudienceTest/sendByTagAndMore()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/model/AudienceTest/sendByTagAndMore_fail()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/model/AudienceTest/sendByRegistrationIDMore()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/model/AudienceTest/sendByRegistrationID()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/model/AudienceTest/sendByRegistrationID_0()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/model/PushPayloadTest/testIosExceed2()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/GroupPushClientTest/testSendGroupPush()V", "distances": [3]},
+            {"test": "cn/jpush/api/push/PushClientTest/testSendPushWithCid()V", "distances": [3]},
+            {"test": "cn/jpush/api/push/PushClientTest/test_validate()V", "distances": [3]},
+            {"test": "cn/jpush/api/push/mock/ResponseErrorTest/tooBig()V", "distances": [3]},
+            {"test": "cn/jpush/api/push/remote/AlertOverrideTest/sendAlert_android()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/remote/AlertOverrideTest/sendAlert_ios()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/remote/AlertOverrideTest/sendAlert_wp()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/remote/BasicFunctionsTest/sendSimpleMessage_default()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/remote/BasicFunctionsTest/sendSimpleMessage_Pandroid()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/remote/BasicFunctionsTest/sendSimpleNotification_Pandroid_Nandroid()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/remote/BasicFunctionsTest/sendSimpleNotification_Pios_Nios()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/remote/BasicFunctionsTest/sendSimpleNotification_Pall_Nwp()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/remote/BasicFunctionsTest/sendSimpleNotification_Pwp_Nwp()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/remote/BasicFunctionsTest/sendSimpleNotification_Pall_Nios()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/remote/BasicFunctionsTest/sendSimpleNotification_Pall_Nall()V", "distances": [2]},
+            {"test": "cn/jpush/api/push/remote/BasicFunctionsTest/sendSimpleNotification_Pall_Ndefault()V", "distances": [2]}
+        ]
+    },
+    {
+        "method": "cn/jpush/api/push/model/TriggerPayload$Builder/isTimeUnitOk(Lcn/jiguang/common/TimeUnit;)Z",
+        "tests": [
+            {"test": "cn/jpush/api/schedule/model/TriggerPayloadTest/testBuildPeriodical()V", "distances": [2]}
+        ]
+    }
+]

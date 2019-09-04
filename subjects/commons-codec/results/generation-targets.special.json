@@ -1,0 +1,14 @@
+[
+    {
+        "class": "Soundex",
+        "name": "<init>",
+        "package": "org.apache.commons.codec.language",
+        "description": "([C)V"
+    },
+    {
+        "class": "DaitchMokotoffSoundex",
+        "name": "<init>",
+        "package": "org.apache.commons.codec.language",
+        "description": "()V;"
+    }
+]

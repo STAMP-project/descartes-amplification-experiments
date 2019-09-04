@@ -1,0 +1,39 @@
+[
+    {
+        "method": {
+            "class": "Soundex",
+            "name": "hasMarker",
+            "package": "org.apache.commons.codec.language",
+            "description": "([C)Z"
+        },
+        "mutators": [
+            "false",
+            "true"
+        ],
+        "entryPoints": [
+            {
+                "class": "Soundex",
+                "name": "<init>",
+                "package": "org.apache.commons.codec.language",
+                "description": "([C)V"
+            }
+        ]
+    },
+    {
+        "method": {
+            "class": "DaitchMokotoffSoundex", 
+            "name": "stripQuotes", 
+            "package": "org.apache.commons.codec.language", 
+            "description": "(Ljava/lang/String;)Ljava/lang/String;"
+        }, 
+        "mutators": ["\"\"", "\"A\"", "null"], 
+        "entryPoints": [
+            {
+                "class": "DaitchMokotoffSoundex", 
+                "name": "<init>", 
+                "package": "org.apache.commons.codec.language", 
+                "description": "()V;"
+            }
+        ]
+    }
+]

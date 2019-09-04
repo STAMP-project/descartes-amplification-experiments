@@ -1,0 +1,42 @@
+{
+  "no-infection": [],
+  "no-propagation": [
+    {
+      "mutator": "true",
+      "package": "org.apache.commons.cli",
+      "class": "Option",
+      "method": "hasValueSeparator",
+      "description": "()Z"
+    },
+    {
+      "mutator": "false",
+      "package": "org.apache.commons.cli",
+      "class": "DefaultParser",
+      "method": "isLongOption",
+      "description": "(Ljava/lang/String;)Z"
+    }
+  ],
+  "weak-oracle": [
+    {
+      "mutator": "null",
+      "package": "org.apache.commons.cli",
+      "class": "AmbiguousOptionException",
+      "method": "createMessage",
+      "description": "(Ljava/lang/String;Ljava/util/Collection;)Ljava/lang/String;"
+    },
+    {
+      "mutator": "\"A\"",
+      "package": "org.apache.commons.cli",
+      "class": "AmbiguousOptionException",
+      "method": "createMessage",
+      "description": "(Ljava/lang/String;Ljava/util/Collection;)Ljava/lang/String;"
+    },
+    {
+      "mutator": "\"\"",
+      "package": "org.apache.commons.cli",
+      "class": "AmbiguousOptionException",
+      "method": "createMessage",
+      "description": "(Ljava/lang/String;Ljava/util/Collection;)Ljava/lang/String;"
+    }
+  ]
+}

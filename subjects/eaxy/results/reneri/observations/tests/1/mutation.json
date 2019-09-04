@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "Element",
+  "package": "org.eaxy",
+  "method": "hasClass",
+  "description": "(Ljava/lang/String;)Z",
+  "tests": [
+    "org.eaxy.usage.HtmlConvenienceTest"
+  ]
+}

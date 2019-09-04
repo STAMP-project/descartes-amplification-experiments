@@ -1,0 +1,18 @@
+{
+  "mutator": "void",
+  "class": "HtmlTreeBuilder",
+  "package": "org.jsoup.parser",
+  "method": "clearStackToTableRowContext",
+  "description": "()V",
+  "tests": [
+    "org.jsoup.nodes.DocumentTest",
+    "org.jsoup.helper.W3CDomTest",
+    "org.jsoup.safety.CleanerTest",
+    "org.jsoup.nodes.ElementTest",
+    "org.jsoup.parser.HtmlParserTest",
+    "org.jsoup.integration.ConnectTest",
+    "org.jsoup.select.SelectorTest",
+    "org.jsoup.integration.ParseTest",
+    "org.jsoup.nodes.FormElementTest"
+  ]
+}

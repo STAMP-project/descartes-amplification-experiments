@@ -1,0 +1,14 @@
+{
+  "mutator": "null",
+  "class": "AbstractVector",
+  "package": "net.tridentsdk.base",
+  "method": "add",
+  "description": "(III)Lnet/tridentsdk/base/AbstractVector;",
+  "tests": [
+    "net.tridentsdk.base.generated.VectorsTest_jmhType",
+    "net.tridentsdk.base.generated.VectorsTest_jmhType_B3",
+    "net.tridentsdk.base.generated.VectorsTest_jmhType_B2",
+    "net.tridentsdk.base.generated.VectorsTest_jmhType_B1",
+    "net.tridentsdk.base.VectorsTest"
+  ]
+}

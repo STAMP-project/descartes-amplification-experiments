@@ -1,0 +1,11 @@
+{
+  "mutator": "void",
+  "class": "IntentedWriterXmlVisitor",
+  "package": "org.eaxy",
+  "method": "visitComment",
+  "description": "(Lorg/eaxy/Xml$CommentElement;)V",
+  "tests": [
+    "org.eaxy.experimental.SampleXmlBuilderTest",
+    "org.eaxy.experimental.SoapXmlBuilderDirectoryTest"
+  ]
+}

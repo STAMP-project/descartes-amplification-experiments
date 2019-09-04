@@ -1,0 +1,1802 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|13|#result",
+    "expected": [
+      {
+        "literalValue": "84121375",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|45|#result",
+    "expected": [
+      {
+        "literalValue": "-1710516451",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|77|#result",
+    "expected": [
+      {
+        "literalValue": "-224019938",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|53|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|54|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|29|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|7|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|36|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|22|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|7|#result",
+    "expected": [
+      {
+        "literalValue": "84121372",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|31|#result",
+    "expected": [
+      {
+        "literalValue": "1691108803",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|60|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|47|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|74|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|59|#result",
+    "expected": [
+      {
+        "literalValue": "1215820639",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|17|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|71|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|59|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|2|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|18|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|40|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|23|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|48|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|65|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|68|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|65|#result",
+    "expected": [
+      {
+        "literalValue": "84124647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|39|#result",
+    "expected": [
+      {
+        "literalValue": "-1710516451",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|31|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|56|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|27|#result",
+    "expected": [
+      {
+        "literalValue": "1691108803",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|63|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|43|#result",
+    "expected": [
+      {
+        "literalValue": "-1710516451",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|28|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|1|#result",
+    "expected": [
+      {
+        "literalValue": "84121376",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|71|#result",
+    "expected": [
+      {
+        "literalValue": "643924626",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|19|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|57|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|25|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|79|#result",
+    "expected": [
+      {
+        "literalValue": "-224019938",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|19|#result",
+    "expected": [
+      {
+        "literalValue": "84121375",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|9|#result",
+    "expected": [
+      {
+        "literalValue": "-146979606",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|34|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|52|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|75|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|62|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|13|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|4|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|1|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|46|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|16|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|10|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|69|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|37|#result",
+    "expected": [
+      {
+        "literalValue": "-1710516451",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|35|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|41|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|25|#result",
+    "expected": [
+      {
+        "literalValue": "1691108803",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|58|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|3|#result",
+    "expected": [
+      {
+        "literalValue": "84121376",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|73|#result",
+    "expected": [
+      {
+        "literalValue": "-224019938",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|15|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|41|#result",
+    "expected": [
+      {
+        "literalValue": "-1710516451",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|49|#result",
+    "expected": [
+      {
+        "literalValue": "-1710516451",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|17|#result",
+    "expected": [
+      {
+        "literalValue": "-146979606",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|21|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|67|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|67|#result",
+    "expected": [
+      {
+        "literalValue": "1215820639",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|50|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|33|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|79|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|64|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|55|#result",
+    "expected": [
+      {
+        "literalValue": "1215820639",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|26|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|76|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|44|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|5|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|14|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|51|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|70|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|53|#result",
+    "expected": [
+      {
+        "literalValue": "1215820639",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|35|#result",
+    "expected": [
+      {
+        "literalValue": "1691108803",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|20|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|23|#result",
+    "expected": [
+      {
+        "literalValue": "1691108803",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|39|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|32|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|73|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|11|#result",
+    "expected": [
+      {
+        "literalValue": "-146979606",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|6|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|45|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|61|#result",
+    "expected": [
+      {
+        "literalValue": "84124647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|3|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|11|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|47|#result",
+    "expected": [
+      {
+        "literalValue": "-1710516451",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|15|#result",
+    "expected": [
+      {
+        "literalValue": "84121375",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|66|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|37|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|69|#result",
+    "expected": [
+      {
+        "literalValue": "84124647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|38|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|24|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|43|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|57|#result",
+    "expected": [
+      {
+        "literalValue": "84124647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|12|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|5|#result",
+    "expected": [
+      {
+        "literalValue": "84121372",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|61|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|29|#result",
+    "expected": [
+      {
+        "literalValue": "87469099",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|42|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|55|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|78|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|72|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|8|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|33|#result",
+    "expected": [
+      {
+        "literalValue": "84124647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|27|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|0|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|9|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|21|#result",
+    "expected": [
+      {
+        "literalValue": "84121372",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|51|#result",
+    "expected": [
+      {
+        "literalValue": "-1710516451",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|77|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|49|#0",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|63|#result",
+    "expected": [
+      {
+        "literalValue": "643924626",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|30|#result",
+    "expected": [
+      {
+        "literalValue": "2080923572",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.util.JCHashCodeCalculator|append|(II)I|75|#result",
+    "expected": [
+      {
+        "literalValue": "-224019938",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  }
+]

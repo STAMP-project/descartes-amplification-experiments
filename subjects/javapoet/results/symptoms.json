@@ -1,0 +1,78 @@
+{
+  "no-infection": [
+    {
+      "mutator": "true",
+      "package": "com.squareup.javapoet",
+      "class": "CodeBlock",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "com.squareup.javapoet",
+      "class": "TypeSpec",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "com.squareup.javapoet",
+      "class": "FieldSpec",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "com.squareup.javapoet",
+      "class": "MethodSpec",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "com.squareup.javapoet",
+      "class": "AnnotationSpec",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "com.squareup.javapoet",
+      "class": "MethodSpec",
+      "method": "lastParameterIsArray",
+      "description": "(Ljava/util/List;)Z"
+    },
+    {
+      "mutator": "void",
+      "package": "com.squareup.javapoet",
+      "class": "Util",
+      "method": "requireExactlyOneOf",
+      "description": "(Ljava/util/Set;[Ljavax/lang/model/element/Modifier;)V"
+    },
+    {
+      "mutator": "true",
+      "package": "com.squareup.javapoet",
+      "class": "ParameterSpec",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    }
+  ],
+  "no-propagation": [
+    {
+      "mutator": "null",
+      "package": "com.squareup.javapoet",
+      "class": "CodeWriter",
+      "method": "popPackage",
+      "description": "()Lcom/squareup/javapoet/CodeWriter;"
+    }
+  ],
+  "weak-oracle": [
+    {
+      "mutator": "null",
+      "package": "com.squareup.javapoet",
+      "class": "ArrayTypeName",
+      "method": "get",
+      "description": "(Ljava/lang/reflect/GenericArrayType;Ljava/util/Map;)Lcom/squareup/javapoet/ArrayTypeName;"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "org.apache.commons.codec.digest.MessageDigestAlgorithms|values|()[Ljava/lang/String;|0|#result|#length",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  }
+]

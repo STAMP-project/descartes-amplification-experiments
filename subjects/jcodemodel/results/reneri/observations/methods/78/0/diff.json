@@ -1,0 +1,152 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|fullName|()Ljava/lang/String;|3|#result",
+    "expected": [
+      {
+        "literalValue": "TestInvocation",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|fullName|()Ljava/lang/String;|5|#result",
+    "expected": [
+      {
+        "literalValue": "java.util.List",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|fullName|()Ljava/lang/String;|8|#result",
+    "expected": [
+      {
+        "literalValue": "java.util.List",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|fullName|()Ljava/lang/String;|1|#result",
+    "expected": [
+      {
+        "literalValue": "TestInvocation",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|fullName|()Ljava/lang/String;|2|#result",
+    "expected": [
+      {
+        "literalValue": "TestInvocation",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|fullName|()Ljava/lang/String;|4|#result",
+    "expected": [
+      {
+        "literalValue": "TestInvocation",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|fullName|()Ljava/lang/String;|6|#result",
+    "expected": [
+      {
+        "literalValue": "java.util.List",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|fullName|()Ljava/lang/String;|7|#result",
+    "expected": [
+      {
+        "literalValue": "TestInvocation",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|fullName|()Ljava/lang/String;|9|#result",
+    "expected": [
+      {
+        "literalValue": "java.util.List",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|fullName|()Ljava/lang/String;|0|#result",
+    "expected": [
+      {
+        "literalValue": "TestInvocation",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  }
+]

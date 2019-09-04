@@ -1,0 +1,1 @@
+./com/helger/jcodemodel/JJavaName_ESTest_scaffolding.java ./com/helger/jcodemodel/JJavaName_ESTest.java

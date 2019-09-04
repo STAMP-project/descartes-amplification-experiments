@@ -1,0 +1,12 @@
+{
+  "mutator": "false",
+  "class": "Node",
+  "package": "org.jsoup.nodes",
+  "method": "hasParent",
+  "description": "()Z",
+  "tests": [
+    "org.jsoup.nodes.TextNodeTest",
+    "org.jsoup.parser.XmlTreeBuilderTest",
+    "org.jsoup.helper.DataUtilTest"
+  ]
+}

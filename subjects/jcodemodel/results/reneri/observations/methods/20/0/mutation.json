@@ -1,0 +1,11 @@
+{
+  "mutator": "null",
+  "class": "JDefinedClass",
+  "package": "com.helger.jcodemodel",
+  "method": "_extends",
+  "description": "(Lcom/helger/jcodemodel/AbstractJClass;)Lcom/helger/jcodemodel/JDefinedClass;",
+  "tests": [
+    "com.helger.jcodemodel.JDefinedClassTest",
+    "com.helger.jcodemodel.NestedClassFuncTest"
+  ]
+}

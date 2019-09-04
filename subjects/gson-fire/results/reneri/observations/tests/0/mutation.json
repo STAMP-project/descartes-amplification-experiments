@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "SimpleIterable",
+  "package": "io.gsonfire.util",
+  "method": "equals",
+  "description": "(Ljava/lang/Object;)Z",
+  "tests": [
+    "io.gsonfire.gson.SimpleIterableTest"
+  ]
+}

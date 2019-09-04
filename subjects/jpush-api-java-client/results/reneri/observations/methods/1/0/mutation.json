@@ -1,0 +1,11 @@
+{
+  "mutator": "null",
+  "class": "Options",
+  "package": "cn.jpush.api.push.model",
+  "method": "sendno",
+  "description": "()Lcn/jpush/api/push/model/Options;",
+  "tests": [
+    "cn.jpush.api.push.model.PushPayloadTest",
+    "cn.jpush.api.schedule.model.SchedulePayloadTest"
+  ]
+}

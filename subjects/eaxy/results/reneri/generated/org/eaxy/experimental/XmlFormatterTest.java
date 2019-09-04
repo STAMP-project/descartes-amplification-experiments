@@ -1,0 +1,13 @@
+package org.eaxy.experimental;
+
+
+public class XmlFormatterTest {
+    @org.junit.Test
+    public void shouldCanonizeSignatureElement() throws java.lang.Exception {
+        org.eaxy.Document doc = eu.stamp_project.reneri.instrumentation.StateObserver.<org.eaxy.Document>observeState("org.eaxy.experimental.XmlFormatterTest|shouldCanonizeSignatureElement()|1", org.eaxy.Document.class, org.eaxy.Xml.read(eu.stamp_project.reneri.instrumentation.StateObserver.<java.io.File>observeState("org.eaxy.experimental.XmlFormatterTest|shouldCanonizeSignatureElement()|0", java.io.File.class, new java.io.File("src/test/resources/envelopedSignature.xml"))));
+        java.lang.String canonized = "<SignedInfo xmlns=\"http://www.w3.org/2000/09/xmldsig#\" xmlns:foo=\"urn:foo\"><CanonicalizationMethod Algorithm=\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments\"></CanonicalizationMethod><SignatureMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#dsa-sha1\"></SignatureMethod><Reference URI=\"\"><Transforms><Transform Algorithm=\"http://www.w3.org/2000/09/xmldsig#enveloped-signature\"></Transform></Transforms><DigestMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#sha1\"></DigestMethod><DigestValue>QlZCTMYoVmxjN3SL+jFv+qDR9rA=</DigestValue></Reference></SignedInfo>";
+        java.lang.String xml = eu.stamp_project.reneri.instrumentation.StateObserver.observe("org.eaxy.experimental.XmlFormatterTest|shouldCanonizeSignatureElement()|6", eu.stamp_project.reneri.instrumentation.StateObserver.<org.eaxy.experimental.XmlFormatter>observeState("org.eaxy.experimental.XmlFormatterTest|shouldCanonizeSignatureElement()|2", org.eaxy.experimental.XmlFormatter.class, org.eaxy.experimental.XmlFormatter.canonical("http://www.w3.org/TR/2001/REC-xml-c14n-20010315")).toXML(eu.stamp_project.reneri.instrumentation.StateObserver.<org.eaxy.ElementPath>observeState("org.eaxy.experimental.XmlFormatterTest|shouldCanonizeSignatureElement()|5", org.eaxy.ElementPath.class, eu.stamp_project.reneri.instrumentation.StateObserver.<org.eaxy.ElementSet>observeState("org.eaxy.experimental.XmlFormatterTest|shouldCanonizeSignatureElement()|4", org.eaxy.ElementSet.class, eu.stamp_project.reneri.instrumentation.StateObserver.<org.eaxy.Document>observeState("org.eaxy.experimental.XmlFormatterTest|shouldCanonizeSignatureElement()|3", org.eaxy.Document.class, doc).find("Signature", "SignedInfo")).firstPath())));
+        org.assertj.core.api.Assertions.assertThat(eu.stamp_project.reneri.instrumentation.StateObserver.observe("org.eaxy.experimental.XmlFormatterTest|shouldCanonizeSignatureElement()|7", xml)).isEqualTo(eu.stamp_project.reneri.instrumentation.StateObserver.observe("org.eaxy.experimental.XmlFormatterTest|shouldCanonizeSignatureElement()|8", canonized));
+    }
+}
+

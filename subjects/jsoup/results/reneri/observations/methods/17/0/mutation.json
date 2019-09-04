@@ -1,0 +1,13 @@
+{
+  "mutator": "void",
+  "class": "QueryParser",
+  "package": "org.jsoup.select",
+  "method": "allElements",
+  "description": "()V",
+  "tests": [
+    "org.jsoup.select.ElementsTest",
+    "org.jsoup.nodes.ElementTest",
+    "org.jsoup.select.SelectorTest",
+    "org.jsoup.integration.ParseTest"
+  ]
+}

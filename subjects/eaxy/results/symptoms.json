@@ -1,0 +1,106 @@
+{
+  "no-infection": [
+    {
+      "mutator": "true",
+      "package": "org.eaxy",
+      "class": "Element",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "void",
+      "package": "org.eaxy",
+      "class": "IntentedWriterXmlVisitor",
+      "method": "visitComment",
+      "description": "(Lorg/eaxy/Xml$CommentElement;)V"
+    }
+  ],
+  "no-propagation": [
+    {
+      "mutator": "\"\"",
+      "package": "org.eaxy.experimental",
+      "class": "SampleSoapXmlBuilder",
+      "method": "getFilename",
+      "description": "()Ljava/lang/String;"
+    },
+    {
+      "mutator": "\"A\"",
+      "package": "org.eaxy.experimental",
+      "class": "SampleSoapXmlBuilder",
+      "method": "getFilename",
+      "description": "()Ljava/lang/String;"
+    },
+    {
+      "mutator": "true",
+      "package": "org.eaxy",
+      "class": "Element",
+      "method": "hasClass",
+      "description": "(Ljava/lang/String;)Z"
+    },
+    {
+      "mutator": "void",
+      "package": "org.eaxy",
+      "class": "ElementSet",
+      "method": "checkMaxOneMatch",
+      "description": "()V"
+    },
+    {
+      "mutator": "null",
+      "package": "org.eaxy.experimental",
+      "class": "SampleXmlBuilder",
+      "method": "pickOne",
+      "description": "([Ljava/lang/Object;)Ljava/lang/Object;"
+    },
+    {
+      "mutator": "null",
+      "package": "org.eaxy.experimental",
+      "class": "SampleSoapXmlBuilder",
+      "method": "getFilename",
+      "description": "()Ljava/lang/String;"
+    },
+    {
+      "mutator": "true",
+      "package": "org.eaxy.experimental",
+      "class": "SampleXmlBuilder",
+      "method": "chance",
+      "description": "(D)Z"
+    },
+    {
+      "mutator": "\"A\"",
+      "package": "org.eaxy.experimental",
+      "class": "SampleXmlBuilder",
+      "method": "randomString",
+      "description": "(II)Ljava/lang/String;"
+    },
+    {
+      "mutator": "false",
+      "package": "org.eaxy.experimental",
+      "class": "SampleXmlBuilder",
+      "method": "chance",
+      "description": "(D)Z"
+    }
+  ],
+  "weak-oracle": [
+    {
+      "mutator": "1",
+      "package": "org.eaxy",
+      "class": "XmlIterator",
+      "method": "currentCharacterOffset",
+      "description": "()I"
+    },
+    {
+      "mutator": "1",
+      "package": "org.eaxy",
+      "class": "XmlIterator",
+      "method": "currentColumnNumber",
+      "description": "()I"
+    },
+    {
+      "mutator": "1",
+      "package": "org.eaxy",
+      "class": "XmlIterator",
+      "method": "currentLineNumber",
+      "description": "()I"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "mutator": "false",
+  "class": "JVar",
+  "package": "com.helger.jcodemodel",
+  "method": "isAnnotated",
+  "description": "()Z",
+  "tests": [
+    "com.helger.jcodemodel.supplementary.issues.Issue41FuncTest",
+    "com.helger.jcodemodel.JDefinedClassTest",
+    "com.helger.jcodemodel.JInvocationTest",
+    "com.helger.jcodemodel.JMethodTest",
+    "com.helger.jcodemodel.JSwitchTest",
+    "com.helger.jcodemodel.JLambdaMethodRefTest",
+    "com.helger.jcodemodel.VarArgsFuncTest",
+    "com.helger.jcodemodel.JavadocFuncTest"
+  ]
+}

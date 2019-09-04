@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilder|insertOnStackAfter|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)V|1|#that|stack|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilder|insertOnStackAfter|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)V|0|#that|stack|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  }
+]

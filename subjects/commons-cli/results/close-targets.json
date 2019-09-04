@@ -1,0 +1,1 @@
+[{"class": "org.apache.commons.cli.CommandLineTest", "method": "testNullhOption"}, {"class": "org.apache.commons.cli.OptionTest", "method": "testGetValue"}, {"class": "org.apache.commons.cli.ParserTestCase", "method": "testAmbiguousPartialLongOption1"}]

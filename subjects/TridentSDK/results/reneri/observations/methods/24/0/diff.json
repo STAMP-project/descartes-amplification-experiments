@@ -1,0 +1,302 @@
+[
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|0|#result",
+    "expected": [
+      {
+        "literalValue": "2.5561683E7",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|9|#that|z",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|9|#that|x",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|9|#that|y",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|1|#that|x",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|1|#that|y",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|7|#that|y",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|7|#that|x",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|1|#that|z",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|7|#that|z",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|4|#result",
+    "expected": [
+      {
+        "literalValue": "2.5561683E7",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|6|#result",
+    "expected": [
+      {
+        "literalValue": "2.5561683E7",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|5|#that|z",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|3|#that|z",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|3|#that|y",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|3|#that|x",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|5|#that|x",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|5|#that|y",
+    "expected": [
+      {
+        "literalValue": "0.5773502691896257",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "2919.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|8|#result",
+    "expected": [
+      {
+        "literalValue": "2.5561683E7",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1.0",
+        "typeName": "double"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.base.Vector|getMagnitudeSquared|()D|2|#result",
+    "expected": [
+      {
+        "literalValue": "2.5561683E7",
+        "typeName": "double"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1.0",
+        "typeName": "double"
+      }
+    ]
+  }
+]

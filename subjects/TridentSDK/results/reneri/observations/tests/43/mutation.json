@@ -1,0 +1,10 @@
+{
+  "mutator": "void",
+  "class": "LogHandler",
+  "package": "net.tridentsdk.logger",
+  "method": "intercept",
+  "description": "(Lnet/tridentsdk/logger/Logger;Lnet/tridentsdk/logger/LogHandler;)V",
+  "tests": [
+    "net.tridentsdk.logger.LogHandlerTest"
+  ]
+}

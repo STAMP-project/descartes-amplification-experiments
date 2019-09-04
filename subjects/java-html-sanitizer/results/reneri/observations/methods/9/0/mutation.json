@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "EbayPolicyExample$3",
+  "package": "org.owasp.html.examples",
+  "method": "apply",
+  "description": "(Ljava/lang/String;)Z",
+  "tests": [
+    "org.owasp.html.ExamplesTest"
+  ]
+}

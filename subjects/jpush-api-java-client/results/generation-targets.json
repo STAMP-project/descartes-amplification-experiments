@@ -1,0 +1,1 @@
+[{"class":"TriggerPayload$Builder","name":"buildPeriodical","package":"cn.jpush.api.schedule.model","description":"()Lcn/jpush/api/schedule/model/TriggerPayload;"},{"class":"Options","name":"sendno","package":"cn.jpush.api.push.model","description":"()Lcn/jpush/api/push/model/Options;"}]

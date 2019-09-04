@@ -1,0 +1,92 @@
+[
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundex|stripQuotes|(Ljava/lang/String;)Ljava/lang/String;|2|#0",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "\"\"",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundex|stripQuotes|(Ljava/lang/String;)Ljava/lang/String;|3|#0",
+    "expected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "\"\"",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundex|stripQuotes|(Ljava/lang/String;)Ljava/lang/String;|1|#result",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundex|stripQuotes|(Ljava/lang/String;)Ljava/lang/String;|1|#0",
+    "expected": [
+      {
+        "literalValue": "0",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "\"0\"",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundex|stripQuotes|(Ljava/lang/String;)Ljava/lang/String;|0|#0",
+    "expected": [
+      {
+        "literalValue": "a",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "\"a\"",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundex|stripQuotes|(Ljava/lang/String;)Ljava/lang/String;|0|#result",
+    "expected": [
+      {
+        "literalValue": "a",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "",
+        "typeName": "java.lang.String"
+      }
+    ]
+  }
+]

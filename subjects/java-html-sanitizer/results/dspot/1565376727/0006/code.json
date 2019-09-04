@@ -1,0 +1,9 @@
+{
+  "classTimes": [
+    {
+      "fullQualifiedName": "org.owasp.html.HtmlPolicyBuilderFuzzerTest",
+      "timeInMs": 1673715
+    }
+  ],
+  "projectName": "code"
+}

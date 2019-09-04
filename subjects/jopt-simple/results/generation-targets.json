@@ -1,0 +1,1 @@
+[{"class":"Reflection","name":"findConverter","package":"joptsimple.internal","description":"(Ljava/lang/Class;)Ljoptsimple/ValueConverter;"},{"class":"InetAddressConverter","name":"convert","package":"joptsimple.util","description":"(Ljava/lang/String;)Ljava/net/InetAddress;"}]

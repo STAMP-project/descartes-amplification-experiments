@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "Evaluator$IsOnlyChild",
+  "package": "org.jsoup.select",
+  "method": "matches",
+  "description": "(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z",
+  "tests": [
+    "org.jsoup.select.CssTest"
+  ]
+}

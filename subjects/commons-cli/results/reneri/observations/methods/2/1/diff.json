@@ -1,0 +1,122 @@
+[
+  {
+    "pointcut": "org.apache.commons.cli.AmbiguousOptionException|createMessage|(Ljava/lang/String;Ljava/util/Collection;)Ljava/lang/String;|3|#result",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027-ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.AmbiguousOptionException|createMessage|(Ljava/lang/String;Ljava/util/Collection;)Ljava/lang/String;|5|#result",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027--ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.AmbiguousOptionException|createMessage|(Ljava/lang/String;Ljava/util/Collection;)Ljava/lang/String;|7|#result",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027--ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.AmbiguousOptionException|createMessage|(Ljava/lang/String;Ljava/util/Collection;)Ljava/lang/String;|1|#result",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027-ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.AmbiguousOptionException|createMessage|(Ljava/lang/String;Ljava/util/Collection;)Ljava/lang/String;|0|#result",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027--ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.AmbiguousOptionException|createMessage|(Ljava/lang/String;Ljava/util/Collection;)Ljava/lang/String;|4|#result",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027--pref\u0027  (could be: \u0027prefix\u0027, \u0027prefixplusplus\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.AmbiguousOptionException|createMessage|(Ljava/lang/String;Ljava/util/Collection;)Ljava/lang/String;|6|#result",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027-ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.cli.AmbiguousOptionException|createMessage|(Ljava/lang/String;Ljava/util/Collection;)Ljava/lang/String;|2|#result",
+    "expected": [
+      {
+        "literalValue": "Ambiguous option: \u0027--ver\u0027  (could be: \u0027version\u0027, \u0027verbose\u0027)",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "mutator": "void",
+  "class": "IntVector",
+  "package": "org.owasp.html",
+  "method": "clear",
+  "description": "()V",
+  "tests": [
+    "org.owasp.html.HtmlStreamRendererTest",
+    "org.owasp.html.HtmlSanitizerTest",
+    "org.owasp.html.SanitizersTest",
+    "org.owasp.html.HtmlPolicyBuilderTest",
+    "org.owasp.html.HtmlSanitizerFuzzerTest",
+    "org.owasp.html.AntiSamyTest",
+    "org.owasp.html.TagBalancingHtmlStreamRendererTest",
+    "org.owasp.html.UrlTextExampleTest",
+    "org.owasp.html.ExamplesTest",
+    "org.owasp.html.HtmlChangeReporterTest"
+  ]
+}

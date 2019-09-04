@@ -1,0 +1,10 @@
+{
+  "mutator": "void",
+  "class": "JForLoop",
+  "package": "com.helger.jcodemodel",
+  "method": "state",
+  "description": "(Lcom/helger/jcodemodel/IJFormatter;)V",
+  "tests": [
+    "com.helger.jcodemodel.VarArgsFuncTest"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "mutator": "void",
+  "class": "JCHashCodeGenerator",
+  "package": "com.helger.jcodemodel.util",
+  "method": "_checkClosed",
+  "description": "()V",
+  "tests": [
+    "com.helger.jcodemodel.JTypeVarTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue31FuncTest",
+    "com.helger.jcodemodel.JDirectClassTest",
+    "com.helger.jcodemodel.JLambdaMethodRefTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue30FuncTest"
+  ]
+}

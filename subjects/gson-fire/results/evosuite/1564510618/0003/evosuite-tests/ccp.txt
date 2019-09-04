@@ -1,0 +1,1 @@
+/home/ubuntu/oscar/descartes-evosuite/evosuite-standalone-runtime-1.0.7-SNAPSHOT.jar:/home/ubuntu/oscar/descartes-evosuite/subjects/gson-fire/code/target/classes:/home/ubuntu/.m2/repository/com/google/code/gson/gson/2.7/gson-2.7.jar:/home/ubuntu/.m2/repository/junit/junit/4.10/junit-4.10.jar:/home/ubuntu/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar

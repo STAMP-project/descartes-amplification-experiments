@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|trim|()Z|0|#result",
+    "expected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ]
+  }
+]

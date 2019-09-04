@@ -1,0 +1,10 @@
+{
+  "mutator": "0",
+  "class": "Position",
+  "package": "net.tridentsdk.base",
+  "method": "getChunkX",
+  "description": "()I",
+  "tests": [
+    "net.tridentsdk.base.PositionTest"
+  ]
+}

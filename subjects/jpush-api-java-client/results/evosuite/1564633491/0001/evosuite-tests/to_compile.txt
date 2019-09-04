@@ -1,0 +1,1 @@
+./cn/jpush/api/push/model/Options_ESTest_scaffolding.java ./cn/jpush/api/push/model/Options_ESTest.java

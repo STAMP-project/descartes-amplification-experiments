@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "CronBuilder",
+  "package": "com.cronutils.builder",
+  "method": "withSecond",
+  "description": "(Lcom/cronutils/model/field/expression/FieldExpression;)Lcom/cronutils/builder/CronBuilder;",
+  "tests": [
+    "com.cronutils.parser.CronParserQuartzIntegrationTest"
+  ]
+}

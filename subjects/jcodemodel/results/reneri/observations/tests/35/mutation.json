@@ -1,0 +1,10 @@
+{
+  "mutator": "false",
+  "class": "JCodeModel",
+  "package": "com.helger.jcodemodel",
+  "method": "addDontImportClass",
+  "description": "(Ljava/lang/Class;)Z",
+  "tests": [
+    "com.helger.jcodemodel.supplementary.issues.Issue51FuncTest"
+  ]
+}

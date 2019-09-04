@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "ColognePhonetic",
+  "package": "org.apache.commons.codec.language",
+  "method": "isEncodeEqual",
+  "description": "(Ljava/lang/String;Ljava/lang/String;)Z",
+  "tests": [
+    "org.apache.commons.codec.language.ColognePhoneticTest"
+  ]
+}

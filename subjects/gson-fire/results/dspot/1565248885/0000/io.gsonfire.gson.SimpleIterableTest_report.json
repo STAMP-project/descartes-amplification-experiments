@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 4,
+  "name": "io.gsonfire.gson.SimpleIterableTest",
+  "nbOriginalTestCases": 4,
+  "testCases": [
+    {
+      "name": "testSimpleIterated_mg20",
+      "nbAssertionAdded": 22,
+      "nbInputAdded": 4,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 68,
+          "locationMethod": "equals"
+        }
+      ]
+    }
+  ]
+}

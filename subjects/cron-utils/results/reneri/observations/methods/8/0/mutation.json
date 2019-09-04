@@ -1,0 +1,11 @@
+{
+  "mutator": "null",
+  "class": "ValueMappingFieldExpressionVisitor",
+  "package": "com.cronutils.model.field.expression.visitor",
+  "method": "visit",
+  "description": "(Lcom/cronutils/model/field/expression/QuestionMark;)Lcom/cronutils/model/field/expression/FieldExpression;",
+  "tests": [
+    "com.cronutils.mapper.CronMapperIntegrationTest",
+    "com.cronutils.model.field.expression.visitor.ValueMappingFieldExpressionVisitorTest"
+  ]
+}

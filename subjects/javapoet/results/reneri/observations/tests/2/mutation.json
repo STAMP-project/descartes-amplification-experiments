@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "TypeSpec",
+  "package": "com.squareup.javapoet",
+  "method": "equals",
+  "description": "(Ljava/lang/Object;)Z",
+  "tests": [
+    "com.squareup.javapoet.TypeSpecTest"
+  ]
+}

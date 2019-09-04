@@ -1,0 +1,12 @@
+{
+  "mutator": "\"A\"",
+  "class": "SampleXmlBuilder",
+  "package": "org.eaxy.experimental",
+  "method": "randomString",
+  "description": "(II)Ljava/lang/String;",
+  "tests": [
+    "org.eaxy.experimental.SampleXmlBuilderTest",
+    "org.eaxy.experimental.SoapXmlBuilderDirectoryTest",
+    "org.eaxy.experimental.SoapSimulatorServerTest"
+  ]
+}

@@ -1,0 +1,834 @@
+{
+  "no-infection": [
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCValueEnforcer",
+      "method": "isTrue",
+      "description": "(ZLjava/lang/String;)V"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter",
+      "method": "addDontImportClasses",
+      "description": "(Ljava/lang/Iterable;)V"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCValueEnforcer",
+      "method": "isTrue",
+      "description": "(ZLjava/util/function/Supplier;)V"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel",
+      "class": "JMods",
+      "method": "isNative",
+      "description": "()Z"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "JSwitch",
+      "method": "state",
+      "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "JDirectStatement",
+      "method": "state",
+      "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "AbstractCodeWriter$JavaUnicodeEscapeWriter",
+      "method": "requireEscaping",
+      "description": "(I)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel",
+      "class": "AbstractJType",
+      "method": "isReference",
+      "description": "()Z"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "JMods",
+      "method": "_check",
+      "description": "(IILjava/lang/String;)V"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "TypedAnnotationWriter",
+      "method": "_checkType",
+      "description": "(Ljava/lang/Class;Ljava/lang/Class;)V"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCValueEnforcer",
+      "method": "isFalse",
+      "description": "(ZLjava/util/function/Supplier;)V"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "JBreak",
+      "method": "state",
+      "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel",
+      "class": "JMods",
+      "method": "isAbstract",
+      "description": "()Z"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter$ImportedClasses",
+      "method": "clear",
+      "description": "()V"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "JBlock",
+      "method": "removeAll",
+      "description": "()V"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel",
+      "class": "JCodeModel",
+      "method": "checkIfFileSystemIsCaseSensitive",
+      "description": "()Z"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel",
+      "class": "JJavaName",
+      "method": "isJavaIdentifier",
+      "description": "(Ljava/lang/String;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel",
+      "class": "JEnumConstant",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "JCase",
+      "method": "state",
+      "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel",
+      "class": "JDirectClass",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel",
+      "class": "JMethod",
+      "method": "hasSignature",
+      "description": "([Lcom/helger/jcodemodel/AbstractJType;)Z"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "SingleStreamCodeWriter",
+      "method": "close",
+      "description": "()V"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCHashCodeGenerator",
+      "method": "_checkClosed",
+      "description": "()V"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel",
+      "class": "JVar",
+      "method": "isAnnotated",
+      "description": "()Z"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCValueEnforcer",
+      "method": "isFalse",
+      "description": "(ZLjava/lang/String;)V"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel",
+      "class": "AbstractJClassContainer",
+      "method": "isAnnotationTypeDeclaration",
+      "description": "()Z"
+    }
+  ],
+  "no-propagation": [
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "JForLoop",
+      "method": "state",
+      "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "JOpUnaryTight",
+      "method": "generate",
+      "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+      "mutator": "\"\"",
+      "package": "com.helger.jcodemodel",
+      "class": "JTypeWildcard",
+      "method": "fullName",
+      "description": "()Ljava/lang/String;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JAnnotationArrayMember",
+      "method": "params",
+      "description": "([I)Lcom/helger/jcodemodel/JAnnotationArrayMember;"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter",
+      "method": "isPrinting",
+      "description": "()Z"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "JForEach",
+      "method": "state",
+      "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+      "mutator": "1",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCValueEnforcer",
+      "method": "isGE0",
+      "description": "(ILjava/lang/String;)I"
+    },
+    {
+      "mutator": "0",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCValueEnforcer",
+      "method": "isGE0",
+      "description": "(ILjava/util/function/Supplier;)I"
+    },
+    {
+      "mutator": "\"A\"",
+      "package": "com.helger.jcodemodel",
+      "class": "JTypeVarClass",
+      "method": "name",
+      "description": "()Ljava/lang/String;"
+    },
+    {
+      "mutator": "\"A\"",
+      "package": "com.helger.jcodemodel",
+      "class": "JTypeVarClass",
+      "method": "fullName",
+      "description": "()Ljava/lang/String;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCValueEnforcer",
+      "method": "notNull",
+      "description": "(Ljava/lang/Object;Ljava/util/function/Supplier;)Ljava/lang/Object;"
+    },
+    {
+      "mutator": "\"A\"",
+      "package": "com.helger.jcodemodel",
+      "class": "JCommentPart",
+      "method": "_escape",
+      "description": "(Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+      "mutator": "0",
+      "package": "com.helger.jcodemodel.util",
+      "class": "ClassNameComparator",
+      "method": "compare",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/AbstractJClass;)I"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter",
+      "method": "_collectCausesNoAmbiguities",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/JDefinedClass;)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter$ImportedClasses",
+      "method": "add",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;)Z"
+    },
+    {
+      "mutator": "1",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCHashCodeGenerator",
+      "method": "getHashCode",
+      "description": "()I"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter$NameUsage",
+      "method": "isAmbiguousIn",
+      "description": "(Lcom/helger/jcodemodel/JDefinedClass;)Z"
+    },
+    {
+      "mutator": "\"\"",
+      "package": "com.helger.jcodemodel",
+      "class": "JCommentPart",
+      "method": "_escape",
+      "description": "(Ljava/lang/String;)Ljava/lang/String;"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel",
+      "class": "JVar",
+      "method": "isAnnotated",
+      "description": "()Z"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JTypeWildcard",
+      "method": "fullName",
+      "description": "()Ljava/lang/String;"
+    },
+    {
+      "mutator": "0",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCHashCodeGenerator",
+      "method": "getHashCode",
+      "description": "()I"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCHashCodeGenerator",
+      "method": "append",
+      "description": "(Ljava/lang/Object;)Lcom/helger/jcodemodel/util/JCHashCodeGenerator;"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel",
+      "class": "JNarrowedClass",
+      "method": "isError",
+      "description": "()Z"
+    },
+    {
+      "mutator": "1",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCHashCodeGenerator",
+      "method": "getHashCode",
+      "description": "(Ljava/lang/Object;[Ljava/lang/Object;)I"
+    },
+    {
+      "mutator": "0",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCHashCodeCalculator",
+      "method": "append",
+      "description": "(II)I"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter$ImportedClasses",
+      "method": "contains",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel",
+      "class": "JReferencedClass$1",
+      "method": "hasNext",
+      "description": "()Z"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter$NameUsage",
+      "method": "isTypeName",
+      "description": "()Z"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "JTypeWildcard",
+      "method": "generate",
+      "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+      "mutator": "1",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCHashCodeCalculator",
+      "method": "append",
+      "description": "(ILjava/lang/Object;)I"
+    },
+    {
+      "mutator": "0",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCHashCodeGenerator",
+      "method": "getHashCode",
+      "description": "(Ljava/lang/Object;[Ljava/lang/Object;)I"
+    },
+    {
+      "mutator": "1",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCValueEnforcer",
+      "method": "isGE0",
+      "description": "(ILjava/util/function/Supplier;)I"
+    },
+    {
+      "mutator": "1",
+      "package": "com.helger.jcodemodel.util",
+      "class": "ClassNameComparator",
+      "method": "compare",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/AbstractJClass;)I"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter$NameUsage",
+      "method": "isTypeName",
+      "description": "()Z"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "JCommentPart",
+      "method": "format",
+      "description": "(Lcom/helger/jcodemodel/IJFormatter;Ljava/lang/String;)V"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter",
+      "method": "_printIsImplicitlyImported",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/AbstractJClass;)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter",
+      "method": "_collectShouldBeImported",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/JDefinedClass;)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel",
+      "class": "AbstractJClassContainer",
+      "method": "isAnonymous",
+      "description": "()Z"
+    },
+    {
+      "mutator": "\"A\"",
+      "package": "com.helger.jcodemodel",
+      "class": "JTypeWildcard",
+      "method": "fullName",
+      "description": "()Ljava/lang/String;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JCodeModel",
+      "method": "getAllDontImportClasses",
+      "description": "()Ljava/util/Set;"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel",
+      "class": "JMethod",
+      "method": "hasVarArgs",
+      "description": "()Z"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JReferencedClass",
+      "method": "_extends",
+      "description": "()Lcom/helger/jcodemodel/AbstractJClass;"
+    },
+    {
+      "mutator": "empty",
+      "package": "com.helger.jcodemodel",
+      "class": "AbstractJGenerifiableImpl",
+      "method": "typeParams",
+      "description": "()[Lcom/helger/jcodemodel/JTypeVar;"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "JConditional",
+      "method": "state",
+      "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter$NameUsage",
+      "method": "isAmbiguousIn",
+      "description": "(Lcom/helger/jcodemodel/JDefinedClass;)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter",
+      "method": "_collectCausesNoAmbiguities",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/JDefinedClass;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter$ImportedClasses",
+      "method": "add",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;)Z"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "JInvocation",
+      "method": "_addTypeVars",
+      "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "AbstractJClassContainer",
+      "method": "outer",
+      "description": "()Lcom/helger/jcodemodel/AbstractJClass;"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel",
+      "class": "JDefinedClass",
+      "method": "hasHeaderComment",
+      "description": "()Z"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter",
+      "method": "isPrinting",
+      "description": "()Z"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel",
+      "class": "JOp",
+      "method": "hasTopOp",
+      "description": "(Lcom/helger/jcodemodel/IJExpression;)Z"
+    },
+    {
+      "mutator": "1",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCHashCodeCalculator",
+      "method": "append",
+      "description": "(II)I"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel",
+      "class": "AbstractJClassContainer",
+      "method": "isInterface",
+      "description": "()Z"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter",
+      "method": "_collectImportOuterClassIfCausesNoAmbiguities",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/JDefinedClass;)V"
+    },
+    {
+      "mutator": "0",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCValueEnforcer",
+      "method": "isGE0",
+      "description": "(ILjava/lang/String;)I"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter$ImportedClasses",
+      "method": "addDontImportClass",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;)V"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter",
+      "method": "_collectShouldBeImported",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/JDefinedClass;)Z"
+    },
+    {
+      "mutator": "0",
+      "package": "com.helger.jcodemodel.util",
+      "class": "JCHashCodeCalculator",
+      "method": "append",
+      "description": "(ILjava/lang/Object;)I"
+    }
+  ],
+  "weak-oracle": [
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel",
+      "class": "JCommentPart",
+      "method": "add",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JBlock",
+      "method": "_break",
+      "description": "()Lcom/helger/jcodemodel/JBreak;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JAnnotationUse",
+      "method": "param",
+      "description": "(Ljava/lang/String;Ljava/lang/Enum;)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JDefinedClass",
+      "method": "_extends",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;)Lcom/helger/jcodemodel/JDefinedClass;"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel",
+      "class": "JCodeModel",
+      "method": "addDontImportClass",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel",
+      "class": "JCodeModel",
+      "method": "addDontImportClass",
+      "description": "(Ljava/lang/Class;)Z"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JAnnotationUse",
+      "method": "param",
+      "description": "(Ljava/lang/String;)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "IJExpression",
+      "method": "plus",
+      "description": "(Ljava/lang/String;)Lcom/helger/jcodemodel/IJExpression;"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel",
+      "class": "JCodeModel",
+      "method": "checkIfFileSystemIsCaseSensitive",
+      "description": "()Z"
+    },
+    {
+      "mutator": "true",
+      "package": "com.helger.jcodemodel",
+      "class": "JCommentPart",
+      "method": "add",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JAnnotationUse",
+      "method": "param",
+      "description": "(Ljava/lang/String;Ljava/lang/Class;)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JMethod",
+      "method": "annotate",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "JCommentPart",
+      "method": "_flattenAppend",
+      "description": "(Ljava/lang/Object;)V"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "JDocComment",
+      "method": "generate",
+      "description": "(Lcom/helger/jcodemodel/IJFormatter;)V"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JMethod",
+      "method": "annotate",
+      "description": "(Ljava/lang/Class;)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JBlock",
+      "method": "_return",
+      "description": "()Lcom/helger/jcodemodel/JReturn;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JPackage",
+      "method": "parent",
+      "description": "()Lcom/helger/jcodemodel/JPackage;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JAnnotationUse",
+      "method": "param",
+      "description": "(Ljava/lang/String;Lcom/helger/jcodemodel/JEnumConstant;)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JReferencedClass",
+      "method": "outer",
+      "description": "()Lcom/helger/jcodemodel/AbstractJClass;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JAnnotationUse",
+      "method": "paramArray",
+      "description": "(Ljava/lang/String;[I)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel.writer",
+      "class": "JFormatter",
+      "method": "_printIsImplicitlyImported",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/AbstractJClass;)Z"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JPackage",
+      "method": "annotate",
+      "description": "(Ljava/lang/Class;)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel",
+      "class": "JCodeModel",
+      "method": "addDontImportClass",
+      "description": "(Ljava/lang/Class;)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel",
+      "class": "JDefinedClass",
+      "method": "hasHeaderComment",
+      "description": "()Z"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JLambda",
+      "method": "simple",
+      "description": "(Lcom/helger/jcodemodel/IJExpression;)Lcom/helger/jcodemodel/JLambda;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JPackage",
+      "method": "annotate",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JAnnotationUse",
+      "method": "param",
+      "description": "(Ljava/lang/String;I)Lcom/helger/jcodemodel/JAnnotationUse;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JBlock",
+      "method": "directStatement",
+      "description": "(Ljava/lang/String;)Lcom/helger/jcodemodel/IJStatement;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JBlock",
+      "method": "_if",
+      "description": "(Lcom/helger/jcodemodel/IJExpression;)Lcom/helger/jcodemodel/JConditional;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JAnnotationArrayMember",
+      "method": "param",
+      "description": "(Ljava/lang/String;)Lcom/helger/jcodemodel/JAnnotationArrayMember;"
+    },
+    {
+      "mutator": "null",
+      "package": "com.helger.jcodemodel",
+      "class": "JBlock",
+      "method": "_break",
+      "description": "(Lcom/helger/jcodemodel/JLabel;)Lcom/helger/jcodemodel/JBreak;"
+    },
+    {
+      "mutator": "false",
+      "package": "com.helger.jcodemodel",
+      "class": "JCodeModel",
+      "method": "addDontImportClass",
+      "description": "(Lcom/helger/jcodemodel/AbstractJClass;)Z"
+    },
+    {
+      "mutator": "void",
+      "package": "com.helger.jcodemodel",
+      "class": "JForLoop",
+      "method": "update",
+      "description": "(Lcom/helger/jcodemodel/IJExpression;)V"
+    }
+  ]
+}

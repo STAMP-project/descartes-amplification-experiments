@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 24,
+  "name": "org.owasp.html.HtmlStreamRendererTest",
+  "nbOriginalTestCases": 19,
+  "testCases": [
+    {
+      "name": "testCdataContainsEndTag1_literalMutationString40",
+      "nbAssertionAdded": 4,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 77,
+          "locationMethod": "regionMatchesIgnoreCase"
+        }
+      ]
+    }
+  ]
+}

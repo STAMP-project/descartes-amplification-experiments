@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "Int2ReferenceOpenHashMap",
+  "package": "net.tridentsdk.util",
+  "method": "trim",
+  "description": "()Z",
+  "tests": [
+    "net.tridentsdk.base.SubstanceTest"
+  ]
+}

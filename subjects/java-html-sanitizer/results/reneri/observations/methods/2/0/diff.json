@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "org.owasp.html.HtmlElementTables|nElementTypes|()I|0|#result",
+    "expected": [
+      {
+        "literalValue": "145",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  }
+]

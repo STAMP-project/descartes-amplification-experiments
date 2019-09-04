@@ -1,0 +1,182 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_return|()Lcom/helger/jcodemodel/JReturn;|2|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JReturn"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JReturn"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_return|()Lcom/helger/jcodemodel/JReturn;|1|#that|m_aContentList|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_return|()Lcom/helger/jcodemodel/JReturn;|3|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JReturn"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JReturn"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_return|()Lcom/helger/jcodemodel/JReturn;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JReturn"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JReturn"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_return|()Lcom/helger/jcodemodel/JReturn;|0|#that|m_aContentList|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_return|()Lcom/helger/jcodemodel/JReturn;|3|#that|m_aContentList|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_return|()Lcom/helger/jcodemodel/JReturn;|2|#that|m_aContentList|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_return|()Lcom/helger/jcodemodel/JReturn;|3|#that|m_nPos",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_return|()Lcom/helger/jcodemodel/JReturn;|2|#that|m_nPos",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_return|()Lcom/helger/jcodemodel/JReturn;|0|#that|m_nPos",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_return|()Lcom/helger/jcodemodel/JReturn;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JReturn"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JReturn"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|_return|()Lcom/helger/jcodemodel/JReturn;|1|#that|m_nPos",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  }
+]

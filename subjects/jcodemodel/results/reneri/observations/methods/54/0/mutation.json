@@ -1,0 +1,14 @@
+{
+  "mutator": "false",
+  "class": "AbstractJClassContainer",
+  "package": "com.helger.jcodemodel",
+  "method": "isAnnotationTypeDeclaration",
+  "description": "()Z",
+  "tests": [
+    "com.helger.jcodemodel.JTypeVarTest",
+    "com.helger.jcodemodel.InnerClassFuncTest",
+    "com.helger.jcodemodel.AnnotationUseFuncTest",
+    "com.helger.jcodemodel.JAnnotationUseTest",
+    "com.helger.jcodemodel.JInvocationTest"
+  ]
+}

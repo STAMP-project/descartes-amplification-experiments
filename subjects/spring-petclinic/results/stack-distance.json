@@ -1,0 +1,63 @@
+[
+    { 
+        "method": "org/springframework/samples/petclinic/owner/PetValidator/supports(Ljava/lang/Class;)Z", 
+        "tests": [
+            {"test":"org/springframework/samples/petclinic/owner/PetControllerTests/testProcessUpdateFormSuccess()V", "distances":[42]},
+            {"test":"org/springframework/samples/petclinic/owner/PetControllerTests/testInitUpdateForm()V", "distances":[40]},
+            {"test":"org/springframework/samples/petclinic/owner/PetControllerTests/testInitCreationForm()V", "distances":[40]},
+            {"test":"org/springframework/samples/petclinic/owner/PetControllerTests/testProcessCreationFormHasErrors()V", "distances":[42]},
+            {"test":"org/springframework/samples/petclinic/owner/PetControllerTests/testProcessUpdateFormHasErrors()V", "distances":[42]},
+            {"test":"org/springframework/samples/petclinic/owner/PetControllerTests/testProcessCreationFormSuccess()V", "distances":[42]}
+        ]
+    },
+    { 
+        "method": "org/springframework/samples/petclinic/owner/PetController/initOwnerBinder(Lorg/springframework/web/bind/WebDataBinder;)V", 
+        "tests": [
+            {"test": "org/springframework/samples/petclinic/owner/PetControllerTests/testProcessCreationFormSuccess()V", "distances": [39]},
+            {"test": "org/springframework/samples/petclinic/owner/PetControllerTests/testProcessUpdateFormSuccess()V", "distances": [39]},
+            {"test": "org/springframework/samples/petclinic/owner/PetControllerTests/testInitUpdateForm()V", "distances": [37]},
+            {"test": "org/springframework/samples/petclinic/owner/PetControllerTests/testInitCreationForm()V", "distances": [39]},
+            {"test": "org/springframework/samples/petclinic/owner/PetControllerTests/testProcessCreationFormHasErrors()V", "distances": [39]},
+            {"test": "org/springframework/samples/petclinic/owner/PetControllerTests/testProcessUpdateFormHasErrors()V", "distances": [39]}
+        ]
+    },
+    { 
+        "method": "org/springframework/samples/petclinic/vet/Vet/addSpecialty(Lorg/springframework/samples/petclinic/vet/Specialty;)V", 
+        "tests": [
+          {"test": "org/springframework/samples/petclinic/vet/VetControllerTests/testShowResourcesVetList()V", "distances": [1]},
+          {"test": "org/springframework/samples/petclinic/vet/VetControllerTests/testShowVetListHtml()V", "distances": [1]}
+        ]
+    },
+    { 
+        "method": "org/springframework/samples/petclinic/owner/OwnerController/setAllowedFields(Lorg/springframework/web/bind/WebDataBinder;)V", 
+        "tests": [
+            {"test": "org/springframework/samples/petclinic/owner/OwnerControllerTests/testProcessUpdateOwnerFormHasErrors()V", "distances": [39]},
+            {"test": "org/springframework/samples/petclinic/owner/OwnerControllerTests/testProcessCreationFormSuccess()V", "distances": [39]},
+            {"test": "org/springframework/samples/petclinic/owner/OwnerControllerTests/testInitFindForm()V", "distances": [37]},
+            {"test": "org/springframework/samples/petclinic/owner/OwnerControllerTests/testShowOwner()V", "distances": [37, 39]},
+            {"test": "org/springframework/samples/petclinic/owner/OwnerControllerTests/testInitUpdateOwnerForm()V", "distances": [37, 39]},
+            {"test": "org/springframework/samples/petclinic/owner/OwnerControllerTests/testInitCreationForm()V", "distances": [37]},
+            {"test": "org/springframework/samples/petclinic/owner/OwnerControllerTests/testProcessFindFormByLastName()V", "distances": [39]},
+            {"test": "org/springframework/samples/petclinic/owner/OwnerControllerTests/testProcessFindFormNoOwnersFound()V", "distances": [39]},
+            {"test": "org/springframework/samples/petclinic/owner/OwnerControllerTests/testProcessFindFormSuccess()V", "distances": [39]},
+            {"test": "org/springframework/samples/petclinic/owner/OwnerControllerTests/testProcessUpdateOwnerFormSuccess()V", "distances": [39]},
+            {"test": "org/springframework/samples/petclinic/owner/OwnerControllerTests/testProcessCreationFormHasErrors()V", "distances": [39]}
+        ]
+    },
+    { 
+        "method": "org/springframework/samples/petclinic/owner/Owner/getPet(Ljava/lang/String;Z)Lorg/springframework/samples/petclinic/owner/Pet;",
+        "tests": [
+            {"test":"org/springframework/samples/petclinic/owner/PetControllerTests/testProcessCreationFormSuccess()V", "distances": [34]},
+            {"test":"org/springframework/samples/petclinic/owner/PetControllerTests/testProcessCreationFormHasErrors()V", "distances": [34]}
+        ]
+    },
+    { 
+        "method": "org/springframework/samples/petclinic/owner/VisitController/setAllowedFields(Lorg/springframework/web/bind/WebDataBinder;)V", 
+        "tests": [
+    
+            {"test": "org/springframework/samples/petclinic/owner/VisitControllerTests/testProcessNewVisitFormHasErrors()V", "distances": [37]},
+            {"test": "org/springframework/samples/petclinic/owner/VisitControllerTests/testProcessNewVisitFormSuccess()V", "distances": [39,40]},
+            {"test": "org/springframework/samples/petclinic/owner/VisitControllerTests/testInitNewVisitForm()V", "distances": [37,39,40]}
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "net.tridentsdk.ui.chat.ChatComponentTest|testGettersAndSetters()|153",
+    "expected": [
+      {
+        "literalValue": "{\"text\":\"my text\",\"translate\":\"my translate\",\"with\":[{\"text\":\"subWith\",\"extra\":[\"yo\"]},\"yo\"],\"score\":{\"name\":\"my score username\",\"objective\":\"my score objective\"},\"selector\":\"my selector\",\"extra\":[{\"text\":\"subExtra\",\"extra\":[{\"text\":\"childExtra\"}]}],\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/say hello\"},\"hoverEvent\":{\"action\":\"show_text\",\"value\":{\"text\":\"hello!\"}},\"insertion\":\"my insertion\"}",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "{\"text\":\"my text\",\"translate\":\"my translate\",\"with\":[{\"text\":\"subWith\"},\"yo\"],\"score\":{\"name\":\"my score username\",\"objective\":\"my score objective\"},\"selector\":\"my selector\",\"extra\":[{\"text\":\"subExtra\",\"extra\":[{\"text\":\"childExtra\"}]}],\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/say hello\"},\"hoverEvent\":{\"action\":\"show_text\",\"value\":{\"text\":\"hello!\"}},\"insertion\":\"my insertion\"}",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.ui.chat.ChatComponentTest|testGettersAndSetters()|97",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "net.tridentsdk.ui.chat.ChatComponent"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "net.tridentsdk.ui.chat.ChatComponent"
+      }
+    ]
+  }
+]

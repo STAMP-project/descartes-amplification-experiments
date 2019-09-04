@@ -1,0 +1,62 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JConditional|state|(Lcom/helger/jcodemodel/IJFormatter;)V|0|#0|m_aCollectedReferences|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JConditional|state|(Lcom/helger/jcodemodel/IJFormatter;)V|3|#0|m_aCollectedReferences|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JConditional|state|(Lcom/helger/jcodemodel/IJFormatter;)V|1|#0|m_aCollectedReferences|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JConditional|state|(Lcom/helger/jcodemodel/IJFormatter;)V|2|#0|m_aCollectedReferences|#size",
+    "expected": [
+      {
+        "literalValue": "7",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  }
+]

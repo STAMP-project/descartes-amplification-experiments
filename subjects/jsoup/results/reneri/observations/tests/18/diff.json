@@ -1,0 +1,152 @@
+[
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|49",
+    "expected": [
+      {
+        "literalValue": "88579647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1500056228",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|55",
+    "expected": [
+      {
+        "literalValue": "654845766",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1749186397",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|57",
+    "expected": [
+      {
+        "literalValue": "88579647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1500056228",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|51",
+    "expected": [
+      {
+        "literalValue": "88579647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1500056228",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|53",
+    "expected": [
+      {
+        "literalValue": "88579647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1500056228",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|59",
+    "expected": [
+      {
+        "literalValue": "1712536284",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1464642111",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|65",
+    "expected": [
+      {
+        "literalValue": "88579647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1500056228",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|67",
+    "expected": [
+      {
+        "literalValue": "1123225098",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "392292416",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|61",
+    "expected": [
+      {
+        "literalValue": "88579647",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1500056228",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.nodes.ElementTest|testHashAndEqualsAndValue()|63",
+    "expected": [
+      {
+        "literalValue": "2080166188",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "105704967",
+        "typeName": "int"
+      }
+    ]
+  }
+]

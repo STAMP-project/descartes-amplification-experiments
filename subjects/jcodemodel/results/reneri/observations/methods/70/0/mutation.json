@@ -1,0 +1,32 @@
+{
+  "mutator": "false",
+  "class": "JFormatter$ImportedClasses",
+  "package": "com.helger.jcodemodel.writer",
+  "method": "contains",
+  "description": "(Lcom/helger/jcodemodel/AbstractJClass;)Z",
+  "tests": [
+    "com.helger.jcodemodel.supplementary.issues.Issue34FuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue41FuncTest",
+    "com.helger.jcodemodel.JDefinedClassTest",
+    "com.helger.jcodemodel.JTypeVarTest",
+    "com.helger.jcodemodel.AnnotationUseFuncTest",
+    "com.helger.jcodemodel.JCodeModelTest",
+    "com.helger.jcodemodel.JAnnotationUseTest",
+    "com.helger.jcodemodel.JInvocationTest",
+    "com.helger.jcodemodel.AnonymousClassFuncTest",
+    "com.helger.jcodemodel.JMethodTest",
+    "com.helger.jcodemodel.JSwitchTest",
+    "com.helger.jcodemodel.JavadocFuncTest",
+    "com.helger.jcodemodel.ForEachFuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue53FuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue31FuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue51FuncTest",
+    "com.helger.jcodemodel.InnerClassFuncTest",
+    "com.helger.jcodemodel.JFieldRefTest",
+    "com.helger.jcodemodel.JDirectClassTest",
+    "com.helger.jcodemodel.NestedClassFuncTest",
+    "com.helger.jcodemodel.JLambdaMethodRefTest",
+    "com.helger.jcodemodel.VarArgsFuncTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue30FuncTest"
+  ]
+}

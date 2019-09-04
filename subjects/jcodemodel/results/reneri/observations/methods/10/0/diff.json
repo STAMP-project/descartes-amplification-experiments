@@ -1,0 +1,47 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|directStatement|(Ljava/lang/String;)Lcom/helger/jcodemodel/IJStatement;|0|#that|m_aContentList|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|directStatement|(Ljava/lang/String;)Lcom/helger/jcodemodel/IJStatement;|0|#that|m_nPos",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JBlock|directStatement|(Ljava/lang/String;)Lcom/helger/jcodemodel/IJStatement;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.IJStatement"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.IJStatement"
+      }
+    ]
+  }
+]

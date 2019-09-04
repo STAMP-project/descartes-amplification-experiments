@@ -1,0 +1,1 @@
+./io/gsonfire/util/reflection/FieldInspector_ESTest_scaffolding.java ./io/gsonfire/util/reflection/FieldInspector_ESTest.java

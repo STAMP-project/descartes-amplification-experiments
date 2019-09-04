@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "JCodeModel",
+  "package": "com.helger.jcodemodel",
+  "method": "checkIfFileSystemIsCaseSensitive",
+  "description": "()Z",
+  "tests": [
+    "com.helger.jcodemodel.AbstractJTypeTest"
+  ]
+}

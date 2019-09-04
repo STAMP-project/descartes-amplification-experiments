@@ -1,0 +1,26 @@
+{
+  "mutator": "true",
+  "class": "Reflection",
+  "package": "joptsimple.internal",
+  "method": "meetsConverterRequirements",
+  "description": "(Ljava/lang/reflect/Method;Ljava/lang/Class;)Z",
+  "tests": [
+    "joptsimple.HandlingDefaultValuesForOptionArgumentsTest",
+    "joptsimple.OptionSynonymRequiredArgumentTest",
+    "joptsimple.ConfigurableOptionParserHelpTest",
+    "joptsimple.Issue76Test",
+    "joptsimple.OptionalArgumentOptionSpecValuesImmutabilityTest",
+    "joptsimple.examples.OptionArgumentValueTypeTest",
+    "joptsimple.DefaultSettingsOptionParserHelpTest",
+    "joptsimple.JVMSystemPropertiesArgumentParsingTest",
+    "joptsimple.examples.DefaultValuesForOptionArgumentsTest",
+    "joptsimple.ArgumentAcceptingOptionSpecTest",
+    "joptsimple.WExtensionWithArgumentTest",
+    "joptsimple.examples.SpecialOptionalArgumentHandlingTest",
+    "joptsimple.TypesafeOptionArgumentRetrievalTest",
+    "joptsimple.OptionParserTest",
+    "joptsimple.examples.TypesafeOptionArgumentRetrievalTest",
+    "joptsimple.OptionParserNewDeclarationTest",
+    "joptsimple.examples.ExportOptionsTest"
+  ]
+}

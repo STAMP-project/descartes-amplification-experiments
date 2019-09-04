@@ -1,0 +1,10 @@
+{
+  "mutator": "null",
+  "class": "JPackage",
+  "package": "com.helger.jcodemodel",
+  "method": "parent",
+  "description": "()Lcom/helger/jcodemodel/JPackage;",
+  "tests": [
+    "com.helger.jcodemodel.JPackageTest"
+  ]
+}

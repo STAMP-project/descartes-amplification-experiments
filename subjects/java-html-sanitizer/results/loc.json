@@ -1,0 +1,19 @@
+
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.72",
+  "elapsed_seconds"    : 0.369822978973389,
+  "n_files"            : 43,
+  "n_lines"            : 11481,
+  "files_per_second"   : 116.271844760339,
+  "lines_per_second"   : 31044.5825510105},
+"Java" :{
+  "nFiles": 43,
+  "blank": 864,
+  "comment": 2955,
+  "code": 7662},
+"SUM": {
+  "blank": 864,
+  "comment": 2955,
+  "code": 7662,
+  "nFiles": 43} }

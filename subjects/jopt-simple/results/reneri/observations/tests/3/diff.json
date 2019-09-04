@@ -1,0 +1,176 @@
+[
+  {
+    "pointcut": "joptsimple.examples.DefaultValuesForOptionArgumentsTest|allowsSpecificationOfDefaultValues()|2|path",
+    "expected": [
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile7815151684661971597.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile8736803075131549099.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile6290596559580370421.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile771897117597968423.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile4990362879740547444.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile1726528035100814759.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile3864061113682968458.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile4825277630045195601.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile7169259196485365955.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile5896610231704869107.txt",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile1084108777014709197.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile5293575158702042648.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile1571297577773008470.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile278941590111423338.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile4338946589347546167.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile6877526264270083655.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile3917456220489009170.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile8031692119902683105.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile8079734474861884704.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile1109280780192077632.txt",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "joptsimple.examples.DefaultValuesForOptionArgumentsTest|allowsSpecificationOfDefaultValues()|8|path",
+    "expected": [
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile7815151684661971597.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile8736803075131549099.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile6290596559580370421.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile771897117597968423.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile4990362879740547444.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile1726528035100814759.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile3864061113682968458.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile4825277630045195601.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile7169259196485365955.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile5896610231704869107.txt",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile1084108777014709197.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile5293575158702042648.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile1571297577773008470.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile278941590111423338.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile4338946589347546167.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile6877526264270083655.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile3917456220489009170.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile8031692119902683105.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile8079734474861884704.txt",
+        "typeName": "java.lang.String"
+      },
+      {
+        "literalValue": "/var/folders/6n/07_5d5h97nz6fg6y1klwh7rw0000gp/T/aFile1109280780192077632.txt",
+        "typeName": "java.lang.String"
+      }
+    ]
+  }
+]

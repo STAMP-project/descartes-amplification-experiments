@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 46,
+  "name": "org.jsoup.nodes.AttributesTest",
+  "nbOriginalTestCases": 8,
+  "testCases": [
+    {
+      "name": "removeCaseSensitive_literalMutationString84_mg26817_mg54319",
+      "nbAssertionAdded": 58,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 185,
+          "locationMethod": "equals"
+        }
+      ]
+    }
+  ]
+}

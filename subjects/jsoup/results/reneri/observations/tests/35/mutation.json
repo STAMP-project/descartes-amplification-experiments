@@ -1,0 +1,11 @@
+{
+  "mutator": "true",
+  "class": "Whitelist$TypedValue",
+  "package": "org.jsoup.safety",
+  "method": "equals",
+  "description": "(Ljava/lang/Object;)Z",
+  "tests": [
+    "org.jsoup.safety.CleanerTest",
+    "org.jsoup.parser.HtmlParserTest"
+  ]
+}

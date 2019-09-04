@@ -1,0 +1,950 @@
+[
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTOverlap()|59|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|setUp()|10|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|setUp()|10|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTOverlap()|58|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.definition.CronDefinitionBuilderTest|testWithMonth()|10|index",
+    "expected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.Issue55UnexpectedExecutionTimes|testOnceEveryThreeDaysNoInstantsWithinTwoDays()|2|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|testConstructorNullFieldsParameter()|0|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.definition.CronDefinitionBuilderTest|testWithHours()|10|index",
+    "expected": [
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|testSerialization()|42|#length",
+    "expected": [
+      {
+        "literalValue": "3615",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3504",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3163",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4087",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3473",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3430",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3542",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3368",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3153",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3358",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTGap()|76|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.Issue55UnexpectedExecutionTimes|testOnceAMonthTwelveInstantsInYear()|2|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|testConstructorNullFieldsParameter()|0|CGLIB$containsFieldDefinition$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTGap()|75|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|setUp()|10|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.definition.CronDefinitionBuilderTest|testWithDayOfMonth()|10|index",
+    "expected": [
+      {
+        "literalValue": "14",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|testConstructorNullFieldsParameter()|0|CGLIB$containsFieldDefinition$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTGap()|75|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTGap()|76|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTGap()|77|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.definition.CronDefinitionBuilderTest|testWithYear()|10|index",
+    "expected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.definition.CronDefinitionBuilderTest|testWithSeconds()|10|index",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTOverlap()|58|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCustomDefinitionIntegrationTest|testCronExpressionBeforeHalf()|21|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTOverlap()|75|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.definition.CronDefinitionBuilderTest|testWithDayOfWeek()|10|index",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|setUp()|10|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTGap()|58|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTOverlap()|59|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCustomDefinitionIntegrationTest|testCronExpressionBeforeHalf()|23|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTOverlap()|75|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTOverlap()|74|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTOverlap()|76|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|testConstructorNullFieldsParameter()|0|CGLIB$isStrictRanges$0$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.definition.CronDefinitionBuilderTest|testRegister()|16|index",
+    "expected": [
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCustomDefinitionIntegrationTest|testCronExpressionBeforeHalf()|23|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTGap()|59|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTGap()|80|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTOverlap()|86|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|testConstructorNullFieldsParameter()|0|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|testConstructorNullFieldsParameter()|0|CGLIB$isStrictRanges$0$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|setUp()|10|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTGap()|80|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|testConstructorNullFieldsParameter()|0|CGLIB$isMatchDayOfWeekAndDayOfMonth$3$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|setUp()|10|CGLIB$containsFieldDefinition$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|setUp()|10|CGLIB$retrieveFieldDefinitionsAsMap$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTOverlap()|76|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|testSerialization()|41|count",
+    "expected": [
+      {
+        "literalValue": "3615",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3504",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3163",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4087",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3473",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3430",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3542",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3368",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3153",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3358",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.ExecutionTimeCustomDefinitionIntegrationTest|testCronExpressionBeforeHalf()|21|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "6",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|testSerialization()|43|count",
+    "expected": [
+      {
+        "literalValue": "3615",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3504",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3163",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4087",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3473",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3430",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3542",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3368",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3153",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3358",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTGap()|77|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.definition.CronDefinitionBuilderTest|testWithMinutes()|10|index",
+    "expected": [
+      {
+        "literalValue": "16",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "5",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTGap()|58|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|testConstructorNullFieldsParameter()|0|CGLIB$retrieveFieldDefinitionsAsMap$2$Proxy",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.mockito.cglib.proxy.MethodProxy"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTGap()|59|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTOverlap()|74|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|setUp()|10|CGLIB$containsFieldDefinition$2$Method",
+    "expected": [],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.reflect.Method"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.CronTest|testSerialization()|43|buf|#length",
+    "expected": [
+      {
+        "literalValue": "3615",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3504",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3163",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "4087",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3473",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3430",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3542",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3368",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3153",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "3358",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.Issue55UnexpectedExecutionTimes|testOnceEveryThreeDaysNoInstantsWithinTwoDays()|2|ID_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest|testDSTOverlap()|86|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.cronutils.Issue55UnexpectedExecutionTimes|testOnceAMonthTwelveInstantsInYear()|2|SECONDS_CACHE|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "12",
+        "typeName": "int"
+      }
+    ]
+  }
+]

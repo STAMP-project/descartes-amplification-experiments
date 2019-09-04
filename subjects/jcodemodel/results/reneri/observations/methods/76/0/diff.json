@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JForLoop|state|(Lcom/helger/jcodemodel/IJFormatter;)V|1|#0|m_aCollectedReferences|#size",
+    "expected": [
+      {
+        "literalValue": "13",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JForLoop|state|(Lcom/helger/jcodemodel/IJFormatter;)V|0|#0|m_aCollectedReferences|#size",
+    "expected": [
+      {
+        "literalValue": "11",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "9",
+        "typeName": "int"
+      }
+    ]
+  }
+]

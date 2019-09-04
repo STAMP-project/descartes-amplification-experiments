@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "net.tridentsdk.ui.chat.ChatComponent|addExtra|(Ljava/lang/String;)Lnet/tridentsdk/ui/chat/ChatComponent;|0|#that|extra|#size",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.ui.chat.ChatComponent|addExtra|(Ljava/lang/String;)Lnet/tridentsdk/ui/chat/ChatComponent;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "net.tridentsdk.ui.chat.ChatComponent"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "net.tridentsdk.ui.chat.ChatComponent"
+      }
+    ]
+  }
+]

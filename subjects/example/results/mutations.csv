@@ -1,0 +1,7 @@
+VersionedSet.java,example.VersionedSet,void,add,11,KILLED,example.VersionedSetTest.testAdd(example.VersionedSetTest)
+VersionedSet.java,example.VersionedSet,false,equals,32,KILLED,example.VersionedSetTest.testEquals(example.VersionedSetTest)
+VersionedSet.java,example.VersionedSet,true,equals,32,SURVIVED,none
+VersionedSet.java,example.VersionedSet,void,incrementVersion,18,SURVIVED,none
+VersionedSet.java,example.VersionedSet,null,intersect,48,KILLED,example.VersionedSetTest.testIntersection(example.VersionedSetTest)
+VersionedSet.java,example.VersionedSet,false,isEmpty,24,SURVIVED,none
+VersionedSet.java,example.VersionedSet,true,isEmpty,24,SURVIVED,none

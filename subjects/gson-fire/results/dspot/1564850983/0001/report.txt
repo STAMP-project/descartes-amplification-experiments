@@ -1,0 +1,4 @@
+Test class that has been amplified: io.gsonfire.util.IterableMapperTest
+The original test suite kills 100 mutants
+The amplification results with 1 new tests
+it kills 1 more mutants

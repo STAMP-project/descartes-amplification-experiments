@@ -1,0 +1,10 @@
+{
+  "mutator": "void",
+  "class": "JOpUnaryTight",
+  "package": "com.helger.jcodemodel",
+  "method": "generate",
+  "description": "(Lcom/helger/jcodemodel/IJFormatter;)V",
+  "tests": [
+    "com.helger.jcodemodel.VarArgsFuncTest"
+  ]
+}

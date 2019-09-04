@@ -1,0 +1,1628 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|name|()Ljava/lang/String;|5|#result",
+    "expected": [
+      {
+        "literalValue": "TestInvocation\u003cIMPL\u003e",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|name|()Ljava/lang/String;|1|#result",
+    "expected": [
+      {
+        "literalValue": "String",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|name|()Ljava/lang/String;|7|#that|m_sName",
+    "expected": [
+      {
+        "literalValue": "Integer",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "String",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|name|()Ljava/lang/String;|4|#result",
+    "expected": [
+      {
+        "literalValue": "List\u003cLong\u003e",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|name|()Ljava/lang/String;|5|#trace",
+    "expected": [
+      {
+        "trace": [
+          {
+            "declaringClass": "com.helger.jcodemodel.JTypeVarClass",
+            "methodName": "name",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses",
+            "methodName": "add",
+            "lineNumber": 281
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "writeClassFull",
+            "lineNumber": 886
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "buildPackage",
+            "lineNumber": 324
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "build",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "build",
+            "lineNumber": 267
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.util.CodeModelTestsHelper",
+            "methodName": "parseCodeModel",
+            "lineNumber": 218
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocationTest",
+            "methodName": "testWithGenerics",
+            "lineNumber": 110
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke0",
+            "lineNumber": -2
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 62
+          },
+          {
+            "declaringClass": "sun.reflect.DelegatingMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 43
+          },
+          {
+            "declaringClass": "java.lang.reflect.Method",
+            "methodName": "invoke",
+            "lineNumber": 498
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod$1",
+            "methodName": "runReflectiveCall",
+            "lineNumber": 50
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.model.ReflectiveCallable",
+            "methodName": "run",
+            "lineNumber": 12
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod",
+            "methodName": "invokeExplosively",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.statements.InvokeMethod",
+            "methodName": "evaluate",
+            "lineNumber": 17
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runLeaf",
+            "lineNumber": 325
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 78
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 57
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$3",
+            "methodName": "run",
+            "lineNumber": 290
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$1",
+            "methodName": "schedule",
+            "lineNumber": 71
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runChildren",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "access$000",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$2",
+            "methodName": "evaluate",
+            "lineNumber": 268
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "run",
+            "lineNumber": 363
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "execute",
+            "lineNumber": 365
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeWithRerun",
+            "lineNumber": 273
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeTestSet",
+            "lineNumber": 238
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "invoke",
+            "lineNumber": 159
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "invokeProviderInSameClassLoader",
+            "lineNumber": 384
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "runSuitesInProcess",
+            "lineNumber": 345
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "execute",
+            "lineNumber": 126
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "main",
+            "lineNumber": 418
+          }
+        ],
+        "typeName": "java.lang.StackTraceElement[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "trace": [
+          {
+            "declaringClass": "com.helger.jcodemodel.JTypeVarClass",
+            "methodName": "name",
+            "lineNumber": -1
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "type",
+            "lineNumber": 563
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "type",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocation",
+            "methodName": "_addTypeVars",
+            "lineNumber": 434
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocation",
+            "methodName": "generate",
+            "lineNumber": 461
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "generable",
+            "lineNumber": 626
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "generable",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocation",
+            "methodName": "state",
+            "lineNumber": 503
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "statement",
+            "lineNumber": 657
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "statement",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JBlock",
+            "methodName": "generateBody",
+            "lineNumber": 926
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JBlock",
+            "methodName": "generate",
+            "lineNumber": 910
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "generable",
+            "lineNumber": 626
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "generable",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JBlock",
+            "methodName": "state",
+            "lineNumber": 937
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "statement",
+            "lineNumber": 657
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "statement",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JMethod",
+            "methodName": "declare",
+            "lineNumber": 584
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "declaration",
+            "lineNumber": 650
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "declaration",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JDefinedClass",
+            "methodName": "declareBody",
+            "lineNumber": 710
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JDefinedClass",
+            "methodName": "declare",
+            "lineNumber": 665
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "declaration",
+            "lineNumber": 650
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "writeClassFull",
+            "lineNumber": 942
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "buildPackage",
+            "lineNumber": 324
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "build",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "build",
+            "lineNumber": 267
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.util.CodeModelTestsHelper",
+            "methodName": "parseCodeModel",
+            "lineNumber": 218
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocationTest",
+            "methodName": "testWithGenerics",
+            "lineNumber": 110
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke0",
+            "lineNumber": -2
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 62
+          },
+          {
+            "declaringClass": "sun.reflect.DelegatingMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 43
+          },
+          {
+            "declaringClass": "java.lang.reflect.Method",
+            "methodName": "invoke",
+            "lineNumber": 498
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod$1",
+            "methodName": "runReflectiveCall",
+            "lineNumber": 50
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.model.ReflectiveCallable",
+            "methodName": "run",
+            "lineNumber": 12
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod",
+            "methodName": "invokeExplosively",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.statements.InvokeMethod",
+            "methodName": "evaluate",
+            "lineNumber": 17
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runLeaf",
+            "lineNumber": 325
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 78
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 57
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$3",
+            "methodName": "run",
+            "lineNumber": 290
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$1",
+            "methodName": "schedule",
+            "lineNumber": 71
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runChildren",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "access$000",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$2",
+            "methodName": "evaluate",
+            "lineNumber": 268
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "run",
+            "lineNumber": 363
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "execute",
+            "lineNumber": 365
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeWithRerun",
+            "lineNumber": 273
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeTestSet",
+            "lineNumber": 238
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "invoke",
+            "lineNumber": 159
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "invokeProviderInSameClassLoader",
+            "lineNumber": 384
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "runSuitesInProcess",
+            "lineNumber": 345
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "execute",
+            "lineNumber": 126
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "main",
+            "lineNumber": 418
+          }
+        ],
+        "typeName": "java.lang.StackTraceElement[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|name|()Ljava/lang/String;|0|#result",
+    "expected": [
+      {
+        "literalValue": "Integer",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|name|()Ljava/lang/String;|6|#that|m_sName",
+    "expected": [
+      {
+        "literalValue": "List\u003cLong\u003e",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "String",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|name|()Ljava/lang/String;|7|#result",
+    "expected": [
+      {
+        "literalValue": "Integer",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|name|()Ljava/lang/String;|3|#result",
+    "expected": [
+      {
+        "literalValue": "TestInvocation\u003cIMPL\u003e",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|name|()Ljava/lang/String;|2|#result",
+    "expected": [
+      {
+        "literalValue": "String",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|name|()Ljava/lang/String;|6|#result",
+    "expected": [
+      {
+        "literalValue": "List\u003cLong\u003e",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|name|()Ljava/lang/String;|7|#trace",
+    "expected": [
+      {
+        "trace": [
+          {
+            "declaringClass": "com.helger.jcodemodel.JTypeVarClass",
+            "methodName": "name",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "type",
+            "lineNumber": 563
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "type",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocation",
+            "methodName": "_addTypeVars",
+            "lineNumber": 434
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocation",
+            "methodName": "generate",
+            "lineNumber": 461
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "generable",
+            "lineNumber": 626
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "generable",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocation",
+            "methodName": "state",
+            "lineNumber": 503
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "statement",
+            "lineNumber": 657
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "statement",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JBlock",
+            "methodName": "generateBody",
+            "lineNumber": 926
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JBlock",
+            "methodName": "generate",
+            "lineNumber": 910
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "generable",
+            "lineNumber": 626
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "generable",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JBlock",
+            "methodName": "state",
+            "lineNumber": 937
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "statement",
+            "lineNumber": 657
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "statement",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JMethod",
+            "methodName": "declare",
+            "lineNumber": 584
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "declaration",
+            "lineNumber": 650
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "declaration",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JDefinedClass",
+            "methodName": "declareBody",
+            "lineNumber": 710
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JDefinedClass",
+            "methodName": "declare",
+            "lineNumber": 665
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "declaration",
+            "lineNumber": 650
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "writeClassFull",
+            "lineNumber": 942
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "buildPackage",
+            "lineNumber": 324
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "build",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "build",
+            "lineNumber": 267
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.util.CodeModelTestsHelper",
+            "methodName": "parseCodeModel",
+            "lineNumber": 218
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocationTest",
+            "methodName": "testWithGenerics",
+            "lineNumber": 110
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke0",
+            "lineNumber": -2
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 62
+          },
+          {
+            "declaringClass": "sun.reflect.DelegatingMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 43
+          },
+          {
+            "declaringClass": "java.lang.reflect.Method",
+            "methodName": "invoke",
+            "lineNumber": 498
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod$1",
+            "methodName": "runReflectiveCall",
+            "lineNumber": 50
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.model.ReflectiveCallable",
+            "methodName": "run",
+            "lineNumber": 12
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod",
+            "methodName": "invokeExplosively",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.statements.InvokeMethod",
+            "methodName": "evaluate",
+            "lineNumber": 17
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runLeaf",
+            "lineNumber": 325
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 78
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 57
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$3",
+            "methodName": "run",
+            "lineNumber": 290
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$1",
+            "methodName": "schedule",
+            "lineNumber": 71
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runChildren",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "access$000",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$2",
+            "methodName": "evaluate",
+            "lineNumber": 268
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "run",
+            "lineNumber": 363
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "execute",
+            "lineNumber": 365
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeWithRerun",
+            "lineNumber": 273
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeTestSet",
+            "lineNumber": 238
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "invoke",
+            "lineNumber": 159
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "invokeProviderInSameClassLoader",
+            "lineNumber": 384
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "runSuitesInProcess",
+            "lineNumber": 345
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "execute",
+            "lineNumber": 126
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "main",
+            "lineNumber": 418
+          }
+        ],
+        "typeName": "java.lang.StackTraceElement[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "trace": [
+          {
+            "declaringClass": "com.helger.jcodemodel.JTypeVarClass",
+            "methodName": "name",
+            "lineNumber": -1
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "type",
+            "lineNumber": 563
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "type",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocation",
+            "methodName": "_addTypeVars",
+            "lineNumber": 434
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocation",
+            "methodName": "generate",
+            "lineNumber": 475
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "generable",
+            "lineNumber": 626
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "generable",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocation",
+            "methodName": "state",
+            "lineNumber": 503
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "statement",
+            "lineNumber": 657
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "statement",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JBlock",
+            "methodName": "generateBody",
+            "lineNumber": 926
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JBlock",
+            "methodName": "generate",
+            "lineNumber": 910
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "generable",
+            "lineNumber": 626
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "generable",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JBlock",
+            "methodName": "state",
+            "lineNumber": 937
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "statement",
+            "lineNumber": 657
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "statement",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JMethod",
+            "methodName": "declare",
+            "lineNumber": 584
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "declaration",
+            "lineNumber": 650
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "declaration",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JDefinedClass",
+            "methodName": "declareBody",
+            "lineNumber": 710
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JDefinedClass",
+            "methodName": "declare",
+            "lineNumber": 665
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "declaration",
+            "lineNumber": 650
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "writeClassFull",
+            "lineNumber": 942
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "buildPackage",
+            "lineNumber": 324
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "build",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "build",
+            "lineNumber": 267
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.util.CodeModelTestsHelper",
+            "methodName": "parseCodeModel",
+            "lineNumber": 218
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocationTest",
+            "methodName": "testWithGenerics",
+            "lineNumber": 110
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke0",
+            "lineNumber": -2
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 62
+          },
+          {
+            "declaringClass": "sun.reflect.DelegatingMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 43
+          },
+          {
+            "declaringClass": "java.lang.reflect.Method",
+            "methodName": "invoke",
+            "lineNumber": 498
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod$1",
+            "methodName": "runReflectiveCall",
+            "lineNumber": 50
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.model.ReflectiveCallable",
+            "methodName": "run",
+            "lineNumber": 12
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod",
+            "methodName": "invokeExplosively",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.statements.InvokeMethod",
+            "methodName": "evaluate",
+            "lineNumber": 17
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runLeaf",
+            "lineNumber": 325
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 78
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 57
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$3",
+            "methodName": "run",
+            "lineNumber": 290
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$1",
+            "methodName": "schedule",
+            "lineNumber": 71
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runChildren",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "access$000",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$2",
+            "methodName": "evaluate",
+            "lineNumber": 268
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "run",
+            "lineNumber": 363
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "execute",
+            "lineNumber": 365
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeWithRerun",
+            "lineNumber": 273
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeTestSet",
+            "lineNumber": 238
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "invoke",
+            "lineNumber": 159
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "invokeProviderInSameClassLoader",
+            "lineNumber": 384
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "runSuitesInProcess",
+            "lineNumber": 345
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "execute",
+            "lineNumber": 126
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "main",
+            "lineNumber": 418
+          }
+        ],
+        "typeName": "java.lang.StackTraceElement[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|name|()Ljava/lang/String;|6|#trace",
+    "expected": [
+      {
+        "trace": [
+          {
+            "declaringClass": "com.helger.jcodemodel.JTypeVarClass",
+            "methodName": "name",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter$ImportedClasses",
+            "methodName": "add",
+            "lineNumber": 281
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "writeClassFull",
+            "lineNumber": 886
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "buildPackage",
+            "lineNumber": 324
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "build",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "build",
+            "lineNumber": 267
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.util.CodeModelTestsHelper",
+            "methodName": "parseCodeModel",
+            "lineNumber": 218
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocationTest",
+            "methodName": "testWithGenerics",
+            "lineNumber": 110
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke0",
+            "lineNumber": -2
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 62
+          },
+          {
+            "declaringClass": "sun.reflect.DelegatingMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 43
+          },
+          {
+            "declaringClass": "java.lang.reflect.Method",
+            "methodName": "invoke",
+            "lineNumber": 498
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod$1",
+            "methodName": "runReflectiveCall",
+            "lineNumber": 50
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.model.ReflectiveCallable",
+            "methodName": "run",
+            "lineNumber": 12
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod",
+            "methodName": "invokeExplosively",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.statements.InvokeMethod",
+            "methodName": "evaluate",
+            "lineNumber": 17
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runLeaf",
+            "lineNumber": 325
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 78
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 57
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$3",
+            "methodName": "run",
+            "lineNumber": 290
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$1",
+            "methodName": "schedule",
+            "lineNumber": 71
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runChildren",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "access$000",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$2",
+            "methodName": "evaluate",
+            "lineNumber": 268
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "run",
+            "lineNumber": 363
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "execute",
+            "lineNumber": 365
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeWithRerun",
+            "lineNumber": 273
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeTestSet",
+            "lineNumber": 238
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "invoke",
+            "lineNumber": 159
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "invokeProviderInSameClassLoader",
+            "lineNumber": 384
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "runSuitesInProcess",
+            "lineNumber": 345
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "execute",
+            "lineNumber": 126
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "main",
+            "lineNumber": 418
+          }
+        ],
+        "typeName": "java.lang.StackTraceElement[]"
+      }
+    ],
+    "unexpected": [
+      {
+        "trace": [
+          {
+            "declaringClass": "com.helger.jcodemodel.JTypeVarClass",
+            "methodName": "name",
+            "lineNumber": -1
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "type",
+            "lineNumber": 563
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "type",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocation",
+            "methodName": "_addTypeVars",
+            "lineNumber": 434
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocation",
+            "methodName": "generate",
+            "lineNumber": 475
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "generable",
+            "lineNumber": 626
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "generable",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocation",
+            "methodName": "state",
+            "lineNumber": 503
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "statement",
+            "lineNumber": 657
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "statement",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JBlock",
+            "methodName": "generateBody",
+            "lineNumber": 926
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JBlock",
+            "methodName": "generate",
+            "lineNumber": 910
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "generable",
+            "lineNumber": 626
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "generable",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JBlock",
+            "methodName": "state",
+            "lineNumber": 937
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "statement",
+            "lineNumber": 657
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "statement",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JMethod",
+            "methodName": "declare",
+            "lineNumber": 584
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "declaration",
+            "lineNumber": 650
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "declaration",
+            "lineNumber": 76
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JDefinedClass",
+            "methodName": "declareBody",
+            "lineNumber": 710
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JDefinedClass",
+            "methodName": "declare",
+            "lineNumber": 665
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "declaration",
+            "lineNumber": 650
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JFormatter",
+            "methodName": "writeClassFull",
+            "lineNumber": 942
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "buildPackage",
+            "lineNumber": 324
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "build",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.writer.JCMWriter",
+            "methodName": "build",
+            "lineNumber": 267
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.util.CodeModelTestsHelper",
+            "methodName": "parseCodeModel",
+            "lineNumber": 218
+          },
+          {
+            "declaringClass": "com.helger.jcodemodel.JInvocationTest",
+            "methodName": "testWithGenerics",
+            "lineNumber": 110
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke0",
+            "lineNumber": -2
+          },
+          {
+            "declaringClass": "sun.reflect.NativeMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 62
+          },
+          {
+            "declaringClass": "sun.reflect.DelegatingMethodAccessorImpl",
+            "methodName": "invoke",
+            "lineNumber": 43
+          },
+          {
+            "declaringClass": "java.lang.reflect.Method",
+            "methodName": "invoke",
+            "lineNumber": 498
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod$1",
+            "methodName": "runReflectiveCall",
+            "lineNumber": 50
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.model.ReflectiveCallable",
+            "methodName": "run",
+            "lineNumber": 12
+          },
+          {
+            "declaringClass": "org.junit.runners.model.FrameworkMethod",
+            "methodName": "invokeExplosively",
+            "lineNumber": 47
+          },
+          {
+            "declaringClass": "org.junit.internal.runners.statements.InvokeMethod",
+            "methodName": "evaluate",
+            "lineNumber": 17
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runLeaf",
+            "lineNumber": 325
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 78
+          },
+          {
+            "declaringClass": "org.junit.runners.BlockJUnit4ClassRunner",
+            "methodName": "runChild",
+            "lineNumber": 57
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$3",
+            "methodName": "run",
+            "lineNumber": 290
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$1",
+            "methodName": "schedule",
+            "lineNumber": 71
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "runChildren",
+            "lineNumber": 288
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "access$000",
+            "lineNumber": 58
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner$2",
+            "methodName": "evaluate",
+            "lineNumber": 268
+          },
+          {
+            "declaringClass": "org.junit.runners.ParentRunner",
+            "methodName": "run",
+            "lineNumber": 363
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "execute",
+            "lineNumber": 365
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeWithRerun",
+            "lineNumber": 273
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "executeTestSet",
+            "lineNumber": 238
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.junit4.JUnit4Provider",
+            "methodName": "invoke",
+            "lineNumber": 159
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "invokeProviderInSameClassLoader",
+            "lineNumber": 384
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "runSuitesInProcess",
+            "lineNumber": 345
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "execute",
+            "lineNumber": 126
+          },
+          {
+            "declaringClass": "org.apache.maven.surefire.booter.ForkedBooter",
+            "methodName": "main",
+            "lineNumber": 418
+          }
+        ],
+        "typeName": "java.lang.StackTraceElement[]"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JTypeVarClass|name|()Ljava/lang/String;|5|#that|m_sName",
+    "expected": [
+      {
+        "literalValue": "TestInvocation",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "Integer",
+        "typeName": "java.lang.String"
+      }
+    ]
+  }
+]

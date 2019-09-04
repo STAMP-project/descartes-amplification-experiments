@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "CodeBlock",
+  "package": "com.squareup.javapoet",
+  "method": "equals",
+  "description": "(Ljava/lang/Object;)Z",
+  "tests": [
+    "com.squareup.javapoet.CodeBlockTest"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "mutator": "\"A\"",
+  "class": "LeafNode",
+  "package": "org.jsoup.nodes",
+  "method": "baseUri",
+  "description": "()Ljava/lang/String;",
+  "tests": [
+    "org.jsoup.nodes.TextNodeTest",
+    "org.jsoup.parser.XmlTreeBuilderTest",
+    "org.jsoup.helper.DataUtilTest"
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "com.cronutils.parser.CronParserQuartzIntegrationTest|testEveryXYears()|17",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.cronutils.builder.CronBuilder"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.cronutils.builder.CronBuilder"
+      }
+    ]
+  }
+]

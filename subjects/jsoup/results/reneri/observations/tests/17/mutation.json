@@ -1,0 +1,10 @@
+{
+  "mutator": "void",
+  "class": "Entities",
+  "package": "org.jsoup.nodes",
+  "method": "load",
+  "description": "(Lorg/jsoup/nodes/Entities$EscapeMode;Ljava/lang/String;I)V",
+  "tests": [
+    "org.jsoup.helper.DataUtilTest"
+  ]
+}

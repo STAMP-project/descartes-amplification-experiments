@@ -1,0 +1,1 @@
+{"project": "OWASP/java-html-sanitizer", "revision": "release-20180219.1", "exclude": ["org.owasp.html.HtmlSanitizerFuzzerTest"]}

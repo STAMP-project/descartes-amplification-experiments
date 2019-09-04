@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JDefinedClassTest|generatesInstanceInit()|18|comment",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.github.javaparser.ast.comments.Comment"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.github.javaparser.ast.comments.Comment"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JDefinedClassTest|generatesInstanceInit()|17|comment",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.github.javaparser.ast.comments.Comment"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.github.javaparser.ast.comments.Comment"
+      }
+    ]
+  }
+]

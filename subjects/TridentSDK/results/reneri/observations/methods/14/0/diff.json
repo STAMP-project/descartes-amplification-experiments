@@ -1,0 +1,167 @@
+[
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|maxFill|(IF)I|2|#result",
+    "expected": [
+      {
+        "literalValue": "96",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|maxFill|(IF)I|5|#0",
+    "expected": [
+      {
+        "literalValue": "1024",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "16",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|maxFill|(IF)I|4|#0",
+    "expected": [
+      {
+        "literalValue": "512",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|maxFill|(IF)I|3|#result",
+    "expected": [
+      {
+        "literalValue": "192",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|maxFill|(IF)I|0|#result",
+    "expected": [
+      {
+        "literalValue": "24",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|maxFill|(IF)I|4|#result",
+    "expected": [
+      {
+        "literalValue": "384",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|maxFill|(IF)I|5|#result",
+    "expected": [
+      {
+        "literalValue": "768",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|maxFill|(IF)I|2|#0",
+    "expected": [
+      {
+        "literalValue": "128",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|maxFill|(IF)I|1|#0",
+    "expected": [
+      {
+        "literalValue": "64",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|maxFill|(IF)I|3|#0",
+    "expected": [
+      {
+        "literalValue": "256",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "8",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "net.tridentsdk.util.Int2ReferenceOpenHashMap|maxFill|(IF)I|1|#result",
+    "expected": [
+      {
+        "literalValue": "48",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  }
+]

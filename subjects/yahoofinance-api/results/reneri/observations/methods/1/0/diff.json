@@ -1,0 +1,317 @@
+[
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|5|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|8|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|2|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|15|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|18|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|16|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|13|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|6|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|12|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|17|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|20|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|14|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|7|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|9|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|4|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|11|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|19|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|10|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  },
+  {
+    "pointcut": "yahoofinance.Utils|parseDateTime|(Ljava/lang/String;Ljava/lang/String;Ljava/util/TimeZone;)Ljava/util/Calendar;|3|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.util.Calendar"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.util.Calendar"
+      }
+    ]
+  }
+]

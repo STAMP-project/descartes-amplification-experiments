@@ -1,0 +1,10 @@
+{
+  "mutator": "\"A\"",
+  "class": "SampleSoapXmlBuilder",
+  "package": "org.eaxy.experimental",
+  "method": "getFilename",
+  "description": "()Ljava/lang/String;",
+  "tests": [
+    "org.eaxy.experimental.SoapXmlBuilderDirectoryTest"
+  ]
+}

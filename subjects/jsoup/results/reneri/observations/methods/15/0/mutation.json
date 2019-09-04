@@ -1,0 +1,18 @@
+{
+  "mutator": "void",
+  "class": "Tokeniser",
+  "package": "org.jsoup.parser",
+  "method": "createDoctypePending",
+  "description": "()V",
+  "tests": [
+    "org.jsoup.nodes.DocumentTest",
+    "org.jsoup.helper.W3CDomTest",
+    "org.jsoup.parser.TokeniserStateTest",
+    "org.jsoup.parser.XmlTreeBuilderTest",
+    "org.jsoup.nodes.ElementTest",
+    "org.jsoup.parser.HtmlParserTest",
+    "org.jsoup.helper.DataUtilTest",
+    "org.jsoup.nodes.DocumentTypeTest",
+    "org.jsoup.integration.ParseTest"
+  ]
+}

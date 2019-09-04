@@ -1,0 +1,4 @@
+Test class that has been amplified: com.cronutils.model.definition.CronDefinitionBuilderTest
+The original test suite kills 430 mutants
+The amplification results with 0 new tests
+it kills 0 more mutants

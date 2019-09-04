@@ -1,0 +1,878 @@
+[
+  {
+    "pointcut": "cn.jpush.api.push.model.PushPayloadTest|testMessage()|7|sendno",
+    "expected": [
+      {
+        "literalValue": "1805505104",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "256556322",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "402576378",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1241931737",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1429295328",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "579413182",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "333607115",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1546726994",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1901146362",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1938033183",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "785885053",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "612555674",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1061365266",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1787001691",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1347233698",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1728796516",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1896931785",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1205269016",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1525757188",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1966679427",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.PushPayloadTest|testNotification()|7",
+    "expected": [
+      {
+        "literalValue": "1486068344",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1814501935",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2107267709",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "562483378",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1910012466",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "329181253",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "159302576",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2111985636",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2017041849",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1774487847",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "819019068",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1106418692",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1574837954",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1043166304",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "359445605",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1107121482",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "153423061",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "965509828",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1652170599",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1558411153",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.PushPayloadTest|testNotification()|0",
+    "expected": [
+      {
+        "literalValue": "1486068344",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1814501935",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2107267709",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "562483378",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1910012466",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "329181253",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "159302576",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2111985636",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2017041849",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1774487847",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "819019068",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1106418692",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1574837954",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1043166304",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "359445605",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1107121482",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "153423061",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "965509828",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1652170599",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1558411153",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.PushPayloadTest|testGlobalExeed2()|13|options",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.PushPayloadTest|testIosExceed()|7|options",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.PushPayloadTest|testIosExceed()|13|options",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.schedule.model.SchedulePayloadTest|testToJson()|21|options",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.PushPayloadTest|testNotification()|25",
+    "expected": [
+      {
+        "literalValue": "1486068344",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1814501935",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2107267709",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "562483378",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1910012466",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "329181253",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "159302576",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2111985636",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2017041849",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1774487847",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "819019068",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1106418692",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1574837954",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1043166304",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "359445605",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1107121482",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "153423061",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "965509828",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1652170599",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1558411153",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.PushPayloadTest|testGlobalExeed2()|7|options",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.PushPayloadTest|testMessage()|24",
+    "expected": [
+      {
+        "literalValue": "1805505104",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "256556322",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "402576378",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1241931737",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1429295328",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "579413182",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "333607115",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1546726994",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1901146362",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1938033183",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "785885053",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "612555674",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1061365266",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1787001691",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1347233698",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1728796516",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1896931785",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1205269016",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1525757188",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1966679427",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.schedule.model.SchedulePayloadTest|testToJson()|10|options",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.PushPayloadTest|testNotification()|8|sendno",
+    "expected": [
+      {
+        "literalValue": "1486068344",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1814501935",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2107267709",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "562483378",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1910012466",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "329181253",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "159302576",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2111985636",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "2017041849",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1774487847",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "819019068",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1106418692",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1574837954",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1043166304",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "359445605",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1107121482",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "153423061",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "965509828",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1652170599",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1558411153",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.PushPayloadTest|testIosExceed2()|10|options",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.PushPayloadTest|testMessage()|0",
+    "expected": [
+      {
+        "literalValue": "1805505104",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "256556322",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "402576378",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1241931737",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1429295328",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "579413182",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "333607115",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1546726994",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1901146362",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1938033183",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "785885053",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "612555674",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1061365266",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1787001691",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1347233698",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1728796516",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1896931785",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1205269016",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1525757188",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1966679427",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.PushPayloadTest|testMessage()|6",
+    "expected": [
+      {
+        "literalValue": "1805505104",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "256556322",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "402576378",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1241931737",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1429295328",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "579413182",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "333607115",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1546726994",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1901146362",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1938033183",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "785885053",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "612555674",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1061365266",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1787001691",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1347233698",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1728796516",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1896931785",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1205269016",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1525757188",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "1966679427",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.PushPayloadTest|testIosExceed2()|16|options",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.PushPayloadTest|testGlobalExceed()|13|options",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.schedule.model.SchedulePayloadTest|testToJson()|22|members|#size",
+    "expected": [
+      {
+        "literalValue": "4",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "3",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.PushPayloadTest|testGlobalExceed()|7|options",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.schedule.model.SchedulePayloadTest|testToJson()|3|options",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ]
+  }
+]

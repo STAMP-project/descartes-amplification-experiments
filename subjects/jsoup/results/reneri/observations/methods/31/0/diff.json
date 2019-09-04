@@ -1,0 +1,8177 @@
+[
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|61|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|14|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|287|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|369|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|349|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|193|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|175|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|207|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|100|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|225|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|178|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|67|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|153|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|234|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|243|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|343|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|157|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|29|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|371|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|172|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|86|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|262|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|159|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|33|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|47|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|50|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|259|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|261|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|125|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|324|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|303|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|206|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|191|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|39|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|197|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|321|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|106|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|305|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|8|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|83|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|52|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|358|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|147|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|296|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|169|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|165|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|362|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|315|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|243|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|95|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|181|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|129|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|253|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|65|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|162|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|215|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|183|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|334|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|339|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|110|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|139|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|281|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|93|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|347|#that|forceQuirks",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|48|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|29|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|134|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|215|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|188|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|115|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|75|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|24|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|55|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|90|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|258|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|301|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|96|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|67|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|205|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|49|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|252|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|107|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|251|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|244|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|73|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|85|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|325|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|49|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|299|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|32|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|168|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|367|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|233|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|2|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|91|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|124|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|7|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|19|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|154|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|149|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|101|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|191|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|291|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|278|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|342|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|15|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|185|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|359|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|173|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|119|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|167|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|57|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|372|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|155|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|70|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|137|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|200|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|249|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|253|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|87|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|282|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|23|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|261|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|235|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|214|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|290|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|116|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|58|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|198|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|120|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|367|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|19|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|368|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|163|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|133|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|171|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|271|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|333|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|66|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|217|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|235|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|363|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|181|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|273|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|114|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|78|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|6|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|213|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|164|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|75|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|335|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|3|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|169|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|237|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|50|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|279|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|298|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|25|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|310|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|220|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|354|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|254|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|333|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|279|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|201|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|180|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|192|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|130|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|273|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|148|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|167|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|229|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|248|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|329|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|94|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|360|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|264|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|326|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|158|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|84|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|370|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|341|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|16|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|345|#that|forceQuirks",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|41|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|123|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|183|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|18|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|204|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|345|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|239|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|289|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|59|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|305|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|210|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|104|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|60|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|288|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|121|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|369|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|223|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|229|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|351|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|265|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|270|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|139|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|245|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|93|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|300|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|275|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|307|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|353|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|43|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|255|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|43|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|149|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|199|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|247|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|202|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|328|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|361|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|31|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|263|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|331|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|280|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|190|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|97|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|227|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|174|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|68|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|239|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|51|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|113|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|297|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|272|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|336|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|76|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|197|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|107|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|173|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|143|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|131|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|69|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|159|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|105|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|246|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|34|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|95|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|344|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|4|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|271|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|59|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|211|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|289|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|352|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|109|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|77|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|301|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|42|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|145|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|195|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|165|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|263|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|327|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|319|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|157|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|277|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|238|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|85|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|122|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|203|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|81|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|182|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|45|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|211|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|11|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|199|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|64|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|17|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|201|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|150|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|128|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|175|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|89|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|23|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|156|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|83|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|265|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|237|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|346|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|327|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|231|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|218|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|249|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|285|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|365|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|267|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|309|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|284|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|131|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|363|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|45|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|212|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|89|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|141|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|166|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|26|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|137|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|115|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|337|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|256|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|189|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|318|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|147|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|228|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|105|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|133|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|340|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|7|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|92|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|30|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|240|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|123|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|151|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|209|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|356|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|99|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|221|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|194|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|73|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|302|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|54|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|275|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|294|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|321|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|109|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|299|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|5|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|51|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|140|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|319|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|350|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|146|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|132|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|287|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|193|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|364|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|303|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|309|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|35|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|337|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|219|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|9|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|138|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|269|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|283|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|260|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|236|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|27|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|213|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|221|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|88|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|10|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|230|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|185|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|82|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|112|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|311|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|266|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|347|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|40|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|317|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|155|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|153|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|21|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|341|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|141|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|184|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|312|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|71|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|320|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|108|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|335|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|129|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|44|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|135|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|203|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|171|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|121|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|103|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|355|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|274|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|74|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|227|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|79|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|222|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|117|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|371|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|317|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|31|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|176|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|103|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|308|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|36|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|338|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|87|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|69|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|257|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|91|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|187|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|219|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|223|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|117|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|231|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|72|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|332|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|226|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|276|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|189|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|163|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|111|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|28|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|9|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|53|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|295|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|292|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|316|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|56|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|242|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|304|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|136|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|186|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|255|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|142|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|22|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|351|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|366|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|315|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|161|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|5|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|217|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|232|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|170|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|247|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|373|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|37|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|323|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|81|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|267|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|291|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|297|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|365|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|329|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|323|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|13|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|126|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|62|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|207|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|177|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|286|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|102|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|65|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|307|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|97|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|151|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|313|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|251|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|145|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|375|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|283|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|241|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|269|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|205|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|313|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|241|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|196|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|281|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|46|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|208|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|61|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|257|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|3|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|79|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|306|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|216|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|245|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|325|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|293|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|135|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|277|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|101|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|331|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|160|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|71|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|25|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|348|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|38|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|63|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|8|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|179|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|99|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|21|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|143|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|179|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|224|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|118|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|330|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|161|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|113|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|125|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|187|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|27|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|20|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|77|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|285|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|55|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|293|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|144|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|119|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|225|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|209|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|177|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|98|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|250|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|80|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|322|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|295|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|127|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|361|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|268|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|127|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|47|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|357|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|374|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|195|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|111|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|311|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|314|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|233|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|152|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|259|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "SYSTEM",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|12|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.parser.Token"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.parser.Token$Doctype|reset|()Lorg/jsoup/parser/Token;|63|#that|pubSysKey",
+    "expected": [
+      {
+        "literalValue": "null",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "PUBLIC",
+        "typeName": "java.lang.String"
+      }
+    ]
+  }
+]

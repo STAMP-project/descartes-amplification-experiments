@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "ClickEvent",
+  "package": "net.tridentsdk.ui.chat",
+  "method": "canEqual",
+  "description": "(Ljava/lang/Object;)Z",
+  "tests": [
+    "net.tridentsdk.ui.chat.ChatComponentTest"
+  ]
+}

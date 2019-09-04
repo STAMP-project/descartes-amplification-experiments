@@ -1,0 +1,62 @@
+[
+    {
+        "class": "Util",
+        "name": "requireExactlyOneOf",
+        "package": "com.squareup.javapoet",
+        "description": "(Ljava/util/Set;[Ljavax/lang/model/element/Modifier;)V"
+    },
+    {
+        "class": "MethodSpec",
+        "name": "equals",
+        "package": "com.squareup.javapoet",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "CodeBlock",
+        "name": "equals",
+        "package": "com.squareup.javapoet",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "TypeSpec",
+        "name": "equals",
+        "package": "com.squareup.javapoet",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "CodeWriter",
+        "name": "popPackage",
+        "package": "com.squareup.javapoet",
+        "description": "()Lcom/squareup/javapoet/CodeWriter;"
+    },
+    {
+        "class": "ArrayTypeName",
+        "name": "get",
+        "package": "com.squareup.javapoet",
+        "description": "(Ljava/lang/reflect/GenericArrayType;Ljava/util/Map;)Lcom/squareup/javapoet/ArrayTypeName;"
+    },
+    {
+        "class": "AnnotationSpec",
+        "name": "equals",
+        "package": "com.squareup.javapoet",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "FieldSpec",
+        "name": "equals",
+        "package": "com.squareup.javapoet",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "ParameterSpec",
+        "name": "equals",
+        "package": "com.squareup.javapoet",
+        "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+        "class": "MethodSpec",
+        "name": "methodBuilder",
+        "package": "com.squareup.javapoet",
+        "description": "(Ljava/lang/String;)Lcom/squareup/javapoet/MethodSpec$Builder;"
+    }
+]

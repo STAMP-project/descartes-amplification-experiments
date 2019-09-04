@@ -1,0 +1,35 @@
+{
+  "nbMutantKilledOriginally": 33,
+  "name": "org.owasp.html.HtmlPolicyBuilderTest",
+  "nbOriginalTestCases": 30,
+  "testCases": [
+    {
+      "name": "testDuplicateAttributesDoNotReachElementPolicy_add10_failAssert0_add1890_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 7,
+      "nbMutantKilled": 4,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 723,
+          "locationMethod": "unpack"
+        },
+        {
+          "ID": "0",
+          "lineNumber": 295,
+          "locationMethod": "nElementTypes"
+        },
+        {
+          "ID": "empty",
+          "lineNumber": 723,
+          "locationMethod": "unpack"
+        },
+        {
+          "ID": "1",
+          "lineNumber": 295,
+          "locationMethod": "nElementTypes"
+        }
+      ]
+    }
+  ]
+}

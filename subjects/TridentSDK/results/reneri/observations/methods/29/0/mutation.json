@@ -1,0 +1,10 @@
+{
+  "mutator": "void",
+  "class": "GameRuleMap",
+  "package": "net.tridentsdk.world.opt",
+  "method": "copyTo",
+  "description": "(Lnet/tridentsdk/world/opt/GameRuleMap;)V",
+  "tests": [
+    "net.tridentsdk.world.opt.OptsTest"
+  ]
+}

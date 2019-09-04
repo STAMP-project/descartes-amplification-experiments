@@ -1,0 +1,10 @@
+{
+  "mutator": "void",
+  "class": "Vet",
+  "package": "org.springframework.samples.petclinic.vet",
+  "method": "addSpecialty",
+  "description": "(Lorg/springframework/samples/petclinic/vet/Specialty;)V",
+  "tests": [
+    "org.springframework.samples.petclinic.vet.VetControllerTests"
+  ]
+}

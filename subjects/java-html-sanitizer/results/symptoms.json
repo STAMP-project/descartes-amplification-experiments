@@ -1,0 +1,106 @@
+{
+  "no-infection": [
+    {
+      "mutator": "true",
+      "package": "org.owasp.html",
+      "class": "StylingPolicy",
+      "method": "isAlphanumericOrSpaceOrHyphen",
+      "description": "(Ljava/lang/String;II)Z"
+    },
+    {
+      "mutator": "void",
+      "package": "org.owasp.html.examples",
+      "class": "UrlTextExample",
+      "method": "main",
+      "description": "([Ljava/lang/String;)V"
+    },
+    {
+      "mutator": "void",
+      "package": "org.owasp.html.examples",
+      "class": "EbayPolicyExample",
+      "method": "main",
+      "description": "([Ljava/lang/String;)V"
+    },
+    {
+      "mutator": "void",
+      "package": "org.owasp.html.examples",
+      "class": "SlashdotPolicyExample",
+      "method": "main",
+      "description": "([Ljava/lang/String;)V"
+    },
+    {
+      "mutator": "true",
+      "package": "org.owasp.html.examples",
+      "class": "EbayPolicyExample$3",
+      "method": "apply",
+      "description": "(Ljava/lang/String;)Z"
+    }
+  ],
+  "no-propagation": [
+    {
+      "mutator": "true",
+      "package": "org.owasp.html",
+      "class": "AutoCloseableHtmlStreamRenderer",
+      "method": "isAutoCloseable",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "org.owasp.html",
+      "class": "TagBalancingHtmlStreamEventReceiver",
+      "method": "isHeaderElement",
+      "description": "(I)Z"
+    },
+    {
+      "mutator": "empty",
+      "package": "org.owasp.html",
+      "class": "HtmlElementTables$SparseElementMultitable",
+      "method": "getElementIndexList",
+      "description": "(II)[I"
+    },
+    {
+      "mutator": "1",
+      "package": "org.owasp.html",
+      "class": "HtmlElementTables",
+      "method": "nElementTypes",
+      "description": "()I"
+    },
+    {
+      "mutator": "void",
+      "package": "org.owasp.html",
+      "class": "ElementAndAttributePolicyBasedSanitizerPolicy",
+      "method": "closeDocument",
+      "description": "()V"
+    },
+    {
+      "mutator": "0",
+      "package": "org.owasp.html",
+      "class": "HtmlElementTables",
+      "method": "nElementTypes",
+      "description": "()I"
+    },
+    {
+      "mutator": "void",
+      "package": "org.owasp.html",
+      "class": "IntVector",
+      "method": "clear",
+      "description": "()V"
+    }
+  ],
+  "weak-oracle": [
+    {
+      "mutator": "true",
+      "package": "org.owasp.html",
+      "class": "Strings",
+      "method": "regionMatchesIgnoreCase",
+      "description": "(Ljava/lang/CharSequence;ILjava/lang/CharSequence;II)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "org.owasp.html",
+      "class": "HtmlElementTables$TextContentModel",
+      "method": "canContainPlainText",
+      "description": "(I)Z"
+    }
+  ]
+}

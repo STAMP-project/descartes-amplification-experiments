@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JAnnotationUse|param|(Ljava/lang/String;Ljava/lang/Enum;)Lcom/helger/jcodemodel/JAnnotationUse;|0|#that|m_aMemberValues|#size",
+    "expected": [
+      {
+        "literalValue": "2",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JAnnotationUse|param|(Ljava/lang/String;Ljava/lang/Enum;)Lcom/helger/jcodemodel/JAnnotationUse;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JAnnotationUse"
+      }
+    ]
+  }
+]

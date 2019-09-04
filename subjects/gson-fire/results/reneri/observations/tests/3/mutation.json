@@ -1,0 +1,17 @@
+{
+  "mutator": "null",
+  "class": "AnnotationInspector",
+  "package": "io.gsonfire.util.reflection",
+  "method": "getFromCache",
+  "description": "(Ljava/lang/Class;Ljava/lang/Class;)Ljava/util/Collection;",
+  "tests": [
+    "io.gsonfire.gson.AnnotationInspectorTest",
+    "io.gsonfire.gson.ExposeMethodResultTest",
+    "io.gsonfire.gson.HooksTest",
+    "io.gsonfire.gson.FireExclusionStrategyTest",
+    "io.gsonfire.gson.MergeMapTest",
+    "io.gsonfire.gson.HooksExceptionTest",
+    "io.gsonfire.gson.ClassHierarchyTest",
+    "io.gsonfire.gson.ExcludeByValueTest"
+  ]
+}

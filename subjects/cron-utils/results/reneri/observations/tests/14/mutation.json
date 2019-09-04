@@ -1,0 +1,12 @@
+{
+  "mutator": "true",
+  "class": "AndDayOfWeekValueGenerator",
+  "package": "com.cronutils.model.time.generator",
+  "method": "matchesFieldExpressionClass",
+  "description": "(Lcom/cronutils/model/field/expression/FieldExpression;)Z",
+  "tests": [
+    "com.cronutils.model.time.ExecutionTimeQuartzIntegrationTest",
+    "com.cronutils.model.time.generator.FieldValueGeneratorFactoryTest",
+    "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest"
+  ]
+}

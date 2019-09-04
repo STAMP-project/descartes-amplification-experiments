@@ -1,0 +1,17 @@
+{
+  "mutator": "void",
+  "class": "ElementSet",
+  "package": "org.eaxy",
+  "method": "checkMaxOneMatch",
+  "description": "()V",
+  "tests": [
+    "org.eaxy.html.HtmlFormTest",
+    "org.eaxy.usage.HtmlConvenienceTest",
+    "org.eaxy.experimental.SampleXmlBuilderTest",
+    "org.eaxy.usage.ElementManipulationTest",
+    "org.eaxy.usage.ElementFinderTest",
+    "org.eaxy.usage.ElementBuilderTest",
+    "org.eaxy.experimental.SoapXmlBuilderDirectoryTest",
+    "org.eaxy.experimental.SoapSimulatorServerTest"
+  ]
+}

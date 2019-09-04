@@ -1,0 +1,330 @@
+{
+  "no-infection": [
+    {
+      "mutator": "true",
+      "package": "net.tridentsdk.world.opt",
+      "class": "WorldBorder$DoubleXZ",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "net.tridentsdk.base",
+      "class": "Position",
+      "method": "eq",
+      "description": "(FF)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "net.tridentsdk.ui.chat",
+      "class": "ClickEvent",
+      "method": "canEqual",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "void",
+      "package": "net.tridentsdk.world.opt",
+      "class": "GameRuleMap",
+      "method": "copyTo",
+      "description": "(Lnet/tridentsdk/world/opt/GameRuleMap;)V"
+    },
+    {
+      "mutator": "true",
+      "package": "net.tridentsdk.world.opt",
+      "class": "WorldCreateSpec",
+      "method": "isAllowFeatures",
+      "description": "()Z"
+    },
+    {
+      "mutator": "\"A\"",
+      "package": "net.tridentsdk.world.opt",
+      "class": "WorldCreateSpec",
+      "method": "getOptionString",
+      "description": "()Ljava/lang/String;"
+    },
+    {
+      "mutator": "null",
+      "package": "net.tridentsdk.world.opt",
+      "class": "WorldCreateSpec",
+      "method": "getOptionString",
+      "description": "()Ljava/lang/String;"
+    },
+    {
+      "mutator": "\"\"",
+      "package": "net.tridentsdk.world.opt",
+      "class": "WorldCreateSpec",
+      "method": "getOptionString",
+      "description": "()Ljava/lang/String;"
+    },
+    {
+      "mutator": "0",
+      "package": "net.tridentsdk.base",
+      "class": "Position",
+      "method": "getChunkX",
+      "description": "()I"
+    },
+    {
+      "mutator": "true",
+      "package": "net.tridentsdk.base",
+      "class": "AbstractVector",
+      "method": "eq",
+      "description": "(DD)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "net.tridentsdk.util",
+      "class": "Int2ReferenceOpenHashMap",
+      "method": "trim",
+      "description": "()Z"
+    },
+    {
+      "mutator": "true",
+      "package": "net.tridentsdk.world.opt",
+      "class": "WorldBorder$DoubleXZ",
+      "method": "canEqual",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "net.tridentsdk.world",
+      "class": "IntPair",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "net.tridentsdk.ui.chat",
+      "class": "HoverEvent",
+      "method": "canEqual",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "net.tridentsdk.ui.chat",
+      "class": "HoverEvent",
+      "method": "canEqual",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "net.tridentsdk.logger",
+      "class": "LogHandler",
+      "method": "removeHandler",
+      "description": "(Lnet/tridentsdk/logger/Logger;Lnet/tridentsdk/logger/LogHandler;)Z"
+    },
+    {
+      "mutator": "void",
+      "package": "net.tridentsdk.logger",
+      "class": "LogHandler",
+      "method": "intercept",
+      "description": "(Lnet/tridentsdk/logger/Logger;Lnet/tridentsdk/logger/LogHandler;)V"
+    },
+    {
+      "mutator": "false",
+      "package": "net.tridentsdk.world.opt",
+      "class": "WorldBorder$DoubleXZ",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "net.tridentsdk.ui.chat",
+      "class": "ClickEvent",
+      "method": "canEqual",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "0",
+      "package": "net.tridentsdk.base",
+      "class": "Position",
+      "method": "getChunkZ",
+      "description": "()I"
+    },
+    {
+      "mutator": "true",
+      "package": "net.tridentsdk.ui.chat",
+      "class": "HoverEvent",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "net.tridentsdk.world.opt",
+      "class": "WorldBorder$DoubleXZ",
+      "method": "canEqual",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "true",
+      "package": "net.tridentsdk.ui.chat",
+      "class": "ClickEvent",
+      "method": "equals",
+      "description": "(Ljava/lang/Object;)Z"
+    },
+    {
+      "mutator": "false",
+      "package": "net.tridentsdk.world.opt",
+      "class": "WorldCreateSpec",
+      "method": "isAllowFeatures",
+      "description": "()Z"
+    }
+  ],
+  "no-propagation": [
+    {
+      "mutator": "1",
+      "package": "net.tridentsdk.util",
+      "class": "Int2ReferenceOpenHashMap",
+      "method": "maxFill",
+      "description": "(IF)I"
+    },
+    {
+      "mutator": "0",
+      "package": "net.tridentsdk.util",
+      "class": "Int2ReferenceOpenHashMap",
+      "method": "insert",
+      "description": "(ILjava/lang/Object;)I"
+    },
+    {
+      "mutator": "0",
+      "package": "net.tridentsdk.util",
+      "class": "Int2ReferenceOpenHashMap",
+      "method": "realSize",
+      "description": "()I"
+    },
+    {
+      "mutator": "1",
+      "package": "net.tridentsdk.util",
+      "class": "Int2ReferenceOpenHashMap",
+      "method": "insert",
+      "description": "(ILjava/lang/Object;)I"
+    },
+    {
+      "mutator": "1",
+      "package": "net.tridentsdk.util",
+      "class": "Int2ReferenceOpenHashMap",
+      "method": "realSize",
+      "description": "()I"
+    },
+    {
+      "mutator": "null",
+      "package": "net.tridentsdk.util",
+      "class": "Int2ReferenceOpenHashMap",
+      "method": "put",
+      "description": "(ILjava/lang/Object;)Ljava/lang/Object;"
+    },
+    {
+      "mutator": "0",
+      "package": "net.tridentsdk.util",
+      "class": "Int2ReferenceOpenHashMap",
+      "method": "maxFill",
+      "description": "(IF)I"
+    },
+    {
+      "mutator": "false",
+      "package": "net.tridentsdk.util",
+      "class": "Int2ReferenceOpenHashMap",
+      "method": "trim",
+      "description": "()Z"
+    }
+  ],
+  "weak-oracle": [
+    {
+      "mutator": "null",
+      "package": "net.tridentsdk.base",
+      "class": "AbstractVector",
+      "method": "subtract",
+      "description": "(Lnet/tridentsdk/base/AbstractVector;)Lnet/tridentsdk/base/AbstractVector;"
+    },
+    {
+      "mutator": "null",
+      "package": "net.tridentsdk.base",
+      "class": "AbstractVector",
+      "method": "add",
+      "description": "(Lnet/tridentsdk/base/AbstractVector;)Lnet/tridentsdk/base/AbstractVector;"
+    },
+    {
+      "mutator": "1.0",
+      "package": "net.tridentsdk.base",
+      "class": "Vector",
+      "method": "getMagnitudeSquared",
+      "description": "()D"
+    },
+    {
+      "mutator": "null",
+      "package": "net.tridentsdk.base",
+      "class": "AbstractVector",
+      "method": "subtract",
+      "description": "(DDD)Lnet/tridentsdk/base/AbstractVector;"
+    },
+    {
+      "mutator": "null",
+      "package": "net.tridentsdk.base",
+      "class": "AbstractVector",
+      "method": "subtract",
+      "description": "(III)Lnet/tridentsdk/base/AbstractVector;"
+    },
+    {
+      "mutator": "null",
+      "package": "net.tridentsdk.base",
+      "class": "AbstractVector",
+      "method": "divide",
+      "description": "(III)Lnet/tridentsdk/base/AbstractVector;"
+    },
+    {
+      "mutator": "null",
+      "package": "net.tridentsdk.base",
+      "class": "AbstractVector",
+      "method": "multiply",
+      "description": "(DDD)Lnet/tridentsdk/base/AbstractVector;"
+    },
+    {
+      "mutator": "null",
+      "package": "net.tridentsdk.base",
+      "class": "AbstractVector",
+      "method": "add",
+      "description": "(III)Lnet/tridentsdk/base/AbstractVector;"
+    },
+    {
+      "mutator": "null",
+      "package": "net.tridentsdk.base",
+      "class": "AbstractVector",
+      "method": "multiply",
+      "description": "(Lnet/tridentsdk/base/AbstractVector;)Lnet/tridentsdk/base/AbstractVector;"
+    },
+    {
+      "mutator": "1.0",
+      "package": "net.tridentsdk.base",
+      "class": "Vector",
+      "method": "getMagnitude",
+      "description": "()D"
+    },
+    {
+      "mutator": "null",
+      "package": "net.tridentsdk.ui.chat",
+      "class": "ChatComponent",
+      "method": "addExtra",
+      "description": "(Ljava/lang/String;)Lnet/tridentsdk/ui/chat/ChatComponent;"
+    },
+    {
+      "mutator": "null",
+      "package": "net.tridentsdk.base",
+      "class": "AbstractVector",
+      "method": "multiply",
+      "description": "(III)Lnet/tridentsdk/base/AbstractVector;"
+    },
+    {
+      "mutator": "null",
+      "package": "net.tridentsdk.base",
+      "class": "AbstractVector",
+      "method": "add",
+      "description": "(DDD)Lnet/tridentsdk/base/AbstractVector;"
+    },
+    {
+      "mutator": "null",
+      "package": "net.tridentsdk.base",
+      "class": "AbstractVector",
+      "method": "divide",
+      "description": "(Lnet/tridentsdk/base/AbstractVector;)Lnet/tridentsdk/base/AbstractVector;"
+    }
+  ]
+}

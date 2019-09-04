@@ -1,0 +1,709 @@
+[
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|5681|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|3723|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "54",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|323|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|15311|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|13317|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|14397|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "75",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "40",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|12106|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "54",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|10875|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "75",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|15292|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|1016|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "54",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "97",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|9865|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|15589|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|4137|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "54",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|1028|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "54",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|5323|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|5289|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "54",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "75",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|893|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "54",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "40",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|6304|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "54",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "92",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|10465|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "54",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|3367|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "54",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|267|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|5636|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|2093|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "40",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|9087|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "54",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|5819|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|3325|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|7022|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "75",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|5811|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|6093|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "54",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "40",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|12660|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "54",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|9866|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "54",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|14398|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "75",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.owasp.html.TagBalancingHtmlStreamEventReceiver|isHeaderElement|(I)Z|1602|#0",
+    "expected": [
+      {
+        "literalValue": "55",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "75",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "56",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "0",
+        "typeName": "int"
+      },
+      {
+        "literalValue": "57",
+        "typeName": "int"
+      }
+    ]
+  }
+]

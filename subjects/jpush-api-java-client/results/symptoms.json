@@ -1,0 +1,21 @@
+{
+  "no-infection": [
+    {
+      "mutator": "true",
+      "package": "cn.jpush.api.schedule.model",
+      "class": "TriggerPayload$Builder",
+      "method": "isTimeUnitOk",
+      "description": "(Lcn/jiguang/common/TimeUnit;)Z"
+    }
+  ],
+  "no-propagation": [],
+  "weak-oracle": [
+    {
+      "mutator": "null",
+      "package": "cn.jpush.api.push.model",
+      "class": "Options",
+      "method": "sendno",
+      "description": "()Lcn/jpush/api/push/model/Options;"
+    }
+  ]
+}

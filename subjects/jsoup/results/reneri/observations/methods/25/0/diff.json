@@ -1,0 +1,2702 @@
+[
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|79|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|73|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|26|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|54|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|68|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|105|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|20|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|98|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|92|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|35|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|82|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|63|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|1|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|114|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|89|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|11|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|16|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|30|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|97|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|115|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|107|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|76|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|7|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|55|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|2|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|25|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|83|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|8|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|76|#1|shadowChildrenRef",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.ref.WeakReference"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.ref.WeakReference"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|17|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|66|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|93|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|99|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|21|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|34|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|69|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|72|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|114|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|64|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|110|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|88|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|15|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|65|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|3|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|68|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|6|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|118|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|71|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|93|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|31|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|81|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|49|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|70|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|87|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|116|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|110|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|72|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|89|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|24|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|111|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|59|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|82|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|101|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|103|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|90|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|84|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|113|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|119|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|22|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|101|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|79|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|98|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|78|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|91|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|80|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|109|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|75|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|14|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|65|#1|shadowChildrenRef",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.ref.WeakReference"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.ref.WeakReference"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|99|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|67|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|74|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|109|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|91|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|100|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|81|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|102|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|66|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|62|#1|shadowChildrenRef",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.ref.WeakReference"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.ref.WeakReference"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|40|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|23|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|112|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|58|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|5|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|83|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|76|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|51|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|70|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|108|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|69|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|29|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|67|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|111|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|48|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|64|#1|shadowChildrenRef",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.ref.WeakReference"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.ref.WeakReference"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|32|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|38|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|92|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|65|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|94|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|117|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|4|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|120|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|90|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|41|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|95|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|94|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|47|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|96|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|33|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|104|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|77|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|63|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|108|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|13|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|86|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|80|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|50|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|85|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|56|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|100|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|42|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|102|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|120|#1|shadowChildrenRef",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.ref.WeakReference"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.ref.WeakReference"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|39|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|107|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|77|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|62|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|0|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|116|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|18|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|9|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|117|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|115|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|12|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|87|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|43|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|86|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|85|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|73|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|37|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|106|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|27|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|84|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|103|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|78|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|52|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|46|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|117|#1|shadowChildrenRef",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "java.lang.ref.WeakReference"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "java.lang.ref.WeakReference"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|71|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|106|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|112|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|44|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|97|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|105|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|36|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|95|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|19|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|61|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|75|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|104|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|74|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|88|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|53|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|64|#0|attributes",
+    "expected": [
+      {
+        "isNull": true,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": false,
+        "typeName": "org.jsoup.nodes.Attributes"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|45|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|96|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|28|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|10|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.jsoup.select.Evaluator$IsOnlyChild|matches|(Lorg/jsoup/nodes/Element;Lorg/jsoup/nodes/Element;)Z|113|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  }
+]

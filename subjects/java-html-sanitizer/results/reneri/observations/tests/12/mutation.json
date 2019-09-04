@@ -1,0 +1,10 @@
+{
+  "mutator": "void",
+  "class": "SlashdotPolicyExample",
+  "package": "org.owasp.html.examples",
+  "method": "main",
+  "description": "([Ljava/lang/String;)V",
+  "tests": [
+    "org.owasp.html.ExamplesTest"
+  ]
+}

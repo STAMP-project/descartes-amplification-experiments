@@ -1,0 +1,17 @@
+{
+  "mutator": "false",
+  "class": "BetweenDayOfWeekValueGenerator",
+  "package": "com.cronutils.model.time.generator",
+  "method": "isMatch",
+  "description": "(I)Z",
+  "tests": [
+    "com.cronutils.model.time.ExecutionTimeCron4jIntegrationTest",
+    "com.cronutils.Issue215Test",
+    "com.cronutils.model.time.generator.BetweenDayOfWeekValueGeneratorTest",
+    "com.cronutils.Issue218Test",
+    "com.cronutils.model.time.ExecutionTimeQuartzIntegrationTest",
+    "com.cronutils.model.time.ExecutionTimeCustomDefinitionIntegrationTest",
+    "com.cronutils.model.time.generator.ExecutionTimeUnixIntegrationTest",
+    "com.cronutils.Issue228Test"
+  ]
+}

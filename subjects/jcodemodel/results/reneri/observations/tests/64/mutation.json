@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "JEnumConstant",
+  "package": "com.helger.jcodemodel",
+  "method": "equals",
+  "description": "(Ljava/lang/Object;)Z",
+  "tests": [
+    "com.helger.jcodemodel.AnnotationUseFuncTest"
+  ]
+}

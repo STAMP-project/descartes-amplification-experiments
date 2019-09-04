@@ -1,0 +1,77 @@
+[
+  {
+    "pointcut": "cn.jpush.api.push.model.Options|sendno|()Lcn/jpush/api/push/model/Options;|3|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.Options|sendno|()Lcn/jpush/api/push/model/Options;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.Options|sendno|()Lcn/jpush/api/push/model/Options;|4|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.Options|sendno|()Lcn/jpush/api/push/model/Options;|2|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ]
+  },
+  {
+    "pointcut": "cn.jpush.api.push.model.Options|sendno|()Lcn/jpush/api/push/model/Options;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "cn.jpush.api.push.model.Options"
+      }
+    ]
+  }
+]

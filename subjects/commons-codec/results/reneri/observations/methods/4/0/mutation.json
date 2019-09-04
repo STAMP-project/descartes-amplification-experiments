@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "BaseNCodec",
+  "package": "org.apache.commons.codec.binary",
+  "method": "isInAlphabet",
+  "description": "(Ljava/lang/String;)Z",
+  "tests": [
+    "org.apache.commons.codec.binary.BaseNCodecTest"
+  ]
+}

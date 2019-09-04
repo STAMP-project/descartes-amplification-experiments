@@ -1,0 +1,51 @@
+{
+  "nbMutantKilledOriginally": 38,
+  "name": "org.jsoup.parser.XmlTreeBuilderTest",
+  "nbOriginalTestCases": 21,
+  "testCases": [
+    {
+      "name": "testCommentAndDocType_mg27",
+      "nbAssertionAdded": 4,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 66,
+          "locationMethod": "isTrackErrors"
+        }
+      ]
+    },
+    {
+      "name": "testCommentAndDocType_mg29_failAssert0_literalMutationString173_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 66,
+          "locationMethod": "isXmlDeclaration"
+        }
+      ]
+    },
+    {
+      "name": "testCommentAndDocType_mg23",
+      "nbAssertionAdded": 10,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 119,
+          "locationMethod": "normalise"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 143,
+          "locationMethod": "normaliseTextNodes"
+        }
+      ]
+    }
+  ]
+}

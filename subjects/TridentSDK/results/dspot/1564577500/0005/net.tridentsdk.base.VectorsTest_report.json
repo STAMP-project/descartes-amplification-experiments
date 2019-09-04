@@ -1,0 +1,25 @@
+{
+  "nbMutantKilledOriginally": 3,
+  "name": "net.tridentsdk.base.VectorsTest",
+  "nbOriginalTestCases": 8,
+  "testCases": [
+    {
+      "name": "testNormalize",
+      "nbAssertionAdded": 20,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "1.0",
+          "lineNumber": 94,
+          "locationMethod": "getMagnitudeSquared"
+        },
+        {
+          "ID": "1.0",
+          "lineNumber": 112,
+          "locationMethod": "getMagnitude"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "mutator": "true",
+  "class": "Strings",
+  "package": "org.owasp.html",
+  "method": "regionMatchesIgnoreCase",
+  "description": "(Ljava/lang/CharSequence;ILjava/lang/CharSequence;II)Z",
+  "tests": [
+    "org.owasp.html.HtmlStreamRendererTest",
+    "org.owasp.html.HtmlPolicyBuilderTest",
+    "org.owasp.html.SanitizersTest",
+    "org.owasp.html.AntiSamyTest",
+    "org.owasp.html.UrlTextExampleTest",
+    "org.owasp.html.HtmlPolicyBuilderFuzzerTest"
+  ]
+}

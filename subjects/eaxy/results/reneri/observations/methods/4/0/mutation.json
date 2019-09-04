@@ -1,0 +1,12 @@
+{
+  "mutator": "null",
+  "class": "SampleXmlBuilder",
+  "package": "org.eaxy.experimental",
+  "method": "pickOne",
+  "description": "([Ljava/lang/Object;)Ljava/lang/Object;",
+  "tests": [
+    "org.eaxy.experimental.SampleXmlBuilderTest",
+    "org.eaxy.experimental.SoapXmlBuilderDirectoryTest",
+    "org.eaxy.experimental.SoapSimulatorServerTest"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "mutator": "true",
+  "class": "Metaphone",
+  "package": "org.apache.commons.codec.language",
+  "method": "isMetaphoneEqual",
+  "description": "(Ljava/lang/String;Ljava/lang/String;)Z",
+  "tests": [
+    "org.apache.commons.codec.language.MetaphoneTest"
+  ]
+}

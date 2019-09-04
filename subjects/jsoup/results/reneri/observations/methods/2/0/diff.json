@@ -1,0 +1,17 @@
+[
+  {
+    "pointcut": "org.jsoup.parser.HtmlTreeBuilder|inScope|([Ljava/lang/String;)Z|365|#result",
+    "expected": [
+      {
+        "literalValue": "false",
+        "typeName": "boolean"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "true",
+        "typeName": "boolean"
+      }
+    ]
+  }
+]

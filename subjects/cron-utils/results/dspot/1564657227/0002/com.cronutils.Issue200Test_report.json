@@ -1,0 +1,20 @@
+{
+  "nbMutantKilledOriginally": 0,
+  "name": "com.cronutils.Issue200Test",
+  "nbOriginalTestCases": 2,
+  "testCases": [
+    {
+      "name": "testMatchExact_literalMutationString9_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 84,
+          "locationMethod": "isEmpty"
+        }
+      ]
+    }
+  ]
+}

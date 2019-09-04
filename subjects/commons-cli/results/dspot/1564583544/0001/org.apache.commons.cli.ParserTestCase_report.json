@@ -1,0 +1,46 @@
+{
+  "nbMutantKilledOriginally": 0,
+  "name": "org.apache.commons.cli.ParserTestCase",
+  "nbOriginalTestCases": 58,
+  "testCases": [
+    {
+      "name": "testAmbiguousPartialLongOption1_literalMutationString15_add2226",
+      "nbAssertionAdded": 114,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 411,
+          "locationMethod": "hasValueSeparator"
+        }
+      ]
+    },
+    {
+      "name": "testAmbiguousPartialLongOption1_literalMutationString15_mg2594_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 111,
+          "locationMethod": "addOption"
+        }
+      ]
+    },
+    {
+      "name": "testAmbiguousPartialLongOption1_literalMutationString16_mg1226_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 176,
+          "locationMethod": "addRequiredOption"
+        }
+      ]
+    }
+  ]
+}

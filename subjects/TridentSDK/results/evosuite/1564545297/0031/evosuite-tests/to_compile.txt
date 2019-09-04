@@ -1,0 +1,1 @@
+./net/tridentsdk/util/Int2ReferenceOpenHashMap_ESTest_scaffolding.java ./net/tridentsdk/util/Int2ReferenceOpenHashMap_ESTest.java

@@ -1,0 +1,137 @@
+[
+  {
+    "pointcut": "org.apache.commons.codec.language.bm.BeiderMorseEncoderTest|testOOM()|9",
+    "expected": [
+      {
+        "literalValue": "psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfabatkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfabetkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfabotkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfebatkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfebetkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfebotkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfobatkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfobetkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfobotkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfoevbivpfebetkfepfitfkejbep",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.bm.BeiderMorseEncoderTest|testOOM()|12|#length",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.bm.BeiderMorseEncoderTest|testOOM()|11",
+    "expected": [
+      {
+        "literalValue": "psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfabatkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfabetkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfabotkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfebatkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfebetkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfebotkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfobatkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfobetkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfobotkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfoevbivpfebetkfepfitfkejbep",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.bm.BeiderMorseEncoderTest|testOOM()|8",
+    "expected": [
+      {
+        "literalValue": "psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfabatkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfabetkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfabotkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfebatkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfebetkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfebotkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfobatkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfobetkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfeevbivpfobotkfepfitfkejbep|psiifeedeepkfeetvpfkeekfeeeskriptlenkfkeejdivbtkwokepfejfeskriptfkfoevbivpfebetkfepfitfkejbep",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.bm.BeiderMorseEncoderTest|testOOM()|14",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.bm.BeiderMorseEncoderTest|testOOM()|13|#length",
+    "expected": [
+      {
+        "literalValue": "10",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.bm.BeiderMorseEncoderTest|testOOM()|10",
+    "expected": [
+      {
+        "literalValue": "939",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.bm.BeiderMorseEncoderTest|testEncodeGna()|2",
+    "expected": [
+      {
+        "literalValue": "gna|gni|gno|na|nia|nio|no",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.bm.BeiderMorseEncoderTest|testLongestEnglishSurname()|2",
+    "expected": [
+      {
+        "literalValue": "magilisDtDnDx|magilisDtDnax|magilisDtDnix|magilisDtanDx|magilisDtanax|magilisDtanix|magilisDtianDx|magilisDtianax|magilisDtianix|magilisDtinDx|magilisDtinax|magilisDtinix|magilisDtionDx|magilisDtionax|magilisDtionix|magilisatDnDx|magilisatDnax|magilisatDnix|magilisatanDx|magilisatanax|magilisatanix|magilisatianDx|magilisatianax|magilisatianix|magilisatinDx|magilisatinax|magilisatinix|magilisationDx|magilisationax|magilisationix|magilisiatDnDx|magilisiatDnax|magilisiatDnix|magilisiatanDx|magilisiatanax|magilisiatanix|magilisiatianDx|magilisiatianax|magilisiatianix|magilisiatinDx|magilisiatinax|magilisiatinix|magilisiationDx|magilisiationax|magilisiationix|magilisiotDnDx|magilisiotDnax|magilisiotDnix|magilisiotanDx|magilisiotanax|magilisiotanix|magilisiotianDx|magilisiotianax|magilisiotianix|magilisiotinDx|magilisiotinax|magilisiotinix|magilisiotionDx|magilisiotionax|magilisiotionix|magilisitDnDx|magilisitDnax|magilisitDnix|magilisitianDx|magilisitianax|magilisitianix|magilisitionDx|magilisitionax|magilisitionix|magilzDtDnDx|magilzDtDnax|magilzDtDnix|magilzDtanDx|magilzDtanax|magilzDtanix|magilzDtianDx|magilzDtianax|magilzDtianix|magilzDtinDx|magilzDtinax|magilzDtinix|magilzDtionDx|magilzDtionax|magilzDtionix|magilzatDnDx|magilzatDnax|magilzatDnix|magilzatanDx|magilzatanax|magilzatanix|magilzatianDx|magilzatianax|magilzatianix|magilzatinDx|magilzatinax|magilzatinix|magilzationDx|magilzationax|magilzationix|magilziatDnDx|magilziatDnax|magilziatDnix|magilziatanDx|magilziatanax|magilziatanix|magilziatianDx|magilziatianax|magilziatianix|magilziatinDx|magilziatinax|magilziatinix|magilziationDx|magilziationax|magilziationix|magilziotDnDx|magilziotDnax|magilziotDnix|magilziotanDx|magilziotanax|magilziotanix|magilziotianDx|magilziotianax|magilziotianix|magilziotinDx|magilziotinax|magilziotinix|magilziotionDx|magilziotionax|magilziotionix|magilzitDnDx|magilzitDnax|magilzitDnix|magilzitianDx|magilzitianax|magilzitianix|magilzitionDx|magilzitionax|magilzitionix|maglisDtDnDx|maglisDtDnax|maglisDtDnix|maglisDtanDx|maglisDtanax|maglisDtanix|maglisDtianDx|maglisDtianax|maglisDtianix|maglisDtinDx|maglisDtinax|maglisDtinix|maglisDtionDx|maglisDtionax|maglisDtionix|maglisatDnDx|maglisatDnax|maglisatDnix|maglisatanDx|maglisatanax|maglisatanix|maglisatianDx|maglisatianax|maglisatianix|maglisatinDx|maglisatinax|maglisatinix|maglisationDx|maglisationax|maglisationix|maglisiatDnDx|maglisiatDnax|maglisiatDnix|maglisiatanDx|maglisiatanax|maglisiatanix|maglisiatianDx|maglisiatianax|maglisiatianix|maglisiatinDx|maglisiatinax|maglisiatinix|maglisiationDx|maglisiationax|maglisiationix|maglisiotDnDx|maglisiotDnax|maglisiotDnix|maglisiotanDx|maglisiotanax|maglisiotanix|maglisiotianDx|maglisiotianax|maglisiotianix|maglisiotinDx|maglisiotinax|maglisiotinix|maglisiotionDx|maglisiotionax|maglisiotionix|maglisitDnDx|maglisitDnax|maglisitDnix|maglisitianDx|maglisitianax|maglisitianix|maglisitionDx|maglisitionax|maglisitionix|maglzDtDnDx|maglzDtDnax|maglzDtDnix|maglzDtanDx|maglzDtanax|maglzDtanix|maglzDtianDx|maglzDtianax|maglzDtianix|maglzDtinDx|maglzDtinax|maglzDtinix|maglzDtionDx|maglzDtionax|maglzDtionix|maglzatDnDx|maglzatDnax|maglzatDnix|maglzatanDx|maglzatanax|maglzatanix|maglzatianDx|maglzatianax|maglzatianix|maglzatinDx|maglzatinax|maglzatinix|maglzationDx|maglzationax|maglzationix|maglziatDnDx|maglziatDnax|maglziatDnix|maglziatanDx|maglziatanax|maglziatanix|maglziatianDx|maglziatianax|maglziatianix|maglziatinDx|maglziatinax|maglziatinix|maglziationDx|maglziationax|maglziationix|maglziotDnDx|maglziotDnax|maglziotDnix|maglziotanDx|maglziotanax|maglziotanix|maglziotianDx|maglziotianax|maglziotianix|maglziotinDx|maglziotinax|maglziotinix|maglziotionDx|maglziotionax|maglziotionix|maglzitDnDx|maglzitDnax|maglzitDnix|maglzitianDx|maglzitianax|maglzitianix|maglzitionDx|maglzitionax|maglzitionix|mogilisDtDnDx|mogilisDtDnax|mogilisDtDnix|mogilisDtanDx|mogilisDtanax|mogilisDtanix|mogilisDtianDx|mogilisDtianax|mogilisDtianix|mogilisDtinDx|mogilisDtinax|mogilisDtinix|mogilisDtionDx|mogilisDtionax|mogilisDtionix|mogilisatDnDx|mogilisatDnax|mogilisatDnix|mogilisiatDnDx|mogilisiatDnax|mogilisiatDnix|mogilisiatianDx|mogilisiatianax|mogilisiatianix|mogilisiationDx|mogilisiationax|mogilisiationix|mogilisiotDnDx|mogilisiotDnax|mogilisiotDnix|mogilisiotianDx|mogilisiotianax|mogilisitDnDx|mogilisitDnax|mogilisitDnix|mogilzDtDnDx|mogilzDtDnax|mogilzDtDnix|mogilzDtanDx|mogilzDtanax|mogilzDtanix|mogilzDtianDx|mogilzDtianax|mogilzDtianix|mogilzDtinDx|mogilzDtinax|mogilzDtinix|mogilzDtionDx|mogilzDtionax|mogilzDtionix|mogilzatDnDx|mogilzatDnax|mogilzatDnix|mogilziatDnDx|mogilziatDnax|mogilziatDnix|mogilziatianDx|mogilziatianax|mogilziatianix|mogilziationDx|mogilziationax|mogilziationix|mogilziotDnDx|mogilziotDnax|mogilziotDnix|mogilziotianDx|mogilziotianax|mogilzitDnDx|mogilzitDnax|mogilzitDnix|moglisDtDnDx|moglisDtDnax|moglisDtDnix|moglisDtanDx|moglisDtanax|moglisDtanix|moglisDtianDx|moglisDtianax|moglisDtianix|moglisDtinDx|moglisDtinax|moglisDtinix|moglisDtionDx|moglisDtionax|moglisDtionix|moglisatDnDx|moglisatDnax|moglisatDnix|moglisiatDnDx|moglisiatDnax|moglisiatDnix|moglisiatianDx|moglisiatianax|moglisiatianix|moglisiationDx|moglisiationax|moglisiationix|moglisiotDnDx|moglisiotDnax|moglisiotDnix|moglisiotianDx|moglisiotianax|moglisitDnDx|moglisitDnax|moglisitDnix|moglzDtDnDx|moglzDtDnax|moglzDtDnix|moglzDtanDx|moglzDtanax|moglzDtanix|moglzDtianDx|moglzDtianax|moglzDtianix|moglzDtinDx|moglzDtinax|moglzDtinix|moglzDtionDx|moglzDtionax|moglzDtionix|moglzatDnDx|moglzatDnax|moglzatDnix|moglziatDnDx|moglziatDnax|moglziatDnix|moglziatianDx|moglziatianax|moglziatianix|moglziationDx|moglziationax|moglziationix|moglziotDnDx|moglziotDnax|moglziotDnix|moglziotianDx|moglziotianax|moglzitDnDx|moglzitDnax|moglzitDnix",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "A",
+        "typeName": "java.lang.String"
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "mutator": "null",
+  "class": "CodeWriter",
+  "package": "com.squareup.javapoet",
+  "method": "popPackage",
+  "description": "()Lcom/squareup/javapoet/CodeWriter;",
+  "tests": [
+    "com.squareup.javapoet.FileReadingTest",
+    "com.squareup.javapoet.AnnotationSpecTest",
+    "com.squareup.javapoet.JavaFileTest",
+    "com.squareup.javapoet.FileWritingTest",
+    "com.squareup.javapoet.TypeSpecTest"
+  ]
+}

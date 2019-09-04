@@ -1,0 +1,10 @@
+{
+  "mutator": "false",
+  "class": "WorldBorder$DoubleXZ",
+  "package": "net.tridentsdk.world.opt",
+  "method": "canEqual",
+  "description": "(Ljava/lang/Object;)Z",
+  "tests": [
+    "net.tridentsdk.world.opt.ConstantsTest"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "mutator": "true",
+  "class": "JCommentPart",
+  "package": "com.helger.jcodemodel",
+  "method": "add",
+  "description": "(Ljava/lang/Object;)Z",
+  "tests": [
+    "com.helger.jcodemodel.JDefinedClassTest",
+    "com.helger.jcodemodel.JavadocFuncTest"
+  ]
+}

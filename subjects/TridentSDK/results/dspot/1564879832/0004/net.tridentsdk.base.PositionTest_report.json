@@ -1,0 +1,59 @@
+{
+  "nbMutantKilledOriginally": 13,
+  "name": "net.tridentsdk.base.PositionTest",
+  "nbOriginalTestCases": 8,
+  "testCases": [
+    {
+      "name": "testEqualsHashString_mg30",
+      "nbAssertionAdded": 188,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "1.0",
+          "lineNumber": 94,
+          "locationMethod": "getMagnitudeSquared"
+        }
+      ]
+    },
+    {
+      "name": "testEqualsHashString_mg19",
+      "nbAssertionAdded": 186,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 238,
+          "locationMethod": "setY"
+        }
+      ]
+    },
+    {
+      "name": "testEqualsHashString_mg28",
+      "nbAssertionAdded": 186,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 243,
+          "locationMethod": "setZ"
+        }
+      ]
+    },
+    {
+      "name": "testEqualsHashString_mg18",
+      "nbAssertionAdded": 186,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 233,
+          "locationMethod": "setX"
+        }
+      ]
+    }
+  ]
+}

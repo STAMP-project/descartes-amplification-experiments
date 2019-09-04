@@ -1,0 +1,10 @@
+{
+  "mutator": "void",
+  "class": "Part",
+  "package": "j2html.utils",
+  "method": "simplifyParameters",
+  "description": "()V",
+  "tests": [
+    "j2html.tags.InlineStaticResourceTest"
+  ]
+}

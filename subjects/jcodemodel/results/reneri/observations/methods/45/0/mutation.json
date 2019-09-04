@@ -1,0 +1,16 @@
+{
+  "mutator": "false",
+  "class": "JFormatter",
+  "package": "com.helger.jcodemodel.writer",
+  "method": "_collectCausesNoAmbiguities",
+  "description": "(Lcom/helger/jcodemodel/AbstractJClass;Lcom/helger/jcodemodel/JDefinedClass;)Z",
+  "tests": [
+    "com.helger.jcodemodel.supplementary.issues.Issue41FuncTest",
+    "com.helger.jcodemodel.InnerClassFuncTest",
+    "com.helger.jcodemodel.AnnotationUseFuncTest",
+    "com.helger.jcodemodel.JDirectClassTest",
+    "com.helger.jcodemodel.NestedClassFuncTest",
+    "com.helger.jcodemodel.JSwitchTest",
+    "com.helger.jcodemodel.supplementary.issues.Issue30FuncTest"
+  ]
+}

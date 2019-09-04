@@ -1,0 +1,11 @@
+{
+  "mutator": "true",
+  "class": "Soundex",
+  "package": "org.apache.commons.codec.language",
+  "method": "hasMarker",
+  "description": "([C)Z",
+  "tests": [
+    "org.apache.commons.codec.language.SoundexTest",
+    "org.apache.commons.codec.StringEncoderComparatorTest"
+  ]
+}

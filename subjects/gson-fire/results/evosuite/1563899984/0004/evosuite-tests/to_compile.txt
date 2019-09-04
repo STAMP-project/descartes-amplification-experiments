@@ -1,0 +1,1 @@
+./io/gsonfire/util/SimpleIterable_ESTest_scaffolding.java ./io/gsonfire/util/SimpleIterable_ESTest.java

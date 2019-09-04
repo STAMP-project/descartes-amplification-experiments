@@ -1,0 +1,47 @@
+[
+  {
+    "pointcut": "example.VersionedSet|incrementVersion|()V|0|#that|version",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "example.VersionedSet|incrementVersion|()V|1|#that|version",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "long"
+      }
+    ]
+  },
+  {
+    "pointcut": "example.VersionedSet|incrementVersion|()V|2|#that|version",
+    "expected": [
+      {
+        "literalValue": "1",
+        "typeName": "long"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "0",
+        "typeName": "long"
+      }
+    ]
+  }
+]

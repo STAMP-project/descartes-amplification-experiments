@@ -1,0 +1,11 @@
+{
+  "mutator": "void",
+  "class": "JCommentPart",
+  "package": "com.helger.jcodemodel",
+  "method": "format",
+  "description": "(Lcom/helger/jcodemodel/IJFormatter;Ljava/lang/String;)V",
+  "tests": [
+    "com.helger.jcodemodel.JDefinedClassTest",
+    "com.helger.jcodemodel.JavadocFuncTest"
+  ]
+}

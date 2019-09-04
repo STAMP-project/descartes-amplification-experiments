@@ -1,0 +1,12 @@
+{
+  "mutator": "true",
+  "class": "Element",
+  "package": "org.eaxy",
+  "method": "equals",
+  "description": "(Ljava/lang/Object;)Z",
+  "tests": [
+    "org.eaxy.html.HtmlFormTest",
+    "org.eaxy.usage.ElementManipulationTest",
+    "org.eaxy.usage.ElementFinderTest"
+  ]
+}

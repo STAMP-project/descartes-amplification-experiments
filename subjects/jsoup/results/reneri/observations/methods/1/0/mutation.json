@@ -1,0 +1,16 @@
+{
+  "mutator": "false",
+  "class": "CharacterReader",
+  "package": "org.jsoup.parser",
+  "method": "matchesDigit",
+  "description": "()Z",
+  "tests": [
+    "org.jsoup.nodes.DocumentTest",
+    "org.jsoup.helper.W3CDomTest",
+    "org.jsoup.parser.AttributeParseTest",
+    "org.jsoup.nodes.ElementTest",
+    "org.jsoup.parser.HtmlParserTest",
+    "org.jsoup.nodes.EntitiesTest",
+    "org.jsoup.integration.ParseTest"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "mutator": "false",
+  "class": "DoubleMetaphone",
+  "package": "org.apache.commons.codec.language",
+  "method": "conditionC0",
+  "description": "(Ljava/lang/String;I)Z",
+  "tests": [
+    "org.apache.commons.codec.language.DoubleMetaphoneTest",
+    "org.apache.commons.codec.language.DoubleMetaphone2Test"
+  ]
+}

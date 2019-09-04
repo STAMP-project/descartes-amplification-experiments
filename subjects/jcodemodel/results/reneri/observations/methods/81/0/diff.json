@@ -1,0 +1,32 @@
+[
+  {
+    "pointcut": "com.helger.jcodemodel.JLambda|simple|(Lcom/helger/jcodemodel/IJExpression;)Lcom/helger/jcodemodel/JLambda;|1|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JLambda"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JLambda"
+      }
+    ]
+  },
+  {
+    "pointcut": "com.helger.jcodemodel.JLambda|simple|(Lcom/helger/jcodemodel/IJExpression;)Lcom/helger/jcodemodel/JLambda;|0|#result",
+    "expected": [
+      {
+        "isNull": false,
+        "typeName": "com.helger.jcodemodel.JLambda"
+      }
+    ],
+    "unexpected": [
+      {
+        "isNull": true,
+        "typeName": "com.helger.jcodemodel.JLambda"
+      }
+    ]
+  }
+]

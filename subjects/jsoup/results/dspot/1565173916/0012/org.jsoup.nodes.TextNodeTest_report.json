@@ -1,0 +1,274 @@
+{
+  "nbMutantKilledOriginally": 16,
+  "name": "org.jsoup.nodes.TextNodeTest",
+  "nbOriginalTestCases": 6,
+  "testCases": [
+    {
+      "name": "testSplitAnEmbolden_mg96_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 3,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 1022,
+          "locationMethod": "getElementsMatchingOwnText"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden",
+      "nbAssertionAdded": 44,
+      "nbInputAdded": 1,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "false",
+          "lineNumber": 40,
+          "locationMethod": "hasParent"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_mg86_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 3,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 921,
+          "locationMethod": "getElementsByAttributeValueMatching"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_mg90",
+      "nbAssertionAdded": 90,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 952,
+          "locationMethod": "getElementsByIndexEquals"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_rv162_mg17950",
+      "nbAssertionAdded": 96,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 517,
+          "locationMethod": "previousSibling"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_mg84",
+      "nbAssertionAdded": 90,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 898,
+          "locationMethod": "getElementsByAttributeValueContaining"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_mg95",
+      "nbAssertionAdded": 90,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 963,
+          "locationMethod": "getElementsContainingText"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_mg94",
+      "nbAssertionAdded": 90,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 974,
+          "locationMethod": "getElementsContainingOwnText"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_mg82",
+      "nbAssertionAdded": 90,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 840,
+          "locationMethod": "getElementsByAttributeStarting"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_mg88",
+      "nbAssertionAdded": 90,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 876,
+          "locationMethod": "getElementsByAttributeValueStarting"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_rv145",
+      "nbAssertionAdded": 74,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "\"A\"",
+          "lineNumber": 75,
+          "locationMethod": "absUrl"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 75,
+          "locationMethod": "absUrl"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_rv156",
+      "nbAssertionAdded": 74,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 63,
+          "locationMethod": "hasAttr"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_mg44",
+      "nbAssertionAdded": 98,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 119,
+          "locationMethod": "normalise"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_mg87",
+      "nbAssertionAdded": 90,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 865,
+          "locationMethod": "getElementsByAttributeValueNot"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_rv166",
+      "nbAssertionAdded": 80,
+      "nbInputAdded": 0,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 69,
+          "locationMethod": "removeAttr"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_mg97",
+      "nbAssertionAdded": 90,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 2,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 984,
+          "locationMethod": "getElementsMatchingText"
+        },
+        {
+          "ID": "null",
+          "lineNumber": 996,
+          "locationMethod": "getElementsMatchingText"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_mg85",
+      "nbAssertionAdded": 90,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "null",
+          "lineNumber": 887,
+          "locationMethod": "getElementsByAttributeValueEnding"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_mg48",
+      "nbAssertionAdded": 92,
+      "nbInputAdded": 2,
+      "nbMutantKilled": 1,
+      "mutantsKilled": [
+        {
+          "ID": "true",
+          "lineNumber": 66,
+          "locationMethod": "isTrackErrors"
+        }
+      ]
+    },
+    {
+      "name": "testSplitAnEmbolden_mg66_failAssert0",
+      "nbAssertionAdded": 1,
+      "nbInputAdded": 3,
+      "nbMutantKilled": 3,
+      "mutantsKilled": [
+        {
+          "ID": "\"A\"",
+          "lineNumber": 81,
+          "locationMethod": "baseUri"
+        },
+        {
+          "ID": "void",
+          "lineNumber": 81,
+          "locationMethod": "noNullElements"
+        },
+        {
+          "ID": "\"\"",
+          "lineNumber": 81,
+          "locationMethod": "baseUri"
+        }
+      ]
+    }
+  ]
+}

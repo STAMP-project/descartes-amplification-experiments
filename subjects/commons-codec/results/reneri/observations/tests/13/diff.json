@@ -1,0 +1,167 @@
+[
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundexTest|testSoundexBasic3()|0",
+    "expected": [
+      {
+        "literalValue": "734000|739400",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "000000",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundexTest|testSoundexBasic()|0",
+    "expected": [
+      {
+        "literalValue": "583600",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "000000",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundexTest|soundex(java.lang.String)|0|RULES|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundexTest|testSpecialRomanianCharacters()|0",
+    "expected": [
+      {
+        "literalValue": "364000|464000",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "000000",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundexTest|testSoundexBasic2()|0",
+    "expected": [
+      {
+        "literalValue": "467000|567000",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "000000",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundexTest|testAdjacentCodes()|0",
+    "expected": [
+      {
+        "literalValue": "054800",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "000000",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundexTest|testEncodeIgnoreTrimmable()|0",
+    "expected": [
+      {
+        "literalValue": "746536",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "000000",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundexTest|testAccentedCharacterFolding()|0",
+    "expected": [
+      {
+        "literalValue": "294795",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "000000",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundexTest|encode(java.lang.String)|2",
+    "expected": [
+      {
+        "literalValue": "746536",
+        "typeName": "java.lang.String"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "000000",
+        "typeName": "java.lang.String"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundexTest|createStringEncoder()|0|RULES|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  },
+  {
+    "pointcut": "org.apache.commons.codec.language.DaitchMokotoffSoundexTest|encode(java.lang.String)|0|RULES|#size",
+    "expected": [
+      {
+        "literalValue": "30",
+        "typeName": "int"
+      }
+    ],
+    "unexpected": [
+      {
+        "literalValue": "1",
+        "typeName": "int"
+      }
+    ]
+  }
+]

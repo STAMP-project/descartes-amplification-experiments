@@ -1,0 +1,50 @@
+{
+  "no-infection": [
+    {
+      "mutator": "true",
+      "package": "org.springframework.samples.petclinic.owner",
+      "class": "PetValidator",
+      "method": "supports",
+      "description": "(Ljava/lang/Class;)Z"
+    }
+  ],
+  "no-propagation": [
+    {
+      "mutator": "void",
+      "package": "org.springframework.samples.petclinic.owner",
+      "class": "PetController",
+      "method": "initOwnerBinder",
+      "description": "(Lorg/springframework/web/bind/WebDataBinder;)V"
+    },
+    {
+      "mutator": "void",
+      "package": "org.springframework.samples.petclinic.owner",
+      "class": "OwnerController",
+      "method": "setAllowedFields",
+      "description": "(Lorg/springframework/web/bind/WebDataBinder;)V"
+    },
+    {
+      "mutator": "void",
+      "package": "org.springframework.samples.petclinic.owner",
+      "class": "VisitController",
+      "method": "setAllowedFields",
+      "description": "(Lorg/springframework/web/bind/WebDataBinder;)V"
+    },
+    {
+      "mutator": "null",
+      "package": "org.springframework.samples.petclinic.owner",
+      "class": "Owner",
+      "method": "getPet",
+      "description": "(Ljava/lang/String;Z)Lorg/springframework/samples/petclinic/owner/Pet;"
+    }
+  ],
+  "weak-oracle": [
+    {
+      "mutator": "void",
+      "package": "org.springframework.samples.petclinic.vet",
+      "class": "Vet",
+      "method": "addSpecialty",
+      "description": "(Lorg/springframework/samples/petclinic/vet/Specialty;)V"
+    }
+  ]
+}

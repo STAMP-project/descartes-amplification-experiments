@@ -1,0 +1,15 @@
+{
+  "mutator": "\"\"",
+  "class": "TimeDescriptionStrategy$7",
+  "package": "com.cronutils.descriptor",
+  "method": "apply",
+  "description": "(Lcom/cronutils/descriptor/TimeDescriptionStrategy$TimeFields;)Ljava/lang/String;",
+  "tests": [
+    "com.cronutils.utils.descriptor.CronDescriptorCron4jIntegrationTest",
+    "com.cronutils.utils.descriptor.Issue227Test",
+    "com.cronutils.utils.descriptor.CronDescriptorCron4jIntegrationZhTest",
+    "com.cronutils.utils.descriptor.CronDescriptorTest",
+    "com.cronutils.parser.CronParserQuartzIntegrationTest",
+    "com.cronutils.utils.descriptor.CronDescriptorQuartzIntegrationTest"
+  ]
+}
