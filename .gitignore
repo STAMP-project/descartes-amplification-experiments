@@ -1,0 +1,9 @@
+# Huge files
+
+subjects/jsoup/results/reneri/observations/methods/32/0/diff.json
+subjects/jsoup/results/reneri/observations/methods/0/0/diff.json
+subjects/eaxy/results/reneri/observations/methods/4/0/diff.json
+subjects/commons-codec/results/reneri/observations/methods/5/0/diff.json
+
+# Process output files
+*.output.txt
